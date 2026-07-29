@@ -1,0 +1,39 @@
+name: Vecerni souhrn zprav
+
+on:
+  schedule:
+    - cron: "0 17 * * *"  # 19:00 letniho / 18:00 zimniho ceskeho casu
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: news
+  cancel-in-progress: false
+
+jobs:
+  news:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install anthropic
+
+      - name: Generate news summary
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python generate_news.py
+
+      - name: Commit and push
+        run: |
+          git config user.name "zivot-news-bot"
+          git config user.email "actions@github.com"
+          git add news.json archive/
+          git diff --cached --quiet && echo "Nothing to commit" && exit 0
+          git commit -m "Souhrn zprav $(date -u +%F)"
+          git push
