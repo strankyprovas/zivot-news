@@ -1,31 +1,31 @@
 {
  "date": "2026-07-29",
  "date_cz": "29.07.2026",
- "updated_at": "2026-07-29T18:39+02:00",
+ "updated_at": "2026-07-29T18:54+02:00",
  "sections": [
   {
    "key": "cr",
    "title": "🇨🇿 Česká republika",
    "items": [
     {
-     "title": "Tropické teploty a vysoké riziko požárů v celé zemi",
-     "text": "ČHMÚ rozšířil výhled veder – ve čtvrtek a v pátek mají teploty přes 32 °C zasáhnout většinu Česka, zvýšené riziko požárů trvá zejména na jižní Moravě, Vysočině a na západě. Výstraha před nebezpečím vzniku a šíření požárů platila dnes od 10:40 do půlnoci; meteorologové doporučují nerozdělávat oheň v přírodě a nevypalovat trávu."
+     "title": "Po vetu rozpočtových zákonů se čeká další spor Hradu a vlády",
+     "text": "Středeční veto prezidenta Petra Pavla k zákonu rozvolňujícímu pravidla rozpočtové odpovědnosti podle dnešních zpráv nemusí zůstat jediné. Novela by vládě umožnila překročit schválené výdaje státního rozpočtu až o deset procent bez souhlasu Parlamentu; Pavel ji odmítl kvůli udržitelnosti veřejných financí a oslabení kontrolní role Sněmovny. Premiér Andrej Babiš označil rozhodnutí za nepromyšlené a koalice chce veto přehlasovat."
     },
     {
-     "title": "Opakované vlny veder tlačí na zdravotnictví i vodní hospodářství",
-     "text": "Horká epizoda přichází měsíc po mimořádně teplém konci června, kdy ČHMÚ naměřil v Doksanech nové absolutní maximum 41,9 °C a červen vyhodnotil jako teplotně silně nadnormální. Současný výhled s podobně extrémními hodnotami nepočítá."
+     "title": "Česko získalo z EU o 38,2 miliardy víc, než odvedlo",
+     "text": "Ministerstvo financí dnes informovalo, že Česko v prvním pololetí získalo ze zdrojů Evropské unie o 38,2 miliardy korun více, než odvedlo do unijního rozpočtu. Ke kladnému saldu přispěly zejména příjmy ze strukturálních fondů."
     },
     {
-     "title": "Státní hrady a zámky budou ve dvou dnech zdarma",
-     "text": "Podle informací iROZHLAS budou letos 30. srpna a 27. září české státní hrady a zámky mimořádně přístupné bez vstupného."
+     "title": "Česko se připojí ke slovenské smlouvě na vozidla Tatra",
+     "text": "Česko podepsalo dohodu o budoucím přistoupení ke slovenské rámcové smlouvě na pořízení vozidel Tatra T-815 ve 25 modifikacích. Společným pořízením by obě země měly získat množstevní slevu."
     },
     {
-     "title": "Babiš jednal s premiérem Černé Hory Spajićem",
-     "text": "Předseda vlády Andrej Babiš přijal černohorského premiéra Milojka Spajiće, tématem byla evropská integrace země a obranná spolupráce (informace Úřadu vlády). Postup Černé Hory a Albánie na cestě do EU dnes rozebíral i Český rozhlas."
+     "title": "ÚOHS znovu pokutoval Generální finanční ředitelství",
+     "text": "Úřad pro ochranu hospodářské soutěže znovu vyměřil Generálnímu finančnímu ředitelství pokutu za postup při zadání veřejné zakázky."
     },
     {
-     "title": "Česko podporuje společnou evropskou protivzdušnou obranu",
-     "text": "Podle vyjádření po jednání tzv. koalice ochotných premiér Babiš uvedl, že Evropa by měla vytvořit společný projekt protivzdušné obrany. Česko podle jeho dřívějšího vyjádření po summitu NATO v Ankaře navýší příští rok rozpočet na obranu o 36 miliard korun."
+     "title": "Policie vyšetřuje vraždu ženy a pokus o sebevraždu",
+     "text": "Detektivové podle prvotního šetření zjistili, že se s největší pravděpodobností jedná o vraždu ženy a následný pokus o sebevraždu muže. Případ policie oznámila dnes dopoledne."
     }
    ]
   },
@@ -34,28 +34,28 @@
    "title": "🌍 Svět",
    "items": [
     {
-     "title": "Írán zaútočil balistickými raketami na základnu v Jordánsku",
-     "text": "Americké velitelství CENTCOM uvedlo, že Írán vedl překvapivý balistický útok na americké jednotky v Jordánsku; iránská média psala o odpovědi Revolučních gard na „agresivní kroky USA“. Jordánská státní média s odkazem na armádu uvedla, že protivzdušná obrana zachytila a zničila pět raket."
+     "title": "Írán zaútočil balistickými raketami na americké síly, USA je zachytily",
+     "text": "Americké velitelství CENTCOM oznámilo, že jednotky Islámských revolučních gard vypálily více balistických raket při pokusu o překvapivý útok na americké síly na Blízkém východě, konkrétně v Jordánsku. Podle CENTCOM byly všechny iránské rakety úspěšně zachyceny."
     },
     {
-     "title": "Trump slíbil tvrdou odpověď, rozhovory s Teheránem ale mají pokračovat",
-     "text": "Prezident Donald Trump ve telefonickém rozhovoru pro Fox News prohlásil, že USA budou Írán tvrdě bít a že „dostane výprask“; časový rámec ani cíle nespecifikoval. Zároveň uvedl, že jednání s Íránem budou pokračovat."
+     "title": "Trump slibuje tvrdou odpověď Teheránu",
+     "text": "Prezident Donald Trump po vlně iránských raketových útoků slíbil, že Írán zasáhne „tvrdě\". Hrozbu vyslovil jen několik dní poté, co náhle pozastavil třináctidenní bombardovací kampaň, aby dal podle amerického představitele „prostor\" rozhovorům s Teheránem."
     },
     {
-     "title": "Americko-saúdské nálety na proiránské milice v Iráku",
-     "text": "Podle Al-Džazíry si noční americko-saúdské útoky v sedmi iráckých provinciích vyžádaly nejméně 20 mrtvých a 32 zraněných bojovníků; poškozena byla mimo jiné základna Lidových mobilizačních sil v Mosulu. Trump řekl, že akce byla koordinována s iráckou vládou a milice označil za „rakovinu světa“."
+     "title": "Íránské útoky na plavidla v Hormuzském průlivu",
+     "text": "Írán zaútočil na tři plavidla v Hormuzském průlivu a zároveň odmítl omanský návrh na společnou správu této strategické vodní cesty (v poměru 50:50). Šíitské milice podporované Íránem navíc druhý den v řadě vyslaly drony na ropná zařízení ve východní provincii Saúdské Arábie."
     },
     {
-     "title": "Írán odmítl ománský návrh na Hormuzský průliv",
-     "text": "Teherán podle Al-Džazíry odmítl ománský plán na obnovení plavby Hormuzským průlivem a požaduje částečnou kontrolu nad ománskou trasou. Jednání USA a Íránu podle přehledu Democracy Now uvízla na mrtvém bodě."
+     "title": "Společné americko-saúdské údery v Iráku",
+     "text": "CENTCOM uvedl, že americká armáda a saúdské síly provedly společné úderu proti „teroristům spojeným s Íránem\" v Iráku. Zapojení Saúdské Arábie je významné, protože království se dosud snažilo vyhnout plnému vtažení do konfliktu."
     },
     {
-     "title": "Ukrajina: Patrioty, drony nad Moskvou a řeči o vzdušném příměří",
-     "text": "Volodymyr Zelenskyj uvedl, že Trump slíbil licence na výrobu střel do systému protivzdušné obrany Patriot, proces ale může být podle bezpečnostních expertů dlouhý. Na Moskevskou oblast podle starosty metropole mířilo přes 390 dronů; Rusko podle mluvčí prohlásilo, že je připraveno jednat o ukončení války, možný je i návrh vzdušného příměří."
+     "title": "Trump přijal Netanjahua v Oválné pracovně",
+     "text": "Americký prezident Trump se ve Washingtonu sešel s izraelským premiérem Benjaminem Netanjahuem. V Izraeli zároveň zesílila kritika premiérových plánů: podle bývalého vysokého představitele se Netanjahu mýlí, když chce po zničení Hamásu převzít kontrolu nad bezpečnostní situací v Pásmu Gazy „na neohraničenou dobu\"."
     },
     {
-     "title": "Požáry v Evropě, zemětřesení v Japonsku, konec eboly v Ugandě",
-     "text": "Francie a Španělsko se snaží zvládnout rozsáhlé požáry během letošní vlny veder – aktivní je oheň v Gironde, dva velké požáry ve středním Španělsku se dostávají pod kontrolu. Počet mrtvých po zemětřesení v Japonsku stoupl na 18, Uganda oznámila konec posledního propuknutí eboly. Ve Washingtonu se pohřbu senátora Lindseyho Grahama zúčastnili Benjamin Netanjahu i Zelenskyj a Senát potvrdil Jaye Claytona do funkce ředitele národní zpravodajské služby."
+     "title": "Ukrajinské drony zasáhly ruská logistická centra",
+     "text": "Ukrajinské útoky mířily na sklady a logistické komplexy ruského internetového obchodu Wildberries. V pátek byla v plamenech infrastruktura logistického centra u Petrohradu, což vyvolalo vlnu stížností ruských uživatelů na sociálních sítích."
     }
    ]
   },
@@ -64,28 +64,28 @@
    "title": "📈 Ekonomika a trhy",
    "items": [
     {
-     "title": "Wall Street v defenzivě před rozhodnutím Fedu",
-     "text": "Během středeční seance byly indexy pod tlakem: S&P 500 -0,13 %, Dow Jones -0,78 % (propad až o cca 800 bodů) a Nasdaq -0,11 %, Russell 2000 naopak +0,20 %. Podle Bloombergu tlačila trhy dolů opětovná eskalace na Blízkém východě, skok ropy a další výprodej v čipových titulech. V úterý přitom S&P 500 uzavřel o 0,21 % výše na 7 428,78 bodu."
+     "title": "Wall Street v červeném: Dow ztrácel přes 800 bodů",
+     "text": "Americké akcie ve středu klesaly po iránských útocích na americké síly a před rozhodnutím Fedu a výsledky velkých AI investorů. Index S&P 500 se držel kolem nuly, technologický Nasdaq Composite odepsal 1,1 % a Dow Jones ztrácel více než 800 bodů."
     },
     {
-     "title": "Fed podle očekávání nechá sazby beze změny, hlídá se rétorika Warshe",
-     "text": "FOMC oznamuje rozhodnutí ve 14:00 ET (20:00 SELČ); ekonomové oslovení FactSetem čekají ponechání sazeb v pásmu 3,50–3,75 %, což by bylo páté zasedání v řadě bez změny. Trhy podle CME FedWatch dávaly ponechání sazeb 64,2 % a zvýšení 35,8 %; sledovat se bude tisková konference šéfa Fedu Kevina Warshe, který slíbil omezit forward guidance. Podle Bank of America udělal skok ceny ropy z rozhodnutí „těsnou záležitost“."
+     "title": "Fed rozhodoval o sazbách při rekordní nejistotě",
+     "text": "FOMC oznamoval rozhodnutí ve 20:00 SELČ, trhy před ním oceňovaly 64% pravděpodobnost ponechání sazeb a 36% šanci na zvýšení. Sazba se drží v pásmu 3,50–3,75 % a nový guvernér Kevin Warsh odmítá poskytovat forward guidance; očekávají se nesouhlasná stanoviska členů výboru (Logan, Hammack, Kashkari či Waller se vyjádřili pro přísnější politiku)."
     },
     {
-     "title": "Ropa nad 90 dolary, výnosy dluhopisů výš",
-     "text": "Brent se dnes ráno obchodoval kolem 89,5 USD za barel, tedy o cca 17 dolarů výše než loni ve stejnou dobu, a během seance podle Bloombergu vyskočil nad 90 USD kvůli návratu bojů na Blízkém východě. Výnos desetiletého amerického dluhopisu vzrostl o 3 bazické body na 4,63 %, obavy z inflace tlumí chuť k riziku."
+     "title": "Ropa vyskočila o více než 4 %",
+     "text": "Brent v reakci na obnovené nepřátelství na Blízkém východě vzrostl o více než 4 % k 88 dolarům za barel a ukončil tak třídenní pokles. V úterý přitom Brent uzavřel o 4,8 % slabší na 84,09 USD a americká WTI klesla o 4 % na 79,26 USD."
     },
     {
-     "title": "Čipové akcie pod tlakem, výsledky Microsoftu a Mety na programu",
-     "text": "Investoři čekají na výsledky dvou největších investorů do AI – Microsoftu a Mety – a také Qualcommu. Polovodičové tituly zůstávají slabé; podle průběžných kotací klesala NVIDIA o 5,1 %, ASML o 6,8 % a Sandisk o 12,5 %."
+     "title": "Asijské trhy: propad čipů v Koreji pokračuje",
+     "text": "Japonský Nikkei 225 uzavřel o 1,49 % slabší na 61 434,19 bodu, SoftBank Group klesla až o 7 %. Australský S&P/ASX 200 naopak přidal více než 1 % na 9 038,60 bodu. Korejský Kospi den předtím spadl přibližně o 11 % (nejhorší sezení za řadu let) a za poslední měsíc je dolů asi 32 %; SK Hynix dnes uzavřel o 9,6 % nižší po propadu až o 19 % v průběhu dne."
     },
     {
-     "title": "Ford po silných výsledcích nahoru",
-     "text": "Akcie Ford Motor Co. rostly v předobchodní fázi o 5,6 % po zveřejnění silných výsledků za druhý kvartál."
+     "title": "Krypto se drží nad 64 tisíci dolarů",
+     "text": "Bitcoin otevřel na 63 853 USD (+0,2 % proti pondělí) a dopoledne zpevnil na 64 244 USD, během dne se obchodoval kolem 64 350 USD s růstem 1,25 % za 24 hodin; celková kapitalizace BTC je 1,29 bilionu dolarů. Ethereum otevřelo na 1 919,73 USD (+1,5 %), poté sklouzlo k 1 904,82 USD. Trh se pohybuje v pásmu 60–66 tisíc dolarů, tlumí jej odtoky z ETF a obavy ze zvyšování sazeb."
     },
     {
-     "title": "Asie: Indie výrazně v plusu, bitcoin stabilní",
-     "text": "Indický Sensex přidal 889 bodů (+1,16 %) a uzavřel na 77 654,60, Nifty vzrostl o 265 bodů (+1,10 %) na 24 250,20 díky poptávce po IT, spotřebních a hutních titulech. Bitcoin se podle kotací Yahoo Finance držel kolem 64 900 USD (+0,4 %)."
+     "title": "Microsoft a Meta hlásí výsledky po uzavření trhů",
+     "text": "Analytici očekávají u Microsoftu za 4. fiskální kvartál zisk 4,24 USD na akcii a výnosy okolo 87,6 mld. USD (růst asi 15 %), přičemž kapitálové výdaje mají přesáhnout 40 mld. USD. Akcie Microsoftu jsou letos dolů přibližně 19 %, zatímco S&P 500 přidal 8,5 %. U Mety se čekají výnosy 60,17 mld. USD a zisk 7,13 USD na akcii, pozornost míří na tempo výdajů do AI."
     }
    ]
   }
