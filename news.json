@@ -1,31 +1,31 @@
 {
  "date": "2026-07-29",
  "date_cz": "29.07.2026",
- "updated_at": "2026-07-29T18:54+02:00",
+ "updated_at": "2026-07-29T20:08+02:00",
  "sections": [
   {
    "key": "cr",
    "title": "🇨🇿 Česká republika",
    "items": [
     {
-     "title": "Po vetu rozpočtových zákonů se čeká další spor Hradu a vlády",
-     "text": "Středeční veto prezidenta Petra Pavla k zákonu rozvolňujícímu pravidla rozpočtové odpovědnosti podle dnešních zpráv nemusí zůstat jediné. Novela by vládě umožnila překročit schválené výdaje státního rozpočtu až o deset procent bez souhlasu Parlamentu; Pavel ji odmítl kvůli udržitelnosti veřejných financí a oslabení kontrolní role Sněmovny. Premiér Andrej Babiš označil rozhodnutí za nepromyšlené a koalice chce veto přehlasovat."
+     "title": "Senát schválil růst rodičovského příspěvku na 400 tisíc",
+     "text": "Vládní novelu o státní sociální podpoře dnes podpořilo 64 ze 76 přítomných senátorů. Rodičovský příspěvek vzroste o 50 tisíc na 400 000 Kč (u dvojčat a vícerčat dvojnásobek) pro děti narozené od 1. ledna 2027; předloha upravuje i tzv. superdávku a míří k podpisu prezidenta Petra Pavla."
     },
     {
-     "title": "Česko získalo z EU o 38,2 miliardy víc, než odvedlo",
-     "text": "Ministerstvo financí dnes informovalo, že Česko v prvním pololetí získalo ze zdrojů Evropské unie o 38,2 miliardy korun více, než odvedlo do unijního rozpočtu. Ke kladnému saldu přispěly zejména příjmy ze strukturálních fondů."
+     "title": "Horní komora žádá automatickou valorizaci rodičovské",
+     "text": "V doprovodném usnesení senátoři vyzvali vládu, aby připravila zavedení automatické valorizace příspěvku. Ministr práce a sociálních věcí Aleš Juchelka (ANO) zvýšení odůvodnil zmírněním dopadů inflace a zlepšením situace rodin s dětmi."
     },
     {
-     "title": "Česko se připojí ke slovenské smlouvě na vozidla Tatra",
-     "text": "Česko podepsalo dohodu o budoucím přistoupení ke slovenské rámcové smlouvě na pořízení vozidel Tatra T-815 ve 25 modifikacích. Společným pořízením by obě země měly získat množstevní slevu."
+     "title": "Začíná druhá vlna extrémních veder, ČHMÚ vydal výstrahu",
+     "text": "Od 12:00 platí výstraha ČHMÚ před silnou zátěží teplem. Dnes odpoledne 29 až 34 °C, v dalších dnech 33 až 38 °C, ojediněle i více – na konci týdne se teploty mají přiblížit 40 °C. Mírné ochlazení a bouřky přijdou v sobotu."
     },
     {
-     "title": "ÚOHS znovu pokutoval Generální finanční ředitelství",
-     "text": "Úřad pro ochranu hospodářské soutěže znovu vyměřil Generálnímu finančnímu ředitelství pokutu za postup při zadání veřejné zakázky."
+     "title": "Oprava Kbelské v Praze omezí řidiče do poloviny srpna",
+     "text": "Největší letošní rekonstrukce v metropoli, obávaná oprava Kbelské ulice, bude komplikovat dopravu až do poloviny srpna."
     },
     {
-     "title": "Policie vyšetřuje vraždu ženy a pokus o sebevraždu",
-     "text": "Detektivové podle prvotního šetření zjistili, že se s největší pravděpodobností jedná o vraždu ženy a následný pokus o sebevraždu muže. Případ policie oznámila dnes dopoledne."
+     "title": "Rozloučení s Milanem Knížákem bude 7. srpna",
+     "text": "Poslední rozloučení s výtvarníkem a hudebníkem Milanem Knížákem se uskuteční v pátek 7. srpna."
     }
    ]
   },
@@ -34,28 +34,32 @@
    "title": "🌍 Svět",
    "items": [
     {
-     "title": "Írán zaútočil balistickými raketami na americké síly, USA je zachytily",
-     "text": "Americké velitelství CENTCOM oznámilo, že jednotky Islámských revolučních gard vypálily více balistických raket při pokusu o překvapivý útok na americké síly na Blízkém východě, konkrétně v Jordánsku. Podle CENTCOM byly všechny iránské rakety úspěšně zachyceny."
+     "title": "Írán zaútočil balistickými raketami na americké síly v Jordánsku",
+     "text": "Podle amerického velení CENTCOM šlo o „překvapivý útok“, rakety byly úspěšně zneškodněny. Útok podle amerických zdrojů představuje posun v íránské taktice v probíhající válce."
     },
     {
-     "title": "Trump slibuje tvrdou odpověď Teheránu",
-     "text": "Prezident Donald Trump po vlně iránských raketových útoků slíbil, že Írán zasáhne „tvrdě\". Hrozbu vyslovil jen několik dní poté, co náhle pozastavil třináctidenní bombardovací kampaň, aby dal podle amerického představitele „prostor\" rozhovorům s Teheránem."
+     "title": "Boje na Blízkém východě v plném rozsahu, hrozby u Hormuzu",
+     "text": "Po skončení příměří útočí USA na íránské cíle prakticky denně, Írán ostřeluje americké základny v regionu. Íránské velení dnes uvedlo, že žádná firma ani země, která dostane zmrazené íránské prostředky jako kompenzaci za poškozené tankery, nebude smět proplout Hormuzským průlivem; od 20. července drží Húsíové námořní blokádu Saúdské Arábie."
     },
     {
-     "title": "Íránské útoky na plavidla v Hormuzském průlivu",
-     "text": "Írán zaútočil na tři plavidla v Hormuzském průlivu a zároveň odmítl omanský návrh na společnou správu této strategické vodní cesty (v poměru 50:50). Šíitské milice podporované Íránem navíc druhý den v řadě vyslaly drony na ropná zařízení ve východní provincii Saúdské Arábie."
+     "title": "Netanjahu ve Washingtonu",
+     "text": "Izraelský premiér Benjamin Netanjahu přijel 28. července do Bílého domu. Podle amerických médií chtěl Trumpovi předat zpravodajské informace o rozšiřování íránských jaderných zařízení v oblasti Pickaxe Mountain."
     },
     {
-     "title": "Společné americko-saúdské údery v Iráku",
-     "text": "CENTCOM uvedl, že americká armáda a saúdské síly provedly společné úderu proti „teroristům spojeným s Íránem\" v Iráku. Zapojení Saúdské Arábie je významné, protože království se dosud snažilo vyhnout plnému vtažení do konfliktu."
+     "title": "Trump slíbil Ukrajině licence na výrobu střel pro Patrioty",
+     "text": "Uvedl to prezident Volodymyr Zelenskyj; Ukrajina střely potřebuje k obraně proti raketovým útokům, proces licencování však může být podle expertů dlouhý. Na Moskevskou oblast podle starosty metropole mířilo přes 390 dronů."
     },
     {
-     "title": "Trump přijal Netanjahua v Oválné pracovně",
-     "text": "Americký prezident Trump se ve Washingtonu sešel s izraelským premiérem Benjaminem Netanjahuem. V Izraeli zároveň zesílila kritika premiérových plánů: podle bývalého vysokého představitele se Netanjahu mýlí, když chce po zničení Hamásu převzít kontrolu nad bezpečnostní situací v Pásmu Gazy „na neohraničenou dobu\"."
+     "title": "Moskva se hlásí k jednání, ve hře i vzdušné příměří",
+     "text": "Rusko je podle své mluvčí připraveno jednat o ukončení války na Ukrajině. Zvažován je i návrh na vzdušné příměří."
     },
     {
-     "title": "Ukrajinské drony zasáhly ruská logistická centra",
-     "text": "Ukrajinské útoky mířily na sklady a logistické komplexy ruského internetového obchodu Wildberries. V pátek byla v plamenech infrastruktura logistického centra u Petrohradu, což vyvolalo vlnu stížností ruských uživatelů na sociálních sítích."
+     "title": "OSN žádá Írán o zastavení exekucí demonstrantů",
+     "text": "Experti OSN pro lidská práva vyzvali Teherán, aby okamžitě zastavil výkon a zrušil rozsudky smrti pro 12 mladých lidí zadržených během lednových protestů. Výzva přišla po popravě dvou demonstrantů 19. července."
+    },
+    {
+     "title": "Přes 1 100 zaměstnanců AI firem žádá regulaci tempa vývoje",
+     "text": "Otevřený dopis z 28. července podepsali zaměstnanci špičkových AI společností včetně OpenAI, Anthropicu a Googlu. Požadují zavedení mechanismu na zpomalení vývoje AI podpořeného americkou vládou."
     }
    ]
   },
@@ -64,28 +68,32 @@
    "title": "📈 Ekonomika a trhy",
    "items": [
     {
-     "title": "Wall Street v červeném: Dow ztrácel přes 800 bodů",
-     "text": "Americké akcie ve středu klesaly po iránských útocích na americké síly a před rozhodnutím Fedu a výsledky velkých AI investorů. Index S&P 500 se držel kolem nuly, technologický Nasdaq Composite odepsal 1,1 % a Dow Jones ztrácel více než 800 bodů."
+     "title": "Fed nechal sazby bez změny, tři členové hlasovali pro zvýšení",
+     "text": "Americká centrální banka ponechala úrokové sazby v pásmu 3,50–3,75 %, jde o pátou nezměněnou sazbu v řadě a jedno z nejtěsnějších rozhodnutí za poslední roky. Tři členové výboru nesouhlasili a preferovali zvýšení o 25 bazických bodů; inflační tlaky z války v Íránu a úzká místa v AI infrastruktuře výbor rozdělily."
     },
     {
-     "title": "Fed rozhodoval o sazbách při rekordní nejistotě",
-     "text": "FOMC oznamoval rozhodnutí ve 20:00 SELČ, trhy před ním oceňovaly 64% pravděpodobnost ponechání sazeb a 36% šanci na zvýšení. Sazba se drží v pásmu 3,50–3,75 % a nový guvernér Kevin Warsh odmítá poskytovat forward guidance; očekávají se nesouhlasná stanoviska členů výboru (Logan, Hammack, Kashkari či Waller se vyjádřili pro přísnější politiku)."
+     "title": "Warsh nedává trhu vodítko",
+     "text": "Nový guvernér Kevin Warsh drží linii minimální komunikace bez forward guidance, což před dnešním zasedáním vedlo trhy k oceňování nezanedbatelné šance na zvýšení sazeb (odhady 30–38 %). Červnová projekce Fedu přitom ukázala medián sazby na konci roku 2026 na 3,8 %, tedy implikované zvýšení místo snížení."
     },
     {
-     "title": "Ropa vyskočila o více než 4 %",
-     "text": "Brent v reakci na obnovené nepřátelství na Blízkém východě vzrostl o více než 4 % k 88 dolarům za barel a ukončil tak třídenní pokles. V úterý přitom Brent uzavřel o 4,8 % slabší na 84,09 USD a americká WTI klesla o 4 % na 79,26 USD."
+     "title": "Wall Street v poklesu před rozhodnutím Fedu",
+     "text": "Akcie oslabovaly, Dow Jones v průběhu dne odepsal až 800 bodů. Průběžná data ukazovala S&P 500 -0,13 %, Dow -0,78 %, Nasdaq -0,11 %, index malých firem Russell 2000 +0,20 %. V úterý přitom S&P 500 uzavřel o 0,21 % výše na 7 428,78 bodu."
     },
     {
-     "title": "Asijské trhy: propad čipů v Koreji pokračuje",
-     "text": "Japonský Nikkei 225 uzavřel o 1,49 % slabší na 61 434,19 bodu, SoftBank Group klesla až o 7 %. Australský S&P/ASX 200 naopak přidal více než 1 % na 9 038,60 bodu. Korejský Kospi den předtím spadl přibližně o 11 % (nejhorší sezení za řadu let) a za poslední měsíc je dolů asi 32 %; SK Hynix dnes uzavřel o 9,6 % nižší po propadu až o 19 % v průběhu dne."
+     "title": "Ropa vzhůru, Brent nad 90 dolarů",
+     "text": "Obnovená eskalace na Blízkém východě podle Bloombergu vytlačila Brent nad 90 USD za barel. Rostou tak obavy z inflace, zvyšují se výnosy obligací a tlumí se chuť k riziku."
     },
     {
-     "title": "Krypto se drží nad 64 tisíci dolarů",
-     "text": "Bitcoin otevřel na 63 853 USD (+0,2 % proti pondělí) a dopoledne zpevnil na 64 244 USD, během dne se obchodoval kolem 64 350 USD s růstem 1,25 % za 24 hodin; celková kapitalizace BTC je 1,29 bilionu dolarů. Ethereum otevřelo na 1 919,73 USD (+1,5 %), poté sklouzlo k 1 904,82 USD. Trh se pohybuje v pásmu 60–66 tisíc dolarů, tlumí jej odtoky z ETF a obavy ze zvyšování sazeb."
+     "title": "Bitcoin stagnuje kolem 64 tisíc dolarů",
+     "text": "BTC se obchodoval u 63 929 USD, tedy o 0,28 % výše za 24 hodin, v rozmezí 63 646–64 533 USD. Spotové bitcoinové ETF přerušily sedmidenní řadu přítoků a 27. července zaznamenaly čistý odtok 11,6 mil. USD; index Fear & Greed je na 28 bodech, tedy ve „strachu“."
     },
     {
-     "title": "Microsoft a Meta hlásí výsledky po uzavření trhů",
-     "text": "Analytici očekávají u Microsoftu za 4. fiskální kvartál zisk 4,24 USD na akcii a výnosy okolo 87,6 mld. USD (růst asi 15 %), přičemž kapitálové výdaje mají přesáhnout 40 mld. USD. Akcie Microsoftu jsou letos dolů přibližně 19 %, zatímco S&P 500 přidal 8,5 %. U Mety se čekají výnosy 60,17 mld. USD a zisk 7,13 USD na akcii, pozornost míří na tempo výdajů do AI."
+     "title": "Meta a Microsoft reportují po uzavření trhu",
+     "text": "U Meta Platforms čeká trh zisk 7,18 USD na akcii a výnosy 60,22 mld. USD (+27 % r/r, zpomalení z 33 % v Q1). Klíčový bude výhled kapitálových výdajů, které firma pro rok 2026 zvýšila na 125–145 mld. USD kvůli AI infrastruktuře."
+    },
+    {
+     "title": "Ford potěšil výsledky, celní vlna jako nové riziko",
+     "text": "Akcie Fordu rostly v premarketu o 5,6 % po silných výsledcích za druhé čtvrtletí. V pátek zároveň vstoupila v platnost nová vlna amerických celních tarifů 10–12,5 % na 60 obchodních partnerů včetně EU, Číny, Británie a Kanady; trh reagoval klidně, stratégové ale varují před strukturálním rizikem pro globální růst."
     }
    ]
   }
