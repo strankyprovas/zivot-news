@@ -1,35 +1,35 @@
 {
  "date": "2026-08-15",
  "date_cz": "15.08.2026",
- "updated_at": "2026-08-15T16:52+02:00",
+ "updated_at": "2026-08-15T19:20+02:00",
  "sections": [
   {
    "key": "cr",
    "title": "🇨🇿 Česká republika",
    "items": [
     {
-     "title": "Tropická vedra: Úřad vlády uzavřel zahradu Strakovy akademie",
-     "text": "Kvůli vysokým teplotám zůstala zahrada Strakovy akademie v sobotu 15. srpna pro veřejnost uzavřena. V pátek se teploty v Praze pohybovaly kolem 30 °C a horké počasí pokračuje i o víkendu."
+     "title": "Vláda se v pondělí vrací k práci, hlavním tématem bude sucho",
+     "text": "Po dvoutýdenní pauze se ministři kabinetu Andreje Babiše (ANO) sejdou v pondělí ve Strakově akademii. Téma jednání stanovil premiér na sucho, čekají je také tradiční debaty o rozpočtu na příští rok."
     },
     {
-     "title": "Vláda chce zjednodušit registraci vozidel",
-     "text": "Kabinet Andreje Babiše navrhuje, aby bylo možné přihlásit vůz nebo změnit jeho majitele online. Cílem je omezit nutnost osobních návštěv úřadů."
+     "title": "Spor o valorizaci důchodů: zákonný růst jen 1,4 %",
+     "text": "Podle zákona mají důchody od ledna vzrůst jen o 1,4 procenta, což je nejméně za posledních deset let a v praxi zhruba tři stovky. Ministr Juchelka proto usiluje o mimořádnou valorizaci o dalších přibližně 300 korun, což by rozpočet stálo asi 10 miliard korun navíc."
     },
     {
-     "title": "Havlíček ve Velké Bíteši, podpora leteckého průmyslu",
-     "text": "Ministr průmyslu a obchodu Karel Havlíček navštívil společnost PBS Velká Bíteš, kterou označil za lídra českého leteckého průmyslu."
+     "title": "Tropické teploty ochromují Prahu i úřady",
+     "text": "V sobotu bylo jasno a kolem 31 °C. Kvůli vysokým teplotám zůstala pro veřejnost uzavřena zahrada Strakovy akademie."
     },
     {
-     "title": "Dopravní omezení: úplná uzavírka ve Zlaté Koruně",
-     "text": "Řidiči na Českokrumlovsku musejí počítat s úplnou uzavírkou ve Zlaté Koruně. Omezení komplikuje dopravu v turisticky exponované oblasti v hlavní sezoně."
+     "title": "Předvolební kampaň se rozjíždí před říjnovými volbami",
+     "text": "V říjnu se konají komunální a senátní volby a vládní politici už vyrážejí za voliči. Premiér Babiš absolvoval v pátek besedu ve Frýdku-Místku."
     },
     {
-     "title": "Další jednání vlády až koncem srpna",
-     "text": "Podle programu Úřadu vlády je na 29. srpna 2026 naplánována další společná akce Úřadu vlády a ministerstev; poslední zveřejněné výsledky jednání vlády pocházejí z 27. července."
+     "title": "Babiš se Zůnou na vojenské přísaze ve Vyškově",
+     "text": "Premiér Andrej Babiš se v pátek spolu s vicepremiérem a ministrem obrany Jaromírem Zůnou zúčastnil ve Vyškově slavnostní vojenské přísahy absolventů Kurzu základní přípravy."
     },
     {
-     "title": "⚠️ Poznámka k dnešnímu domácímu přehledu",
-     "text": "Vyhledávání dnes vrátilo z českých zpravodajských serverů převážně jen přehledové stránky bez detailu jednotlivých článků. Domácí sekce je proto stručnější a obsahuje pouze informace, které se podařilo ověřit."
+     "title": "Registrace aut má být jednodušší a online",
+     "text": "Vláda navrhuje zjednodušit registraci vozidel. Přihlásit vůz nebo změnit jeho majitele by mělo jít online."
     }
    ]
   },
@@ -38,32 +38,28 @@
    "title": "🌍 Svět",
    "items": [
     {
-     "title": "Trump chce prohlásit Hormuzský průliv za území USA",
-     "text": "Prezident Donald Trump oznámil, že hodlá Hormuzský průliv prohlásit za území Spojených států. Jde o eskalaci sporu s Íránem o kontrolu klíčové námořní trasy."
+     "title": "USA mění odhad: Rusko může udeřit na NATO už letos na podzim",
+     "text": "Wall Street Journal s odvoláním na americké zpravodajské činitele uvedl, že Washington nově připouští omezený ruský úder proti členské zemi NATO ještě před koncem války na Ukrajině, nejdříve letos na podzim. Nejde o očekávání masivní invaze, ale o levnější testovací scénář od kyberútoků a sabotáží po údery na kritickou infrastrukturu."
     },
     {
-     "title": "Trump k válce s Íránem: Nikdy se nebudu omlouvat",
-     "text": "Trump prohlásil, že se za vojenskou akci proti Íránu „nikdy neomluví“ a že „udělal správnou věc“, přestože výpadky v průlivu zvedají ceny benzinu v USA. S íránskými představiteli si nadále vyměňuje ostrá prohlášení."
+     "title": "Ukrajina zasáhla objekt Roskosmosu raketami Flamingo",
+     "text": "Ukrajinské síly podle dnešních zpráv zasáhly raketami Flamingo klíčový objekt ruské kosmické agentury Roskosmos."
     },
     {
-     "title": "Do Perského zálivu míří nová úderná skupina letadlových lodí",
-     "text": "Podle amerického činitele je na cestě na Blízký východ nová úderná skupina, která má vystřídat letadlovou loď USS Lincoln. Válka s Íránem začala 28. února masivními společnými americko-izraelskými údery na vojenské, vládní a infrastrukturní cíle; od června probíhala jednání obou delegací."
+     "title": "Úder na baltský přístav Usť-Luga",
+     "text": "Ukrajina zaútočila 14. srpna na přístav Usť-Luga, kde byl potvrzen požár. Terminál je součástí exportní trasy, kterou Rusko budovalo k obejití tranzitních rizik na západní trase, a ukrajinské ministerstvo obrany ho řadí mezi prioritní cíle kampaně proti baltským exportním uzlům."
     },
     {
-     "title": "Napětí na Západním břehu Jordánu",
-     "text": "Několikadenní patová situace na okupovaném Západním břehu podle agenturních zpráv ukazuje na neochotu Izraele zakročit proti násilí osadníků vůči Palestincům."
+     "title": "Ruské ostřelování si vyžádalo další oběti",
+     "text": "Za posledních 24 hodin zahynul při ruském ostřelování Sumské oblasti jeden civilista a čtyři lidé byli zraněni. Černihivskou oblast zasáhlo 21 útoků se zraněným dítětem, v Záporoží hasiči likvidovali požáry po útocích dronů a v Oděské oblasti byla poškozena továrna na obuv."
     },
     {
-     "title": "Ukrajina: nová nabídka Rusku, Kreml trvá na svém",
-     "text": "Kyjev poslal Spojeným státům nový plán a Zelenskyj s Trumpem připravují pro Moskvu nabídku, jejímž jádrem má být příměří ve vzduchu. Rusko ale dál trvá na podmínkách z roku 2024, včetně uznání kontroly nad čtyřmi okupovanými regiony."
+     "title": "Napětí v Hormuzském průlivu trvá",
+     "text": "Konflikt na Blízkém východě eskaloval po zadržení obchodních plavidel Íránem v Hormuzském průlivu. Prodloužení příměří mezi USA a Íránem podle analytiků paradoxně ponechalo globální trhy v nejistotě a blokáda průlivu má i přes formální příměří dál významný dopad."
     },
     {
-     "title": "Rusko: Jabloko vyřazeno z voleb do Dumy",
-     "text": "Ruský Nejvyšší soud 10. srpna vyloučil opoziční stranu Jabloko z voleb do Státní dumy. Před budovou soudu se sešlo několik set převážně mladých příznivců strany."
-    },
-    {
-     "title": "Cla: jednání USA a Kanady v prodloužení",
-     "text": "Rozhovory mezi Kanadou a Spojenými státy pokračují nad rámec původního termínu, ve stínu hrozby Trumpových cel. Bílý dům zároveň označil Kanadu za hlavního prostředníka přeprodeje čínského zboží na americký trh."
+     "title": "Meta dostala v Novém Mexiku pokutu 20 miliard korun",
+     "text": "Soud v americkém státě Nové Mexiko nařídil společnosti Meta zaplatit pokutu v přepočtu 20 miliard korun kvůli narušení veřejného pořádku a zásadním dopadům na společnost. Firma se hodlá proti rozsudku odvolat."
     }
    ]
   },
@@ -72,32 +68,32 @@
    "title": "📈 Ekonomika a trhy",
    "items": [
     {
-     "title": "Pozor: dnes je sobota, burzy nejsou v provozu",
-     "text": "Poslední obchodní seance proběhla v pátek 14. srpna, uvedená data jsou tedy z pátečního závěru na Wall Street."
+     "title": "Wall Street zakončila týden mírně v červeném",
+     "text": "V pátek klesl Dow Jones o 0,20 % na 53 732,41 bodu, širší S&P 500 o 0,17 % na 7 785,76 bodu a Nasdaq Composite o 0,28 % na 26 729,16 bodu. Index volatility VIX oslabil o 2,60 % na 14,25 bodu a výnos desetiletých amerických dluhopisů vzrostl o pět bazických bodů na 4,692 %."
     },
     {
-     "title": "Wall Street: mírný pokles po rekordu, ale třetí rostoucí týden v řadě",
-     "text": "S&P 500 v pátek klesl o 0,17–0,2 % poté, co předtím uzavřel na rekordu a poprvé překonal hranici 7 800 bodů. Dow Jones odepsal 108 bodů (−0,20 %) na 53 732,41 a Nasdaq Composite ztratil 73,86 bodu (−0,28 %) na 26 729,16. S&P 500 přesto zakončil třetí ziskový týden po sobě, Dow týden ukončil ve ztrátě."
+     "title": "S&P 500 má za sebou třetí růstový týden v řadě",
+     "text": "Přes páteční pokles prodloužil index růstovou sérii na tři týdny. Podle jednoho z investorů může index do konce roku vystoupat na 8 100 bodů, pokud se potvrdí tempo růstu zisků, ropa zůstane nad 80 dolary za barel a Fed ponechá sazby beze změny."
     },
     {
-     "title": "Malé firmy proti trendu, volatilita klesá",
-     "text": "Index malých firem Russell 2000 posílil o 0,51 % na 3 068,42 bodu. Index volatility VIX klesl o 2,6 % na 14,25, ztráty na Dow vedl Salesforce."
+     "title": "Výsledková sezóna překvapuje silou",
+     "text": "Výsledky za uplynulé čtvrtletí zveřejnilo už více než 90 % firem z indexu S&P 500. Podle dat FactSetu se meziroční růst zisků pohybuje kolem 50 %."
     },
     {
-     "title": "Slabá americká data: sentiment i maloobchod zklamaly",
-     "text": "Předběžný srpnový index spotřebitelské důvěry Michiganské univerzity spadl na 51 bodů oproti očekávaným 55. Červencové maloobchodní tržby zaznamenaly nejsilnější meziměsíční pokles za více než rok."
+     "title": "Ropa v závěru týdne zdražila",
+     "text": "Cena severomořské ropy Brent stoupla v pátek o 1,75 % na 88,59 dolaru za barel, americká lehká ropa WTI zdražila o 1,39 % na 82,38 dolaru za barel."
     },
     {
-     "title": "Ropa roste kvůli Hormuzu, zlato nad 4 400 dolary",
-     "text": "Cena americké ropy WTI v pátek přidala zhruba 1,4 % v reakci na napětí kolem Hormuzského průlivu a výpadky dodávek, které se v USA promítají do dražšího benzinu. Zlato posílilo o 0,38 % na 4 437,30 dolaru za unci."
+     "title": "Zlato oslabuje navzdory geopolitickému napětí",
+     "text": "Ceny zlata vykazují tendenci k poklesu, přestože eskalace na Blízkém východě by za normálních okolností poptávku po bezpečném přístavu podpořila. Stříbro se na světovém trhu obchodovalo kolem 65,57 dolaru za unci."
     },
     {
-     "title": "Bitcoin lehce v plusu, drží se nad 60 tisíci dolary",
-     "text": "Bitcoin v pátek zpevnil o 430 dolarů na zhruba 62 970 dolarů. Kryptoměny tak zatím odolávají zhoršené náladě na akciovém trhu."
+     "title": "Reddit vstupuje do indexu S&P 500",
+     "text": "Akcie Redditu budou od 18. srpna součástí indexu S&P 500, kde nahradí cenné papíry firmy AvalonBay Communities. Titul na zprávu ve čtvrtečním after-marketu posílil zhruba o 11 %."
     },
     {
-     "title": "Sazby: červencové PPI snížilo obavy z pohybu Fedu",
-     "text": "Čtvrteční data o cenách výrobců v USA za červenec zmírnila očekávání ohledně zásahu Fedu do sazeb na zářijovém zasedání a pomohla trhům do plusu – Dow tehdy vzrostl o 0,1 % na 53 839,99 bodu."
+     "title": "Inflační tlaky v USA polevují",
+     "text": "Americké jádrové výrobní ceny bez potravin a energií vzrostly v červenci meziměsíčně o 0,2 %, což je zpomalení z nahoru revidovaného růstu o 0,4 % v předchozím měsíci. Trh přitom čekal nárůst o 0,3 %."
     }
    ]
   }
