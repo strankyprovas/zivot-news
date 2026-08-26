@@ -35,6 +35,13 @@ jobs:
       - name: Nainstalovat Claude Code
         run: npm install -g @anthropic-ai/claude-code
 
+      # Yahoo blokuje požadavky z datacenter podle TLS otisku — curl_cffi
+      # se vydává za Chrome a projde. Node by z runneru dostal samé 429.
+      - name: Stáhnout tržní data (curl_cffi)
+        run: |
+          pip install --quiet curl_cffi
+          python analyza/fetch_markets.py
+
       - name: Vygenerovat analýzu
         env:
           CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}

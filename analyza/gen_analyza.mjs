@@ -300,8 +300,23 @@ if (!process.env.CLAUDE_CODE_OAUTH_TOKEN) {
   process.exit(0);
 }
 
-console.log(`Relace: ${session}, stahuji trhy…`);
-const snapshot = await fetchMarkets();
+// Trhy: přednostně snapshot z fetch_markets.py (curl_cffi projde z CI,
+// kde Yahoo blokuje node fetch podle TLS otisku). Přímé stažení je záloha
+// pro lokální běhy.
+let snapshot;
+const snapPath = join(DIR, '_snapshot.json');
+if (existsSync(snapPath)) {
+  const snap = JSON.parse(readFileSync(snapPath, 'utf8'));
+  const ageMin = (Date.now() - new Date(snap.fetchedAt).getTime()) / 60000;
+  if (ageMin < 30) {
+    snapshot = snap;
+    console.log(`Relace: ${session}, trhy ze snapshotu (${Math.round(ageMin)} min starý).`);
+  }
+}
+if (!snapshot) {
+  console.log(`Relace: ${session}, stahuji trhy…`);
+  snapshot = await fetchMarkets();
+}
 console.log(`Trhy OK (${snapshot.assets.filter((a) => !a.error).length}/${ASSETS.length}).`);
 
 const memPath = join(DIR, 'memory.md');
