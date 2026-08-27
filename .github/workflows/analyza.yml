@@ -45,7 +45,10 @@ jobs:
       - name: Vygenerovat analýzu
         env:
           CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
-        run: node analyza/gen_analyza.mjs ${{ github.event.inputs.session }}
+          # GitHub spouští crony i s hodinami zpoždění — relaci proto určuje
+          # cron výraz, který běh vyvolal, ne aktuální hodina.
+          SESSION: ${{ github.event_name == 'schedule' && (github.event.schedule == '15 20 * * *' && 'post' || 'pre') || github.event.inputs.session }}
+        run: node analyza/gen_analyza.mjs $SESSION
 
       - name: Commit a push
         run: |
