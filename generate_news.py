@@ -1,16 +1,19 @@
 """Večerní souhrn zpráv pro appku Život.
 
-Vyhledá aktuální zprávy přes server-side web search a uloží český souhrn
-do news.json (+ archiv podle data). Spouští GitHub Action každý večer.
+Vyhledá aktuální zprávy přes web search a uloží český souhrn do news.json
+(+ archiv podle data). Spouští GitHub Action každý večer.
+
+Od 27. 8. 2026 jede přes headless Claude Code (CLAUDE_CODE_OAUTH_TOKEN),
+takže ho platí Max předplatné, ne API kredity.
 """
+
+import subprocess
 
 import json
 import re
 import sys
 from datetime import datetime
 from zoneinfo import ZoneInfo
-
-import anthropic
 
 PRAGUE = ZoneInfo("Europe/Prague")
 
@@ -41,19 +44,15 @@ Výstup vrať POUZE jako validní JSON v tomto tvaru (žádný jiný text okolo)
   {{"key": "ekonomika", "title": "📈 Ekonomika a trhy", "items": [{{"title": "...", "text": "..."}}]}}
 ]}}"""
 
-    client = anthropic.Anthropic()
-    response = client.messages.create(
-        model="claude-opus-5",
-        max_tokens=16000,
-        tools=[{"type": "web_search_20260209", "name": "web_search", "max_uses": 12}],
-        messages=[{"role": "user", "content": prompt}],
+    run = subprocess.run(
+        ["claude", "-p", "--model", "opus", "--allowedTools", "WebSearch"],
+        input=prompt, capture_output=True, text=True, timeout=15 * 60,
     )
-
-    if response.stop_reason == "refusal":
-        print("Model odmítl požadavek, končím bez změny.", file=sys.stderr)
+    if run.returncode != 0:
+        print(f"claude selhal ({run.returncode}): {run.stderr[:500]}", file=sys.stderr)
         sys.exit(1)
 
-    text = "".join(b.text for b in response.content if b.type == "text")
+    text = run.stdout
     match = re.search(r"\{.*\}", text, re.DOTALL)
     if not match:
         print(f"V odpovědi není JSON:\n{text[:500]}", file=sys.stderr)

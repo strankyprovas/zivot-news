@@ -22,11 +22,12 @@ jobs:
         with:
           python-version: "3.12"
 
-      - run: pip install anthropic
+      - name: Nainstalovat Claude Code
+        run: npm install -g @anthropic-ai/claude-code
 
       - name: Generate news summary
         env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
         run: python generate_news.py
 
       - name: Commit and push
