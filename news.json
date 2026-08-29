@@ -1,35 +1,39 @@
 {
  "date": "2026-08-29",
  "date_cz": "29.08.2026",
- "updated_at": "2026-08-29T02:52+02:00",
+ "updated_at": "2026-08-29T21:37+02:00",
  "sections": [
   {
    "key": "cr",
    "title": "🇨🇿 Česká republika",
    "items": [
     {
-     "title": "Sněmovna přehlasovala Pavlovo veto rozpočtové novely",
-     "text": "Koalice ANO, SPD a Motoristů prosadila novelu rozpočtových pravidel, která uvolňuje limity růstu státních výdajů a zadlužování, zejména kvůli obraně. Pro bylo všech 104 přítomných koaličních poslanců, proti 72 opozičních. Prezident Pavel varoval před ohrožením udržitelnosti veřejných financí, opozice se chce obrátit na Ústavní soud."
+     "title": "Babiš na Zemi živitelce: úroda je nejhorší za 15 let",
+     "text": "Premiér Andrej Babiš (ANO) na zahájení agrosalonu Země živitelka v Českých Budějovicích varoval, že plné regály s potravinami nejsou samozřejmost, a označil letošní úrodu za nejhorší za posledních 15 let. Podle prezidenta Agrární komory Jana Doležala přijde české zemědělství kvůli slabé sklizni, nízkým výkupním cenám a rostoucím nákladům letos o zhruba 20 miliard korun tržeb."
     },
     {
-     "title": "Česká televize chystá úspory kvůli změně financování",
-     "text": "Generální ředitel Hynek Chudárek předložil Radě ČT první úsporný plán; televize počítá se snížením rozpočtu o 350 milionů korun. Podle ČT může být propad po přechodu z poplatků na příspěvek ze státního rozpočtu až 1,75 miliardy korun, ve hře je i omezení regionálního vysílání. Návrh ministerstva kultury počítá pro ČT s 5,7 miliardy Kč."
+     "title": "Dezinformace o polských nárocích na české území, stopy vedou do Ruska",
+     "text": "Na sociálních sítích se šíří nepravdivé tvrzení, že Polsko plánuje zabrat část českého území. Varšava uvádí, že jde o ruskou dezinformační kampaň, jejímž cílem je rozeštvat Čechy a Poláky. Premiér Babiš na mimořádném jednání Bezpečnostní rady státu vyčetl zpravodajským službám, že se o kampani dozvěděl z médií, a ne od nich."
     },
     {
-     "title": "Vláda připravuje reformu odměňování ve veřejném sektoru",
-     "text": "Od příštího roku by se platy ve veřejné sféře měly zvyšovat automaticky podle růstu průměrné mzdy. Součástí návrhu je změna tarifních tabulek, minimálně čtyřprocentní rozdíl mezi platovými třídami a redukce platových stupňů z 12 na 8."
+     "title": "Za covidové vakcíny stát zaplatil zhruba 19 miliard, půlka dávek skončila nevyužita",
+     "text": "Česko od roku 2020 odebralo na základě letos končící smlouvy 41 milionů dávek vakcín proti covidu, využilo jich ale méně než polovinu. Celkové náklady dosáhly přibližně 19 miliard korun."
     },
     {
-     "title": "Sucho pokračuje, po tropickém pátku přichází ochlazení",
-     "text": "Podle ČHMÚ mělo v polovině srpna většina území pod desetinou využitelné vodní kapacity půdy a hydrologické sucho trvá; situace se zhoršuje od loňského listopadu. Pátek 28. srpna přinesl nejvyšší teploty týdne, následuje ochlazení, déšť a místy silné bouřky."
+     "title": "Generál Řehka odešel do civilu",
+     "text": "Bývalý náčelník Generálního štábu Karel Řehka po více než 30 letech ukončil vojenskou službu; rozloučila se s ním armáda i prezident Petr Pavel. Řehka, který funkci předal Miroslavu Hlaváčovi na konci června, nyní kandiduje do Senátu za obvod Plzeň-město."
     },
     {
-     "title": "Bitcoinová kauza míří k soudu",
-     "text": "Státní zástupkyně podala obžalobu na čtyři osoby kvůli daru kryptoměn ministerstvu spravedlnosti v hodnotě téměř jedné miliardy korun. Mezi obviněnými jsou dárce Tomáš Jiřikovský, bývalý ministr spravedlnosti Pavel Blažek a jeho náměstek Radomír Daňhel."
+     "title": "Hejtmani Kuba a Grolich volají po daňové reformě",
+     "text": "Jihočeský hejtman Martin Kuba a jihomoravský hejtman Jan Grolich (KDU-ČSL) se shodli, že Česko potřebuje výraznou změnu daňového systému. Podle nich jsou současné daně nízké a systém neodpovídá potřebám státu ani krajů."
     },
     {
-     "title": "Pokračuje soud v kauze Dozimetr",
-     "text": "Soud tento týden přehrával odposlechy a videozáznamy v případu rozsáhlé korupce při zakázkách pražského dopravního podniku. Obžalováno je šest lidí v čele s podnikatelem Michalem Redlem, mezi nimi i bývalý náměstek pražského primátora Petr Hlubuček."
+     "title": "Vláda představila zákon o startupech",
+     "text": "Úřad vlády a ministerstvo průmyslu a obchodu v zahradách Strakovy akademie na akci „Od řemesla k technologiím“ prezentovaly připravovaný startupový zákon. Cílem je přilákat český kapitál do inovací a udržet talenty v tuzemsku."
+    },
+    {
+     "title": "Kyberkriminalita dál roste",
+     "text": "Za prvních sedm měsíců roku 2026 kriminalisté vyšetřovali přes 14 tisíc kybernetických trestných činů, asi o dva tisíce více než ve stejném období loni. Více než dvě třetiny případů tvoří podvody."
     }
    ]
   },
@@ -38,28 +42,28 @@
    "title": "🌍 Svět",
    "items": [
     {
-     "title": "Zemřel norský král Harald V., nastoupil Haakon VIII.",
-     "text": "Nejstarší evropský monarcha zemřel v pátek 28. srpna v osloské nemocnici Rikshospitalet ve věku 89 let, kde byl od 17. srpna léčen se vzácnou krevní poruchou. Na trůnu byl od ledna 1991, tedy 35 let. Okamžitě jej vystřídal syn jako král Haakon VIII."
+     "title": "Povodně na hranici Nepálu a Číny: přes 680 mrtvých, na 2 500 pohřešovaných",
+     "text": "Bilance katastrofální bleskové povodně v povodí řeky Bhote Koshi vzrostla nejméně na 675 obětí v Nepálu a sedm v Číně. Pohřešovaných je podle nepálských úřadů zhruba 2 498 lidí, mezi nimi téměř 900 dělníků z vodních elektráren, kteří mohou být uvězněni v odlehlých tunelech. Záchranné práce komplikuje počasí; povodeň podle záběrů způsobil odlomený kus ledovce."
     },
     {
-     "title": "Írán chystá podmínky pro otevření Hormuzského průlivu",
-     "text": "Šéf íránské bezpečnostní rady Mohsen Rezáí uvedl, že Teherán sestavuje seznam podmínek pro otevření průlivu a že USA musí nejdřív podniknout praktické kroky. Katarský premiér jednal v Teheránu o vznikající dohodě Ománu a Íránu o dočasné lodní trase. Bílý dům ale popřel, že by s Íránem aktuálně vyjednával; americká námořní blokáda íránských přístavů trvá."
+     "title": "Trump oznámil dohodu s Venezuelou o kontrole 65 miliard barelů ropy",
+     "text": "Americký prezident Donald Trump představil dohodu, podle níž USA získají většinovou kontrolu nad novou soukromou společností spravující 17 ropných polí s prokázanými zásobami 65 miliard barelů, a to na 100 let. Podíl USA na produkci má být 55 %, dohoda může přinést až 100 miliard dolarů investic. Vyjednali ji Marco Rubio a Pete Hegseth s úřadující venezuelskou prezidentkou Delcy Rodríguezovou."
     },
     {
-     "title": "Povodně v Nepálu a Tibetu: přes 500 mrtvých, 1500 pohřešovaných",
-     "text": "Bleskové povodně z 26. srpna, spuštěné zřícením ledovce, zasáhly 72 km úseku řeky Trišulí v okresech Rasuwa a Nuwakot. Policie v Nepálu hlásí 547 obětí, pohřešovaných je přes 1500 lidí, z toho více než polovina cizinců včetně 90 Američanů. Na místě vzniklo jezero, jehož protržení hrozí dalšími záplavami."
+     "title": "Rusko podniklo rozsáhlý útok na Ukrajinu",
+     "text": "Ruské síly zaútočily na Ukrajinu kombinací balistických a protilodních raket, sebevražedných i proudových dronů. Při útoku na podnik v Bučanském okrese Kyjevské oblasti bylo zraněno šest lidí a 165 evakuováno, další útok na Oděskou oblast si vyžádal jednoho mrtvého a tři zraněné. Kyjev varuje, že Rusko plánuje v letech 2026–2027 mobilizovat 600 tisíc branců."
     },
     {
-     "title": "Kreml: mírová jednání o Ukrajině jsou v „hluboké pauze“",
-     "text": "Mluvčí Dmitrij Peskov v pátek uvedl, že vyjednávání stojí, zatímco ruské jednotky pokračují v ofenzivě na východě Ukrajiny. Podle New York Times tento týden navštívil Moskvu ředitel CIA John Ratcliffe s cílem tlačit Kreml k dohodě. Po ruském útoku na Sumskou oblast vypukl 28. srpna požár."
+     "title": "Rusko otestovalo mezikontinentální balistickou raketu",
+     "text": "Ruské ministerstvo obrany oznámilo úspěšný cvičný start mobilní ICBM na tuhé palivo z kosmodromu Pleseck na cíl na Kamčatce vzdálený přes 6 700 kilometrů. Test přišel jen pár dní po cestě ředitele CIA do Moskvy, kde měl Kreml varovat před útokem na zemi NATO."
     },
     {
-     "title": "FBI odhalila čínskou hackerskou síť útočící na americké úřady",
-     "text": "Síť označovaná QTFY zneužívala softwarové zranitelnosti k útokům na vládní instituce USA včetně NASA, Fedu a ministerstva energetiky. Podle FBI Čína nainstalovala malware do tisíců domácích routerů a chytrých zařízení po celém světě a přes ně útoky směrovala, aby zakryla stopy."
+     "title": "Netanjahu odsoudil útok osadníků na západním břehu Jordánu",
+     "text": "Desítky maskovaných izraelských osadníků zaútočily na vesnici Kusra a obsadily palestinský dům, v němž bylo sedm lidí; armáda je musela vyvést. Podle místních zdrojů bylo při sobotních útocích na západním břehu zraněno nejméně pět Palestinců. Premiér Benjamin Netanjahu poprvé po týdnech násilí ostře odsoudil „zločinné násilí“ v Kusře a sousedním Džalúdu."
     },
     {
-     "title": "Požár Hawk Fire u Rena, desetitisíce evakuovaných",
-     "text": "Požár v okolí Rena v Nevadě spálil přes 15 000 akrů a nebyl zvládnut ani z jednoho procenta. Zhruba 23 000 obyvatel dostalo příkaz k okamžité evakuaci, dalších 40 000 doporučení k přípravě. Zničeno bylo 32 domů, dalších šest poškozeno; požáry Bug a Stallion jsou naopak plně zvládnuty."
+     "title": "Oceány dosáhly nejvyšší naměřené teploty",
+     "text": "Průměrná teplota hladiny světových oceánů mimo polární oblasti dosáhla 21,1 °C, což je nejvyšší hodnota v historii měření."
     }
    ]
   },
@@ -68,28 +72,28 @@
    "title": "📈 Ekonomika a trhy",
    "items": [
     {
-     "title": "Wall Street v pátek mírně dolů, týden ale byl růstový",
-     "text": "S&P 500 oslabil o 0,25 % na 7 711,76 bodu, Nasdaq Composite klesl o 0,52 % na 26 402,42 bodu. Dow Jones prakticky stagnoval, ztratil 9,45 bodu (-0,02 %) na 53 559,99 bodu. Indexy přesto uzavřely celý týden v plusu."
+     "title": "Warsh v Jackson Hole otevřel dveře zvýšení sazeb",
+     "text": "Šéf Fedu Kevin Warsh v pátečním hlavním projevu na sympoziu v Jackson Hole varoval, že inflace je stále příliš vysoká a cenová stabilita bude hlavní prioritou centrální banky. Trhy jeho vystoupení vyhodnotily jako jestřábí: pravděpodobnost zvýšení sazeb na zářijovém zasedání vyskočila z zhruba jedné třetiny na 55–57 %."
     },
     {
-     "title": "Warsh v Jackson Hole: inflace je největší problém Fedu",
-     "text": "Šéf Fedu Kevin Warsh v pátečním projevu označil inflaci za hlavní problém, ekonomiku popsal jako na úrovni plné zaměstnanosti. Odmítl ale dát trhům vodítko k dalšímu směřování sazeb, které Fed drží v pásmu 3,50–3,75 %. Červencová jádrová inflace PCE přitom vzrostla o 3,3 % meziročně, celková o 3,7 %."
+     "title": "Wall Street v pátek klesla",
+     "text": "Americké indexy se po Warshově projevu otočily do minusu. S&P 500 odepsal 0,25 %, technologický Nasdaq Composite 0,52 % a Dow Jones skončil prakticky beze změny na −0,02 %. Dnes je sobota, burzy jsou zavřené."
     },
     {
-     "title": "Ropa klesá navzdory napětí v Hormuzu",
-     "text": "Brent se 28. srpna obchodoval na 88,22 USD za barel, o 0,34 % níže než předchozí den (88,52 USD). Trh sleduje diplomatické snahy o znovuotevření Hormuzského průlivu; provoz v něm zůstává nízký a ceny benzinu v USA jsou meziročně vyšší téměř o dolar."
+     "title": "Bitcoin propadl pod 78 tisíc dolarů",
+     "text": "Bitcoin oslabil o 3,3 % na zhruba 77 678 dolarů. Za poklesem stojí přehodnocení výhledu úrokových sazeb po Warshově projevu – sázky na zvýšení sazeb v září podle části tržních dat vzrostly až k 68 %."
     },
     {
-     "title": "Zlato zpevnilo, zůstává hluboko pod lednovým rekordem",
-     "text": "Spotová cena zlata se v pátek pohybovala zhruba mezi 4 599 a 4 651 USD za unci podle zdroje a času, nad čtvrtečními 4 584,96 USD. Historické maximum 5 597,23 USD z 29. ledna 2026 zůstává výrazně výše."
+     "title": "Ropa se propadla o 2,5 %, zlato drží nad 4 700 dolary",
+     "text": "Říjnový kontrakt na ropu klesl o 2,08 dolaru (−2,53 %) na 80,28 dolaru za barel; tlak přidalo i oznámení americko-venezuelské ropné dohody, od níž si Trump slibuje výrazný růst nabídky a nižší ceny pohonných hmot. Zlato se drželo na 4 700,50 dolaru za unci (+0,13 %)."
     },
     {
-     "title": "Bitcoin se dotkl 81 000 dolarů, pak korigoval",
-     "text": "Bitcoin otevřel pátek na 80 261,86 USD, o 1,5 % výše než ve čtvrtek, což je nejvyšší otevírací cena od 15. května. Během dopoledne ale spadl zpět do pásma 79 100–79 600 USD. Tržní kapitalizace činí zhruba 1,33 bilionu USD, Ethereum je druhé s asi 233 miliardami."
+     "title": "Česká inflace zůstává poblíž cíle, ČNB drží sazbu na 3,5 %",
+     "text": "Spotřebitelské ceny byly v červenci 2026 meziročně vyšší o 1,7 %. Ministerstvo financí v srpnové makroekonomické predikci čeká průměrnou inflaci 2,2 % za celý rok 2026. ČNB kvůli silné mzdové dynamice a inflaci ve službách drží základní sazbu na mírně restriktivních 3,5 %; koruna má podle analytiků prostor posílit pod 24 CZK/EUR."
     },
     {
-     "title": "ČNB drží sazby na 3,75 %, koruna nad 24,20 za euro",
-     "text": "Bankovní rada na srpnovém zasedání ponechala dvoutýdenní repo sazbu na 3,75 %, lombardní na 4,75 % a diskontní na 2,75 %. Koruna po tiskové konferenci mírně oslabila nad úroveň 24,20 EUR/CZK. Analytici upozorňují, že přetrvávající inflační tlaky a růst cen služeb mohou do konce roku vést k dalšímu zvyšování sazeb."
+     "title": "Vláda chce zatraktivnit důchodové spoření",
+     "text": "Kabinet Andreje Babiše navrhuje zatraktivnit spoření na penzi. Pro investory jde o signál dalších změn v podpoře dlouhodobých investičních produktů."
     }
    ]
   }
