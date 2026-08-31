@@ -45,6 +45,15 @@ function formatDateCz() {
   });
 }
 
+// Záložní crony: když už dnešní brífink v zivot-brain je, nic negenerovat.
+try {
+  const done = await readFileFromBrain('brief/latest.json');
+  if (done && JSON.parse(done.text)?.date === pragueDateStr()) {
+    console.log('Dnešní brífink už existuje — přeskočeno.');
+    process.exit(0);
+  }
+} catch {}
+
 const ctxFile = await readFileFromBrain('context/context.json');
 if (!ctxFile) {
   console.log('context.json v zivot-brain neexistuje — přeskočeno.');

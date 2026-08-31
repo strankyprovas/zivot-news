@@ -295,6 +295,26 @@ function pragueDateStr() {
 const session = process.argv[2] || (pragueHour() >= 18 ? 'post' : 'pre');
 if (!['pre', 'post'].includes(session)) throw new Error(`Neznámá relace: ${session}`);
 
+// „Post" spuštěný po půlnoci (GitHub crony chodí pozdě) patří k VČEREJŠÍMU
+// obchodnímu dni — jinak by dostal zítřejší datum a appka ho brala jako dnešní.
+function targetDateStr() {
+  if (session === 'post' && pragueHour() < 12) {
+    const d = new Date(Date.now() - 24 * 3600 * 1000);
+    return new Intl.DateTimeFormat('sv-SE', { timeZone: 'Europe/Prague' }).format(d);
+  }
+  return pragueDateStr();
+}
+const targetDate = targetDateStr();
+
+// Záložní crony spouštějí totéž vícekrát — když už je výstup hotový, skončit.
+try {
+  const done = JSON.parse(readFileSync(join(DIR, `${session}.json`), 'utf8'));
+  if (done?.date === targetDate) {
+    console.log(`${session} pro ${targetDate} už existuje — přeskočeno.`);
+    process.exit(0);
+  }
+} catch {}
+
 if (!process.env.CLAUDE_CODE_OAUTH_TOKEN) {
   console.log('CLAUDE_CODE_OAUTH_TOKEN není nastavený — přeskočeno (nastav secret v repu).');
   process.exit(0);
@@ -354,7 +374,7 @@ const newMemory = idx > 0 ? raw.slice(idx + MEM_MARK.length).trim() : null;
 if (text.length < 400) throw new Error(`Analýza podezřele krátká (${text.length} znaků), neukládám.`);
 
 const out = {
-  date: pragueDateStr(),
+  date: targetDate,
   session,
   text,
   generatedAt: new Date().toISOString(),

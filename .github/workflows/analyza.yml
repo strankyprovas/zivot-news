@@ -6,8 +6,14 @@ name: Investiční analýzy
 
 on:
   schedule:
+    # GitHub crony běžně vynechá nebo o hodiny zpozdí — proto záložní časy.
+    # Skript sám pozná, že výstup už existuje, a podruhé nic negeneruje.
     - cron: '5 4 * * *'    # ~6:05 Praha → ranní „pre"
+    - cron: '50 4 * * *'   # záloha pre
+    - cron: '40 5 * * *'   # záloha pre
     - cron: '15 20 * * *'  # ~22:15 Praha → večerní „post"
+    - cron: '0 21 * * *'   # záloha post
+    - cron: '50 21 * * *'  # záloha post
   workflow_dispatch:
     inputs:
       session:
@@ -47,7 +53,7 @@ jobs:
           CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
           # GitHub spouští crony i s hodinami zpoždění — relaci proto určuje
           # cron výraz, který běh vyvolal, ne aktuální hodina.
-          SESSION: ${{ github.event_name == 'schedule' && (github.event.schedule == '15 20 * * *' && 'post' || 'pre') || github.event.inputs.session }}
+          SESSION: ${{ github.event_name == 'schedule' && (contains(fromJSON('["15 20 * * *","0 21 * * *","50 21 * * *"]'), github.event.schedule) && 'post' || 'pre') || github.event.inputs.session }}
         run: node analyza/gen_analyza.mjs $SESSION
 
       - name: Commit a push

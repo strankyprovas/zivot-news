@@ -5,6 +5,8 @@ name: Ranní brífink
 on:
   schedule:
     - cron: '45 3 * * *'   # ~5:45 Praha
+    - cron: '30 4 * * *'   # záloha (GitHub crony vynechávají)
+    - cron: '15 5 * * *'   # záloha
   workflow_dispatch:
 
 concurrency:
