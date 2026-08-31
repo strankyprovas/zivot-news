@@ -1,0 +1,28 @@
+# Ranní brífink pro appku Život. Běží tady (veřejné repo = Actions zdarma),
+# osobní data čte a zapisuje výhradně do privátního repa zivot-brain.
+name: Ranní brífink
+
+on:
+  schedule:
+    - cron: '45 3 * * *'   # ~5:45 Praha
+  workflow_dispatch:
+
+concurrency:
+  group: brief
+  cancel-in-progress: false
+
+jobs:
+  brief:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Nainstalovat Claude Code
+        run: npm install -g @anthropic-ai/claude-code
+      - name: Vygenerovat brífink
+        env:
+          CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          BRAIN_PAT: ${{ secrets.BRAIN_PAT }}
+        run: node brief/gen_brief_remote.mjs
