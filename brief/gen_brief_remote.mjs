@@ -29,11 +29,24 @@ async function readFileFromBrain(path) {
 }
 
 async function writeFileToBrain(path, text, message) {
-  const existing = await readFileFromBrain(path).catch(() => null);
-  const body = { message, content: Buffer.from(text, 'utf8').toString('base64') };
-  if (existing?.sha) body.sha = existing.sha;
-  const r = await fetch(`${API}/${path}`, { method: 'PUT', headers: HDRS, body: JSON.stringify(body) });
-  if (!r.ok) throw new Error(`GitHub zápis ${path}: ${r.status}`);
+  // 422 typicky znamená chybějící/zastaralé sha — proto se o zápis pokoušíme
+  // vícekrát a sha čteme vždy čerstvé. Tělo chyby se loguje (bez obsahu souboru).
+  let lastErr;
+  for (let attempt = 0; attempt < 3; attempt++) {
+    const existing = await readFileFromBrain(path).catch((e) => {
+      console.log(`GET ${path} selhal (${e.message}) — zkusím PUT bez sha.`);
+      return null;
+    });
+    const body = { message, content: Buffer.from(text, 'utf8').toString('base64') };
+    if (existing?.sha) body.sha = existing.sha;
+    const r = await fetch(`${API}/${path}`, { method: 'PUT', headers: HDRS, body: JSON.stringify(body) });
+    if (r.ok) return;
+    const errBody = await r.text().catch(() => '');
+    lastErr = `GitHub zápis ${path}: ${r.status} — ${errBody.slice(0, 300)}`;
+    console.log(`Pokus ${attempt + 1} selhal: ${lastErr}`);
+    await new Promise((res) => setTimeout(res, 2000 * (attempt + 1)));
+  }
+  throw new Error(lastErr);
 }
 
 function pragueDateStr() {
