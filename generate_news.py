@@ -44,10 +44,18 @@ Výstup vrať POUZE jako validní JSON v tomto tvaru (žádný jiný text okolo)
   {{"key": "ekonomika", "title": "📈 Ekonomika a trhy", "items": [{{"title": "...", "text": "..."}}]}}
 ]}}"""
 
-    run = subprocess.run(
-        ["claude", "-p", "--model", "opus", "--allowedTools", "WebSearch"],
-        input=prompt, capture_output=True, text=True, timeout=15 * 60,
-    )
+    run = None
+    for attempt in (1, 2):
+        try:
+            run = subprocess.run(
+                ["claude", "-p", "--model", "opus", "--allowedTools", "WebSearch"],
+                input=prompt, capture_output=True, text=True, timeout=30 * 60,
+            )
+            break
+        except subprocess.TimeoutExpired:
+            print(f"claude timeout (pokus {attempt}/2)", file=sys.stderr)
+            if attempt == 2:
+                sys.exit(1)
     if run.returncode != 0:
         print(f"claude selhal ({run.returncode}): {run.stderr[:500]}", file=sys.stderr)
         sys.exit(1)
