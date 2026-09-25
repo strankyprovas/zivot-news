@@ -1,31 +1,33 @@
 ## Běží
-- 2026-09-25: HLAVNÍ TEZE – „5 % je riziko pro tech" DÁL OSLABUJE. 2. den po sobě nové max výnosů (10letý 5.162 %), tech neklesl (Nasdaq +0.01 %). Odolnost roste. (běží, oslabuje)
-- 2026-09-25: KLÍČOVÁ HRANICE 5.18 na 10letém = vypínač trhu, visíme 0.018 pod ní. Průraz = test nervů techu; návrat pod 5 % = úleva. (běží)
-- 2026-09-25: US den plochý navzdory novému max výnosů (S&P −0.02 %, Nasdaq +0.01 %) – korekce → stabilizace, odolnost techu potvrzena podruhé. (běží)
-- 2026-09-25: PŘEHODNOCENO – ropa–výnosy lockstep se rozvolnil. Ropa týden −7.46 % ($92.82), přesto 10letý udělal max. Motor sazeb se přesouvá na jestřábí Fed/PCE. (přehodnoceno)
-- 2026-09-25: TLT $79.42 přesně na 52t minimu (rok −10.74 %) – padající nůž. Vstup až 10letý trvale pod ~4.5 %. (běží)
-- 2026-09-25: 3M poukázka 4.068 % u 52t max – král parkování hotovosti před PCE; riziko reinvestiční, až sazby povolí. (běží)
-- 2026-09-25: Zlato $4 330 (měsíc −6.94 %, YTD −0.25 %, rok +14.83 %) – korekce v trendu, zlevněná pojistka, přikupovat po částech; protivítr reálných sazeb. (běží)
-- 2026-09-25: Stříbro $64.98 (rok +45.38 %, YTD −7.35 % = nepřehřáté) – trend drží, přidávat na zpětce. (běží)
-- 2026-09-25: Měď $6.773 u 52t max (rok +44.11 %) – jede na poptávce; přidávat jen na zpětce. (běží)
-- 2026-09-25: BTC $84 717 (týden +4.40 %, 3M +32.17 %, rok −22.31 %) – obrat běží, nepotvrzený; nehonit. (běží)
-- 2026-09-25: ETH $2 709 (3M +45.61 %, rok −29.98 %) – vyšší páka na obrat krypta než BTC, hlubší roční díra. (běží)
-- 2026-09-25: QQQ $741.10 pod 52t max (748.65), YTD +20.64 % – nejcitlivější na sazby, nekupovat na maximu do prorážejících výnosů. (běží)
-- 2026-09-25: Jádro VWCE €170.20 / MSCI World €129.27 těsně pod maximy (rok +20–22 %) – drží i při nejvyšších výnosech za dekády, DCA po částech. (běží)
-- 2026-09-25: USD/CZK 21.39 u 52t max (rok +3.45 %), EUR/CZK 24.36 – silný dolar z výnosů, do koruny přepočítáváš na drahém USD. (běží)
-- 2026-09-25: VIX 15.33 (52t min 13.38) – trh klidný, ale málo polštáře před PCE. (běží)
-- 2026-09-25: Říjnový hike naceněn ~70 %, jestřábí Fed/Warsh, „vyšší nadéle". Holubičí protiargument = jen chladnoucí trh práce / chladné PCE. (běží)
-- 2026-09-25: Zemní plyn $3.259 (den −1.15 %, týden +11.92 %, YTD −11.58 %) – spike, ne trend, potvrzuje se. (běží)
-- 2026-09-25: PCE (konec měsíce) = dnešní pravděpodobný hlavní spínač; kalendář neověřen. Horký = průraz 5.18; chladný = úleva na dluhopisech. (běží)
-- 2026-09-25: Nůžky Evropa vs. US – potřetí NEVYŠLY pro EU (DAX měsíc −2.97 % vs. Nasdaq +3.69 %). Sázku nechávám ležet. (nevyšlo, odloženo)
+- 2026-09-26: HLAVNÍ TEZE OBRAT – „5 % / 5.18 je riziko pro tech" NEVYŠLA. 10letý překročil 5.18 (5.184 %) a US akcie ROSTLY napříč (Dow +0.93 %, Nasdaq +0.48 %). Trh si na vysoké sazby zvykl. (nevyšlo → nový režim)
+- 2026-09-26: „5.18 = vypínač trhu" – NEVYŠLO. Hranici jsem přeceňoval, průraz nepřinesl pád. (nevyšlo)
+- 2026-09-26: Dow (+0.93 %) poprvé VEDL – rally se rozšiřuje mimo tech = zdravější. Sledovat, jestli pokračuje, nebo zas zaostane (měsíc −3.06 %). (běží, nové)
+- 2026-09-26: VIX 14.87 (−5.11 %) – strach odtekl, risk-on, ale málo polštáře. (běží)
+- 2026-09-26: TLT $79.32 přesně na 52t minimu (rok −10.78 %) – padající nůž. Vstup až 10letý trvale pod ~4.5 %. (běží)
+- 2026-09-26: 3M poukázka 4.070 % u 52t max – král parkování hotovosti; riziko reinvestiční, až sazby povolí. (běží)
+- 2026-09-26: Zlato $4 321 (měsíc −7.15 %, YTD −0.47 %, rok +14.57 %) – korekce v trendu, zlevněná pojistka, přikupovat po částech; protivítr reálných sazeb 5.18. (běží)
+- 2026-09-26: Stříbro $64.71 (rok +44.77 %, YTD −7.73 % = nepřehřáté), den +1.97 % – trend drží, přidávat na zpětce. (běží)
+- 2026-09-26: Měď $6.779 u 52t max (rok +44.23 %) – jede na poptávce; přidávat jen na zpětce. (běží)
+- 2026-09-26: Ropa WTI $92.44 – přehřátá a otáčí se (3M +33.53 %, YTD +60.99 %, ale týden −7.84 %). Nekupovat, vršek možná za námi. (běží)
+- 2026-09-26: Ropa–výnosy lockstep rozvolněn potvrzeno – ropa −2.29 %, výnosy přesto na max. Motor sazeb = Fed/inflace. (běží)
+- 2026-09-26: BTC $84 061 (týden +3.60 %, 3M +31.14 %, rok −22.91 %) – obrat běží, nepotvrzený; nehonit. (běží)
+- 2026-09-26: ETH $2 693 (3M +44.77 %, rok −30.38 %) – vyšší páka na obrat krypta, hlubší roční díra. (běží)
+- 2026-09-26: QQQ $744.50 těsně pod 52t max (748.65), YTD +21.19 % – nekupovat na maximu; čekat zpětku nebo 10letý pod 5 %. (běží)
+- 2026-09-26: Jádro VWCE €168.92 / MSCI World €128.35 kousek pod maximy (rok +20–21 %) – drží i při rekordních výnosech, DCA po částech. Dnes červené (zrcadlí EU close). (běží)
+- 2026-09-26: USD/CZK 21.37 u 52t max (rok +3.35 %), dnes −0.36 %, EUR/CZK 24.34 – silný dolar z výnosů, USD aktiva přepočítáváš draho. (běží)
+- 2026-09-26: Nůžky Evropa vs. US – POČTVRTÉ nevyšly pro EU (DAX −0.57 % vs. Nasdaq +0.48 %). Sázku na EU zvážit úplně opustit. (nevyšlo, opakovaně)
+- 2026-09-26: Říjnový hike naceněn ~70 %, jestřábí Fed, „vyšší nadéle". Holubičí protiargument = jen chladnoucí trh práce / chladné PCE. (běží)
+- 2026-09-26: KLÍČOVÁ OTÁZKA na pondělí: udrží 10letý nad 5.18 %? Nad = potvrzení risk-on; pod 5 % = úleva dluhopisům i techu. (běží)
+- 2026-09-26: PCE (konec měsíce) – trh vstřebal bez šoku (akcie rostly), kalendář neověřen. (běží)
+- 2026-09-26: Zemní plyn $3.251 (den −1.40 %, týden +11.64 %, YTD −11.80 %) – spike, ne trend. (běží)
 
 ## Uzavřeno
-- 2026-09-25: „US den červený kvůli výnosům" – přestalo platit, dva dny plocho navzdory novým max výnosů. (přehodnoceno)
-- 2026-09-25: „Ropa–výnosy lockstep" – rozvolnil se, ropa týden −7.46 % bez efektu na výnosy. (přehodnoceno)
-- 2026-09-24: „5 % = strop" (10letý) – NEVYŠLO podruhé, hot PMI prorazil. (nevyšlo)
-- 2026-09-24: „Summit binární pro Dow/EU/měď" – rozplynulo se do měkkého příměří. (přehodnoceno)
-- 2026-09-18: „BTC nad $80k s objemem = spouštěč" – SPUSTIL SE. (vyšlo)
-- 2026-09-17: „Fed hike + jestřábí dot plot pohne dolarem" – VYŠLO, USD/CZK nad 21. (vyšlo)
-- 2026-09-11: „Evropa odolnější než US" – NEVYŠLO, ropný šok + silný USD. (nevyšlo)
-- 2026-09-04: „Payrolls holubičí" – NEVYŠLO, print horký (162k). (nevyšlo)
-- 2026-09-21: „Ropa capnutá ropovodem" – NEPLATILO, geopolitika otáčí rychle. (nevyšlo)
+- 2026-09-26: „5.18 = vypínač trhu" – NEVYŠLO, průraz bez pádu, akcie rostly.
+- 2026-09-26: „US den červený/plochý kvůli výnosům" – definitivně mrtvé, den zelený napříč.
+- 2026-09-25: „5 % = strop" (10letý) – NEVYŠLO, prolomeno opakovaně.
+- 2026-09-24: „Summit binární pro Dow/EU/měď" – rozplynulo se do měkkého příměří.
+- 2026-09-18: „BTC nad $80k s objemem = spouštěč" – VYŠLO.
+- 2026-09-17: „Fed hike + jestřábí dot plot pohne dolarem" – VYŠLO, USD/CZK nad 21.
+- 2026-09-11: „Evropa odolnější než US" – NEVYŠLO, opakovaně.
+- 2026-09-04: „Payrolls holubičí" – NEVYŠLO, print horký (162k).
+- 2026-09-21: „Ropa capnutá ropovodem" – NEPLATILO, geopolitika otáčí rychle.
