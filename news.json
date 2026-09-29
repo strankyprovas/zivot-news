@@ -1,31 +1,31 @@
 {
  "date": "2026-09-29",
  "date_cz": "29.09.2026",
- "updated_at": "2026-09-29T00:25+02:00",
+ "updated_at": "2026-09-29T23:16+02:00",
  "sections": [
   {
    "key": "cr",
    "title": "🇨🇿 Česká republika",
    "items": [
     {
-     "title": "Evropská komise pozastavila část dotací Agrofertu",
-     "text": "Komise na šest měsíců odložila výplatu zhruba 3,18 milionu eur (asi 77 milionů Kč) z fondu pro rozvoj venkova firmám z holdingu Agrofert. Podle ní převod akcií do svěřenského fondu RSVP Trust neřeší možný střet zájmů premiéra Andreje Babiše, mimo jiné proto, že z fondu mají mít prospěch jeho potomci. Přímé zemědělské platby jdou dál bez omezení."
+     "title": "Sněmovna jedná o druhém pokusu vyslovit vládě nedůvěru",
+     "text": "Opozice podruhé zkouší vyslovit nedůvěru vládě ANO, SPD a Motoristů. Kritizuje hlavně návrh rozpočtu s druhým nejvyšším schodkem v historii, nevyřešený střet zájmů premiéra Babiše a útoky na instituce, soudy a média. Koalice má 108 poslanců a k vyslovení nedůvěry je potřeba 101 hlasů, takže vláda by měla hlasování ustát. Jednání bude pokračovat ve středu."
     },
     {
-     "title": "Od 1. října se vrací regulace cen paliv",
-     "text": "Ministerstvo financí bude každý den stanovovat nejvyšší ceny benzinu a nafty podle burzovních cen a regulované marže 2,50 Kč za litr. Spotřební daň z nafty klesne z 9,95 na 8,011 Kč za litr. Opatření platí zatím do konce října, rafinérie navíc zaplatí mimořádnou daň z vyšší marže."
+     "title": "Policie vyšetřuje olovo ve vodě v Odoleně Vodě",
+     "text": "Středočeští policisté zahájili trestní řízení kvůli vysoké koncentraci olova ve vodě z místního vodojemu. Případ prověřují jako ohrožení životního prostředí z nedbalosti. Podle pondělních výsledků voda dál není pitná."
     },
     {
-     "title": "Babiš vyzval Fialu v otevřeném dopise",
-     "text": "Premiér Andrej Babiš v otevřeném dopise vyzval bývalého premiéra Petra Fialu, aby „přestal škodit“. Dopis se týká růstu cen pohonných hmot a hypoték."
+     "title": "Policistům a hasičům porostou platy",
+     "text": "Platy policistů a hasičů se zvýší o 2 600 až 2 900 Kč."
     },
     {
-     "title": "Den české státnosti: Vystrčil udělil medaile Senátu",
-     "text": "Předseda Senátu Miloš Vystrčil udělil ke státnímu svátku stříbrné pamětní medaile sedmnácti osobnostem, které vybral z více než stovky nominací."
+     "title": "Prezident Pavel přijal nové velvyslance",
+     "text": "Prezident Petr Pavel přijal nové velvyslance, mezi nimi i nového apoštolského nuncia v Česku. Představitelé státu, církve a města zároveň otevřeli Korunní komoru ve svatovítské katedrále."
     },
     {
-     "title": "Domovům pro seniory chybí personál",
-     "text": "Domovy pro seniory po celé republice trápí nedostatek pečovatelů, sociálních pracovníků a zdravotních sester."
+     "title": "Začal 30. ročník Týdne knihoven",
+     "text": "Do celostátní kampaně se zapojilo přes 400 knihoven. Chystají besedy a čtenářské výzvy."
     }
    ]
   },
@@ -34,24 +34,28 @@
    "title": "🌍 Svět",
    "items": [
     {
-     "title": "Trump odmítl íránský plán na otevření Hormuzského průlivu",
-     "text": "Írán nabídl, že do sedmi dnů otevře Hormuzský průliv a obnoví jaderná jednání, pokud USA splní jeho podmínky. Prezident Trump návrh odmítl jako nepřijatelný. Krize v průlivu trvá od konce února, kdy začaly americko-izraelské útoky na Írán."
+     "title": "Rusko znovu masivně útočilo na Ukrajinu",
+     "text": "Vlna ruských útoků drony a raketami zabila devět lidí a 80 dalších zranila. Dron zasáhl také Akademii věd v Kyjevě, kde zahynuli dva lidé. Podle Zelenského bylo 80 ze 120 vypuštěných dronů nového typu s proudovým pohonem, které se hůř sestřelují."
     },
     {
-     "title": "Ukrajina: silné ruské útoky na Kyjev a ocelárny",
-     "text": "Rusko zaútočilo na Kyjev drony a balistickými raketami. Podle zpráv zemřeli dva lidé a 22 bylo zraněno, při úderu na ocelárnu Interpipe zahynuli čtyři lidé. Ukrajinský 3. armádní sbor podle vlastních údajů získal zpět 51 km² a pět obcí. Trump souhlasil, že Ukrajině udělí licence na výrobu střel Patriot."
+     "title": "Jednání USA a Íránu o Hormuzském průlivu",
+     "text": "Íránský ministr zahraničí Arakčí jednal v New Yorku s katarskými zprostředkovateli o návrhu na znovuotevření Hormuzského průlivu a čeká na konečnou odpověď Washingtonu. USA trvají na tom, že válka neskončí bez dohody o íránském jaderném programu. Írán mezitím hrozí novými údery."
     },
     {
-     "title": "Británie: zatčeno pět mužů u základny, kterou využívají USA",
-     "text": "Britská policie zadržela pět mužů podezřelých z přípravy teroristického útoku. K zatčení došlo v neděli u letecké základny, kterou USA využívají ve válce s Íránem."
+     "title": "Americké jednotky opouštějí poslední základny v Iráku",
+     "text": "Americké síly mají do středy opustit poslední základny v Iráku. Odchod dohodla v roce 2024 Bidenova administrativa, provádí ho Trumpova vláda, přestože USA vedou válku s Íránem."
     },
     {
-     "title": "KLDR v OSN: jaderný status je nevratný",
-     "text": "Severokorejská náměstkyně ministra zahraničí Kim Son-gjong řekla na Valném shromáždění OSN, že KLDR je jadernou mocností a tento stav je nevratný. Jihokorejská armáda zároveň uvedla, že miny, které vybuchly v demilitarizované zóně, jsou velmi pravděpodobně ze Severní Koreje."
+     "title": "Slovenský parlament vyslovil nedůvěru ministru Tarabovi",
+     "text": "Poslanci vyslovili nedůvěru ministru životního prostředí Tomáši Tarabovi. Vládě Roberta Fica hrozí existenční krize a předčasné volby."
     },
     {
-     "title": "Francie: stávka veřejného sektoru",
-     "text": "V úterý 29. září stávkují ve Francii učitelé, zdravotníci, hasiči i policisté. V Paříži vyráží pochod z náměstí République na Nation a některé stanice metra mohou být uzavřené."
+     "title": "Útok nožem ve škole u Čadce",
+     "text": "Třináctiletý žák osmé třídy ve škole ve Staškově napadl nožem tři lidi. Jedna učitelka zemřela, druhá učitelka a jedna dívka jsou zraněné. Podezřelý byl zadržen."
+    },
+    {
+     "title": "Estonsko viní Rusko ze žhářského útoku na zbrojovku",
+     "text": "Podle Estonska stojí Rusko za žhářským útokem na firmu Milrem Robotics, která dodává drony Ukrajině."
     }
    ]
   },
@@ -60,28 +64,28 @@
    "title": "📈 Ekonomika a trhy",
    "items": [
     {
-     "title": "Wall Street v pondělí klesla",
-     "text": "Dow Jones ztratil 0,67 % (347 bodů) na 51 481,51, S&P 500 klesl o 0,8 % na 7 683,69 a Nasdaq o více než 0,9 % na 26 820,38. Trhy táhlo dolů napětí mezi USA a Íránem, dražší ropa a rostoucí výnosy dluhopisů."
+     "title": "Wall Street mírně ve ztrátě",
+     "text": "Americké indexy zavřely mírně níž, tlačily je rostoucí výnosy dluhopisů. S&P 500 ztratil 0,17 % na 7 670,84 bodu, Dow Jones 0,26 % na 51 349,92 bodu a Nasdaq 0,09 % na 26 797,54 bodu. Russell 2000 klesl o 0,35 %."
     },
     {
-     "title": "Výnosy amerických dluhopisů nejvýš od roku 2007",
-     "text": "Výnos desetiletého dluhopisu vzrostl o 6 bazických bodů na 5,24 % a během dne se dostal až na 5,27 %, nejvýš od roku 2007. Třicetiletý výnos stoupl na 5,56 %, nejvýš od roku 2004. Trh sází na další zvýšení sazeb Fedem."
+     "title": "Spotřebitelská důvěra v USA je nejníž za 12 let",
+     "text": "Index Conference Board v září klesl na 81,9 bodu z revidovaných 88,6. Ekonomové čekali růst na 89 bodů."
     },
     {
-     "title": "Ropa zdražuje po odmítnutí íránského návrhu",
-     "text": "Ceny ropy vzrostly poté, co Trump odmítl íránský plán na otevření Hormuzského průlivu. Obchodování je kvůli zprávám z Blízkého východu velmi rozkolísané. Investoři se bojí vyšší inflace a sazeb."
+     "title": "Výnosy dluhopisů na několikaletých maximech",
+     "text": "Výnos desetiletého amerického dluhopisu vzrostl na 5,26 %. Dlouhodobé výnosy jsou podle AP nejvýš za 24 let, hlavně kvůli výkyvům ropy během války s Íránem."
     },
     {
-     "title": "Boeing propadl o téměř 7 %",
-     "text": "Úřad FAA odloží certifikaci letounu 737 Max 10 kvůli nově zjištěné chybě v softwaru, který řídí vertikální navigaci při přiblížení na přistání. Akcie Boeingu po této zprávě v pondělí spadly téměř o 7 %."
+     "title": "Ropa zlevnila, zlato zdražilo",
+     "text": "Americká ropa WTI (listopadový kontrakt) klesla o 3,95 % na 88,94 USD za barel a Brent o 1,5 % na 96,41 USD. Zlato přidalo 1,12 % na 4 215 USD za unci. Bitcoin vzrostl o 0,34 % na zhruba 83 466 USD."
     },
     {
-     "title": "Evropa: DAX mírně v minusu",
-     "text": "Německý DAX v pondělí klesl o 0,13 % na 25 374 bodů. Nejvíc ztrácely Porsche SE, Deutsche Telekom a Siemens Energy, nejvíc rostly Merck a Siemens Healthineers."
+     "title": "Evropské akcie oslabily",
+     "text": "Evropské trhy zatížil růst výnosů amerických dluhopisů. STOXX Europe 600 ztratil 0,09 % na 638,08 bodu a britský FTSE 100 klesl o 0,45 %."
     },
     {
-     "title": "Bitcoin a zlato",
-     "text": "Podle posledních dostupných údajů (uzávěrka 24. září) stál bitcoin zhruba 84 360 USD a zlato přibližně 4 274 USD za unci."
+     "title": "Pražská burza a koruna",
+     "text": "Index PX dopoledne mírně rostl na zhruba 2 722 bodů, táhly ho akcie ČEZ, Erste a O2. Koruna se držela kolem 24,4 Kč za euro. Závěrečné hodnoty zatím nejsou k dispozici."
     }
    ]
   }
