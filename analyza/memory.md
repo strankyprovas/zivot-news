@@ -1,32 +1,31 @@
 ## Běží
-- 2026-10-05: KLÍČOVÁ DIVERGENCE trvá – akcie zelené (S&P 7723 +0,73/Nasdaq 27191 +1,19 %), 10letý **5,277 %** (+0,76 %) u 24letého maxima (52t max 5,34); žene fiskál+Hormuz+odolná data, ne sazby. Rally na tenkém ledě. (běží, klíčové)
-- 2026-10-05: DNES ISM služby 16:00 (konsenzus ~55,1 vs 55,4) – silný print = tlak na 10letý a tech. St zápis FOMC, Čt zápis ECB, Pá michiganská + CA práce. Žádné CPI. (běží, klíčové)
-- 2026-10-05: OPEC+ rollover VYŠEL; WTI $90,51 (−0,66 %) nereaguje, podrežim u $91 drží, obrat pod $80 nepotvrzen. (běží, klíčové)
-- 2026-10-02: PAYROLLOVÝ SPÍNAČ – akciová část VYŠLA (hike ze stolu), sazbová NEVYŠLA (10letý drží u maxima). (běží, klíčové)
-- 2026-10-02: ROTACE cyklika→tech – Dow 1M −3,55 % vs Nasdaq 1M +3,71 %. (běží)
-- 2026-10-05: 3M poukázka **3,993 %** u 52t max 4,09 – král parkování suchého prachu před středečním zápisem Fedu. (běží)
-- 2026-10-05: Zlato $4 189 (YTD −3,51 %, 1R +5,34 %) – korekce ne obrat; levnější pojistka, přikupovat po troškách; protivítr reálné sazby 5,28. (běží)
-- 2026-10-05: Stříbro **$62,19** (+3,69 %) poprvé nad prahem $62 – náznak obratu, ale první den; signál = pár dní nad $62 s objemem. (běží)
-- 2026-10-05: TLT $77,48 na 52t minimu (YTD −11,11 %) – padající nůž, sráží fiskál; vstup až 10letý trvale pod ~4,5 %. (běží)
-- 2026-10-05: QQQ $749,58 (YTD +22,02 %) na dotek 52t max 754,54 – draho, kupovat pod ~$700 nebo 10letý pod 5 %. (běží)
-- 2026-10-05: Jádro VWCE €172,32 / MSCI World €130,74 těsně pod maximy (1R +19–21 %) – DCA po částech, žádná sleva. (běží)
-- 2026-10-05: VIX **16,22** (+5,94 %) – mírný návrat nervozity z 15,31, pořád nízko, tenký polštář. (běží)
-- 2026-10-05: USD/CZK **21,83** (+0,42 %) skoro na 52t max 21,88 – dolar zase zpevnil; EUR/USD 1R −4,36 %. (běží)
-- 2026-10-05: BTC $85 990 (1D −0,57 %, 3M +35,50 %, 1R −30,38 %) – od spouště ~$88k se vzdálil. (běží)
-- 2026-10-05: ETH $2 713 (1R −39,91 %, 3M +46,02 %) – oživení z dna, obrat nepotvrzen. (běží)
-- 2026-10-05: Měď $6,609 (1R +32,52 %) u 52t max 6,83 – průmysl drží líp než drahé kovy, přidávat jen na výraznější zpětce. (běží)
-- 2026-10-05: Evropa laggard – DAX YTD +3,04 % vs Nasdaq +16,99 %; teze „Evropa odolnější" opakovaně nevychází. (běží)
-- 2026-10-02: Zemní plyn YTD −17,80 % – strukturálně slabé, nechat být. (běží)
+- 2026-10-06: KLÍČOVÁ DIVERGENCE zesílila – Nasdaq nové ATH 27 477 (+1,05 %), 10letý **5,311 %** nové 24leté max (52t max 5,35). Žene fiskál+data, ne sazby. Akcie slaví, dluhopisy varují. Rally na tenkém ledě. (běží, klíčové)
+- 2026-10-06: ROTACE cyklika→tech zostřuje – Dow 1M **−4,50 %** vs Nasdaq 1M +3,36 %. (běží, klíčové)
+- 2026-10-06: Ropa konečně chladne – WTI $89,38 (1D −1,90 %, 1T −3,48 %) poprvé pod $90; obrat pod $80 nepotvrzen. (běží)
+- 2026-10-06: 3M poukázka **4,018 %** u 52t max 4,09 – král parkování suchého prachu, nulová durace. (běží)
+- 2026-10-06: Zlato $4 177 (1M −7,99 %, YTD −3,77 %) – korekce ne obrat, levnější pojistka, přikupovat po troškách; protivítr reálné sazby 5,31. (běží)
+- 2026-10-06: TLT $77,48 na 52t min (3M −9,33 %, 1R −12,62 %) – padající nůž, sráží fiskál; vstup až 10letý trvale pod ~4,5 %. (běží)
+- 2026-10-06: QQQ $749,58 na dotek 52t max 754,54 (YTD +22,02 %) – draho, kupovat pod ~$700 nebo 10letý pod 5 %. (běží)
+- 2026-10-06: Jádro VWCE €171,14 / MSCI World €130,04 těsně pod maximy (1R +19–20 %) – DCA po částech, žádná sleva. (běží)
+- 2026-10-06: Měď $6,676 (+2,83 %, 1R +33,87 %) u 52t max 6,83 – „neudržitelná" rally, přehřáté, přidávat jen na výrazné zpětce. (běží)
+- 2026-10-06: Stříbro $61,47 (+2,49 %) zpět pod $62 – „náznak obratu nad $62" NEVYŠEL, signál až pár dní nad $62 s objemem. (běží)
+- 2026-10-06: VIX 15,52 (1T −3,42 %) – klid, ale tenký polštář pod křehkou divergencí. (běží)
+- 2026-10-06: USD/CZK 21,78 (1T +1,62 %) blízko 52t max 21,88; EUR/USD 1R −4,13 % – silný dolar. (běží)
+- 2026-10-06: BTC $85 955 (3M +35,45 %, 1R −31,10 %) / ETH $2 716 (3M +46,17 %, 1R −42,06 %) – oživení ze dna, obrat nepotvrzen. (běží)
+- 2026-10-06: Evropa laggard – DAX YTD +3,02 % vs Nasdaq +18,22 %; „Evropa odolnější" opakovaně nevychází. (běží)
+- 2026-10-06: Zemní plyn YTD −16,52 % – strukturálně slabé, nechat být. (běží)
 - 2026-10-02: Shutdown jako riziko padlo – financování do 11.12.2026, data tečou. (běží)
+- 2026-10-06: ZÍTRA St zápis FOMC (zasedání 16.9., jednomyslný hike); jestřábí tón = tlak na 10letý. Čt zápis ECB, Pá michiganská. Žádné US CPI. (běží)
 
 ## Uzavřeno
-- 2026-10-05: „OPEC+ rollover = konsenzus" – VYŠLO, kvóty beze změny, WTI nereagovalo.
-- 2026-10-04: „Hormuz se uvolňuje, ropa zchladne" – NEVYŠLO: WTI zpět na $91.
-- 2026-10-02: „10letý má kam klesat, až ropa chladne" – NEVYŠLO: tlak je fiskál+data, ne jen ropa.
+- 2026-10-06: „Stříbro nad $62 = náznak obratu" – NEVYŠLO, zpět na $61,47 po jednom dni.
+- 2026-10-05: „OPEC+ rollover = konsenzus" – VYŠLO, kvóty beze změny.
+- 2026-10-04: „Hormuz se uvolňuje, ropa zchladne" – NEVYŠLO tehdy; ropa chladne až teď (6.10. pod $90).
+- 2026-10-02: „10letý má kam klesat, až ropa chladne" – NEVYŠLO: tlak je fiskál+data.
 - 2026-10-01: „PCE den: hot = spínač" – ČÁSTEČNĚ NEVYŠLO: print měkký, výnosy přesto vylétly.
 - 2026-09-30: „Zlato hledá dno / odraz" – NEVYŠLO, odraz vyfoukl.
-- 2026-09-26: „5.18 = vypínač / 5 % = strop" – NEVYŠLO, tlak výnosů se vrací u 5.28+.
+- 2026-09-26: „5.18 = vypínač / 5 % = strop" – NEVYŠLO, tlak výnosů se vrací u 5.3+.
 - 2026-09-18: „BTC nad $80k s objemem = spouštěč" – VYŠLO.
-- 2026-09-17: „Fed hike + jestřábí dot plot pohne dolarem" – VYŠLO, USD/CZK nad 21.
+- 2026-09-17: „Fed hike pohne dolarem" – VYŠLO, USD/CZK nad 21.
 - 2026-09-11: „Evropa odolnější než US" – NEVYŠLO, opakovaně.
-- 2026-09-04: „Payrolls holubičí" – 2.10 naopak holubičí (29k), akciová část spínače vyšla.
+- 2026-09-04: „Payrolls holubičí" – 2.10. holubičí (29k), akciová část spínače vyšla.
