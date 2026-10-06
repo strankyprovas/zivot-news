@@ -1,35 +1,31 @@
 {
  "date": "2026-10-06",
  "date_cz": "06.10.2026",
- "updated_at": "2026-10-06T01:03+02:00",
+ "updated_at": "2026-10-06T23:27+02:00",
  "sections": [
   {
    "key": "cr",
    "title": "🇨🇿 Česká republika",
    "items": [
     {
-     "title": "Česko si připomnělo 90 let od narození Václava Havla",
-     "text": "K výročí 5. října se v Senátu a v Praze 6 odhalovaly pamětní desky a Havlovi byla in memoriam udělena cena Vize 97. Na Pražském hradě začíná festival Havel ALIVE!, který potrvá do ledna, a výstavy a další akce probíhají také v Brně, Ústí nad Labem a Kralupech."
+     "title": "Česko dostalo první peníze z obranného nástroje EU SAFE",
+     "text": "Česko dostalo první platbu z unijního obranného nástroje SAFE: 309 milionů eur, tedy přes 7,5 miliardy korun. Peníze půjdou na tanky Leopard 2 A8, vozy Tatra T-815 a vojenské využití dálnice D11."
     },
     {
-     "title": "Vláda nesníží DPH na pohonné hmoty, maximální cena nafty klesá",
-     "text": "Premiér Andrej Babiš řekl, že vláda o snížení DPH na paliva neuvažuje. Regulace cen paliv s marží 2,50 Kč za litr platí do 31. října. Maximální cena nafty v úterý klesá, cena benzinu se nemění. Podle vlády stojí regulace zhruba miliardu korun měsíčně."
+     "title": "Babiš v Brně kritizoval emisní povolenky",
+     "text": "Premiér Andrej Babiš navštívil 67. Mezinárodní strojírenský veletrh v Brně a promluvil na sněmu Svazu průmyslu a dopravy. Podle něj systém povolenek ETS uměle zdražuje energie a oslabuje průmysl. Zopakoval, že by se povolenky pro rafinérie měly zrušit, a uvedl, že Česko na nich ročně tratí 50 miliard korun."
     },
     {
-     "title": "Vláda jednala o asistentech pedagoga a kulturní politice",
-     "text": "Na pondělní schůzi vláda probírala nové financování asistentů pedagoga podle počtu a potřeb žáků místo individuálních doporučení. Znovu se zabývala i státní kulturní politikou do roku 2029, kterou kritizovaly profesní organizace."
+     "title": "Svaz průmyslu zadal vládě sedm úkolů",
+     "text": "Svaz průmyslu a dopravy na sněmu předal vládě sedm úkolů na druhou polovinu volebního období. Hlavním tématem byla konkurenceschopnost průmyslu a dostupné energie."
     },
     {
-     "title": "ČSÚ zveřejní odhad zářijové inflace, čeká se zrychlení",
-     "text": "Analytici čekají, že meziroční inflace v září zrychlila k 2,5 % ze srpnových 1,9 %. Hlavním důvodem je zdražování pohonných hmot, které byly v září meziročně dražší téměř o 37 %. Konečné číslo ČSÚ zveřejní 13. října."
+     "title": "Kritika prezidenta Pavla kvůli dovolené v době voleb",
+     "text": "Bulvár kritizuje prezidenta Petra Pavla, že během voleb odjel na dovolenou na motorce. Podle zpráv se do práce vrátí 19. října. Druhé kolo senátních voleb se koná 16. a 17. října."
     },
     {
-     "title": "V Brně začal Mezinárodní strojírenský veletrh",
-     "text": "Na 67. ročníku veletrhu se do pátku představí 1379 vystavovatelů z 39 zemí v osmi pavilonech brněnského výstaviště."
-    },
-    {
-     "title": "Poslanec Turek se musel omluvit Seznamu",
-     "text": "Poslanec Filip Turek se na základě soudního rozhodnutí omluvil společnosti Seznam.cz za nepravdivá tvrzení o přístupu k e-mailům."
+     "title": "Fotbalisté prohráli v Anglii, Plzeň v Lize mistrů dál bez ztráty",
+     "text": "Čeští fotbalisté prohráli v Lize národů v Anglii, dva góly dal Harry Kane. Hokejisté Plzně porazili Skellefteå a v hokejové Lize mistrů mají dál stoprocentní bilanci. Liberec porazil úřadujícího šampiona."
     }
    ]
   },
@@ -38,28 +34,28 @@
    "title": "🌍 Svět",
    "items": [
     {
-     "title": "Brazílie: Flávio Bolsonaro porazil v 1. kole Lulu, rozhodne druhé kolo",
-     "text": "Senátor Flávio Bolsonaro získal v prvním kole prezidentských voleb 47,03 % hlasů, prezident Lula da Silva 45,16 %. Výsledek je pro Bolsonara lepší, než čekaly průzkumy. Druhé kolo proběhne 25. října."
+     "title": "Drony zasáhly dvě lodě u Bulharska v Černém moři",
+     "text": "Drony zasáhly dvě obchodní lodě ve výlučné ekonomické zóně Bulharska. Jedna se potopila a její posádka se pohřešuje, druhá začala hořet a námořníky se podařilo evakuovat. Bulharská média mluví o bezprecedentním koordinovaném útoku."
     },
     {
-     "title": "Merz v Kyjevě, Rusko stupňuje útoky na ukrajinská města",
-     "text": "Kancléře Merze přivítaly v Kyjevě sirény a výbuchy. Ruský dron znovu zasáhl Severní most přes Dněpr. Německo slíbilo 1 miliardu eur vojenské pomoci a 350 milionů eur na opravy energetiky. Německé tajné služby varují, že by Rusko mohlo zatáhnout Německo do ozbrojeného konfliktu."
+     "title": "Ukrajina zaútočila drony na Moskevskou oblast i Záporožskou elektrárnu",
+     "text": "Podle moskevského starosty Sobjanina vypustila Ukrajina přes noc více než 650 dronů. Na Moskevskou oblast dopadly útoky, které zabily dva lidi a devět zranily. Drony zasáhly také dvě zařízení Ruskem okupované Záporožské jaderné elektrárny a zabily jednoho člověka."
     },
     {
-     "title": "Ukrajina chce v odvetě útočit na ruské rafinerie",
-     "text": "Kyjev reaguje na ruskou strategii náletů, které mají vyhnat obyvatele z měst. Ukrajina chce zasahovat ruské rafinerie, ale ne civilisty."
+     "title": "Jemenská vláda dobyla zpět přístav Mocha",
+     "text": "Jemenská vládní vojska s podporou letectva koalice vedené Saúdskou Arábií vytlačila húsíje z několika měst u Rudého moře. Vláda oznámila, že znovu ovládla strategický přístav Mocha u Bab al-Mandabského průlivu. Turecko a Pákistán chtějí rychle vyslat vojáky do Saúdské Arábie podle obranné dohody ze srpna, takzvaného Mekkánského paktu."
     },
     {
-     "title": "Trump viní Írán z pokusu o únos letadla flydubai do Izraele",
-     "text": "Prezident Trump řekl, že podle něj osobně stojí za pokusem o únos letu flydubai mířícího do Izraele Írán. Izraelské hodnocení naopak mluví o činu jednotlivce, ománského druhého pilota. Viceprezident Vance řekl, že průkazné důkazy o zapojení Teheránu neviděl. Izrael měl připravené stíhačky, letadlo nakonec odklonilo do Saúdské Arábie."
+     "title": "V Německu zatkli bývalého šéfa BND",
+     "text": "Německá policie zatkla bývalého šéfa zpravodajské služby BND Augusta Hanninga. Je podezřelý ze špionáže a pokusu o vlastizradu."
     },
     {
-     "title": "Hútíové hlásí útoky na Saúdskou Arábii",
-     "text": "Jemenští hútíové podporovaní Íránem tvrdí, že zaútočili na letiště v Rijádu a rafinerii Aramco."
+     "title": "Ve Francii pokračují protesty",
+     "text": "Ve Francii proběhl další den blokád škol a demonstrací. V úterý se k protestům v řadě měst přidaly i odbory."
     },
     {
-     "title": "Ve Francii pokračují studentské protesty",
-     "text": "Studenti ve Francii znovu demonstrovali a dva z nich zranily granáty."
+     "title": "Spor Británie a Izraele kvůli konzulátu v Jeruzalémě",
+     "text": "Britský poradce pro národní bezpečnost se v Izraeli neúspěšně snažil zabránit plánovanému uzavření britského konzulátu v Jeruzalémě. Pokud Izrael konzulát zavře, Británie podle zpráv nejspíš vyhostí izraelské diplomaty."
     }
    ]
   },
@@ -68,28 +64,24 @@
    "title": "📈 Ekonomika a trhy",
    "items": [
     {
-     "title": "Wall Street: Nasdaq a Nvidia na rekordech",
-     "text": "Dnešní uzavírací data zatím nebyla k dispozici, jde o pondělní obchodování. Nasdaq Composite vzrostl o 1,05 % na rekordních 27 477 bodů, S&P 500 o 0,66 % na 7 774 bodů a Dow Jones o 0,18 % na 51 268 bodů. Nvidia uzavřela na historickém maximu."
+     "title": "S&P 500 zavřel na novém rekordu",
+     "text": "Index S&P 500 zavřel na novém rekordu 7 818,93 bodu (+0,58 %). Dow Jones přidal 0,49 % na 51 521,28 bodu a Nasdaq Composite 0,45 % na 27 599,79 bodu. Trh táhly technologické firmy, ropa a výnosy amerických dluhopisů se uklidnily."
     },
     {
-     "title": "Výnosy dluhopisů USA rostou, služby zdražují",
-     "text": "Výnos 10letého amerického dluhopisu vzrostl o 3 bazické body na 5,31 %. Index ISM ve službách klesl na 54,9 z 55,4, jeho cenová složka ale stoupla na 74, což ukazuje na přetrvávající cenové tlaky."
+     "title": "Čipové firmy vedly růst, AMD má nové cílové ceny",
+     "text": "Akcie AMD rostly už před otevřením trhu zhruba o 3,6 %. Citi zvýšila cílovou cenu na 800 dolarů a BNP Paribas na 960 dolarů. Nvidia rostla asi o 1 % a blíží se tržní hodnotě 6 bilionů dolarů."
     },
     {
-     "title": "Pražská burza: PX přidal 0,83 %",
-     "text": "Index PX v pondělí stoupl o 0,83 % na 2637,96 bodu."
+     "title": "Evropské akcie rostly",
+     "text": "Evropské trhy během dopoledne přidávaly zhruba 0,8 %: STOXX 600 byl na 638,67 bodu, DAX kolem 25 466 bodů a FTSE 100 kolem 10 584 bodů. Nejvíc rostly zdravotnické akcie. Jde o dopolední údaje, ne o závěrečné hodnoty."
     },
     {
-     "title": "Komodity: ropa kolem 89 dolarů, zlato nad 4 100 dolary",
-     "text": "Listopadový kontrakt na ropu WTI mírně klesl o 0,2 % na 89,25 USD za barel. Zlato podražilo o 0,27 % na 4168 USD za unci."
+     "title": "Pražská burza dál klesá, koruna posílila",
+     "text": "Index PX klesl o 0,29 % na 2 630,42 bodu, ztrátou skončil už devět z posledních deseti obchodních dnů. Moneta ztratila 2,2 % na 182 Kč, ČEZ přidal 0,82 % na 1 360 Kč. Koruna v 17:00 posílila na 24,40 Kč za euro a 21,67 Kč za dolar."
     },
     {
-     "title": "Bitcoin se drží kolem 86 tisíc dolarů",
-     "text": "Bitcoin se obchodoval kolem 86 000 USD, denně ztratil asi 0,5 %. Proti stavu před rokem je zhruba o 37 tisíc dolarů níž."
-    },
-    {
-     "title": "Firmy: SpaceX a TSMC rostou",
-     "text": "Akcie SpaceX stouply o 5 % poté, co jim Morgan Stanley stanovila cílovou cenu 300 USD. TSMC se dostala na historické maximum po potvrzení prvních jednání s Elonem Muskem o projektu Terafab."
+     "title": "Ropa pod 100 dolary, zlato a bitcoin oslabily",
+     "text": "Ropa klesla pod 100 dolarů za barel. Zlato ztratilo 0,44 % na 4 121 dolarů za unci. Bitcoin se obchodoval kolem 85 500 dolarů."
     }
    ]
   }
