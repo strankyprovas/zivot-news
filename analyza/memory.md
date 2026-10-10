@@ -1,31 +1,29 @@
 ## Běží
-- 2026-10-09: AI TRHLINA – OpenAI tržby ~$50 mld. vs čekaných ~$70 (rozdíl prý účetní) srazil Nasdaq −1,25 % na 27 193, Dow +0,10 % (nůžky); ráno 10.10 futures klidné, test zda jednorázové. (běží, klíčové)
-- 2026-10-09: DATOVÝ BLACKOUT – vládní shutdown od 1.10., payrolls i další statistiky nevycházejí; Fed i trh naslepo = větší citlivost na jednotlivé zprávy. (běží, klíčové)
-- 2026-10-09: DLUHOPISY – 10letý druhý den úlevy 5,231 % (1D −0,87 %), ale 1M +8,15 %, YTD +25,65 %; sleduju jestli začátek odfouknutí. (běží, klíčové)
-- 2026-10-09: ZLATO – odraz nad $4 200 ($4 204, +1,12 %) drží 2. den, 3M překlopeno do plusu +4,94 % při YTD −3,17 %; dno ne rozpad, DCA po troškách. (běží, klíčové)
-- 2026-10-09: ROPA konečně chladne – WTI $90,56 (1D −1,02 %) pod $90, zmírnění Hormuzu; ale 3M +15,89 %, YTD +57,72 % přepálené, nehonit. (běží, klíčové)
-- 2026-10-09: KOVY se probudily – stříbro +2,30 % ($60,42), měď +2,48 % ($6,68 u 52t max 6,83) na slábnoucím dolaru/výnosech; měď síla, stříbro jen odskok. (běží)
-- 2026-10-09: Krypto flush doznívá – BTC $82 420 (+0,91 %, 1T −4,69 %), ETH $2 487 (+0,62 %, 1T −8,77 %); obrat nepotvrzen. (běží, klíčové)
-- 2026-10-09: Akcie – týden zelený (S&P 1T +1,29 %, Nasdaq +1,20 %) navzdory AI dni; trend nahoru drží, YTD S&P +13,44 %. (běží)
-- 2026-10-09: VIX 15,25 (−1,04 %) – strach nízko, obrat trhu potvrdí až nad ~20. (běží)
-- 2026-10-09: Dolar couvá dál – USD/CZK 21,72 (−0,30 %) ze 52t maxima 21,89; oddech ne otočka, EUR/USD 1,1212. (běží)
-- 2026-10-09: STŘÍBRO padající nůž co odskočil – 1D +2,30 % ale 1M −6,01 %, YTD −13,85 %; obrat až pár dní nad $62 s objemem. (běží)
-- 2026-10-09: TLT $77,87 pár centů nad 52t min 76,43 (3M −7,81 %, 1R −12,68 %) – padající nůž; vstup až 10letý trvale pod ~4,5 %. (běží)
-- 2026-10-09: QQQ $747,58 pod 52t max 762,86 (YTD +21,69 %) – draho A křehké (AI trhlina), kupovat pod ~$700 nebo po potvrzení že AI obavy jsou bouře ve sklenici. (běží, klíčové)
-- 2026-10-09: 3M poukázka 4,043 % u 52t max 4,09 – král parkování suchého prachu, nulová durace, obzvlášť při blackoutu. (běží)
-- 2026-10-09: Jádro VWCE €172,62 / MSCI World €131,45 ~1 % pod ATH (1R +21 % / +19 %) – DCA po částech, dnešek šum ne sleva. (běží)
-- 2026-10-09: Měď $6,68 (1R +31,62 %) u 52t max 6,83 – síla, přidávat jen na výrazné zpětce. (běží)
-- 2026-10-09: Evropa – DAX +1,02 % (25 059), Euro Stoxx +0,76 %; dnes zelená, ale YTD zaostává (DAX +2,32 % vs S&P +13,44 %). (běží)
-- 2026-10-09: ETH slabší článek – 1T −8,77 %, 1R −43,07 % (horší než BTC); nekupovat dokud ETH/BTC nepřestane klesat. (běží)
+- 2026-10-09: AI TRHLINA (OpenAI tržby) – v pátek 10.10 tech rebound (Nasdaq +0,64 %, S&P +0,59 %, VIX dolů na 14,84); panika vyprchala, zřejmě jednorázová. Test zda vydrží v pondělí. (běží, vychází)
+- 2026-10-10: DATOVÝ BLACKOUT – shutdown od 1.10 trvá, říjnový payrolls ZRUŠEN, Fed rozhodne 28.10 naslepo dle ADP (−32k). Trh citlivý na jednotliviny. (běží, klíčové)
+- 2026-10-10: DLUHOPISY odfouknutí NEVYŠLO – 10letý pořád 5,244 % (1D +0,25 %, 1M +6,07 %), do strany nahoře, ne na ústupu. (běží)
+- 2026-10-10: ZLATO odraz drží 3. den $4 220 (+1,52 %), 3M +5,36 %, YTD jen −2,78 % = po korekci, ne přepálené; DCA po troškách. (běží, klíčové, vychází)
+- 2026-10-10: ROPA chladnutí zastaveno – WTI zpět nad $90 na $91,66 (+0,19 %), Hormuz; 1M stále −10,56 %, YTD +59,63 % přepálené, nehonit. (běží)
+- 2026-10-10: MĚĎ síla $6,711 (+2,95 %) tlačí na 52t max 6,83, 1R +32,22 %; supercyklus, ale „neudržitelné" riziko – přidávat jen na zpětce. (běží, klíčové)
+- 2026-10-10: STŘÍBRO $61,11 odraz pokračuje (1D +3,46 %, 3M +6,03 %) ale YTD −12,87 %; obrat až nad $62 s objemem. (běží)
+- 2026-10-10: Krypto flush doznívá – BTC $82 526 (+1,04 %, 1T −4,57 %, 3M +27,20 %), obrat nepotvrzen. (běží, klíčové)
+- 2026-10-10: ETH slabší článek – 1T −8,85 % horší než BTC, 1R −35,33 %; nekupovat dokud ETH/BTC neklesá. (běží)
+- 2026-10-10: Akcie US trend nahoru drží – S&P 1T +1,15 %, 1M +2,90 %, YTD +14,11 %; Nasdaq 27 366 kousek pod 52t max 27 722. (běží)
+- 2026-10-10: VIX 14,84 (−3,70 %) – strach velmi nízko, obrat potvrdí až nad ~20. (běží)
+- 2026-10-10: Dolar oddech zastaven – USD/CZK 21,73 (1T +0,26 %) zpět u 52t max 21,89; otočka nepotvrzena. (běží)
+- 2026-10-10: TLT $77,87 u 52t min 76,43 (3M −7,81 %, 1R −14,07 %) – padající nůž; vstup až 10letý trvale pod ~4,5 %. (běží)
+- 2026-10-10: QQQ $747,58 pod 52t max 762,86 (YTD +21,69 %) – draho a křehké; kupovat pod ~$700 nebo po širším potvrzení. (běží, klíčové)
+- 2026-10-10: 3M poukázka 4,057 % u 52t max – král parkování suchého prachu, nulová durace, ideál při blackoutu. (běží)
+- 2026-10-10: Jádro VWCE €171,90 / MSCI World €130,97 kousek pod ATH (1R +20 % / +19 %) – DCA po částech, dnešek šum. (běží)
+- 2026-10-10: EVROPA laggard, strukturální – DAX −1,18 % (24 807), YTD jen +1,29 %, 1R +0,80 %; francouzský rozpočet/dluh ~120 % HDP, politický pat. (běží, klíčové)
+- 2026-10-13: Columbus Day – US dluhopisy zavřené, akcie otevřené, tenčí objemy. (běží)
 
 ## Uzavřeno
+- 2026-10-09: „AI trhlina = systémový problém" – NEVYŠLO, 10.10 tech rebound, byla to bouře ve sklenici.
 - 2026-10-08: „Evropa nad USA" – jednodenní výjimka (7.10.) skončila.
-- 2026-10-07: „Zlato – první věrohodný odraz" – NEVYŠLO hned, ale teď (9.10.) stabilizace u dna drží 2. den.
+- 2026-10-07: „Zlato – první věrohodný odraz" – NEVYŠLO hned, ale od 9.10. odraz drží.
 - 2026-10-06: „Stříbro nad $62 = obrat" – NEVYŠLO podruhé.
 - 2026-10-05: „OPEC+ rollover = konsenzus" – VYŠLO.
-- 2026-10-02: „10letý má kam klesat, až ropa chladne" – zatím NEVYŠLO; 9.10. ropa i výnos povolily spolu, uvidíme.
 - 2026-10-01: „PCE den: hot = spínač" – ČÁSTEČNĚ NEVYŠLO: print měkký, výnosy vylétly.
-- 2026-09-26: „5.18 = vypínač / 5 % = strop" – NEVYŠLO, tlak výnosů u 5,3+.
-- 2026-09-18: „BTC nad $80k s objemem = spouštěč" – VYŠLO (pak vyprchalo).
-- 2026-09-17: „Fed hike pohne dolarem" – VYŠLO, USD/CZK nad 21.
-- 2026-09-04: „Payrolls holubičí" – VYŠLO (29k), akciový spínač.
+- 2026-09-17: „Fed hike pohne dolarem" – VYŠLO, USD/CZK nad 21 (Fed zvýšil kvůli lepkavé inflaci).
+- 2026-09-04: „Payrolls holubičí" – VYŠLO (29k).
