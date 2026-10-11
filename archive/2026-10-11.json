@@ -1,0 +1,97 @@
+{
+ "date": "2026-10-11",
+ "date_cz": "11.10.2026",
+ "updated_at": "2026-10-11T22:48+02:00",
+ "sections": [
+  {
+   "key": "cr",
+   "title": "🇨🇿 Česká republika",
+   "items": [
+    {
+     "title": "Komunální volby: Praha a Brno pro STAN, Ostrava a Plzeň pro ANO",
+     "text": "Ve víkendových komunálních volbách vyhráli Starostové v Praze a v Brně, v Ostravě a v Plzni zvítězilo hnutí ANO. Volit přišlo 48 % oprávněných voličů, o dva procentní body víc než před čtyřmi lety."
+    },
+    {
+     "title": "Senát: v prvním kole uspělo pět kandidátů, nejlépe dopadl STAN",
+     "text": "Hned v prvním kole senátních voleb vyhrálo pět kandidátů a Starostové ovládli první kolo poprvé po šesti letech. O zbývajících 22 křeslech se rozhodne ve druhém kole 16. a 17. října."
+    },
+    {
+     "title": "Na Žďársku rozhodl jediný hlas",
+     "text": "Josef Klement (KDU-ČSL) získal 11 373 hlasů a Radek Černý (ODS) 11 372. Černý může požádat o přepočítání hlasů, zákon to ale umožňuje až po skončení voleb."
+    },
+    {
+     "title": "Pražská koalice by mohla být hotová v listopadu",
+     "text": "Petr Hlaváček (STAN) řekl, že dohoda o koalici v hlavním městě by měla být uzavřena v listopadu."
+    },
+    {
+     "title": "Ceny pohonných hmot jsou znovu regulované",
+     "text": "Vláda vrátila regulaci cen pohonných hmot na období od 1. do 31. října 2026. Marže je omezená na 2,50 Kč za litr a zároveň se snížila spotřební daň z nafty."
+    },
+    {
+     "title": "Zemřel herec Jiří Štěpnička",
+     "text": "Podle ČTK zemřel herec Jiří Štěpnička ve věku 79 let."
+    }
+   ]
+  },
+  {
+   "key": "svet",
+   "title": "🌍 Svět",
+   "items": [
+    {
+     "title": "Na letiště v Rijádu znovu dopadl projektil",
+     "text": "Hlavní letiště v saúdskoarabském Rijádu zasáhl v neděli další projektil, den po útoku na stejné místo. Sobotní útok podle saúdských úřadů pro civilní letectví zabil nejméně 13 lidí a zranil přes 300. Trump uvedl, že by se USA mohly zapojit do boje proti Húsíům."
+    },
+    {
+     "title": "Trump vyzval Ukrajinu, aby si zvolila nového prezidenta",
+     "text": "Americký prezident Donald Trump obvinil Volodymyra Zelenského, že opakovaně nedokázal uzavřít dohodu o ukončení války s Ruskem, a prohlásil, že Ukrajina by měla „dostat nového prezidenta“."
+    },
+    {
+     "title": "Ruské útoky na Charkovskou oblast",
+     "text": "Nedělní ruské údery na Ukrajinu si v Charkovské oblasti vyžádaly nejméně dva mrtvé."
+    },
+    {
+     "title": "Izraelské nálety v Gaze zabily pět lidí",
+     "text": "Dva izraelské nálety, které zasáhly shromáždění palestinských civilistů v Pásmu Gazy, zabily pět lidí a další zranily."
+    },
+    {
+     "title": "Abbás odložil palestinské volby na září 2027",
+     "text": "Palestinský prezident Mahmúd Abbás odložil dekretem prezidentské a parlamentní volby z letošního listopadu na 11. září 2027."
+    },
+    {
+     "title": "Indie propustila vůdce hnutí „Švábů“",
+     "text": "Lídr indického protestního hnutí „Cockroach“ Abhijeet Dipke byl v neděli propuštěn z vazby spolu s dalšími dvěma vedoucími představiteli hnutí, uvedl jeho právník."
+    }
+   ]
+  },
+  {
+   "key": "ekonomika",
+   "title": "📈 Ekonomika a trhy",
+   "items": [
+    {
+     "title": "Wall Street zakončila týden růstem (páteční uzávěrka)",
+     "text": "Burzy jsou o víkendu zavřené. V pátek 9. 10. přidal Dow Jones 0,8 % na 51 654,95 bodu, S&P 500 0,6 % na 7 811,54 bodu a Nasdaq 0,6 % na 27 366,17 bodu. Za celý týden posílil S&P 500 o 1,2 %, Dow o 0,9 % a Nasdaq o 0,6 % (čtvrtý týdenní růst v řadě), Russell 2000 naopak ztratil 0,9 %."
+    },
+    {
+     "title": "Zlato kolem 4 220 USD, bitcoin zhruba 83 000 USD",
+     "text": "Zlato v pátek zdražilo zhruba o 1,5 % na přibližně 4 220 USD za unci. Bitcoin se při páteční uzávěrce pohyboval kolem 82 950 USD, protože většinu týdne hledal dno. Index volatility VIX klesl na 14,84."
+    },
+    {
+     "title": "Ropa a výnosy dluhopisů hýbou trhy",
+     "text": "Ropa WTI se obchoduje kolem 91 USD za barel a její cenu výrazně ovlivňují zprávy z Íránu. Analytici Schwabu vidí podporu v pásmu 87–90 USD. Výnos desetiletých amerických dluhopisů vystoupal během týdne nejvýš od roku 2002."
+    },
+    {
+     "title": "Výhled na nový týden: výsledky firem a inflace v USA",
+     "text": "Startuje sezóna čtvrtletních výsledků a přijdou data o americké inflaci (CPI, PPI). Na pondělí nejsou hlášené žádné zásadní výsledky ani makrodata a americký dluhopisový trh bude kvůli Columbus Day zavřený. Analytici upozorňují, že i přes rekordní úrovně indexů slábne momentum a investoři se přesouvají do defenzivních sektorů."
+    },
+    {
+     "title": "Jednání MMF a Světové banky v Bangkoku",
+     "text": "Výroční zasedání MMF a Světové banky v Bangkoku budou podle očekávání určovat válka na Blízkém východě a vysoké zadlužení států."
+    },
+    {
+     "title": "S&P zlepšila výhled Česka na pozitivní",
+     "text": "Ratingová agentura S&P zlepšila výhled České republiky na pozitivní a potvrdila rating AA-/AA."
+    }
+   ]
+  }
+ ]
+}

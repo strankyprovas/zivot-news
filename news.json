@@ -1,35 +1,35 @@
 {
- "date": "2026-10-10",
- "date_cz": "10.10.2026",
- "updated_at": "2026-10-10T22:29+02:00",
+ "date": "2026-10-11",
+ "date_cz": "11.10.2026",
+ "updated_at": "2026-10-11T22:48+02:00",
  "sections": [
   {
    "key": "cr",
    "title": "🇨🇿 Česká republika",
    "items": [
     {
-     "title": "Skončily komunální a senátní volby",
-     "text": "Volební místnosti se v sobotu zavřely ve 14:00. Lidé vybírali zhruba 62 tisíc zastupitelů a 27 senátorů. Konečné výsledky z velkých měst zveřejní ČSÚ nejspíš až v neděli ráno."
+     "title": "Komunální volby: Praha a Brno pro STAN, Ostrava a Plzeň pro ANO",
+     "text": "Ve víkendových komunálních volbách vyhráli Starostové v Praze a v Brně, v Ostravě a v Plzni zvítězilo hnutí ANO. Volit přišlo 48 % oprávněných voličů, o dva procentní body víc než před čtyřmi lety."
     },
     {
-     "title": "Praha: podle průběžných výsledků vede STAN",
-     "text": "Při sečtení asi 42 % hlasů vedl STAN s 22,8 %. Za ním byly ODS+TOP 09 (21,3 %), Praha Sobě (16,9 %) a ANO (15,7 %). Účast byla zhruba 43 %. Výsledky jsou jen průběžné a pořadí se ještě může změnit."
+     "title": "Senát: v prvním kole uspělo pět kandidátů, nejlépe dopadl STAN",
+     "text": "Hned v prvním kole senátních voleb vyhrálo pět kandidátů a Starostové ovládli první kolo poprvé po šesti letech. O zbývajících 22 křeslech se rozhodne ve druhém kole 16. a 17. října."
     },
     {
-     "title": "Senát: pět kandidátů vyhrálo už v prvním kole",
-     "text": "Hned v prvním kole uspěli Jan Grolich (KDU-ČSL), Tomáš Fiala (Naše Česko), Jan Grulich (TOP 09) a senátoři STAN Jan Sobotka a Zbyněk Linhart. Do druhého kola postoupilo nejčastěji ANO, které se většinou utká s kandidáty STAN nebo ODS. Druhé kolo začne 16. října."
+     "title": "Na Žďársku rozhodl jediný hlas",
+     "text": "Josef Klement (KDU-ČSL) získal 11 373 hlasů a Radek Černý (ODS) 11 372. Černý může požádat o přepočítání hlasů, zákon to ale umožňuje až po skončení voleb."
     },
     {
-     "title": "SPD zůstává bez senátorů",
-     "text": "Do druhého kola senátních voleb nepostoupil žádný z 21 kandidátů SPD ani jejích partnerů. Tomio Okamura připustil, že chybou mohla být samostatná kandidatura."
+     "title": "Pražská koalice by mohla být hotová v listopadu",
+     "text": "Petr Hlaváček (STAN) řekl, že dohoda o koalici v hlavním městě by měla být uzavřena v listopadu."
     },
     {
-     "title": "Sucho: Husinec vyčerpal celou zásobu vody",
-     "text": "Přehrada Husinec jako první v Česku kvůli suchu spotřebovala celý zásobní prostor. Lipno je zhruba z poloviny prázdné a Vltavská kaskáda čerpá ze zásob."
+     "title": "Ceny pohonných hmot jsou znovu regulované",
+     "text": "Vláda vrátila regulaci cen pohonných hmot na období od 1. do 31. října 2026. Marže je omezená na 2,50 Kč za litr a zároveň se snížila spotřební daň z nafty."
     },
     {
-     "title": "Policejní auto spadlo z Hlávkova mostu do Vltavy",
-     "text": "Posádka vozu a běžec, který jim přispěchal na pomoc, vyvázli bez zranění. Všichni ale byli podchlazení."
+     "title": "Zemřel herec Jiří Štěpnička",
+     "text": "Podle ČTK zemřel herec Jiří Štěpnička ve věku 79 let."
     }
    ]
   },
@@ -38,24 +38,28 @@
    "title": "🌍 Svět",
    "items": [
     {
-     "title": "Válka s Íránem: Putin předal Trumpovi íránský návrh",
-     "text": "Podle Kremlu předal Putin Trumpovi íránskou představu o tom, jak by mohla válka skončit. Podrobnosti nezveřejnil. Trump slíbil, že USA na Írán nezaútočí před volbami 3. listopadu. Lodní doprava Hormuzským průlivem je stále asi o 75 % nižší než před válkou."
+     "title": "Na letiště v Rijádu znovu dopadl projektil",
+     "text": "Hlavní letiště v saúdskoarabském Rijádu zasáhl v neděli další projektil, den po útoku na stejné místo. Sobotní útok podle saúdských úřadů pro civilní letectví zabil nejméně 13 lidí a zranil přes 300. Trump uvedl, že by se USA mohly zapojit do boje proti Húsíům."
     },
     {
-     "title": "Hútíové útočí na Saúdskou Arábii",
-     "text": "Při útoku jemenských hútíů na letiště v Rijádu zemřeli ve čtvrtek tři saúdští občané. Hlavním ohniskem širšího konfliktu se stávají boje v Jemenu."
+     "title": "Trump vyzval Ukrajinu, aby si zvolila nového prezidenta",
+     "text": "Americký prezident Donald Trump obvinil Volodymyra Zelenského, že opakovaně nedokázal uzavřít dohodu o ukončení války s Ruskem, a prohlásil, že Ukrajina by měla „dostat nového prezidenta“."
     },
     {
-     "title": "Rusko zabilo na Ukrajině 20 lidí, v Miami se jednalo o míru",
-     "text": "Šlo už o třetí útok s mnoha oběťmi tento týden. Ve středu a ve čtvrtek zemřelo při ruských útocích téměř 80 civilistů. Zástupci USA, Ukrajiny a Evropy mezitím v Miami jednali o ukončení války. Zelenskyj kritizuje, že USA zmírnily sankce na ruskou naftu."
+     "title": "Ruské útoky na Charkovskou oblast",
+     "text": "Nedělní ruské údery na Ukrajinu si v Charkovské oblasti vyžádaly nejméně dva mrtvé."
     },
     {
-     "title": "Nobelovu cenu míru získala Navi Pillayová",
-     "text": "Jihoafrická právnička a bývalá šéfka OSN pro lidská práva cenu dostala za snahu stíhat válečné zločiny a genocidu. Ocenění se vnímá i jako kritika Trumpa a Netanjahua. Oba odmítli závěry komise OSN k Gaze, kterou Pillayová vedla."
+     "title": "Izraelské nálety v Gaze zabily pět lidí",
+     "text": "Dva izraelské nálety, které zasáhly shromáždění palestinských civilistů v Pásmu Gazy, zabily pět lidí a další zranily."
     },
     {
-     "title": "Hurikán Isaias zabil v USA nejméně čtyři lidi",
-     "text": "Bouře udeřila na pobřeží Mexického zálivu u floridského Destinu jako hurikán 2. kategorie. Přes 700 tisíc odběratelů zůstalo bez proudu. V sobotu zeslábla, ale na jihovýchodě USA dál hrozí povodně."
+     "title": "Abbás odložil palestinské volby na září 2027",
+     "text": "Palestinský prezident Mahmúd Abbás odložil dekretem prezidentské a parlamentní volby z letošního listopadu na 11. září 2027."
+    },
+    {
+     "title": "Indie propustila vůdce hnutí „Švábů“",
+     "text": "Lídr indického protestního hnutí „Cockroach“ Abhijeet Dipke byl v neděli propuštěn z vazby spolu s dalšími dvěma vedoucími představiteli hnutí, uvedl jeho právník."
     }
    ]
   },
@@ -64,24 +68,28 @@
    "title": "📈 Ekonomika a trhy",
    "items": [
     {
-     "title": "Wall Street uzavřela týden růstem",
-     "text": "V pátek S&P 500 posílil o 0,59 % na 7 811,54 bodu a přiblížil se historickému maximu. Dow Jones přidal 0,83 % na 51 654,95 bodu a Nasdaq 0,64 % na 27 366,17 bodu. Pomohly levnější ropa a návrat technologických akcií. Trhy čekají na začátek výsledkové sezóny. V sobotu se neobchoduje."
+     "title": "Wall Street zakončila týden růstem (páteční uzávěrka)",
+     "text": "Burzy jsou o víkendu zavřené. V pátek 9. 10. přidal Dow Jones 0,8 % na 51 654,95 bodu, S&P 500 0,6 % na 7 811,54 bodu a Nasdaq 0,6 % na 27 366,17 bodu. Za celý týden posílil S&P 500 o 1,2 %, Dow o 0,9 % a Nasdaq o 0,6 % (čtvrtý týdenní růst v řadě), Russell 2000 naopak ztratil 0,9 %."
     },
     {
-     "title": "Pražská burza se odrazila od čtyřměsíčního minima",
-     "text": "Index PX v pátek po třech poklesech za sebou vzrostl o 1,24 % na 2 576,77 bodu. Táhly ho banky (Moneta +3,91 %) a ČEZ. Za týden ale PX ztratil 1,51 % a oslabil už druhý týden po sobě."
+     "title": "Zlato kolem 4 220 USD, bitcoin zhruba 83 000 USD",
+     "text": "Zlato v pátek zdražilo zhruba o 1,5 % na přibližně 4 220 USD za unci. Bitcoin se při páteční uzávěrce pohyboval kolem 82 950 USD, protože většinu týdne hledal dno. Index volatility VIX klesl na 14,84."
     },
     {
-     "title": "Ropa zůstává drahá kvůli válce a hurikánu",
-     "text": "Americká ropa WTI se drží kolem 91 USD za barel, Brent kolem 103 až 104 USD. Kvůli hurikánu Isaias stojí asi čtvrtina těžby v Mexickém zálivu. Šéf Saudi Aramco varoval, že světové zásoby ropy jsou kvůli válce s Íránem znepokojivě nízké."
+     "title": "Ropa a výnosy dluhopisů hýbou trhy",
+     "text": "Ropa WTI se obchoduje kolem 91 USD za barel a její cenu výrazně ovlivňují zprávy z Íránu. Analytici Schwabu vidí podporu v pásmu 87–90 USD. Výnos desetiletých amerických dluhopisů vystoupal během týdne nejvýš od roku 2002."
     },
     {
-     "title": "Zlato a bitcoin",
-     "text": "Zlato se odrazilo od dvouměsíčního minima (4 090 USD) a v pátek se obchodovalo kolem 4 170 USD za unci. Bitcoin se drží kolem 83 000 USD."
+     "title": "Výhled na nový týden: výsledky firem a inflace v USA",
+     "text": "Startuje sezóna čtvrtletních výsledků a přijdou data o americké inflaci (CPI, PPI). Na pondělí nejsou hlášené žádné zásadní výsledky ani makrodata a americký dluhopisový trh bude kvůli Columbus Day zavřený. Analytici upozorňují, že i přes rekordní úrovně indexů slábne momentum a investoři se přesouvají do defenzivních sektorů."
     },
     {
-     "title": "Nezaměstnanost v Česku stagnuje",
-     "text": "Podíl nezaměstnaných zůstal v září potřetí za sebou na 5 %."
+     "title": "Jednání MMF a Světové banky v Bangkoku",
+     "text": "Výroční zasedání MMF a Světové banky v Bangkoku budou podle očekávání určovat válka na Blízkém východě a vysoké zadlužení států."
+    },
+    {
+     "title": "S&P zlepšila výhled Česka na pozitivní",
+     "text": "Ratingová agentura S&P zlepšila výhled České republiky na pozitivní a potvrdila rating AA-/AA."
     }
    ]
   }
