@@ -1,0 +1,85 @@
+{
+ "date": "2026-10-13",
+ "date_cz": "13.10.2026",
+ "updated_at": "2026-10-13T01:31+02:00",
+ "sections": [
+  {
+   "key": "cr",
+   "title": "🇨🇿 Česká republika",
+   "items": [
+    {
+     "title": "STAN a Spolu jednají o pražské koalici",
+     "text": "V Praze vyhrálo STAN se 17 mandáty. Spolu (ODS, TOP 09) má také 17 mandátů, Praha sobě 13, ANO 11 a Piráti 7 z celkových 65. Týmy STAN a Spolu se sejdou znovu ve čtvrtek a v pátek a budou řešit programové priority. Spolupráci s ANO obě strany vyloučily a lídr STAN Petr Hlaváček chce mít dohodu v listopadu."
+    },
+    {
+     "title": "Senát: o 22 obvodech rozhodne druhé kolo",
+     "text": "Pět obvodů zná senátora už po prvním kole. Ve zbylých 22 se bude volit 16. a 17. října. V Praze 1 se utká Jiří Padevět (STAN) s Janem Čižinským (Praha sobě), v Praze 9 obhajuje mandát David Smoljak (STAN) proti Dagmar Peckové (za ODS)."
+    },
+    {
+     "title": "Spor o jediný hlas v senátních volbách",
+     "text": "Lékaře Radka Černého v jednom obvodu předstihl kandidát ODS o jediný hlas. Černý zvažuje, zda žádat o přepočítání hlasů. Ústavní právník Ondřej Preuss pro iROZHLAS uvedl, že soud může přepočet nařídit jen tehdy, když k tomu má konkrétní důvody."
+    },
+    {
+     "title": "V Plzni se domluvila koalice",
+     "text": "V Plzni se na koalici dohodlo vítězné hnutí ANO s dosavadními partnery Pro Plzeň a STAN. V Jablonci nad Nisou mají být jednání podle ČT24 nejspíš složitá."
+    },
+    {
+     "title": "Zákon o ochraně kritické infrastruktury před drony",
+     "text": "Návrh zákona o ochraně kritické infrastruktury před drony je v připomínkovém řízení. Hospodářské noviny upozorňují, že Německo zatím podobný návrh nemá, Česko ale ještě musí zvládnout praktické zavedení."
+    }
+   ]
+  },
+  {
+   "key": "svet",
+   "title": "🌍 Svět",
+   "items": [
+    {
+     "title": "Húsíové znovu útočí na letiště v Rijádu",
+     "text": "Při sobotním útoku jemenských húsíů na letiště krále Chálida v Rijádu zemřelo podle různých zdrojů 12 až 13 lidí, včetně občana USA. V neděli zasáhl terminál další útok. V pondělí Saúdská Arábie sestřelila tři balistické rakety a letiště zůstává zavřené nejméně do 17. října. Trump zvažuje, zda se USA zapojí do boje proti húsíům."
+    },
+    {
+     "title": "Zelenskyj: Rusko porušilo energetické příměří",
+     "text": "Ukrajinský prezident v pondělí uvedl, že Rusko porušilo energetické příměří vyhlášené Donaldem Trumpem. Kreml podle dostupných zpráv odmítl Zelenského návrh na 60denní příměří kvůli volbám. Ruské ostřelování pokračovalo, mimo jiné na Dnipro a Slovjansk."
+    },
+    {
+     "title": "EU uvalila nové sankce na Rusko",
+     "text": "EU potrestala sankcemi pořádání voleb do Státní dumy na okupovaných územích Ukrajiny. Podle jednoho z médií přijala také rekordní balík sankcí proti ruskému zbrojnímu průmyslu."
+    },
+    {
+     "title": "Francie: průzkum vidí ve druhém kole Le Penovou a Mélenchona",
+     "text": "Podle nového průzkumu by do druhého kola francouzských prezidentských voleb postoupili Marine Le Penová a Jean-Luc Mélenchon. Podle Euronews to ukazuje, jak se politické rozdělení Francie dál prohlubuje."
+    },
+    {
+     "title": "Islámské státy odsoudily útok na Saúdskou Arábii",
+     "text": "Turecko, Pákistán, Egypt a Saúdská Arábie odsoudily útoky húsíů na letiště v Rijádu. Odsoudil je i generální tajemník OSN. Turecko a Pákistán podle zpráv posílají do Saúdské Arábie vojáky v rámci obranného paktu."
+    }
+   ]
+  },
+  {
+   "key": "ekonomika",
+   "title": "📈 Ekonomika a trhy",
+   "items": [
+    {
+     "title": "Wall Street: Dow roste, technologie ztrácejí",
+     "text": "Pondělní obchodování skončilo smíšeně. Dow Jones přidal 0,38 % na 51 850,55 bodu, S&P 500 ztratil 0,06 % na 7 807,24 a Nasdaq 0,44 % na 27 245,90. Nasdaq táhly dolů hlavně akcie Micronu. Dluhopisový trh byl kvůli svátku Columbus Day zavřený."
+    },
+    {
+     "title": "Ropa Brent nad 106 dolary",
+     "text": "Brent se po útoku na letiště v Rijádu dostal přes 106 USD za barel a americká WTI se obchodovala kolem 93 USD. Ceny zvedají obavy z eskalace na Blízkém východě a z dopadů na snahu ukončit válku mezi USA a Íránem."
+    },
+    {
+     "title": "Zlato a bitcoin oslabují",
+     "text": "Spotové zlato kleslo o 0,5 % na zhruba 4 171 USD za unci. Bitcoin se drží kolem 83 000 USD a za poslední týden ztratil asi 4 %."
+    },
+    {
+     "title": "Začíná výsledková sezóna",
+     "text": "Investoři se tento týden soustředí na začátek sezóny čtvrtletních výsledků a na data o inflaci. S&P 500 i Nasdaq minulý týden zaznamenaly rekordy a Nasdaq rostl čtvrtý týden po sobě."
+    },
+    {
+     "title": "Nobelovu cenu za ekonomii mají Hall a Woodford",
+     "text": "Ocenění získali Američané Robert E. Hall ze Stanfordu a Michael Woodford z Kolumbijské univerzity. Cenu dostali za modely, které vládám a centrálním bankám pomáhají zvládat šoky, jako jsou energetické krize nebo inflace. Rozdělí si 12 milionů švédských korun."
+    }
+   ]
+  }
+ ]
+}

@@ -1,35 +1,31 @@
 {
- "date": "2026-10-11",
- "date_cz": "11.10.2026",
- "updated_at": "2026-10-11T22:48+02:00",
+ "date": "2026-10-13",
+ "date_cz": "13.10.2026",
+ "updated_at": "2026-10-13T01:31+02:00",
  "sections": [
   {
    "key": "cr",
    "title": "🇨🇿 Česká republika",
    "items": [
     {
-     "title": "Komunální volby: Praha a Brno pro STAN, Ostrava a Plzeň pro ANO",
-     "text": "Ve víkendových komunálních volbách vyhráli Starostové v Praze a v Brně, v Ostravě a v Plzni zvítězilo hnutí ANO. Volit přišlo 48 % oprávněných voličů, o dva procentní body víc než před čtyřmi lety."
+     "title": "STAN a Spolu jednají o pražské koalici",
+     "text": "V Praze vyhrálo STAN se 17 mandáty. Spolu (ODS, TOP 09) má také 17 mandátů, Praha sobě 13, ANO 11 a Piráti 7 z celkových 65. Týmy STAN a Spolu se sejdou znovu ve čtvrtek a v pátek a budou řešit programové priority. Spolupráci s ANO obě strany vyloučily a lídr STAN Petr Hlaváček chce mít dohodu v listopadu."
     },
     {
-     "title": "Senát: v prvním kole uspělo pět kandidátů, nejlépe dopadl STAN",
-     "text": "Hned v prvním kole senátních voleb vyhrálo pět kandidátů a Starostové ovládli první kolo poprvé po šesti letech. O zbývajících 22 křeslech se rozhodne ve druhém kole 16. a 17. října."
+     "title": "Senát: o 22 obvodech rozhodne druhé kolo",
+     "text": "Pět obvodů zná senátora už po prvním kole. Ve zbylých 22 se bude volit 16. a 17. října. V Praze 1 se utká Jiří Padevět (STAN) s Janem Čižinským (Praha sobě), v Praze 9 obhajuje mandát David Smoljak (STAN) proti Dagmar Peckové (za ODS)."
     },
     {
-     "title": "Na Žďársku rozhodl jediný hlas",
-     "text": "Josef Klement (KDU-ČSL) získal 11 373 hlasů a Radek Černý (ODS) 11 372. Černý může požádat o přepočítání hlasů, zákon to ale umožňuje až po skončení voleb."
+     "title": "Spor o jediný hlas v senátních volbách",
+     "text": "Lékaře Radka Černého v jednom obvodu předstihl kandidát ODS o jediný hlas. Černý zvažuje, zda žádat o přepočítání hlasů. Ústavní právník Ondřej Preuss pro iROZHLAS uvedl, že soud může přepočet nařídit jen tehdy, když k tomu má konkrétní důvody."
     },
     {
-     "title": "Pražská koalice by mohla být hotová v listopadu",
-     "text": "Petr Hlaváček (STAN) řekl, že dohoda o koalici v hlavním městě by měla být uzavřena v listopadu."
+     "title": "V Plzni se domluvila koalice",
+     "text": "V Plzni se na koalici dohodlo vítězné hnutí ANO s dosavadními partnery Pro Plzeň a STAN. V Jablonci nad Nisou mají být jednání podle ČT24 nejspíš složitá."
     },
     {
-     "title": "Ceny pohonných hmot jsou znovu regulované",
-     "text": "Vláda vrátila regulaci cen pohonných hmot na období od 1. do 31. října 2026. Marže je omezená na 2,50 Kč za litr a zároveň se snížila spotřební daň z nafty."
-    },
-    {
-     "title": "Zemřel herec Jiří Štěpnička",
-     "text": "Podle ČTK zemřel herec Jiří Štěpnička ve věku 79 let."
+     "title": "Zákon o ochraně kritické infrastruktury před drony",
+     "text": "Návrh zákona o ochraně kritické infrastruktury před drony je v připomínkovém řízení. Hospodářské noviny upozorňují, že Německo zatím podobný návrh nemá, Česko ale ještě musí zvládnout praktické zavedení."
     }
    ]
   },
@@ -38,28 +34,24 @@
    "title": "🌍 Svět",
    "items": [
     {
-     "title": "Na letiště v Rijádu znovu dopadl projektil",
-     "text": "Hlavní letiště v saúdskoarabském Rijádu zasáhl v neděli další projektil, den po útoku na stejné místo. Sobotní útok podle saúdských úřadů pro civilní letectví zabil nejméně 13 lidí a zranil přes 300. Trump uvedl, že by se USA mohly zapojit do boje proti Húsíům."
+     "title": "Húsíové znovu útočí na letiště v Rijádu",
+     "text": "Při sobotním útoku jemenských húsíů na letiště krále Chálida v Rijádu zemřelo podle různých zdrojů 12 až 13 lidí, včetně občana USA. V neděli zasáhl terminál další útok. V pondělí Saúdská Arábie sestřelila tři balistické rakety a letiště zůstává zavřené nejméně do 17. října. Trump zvažuje, zda se USA zapojí do boje proti húsíům."
     },
     {
-     "title": "Trump vyzval Ukrajinu, aby si zvolila nového prezidenta",
-     "text": "Americký prezident Donald Trump obvinil Volodymyra Zelenského, že opakovaně nedokázal uzavřít dohodu o ukončení války s Ruskem, a prohlásil, že Ukrajina by měla „dostat nového prezidenta“."
+     "title": "Zelenskyj: Rusko porušilo energetické příměří",
+     "text": "Ukrajinský prezident v pondělí uvedl, že Rusko porušilo energetické příměří vyhlášené Donaldem Trumpem. Kreml podle dostupných zpráv odmítl Zelenského návrh na 60denní příměří kvůli volbám. Ruské ostřelování pokračovalo, mimo jiné na Dnipro a Slovjansk."
     },
     {
-     "title": "Ruské útoky na Charkovskou oblast",
-     "text": "Nedělní ruské údery na Ukrajinu si v Charkovské oblasti vyžádaly nejméně dva mrtvé."
+     "title": "EU uvalila nové sankce na Rusko",
+     "text": "EU potrestala sankcemi pořádání voleb do Státní dumy na okupovaných územích Ukrajiny. Podle jednoho z médií přijala také rekordní balík sankcí proti ruskému zbrojnímu průmyslu."
     },
     {
-     "title": "Izraelské nálety v Gaze zabily pět lidí",
-     "text": "Dva izraelské nálety, které zasáhly shromáždění palestinských civilistů v Pásmu Gazy, zabily pět lidí a další zranily."
+     "title": "Francie: průzkum vidí ve druhém kole Le Penovou a Mélenchona",
+     "text": "Podle nového průzkumu by do druhého kola francouzských prezidentských voleb postoupili Marine Le Penová a Jean-Luc Mélenchon. Podle Euronews to ukazuje, jak se politické rozdělení Francie dál prohlubuje."
     },
     {
-     "title": "Abbás odložil palestinské volby na září 2027",
-     "text": "Palestinský prezident Mahmúd Abbás odložil dekretem prezidentské a parlamentní volby z letošního listopadu na 11. září 2027."
-    },
-    {
-     "title": "Indie propustila vůdce hnutí „Švábů“",
-     "text": "Lídr indického protestního hnutí „Cockroach“ Abhijeet Dipke byl v neděli propuštěn z vazby spolu s dalšími dvěma vedoucími představiteli hnutí, uvedl jeho právník."
+     "title": "Islámské státy odsoudily útok na Saúdskou Arábii",
+     "text": "Turecko, Pákistán, Egypt a Saúdská Arábie odsoudily útoky húsíů na letiště v Rijádu. Odsoudil je i generální tajemník OSN. Turecko a Pákistán podle zpráv posílají do Saúdské Arábie vojáky v rámci obranného paktu."
     }
    ]
   },
@@ -68,28 +60,24 @@
    "title": "📈 Ekonomika a trhy",
    "items": [
     {
-     "title": "Wall Street zakončila týden růstem (páteční uzávěrka)",
-     "text": "Burzy jsou o víkendu zavřené. V pátek 9. 10. přidal Dow Jones 0,8 % na 51 654,95 bodu, S&P 500 0,6 % na 7 811,54 bodu a Nasdaq 0,6 % na 27 366,17 bodu. Za celý týden posílil S&P 500 o 1,2 %, Dow o 0,9 % a Nasdaq o 0,6 % (čtvrtý týdenní růst v řadě), Russell 2000 naopak ztratil 0,9 %."
+     "title": "Wall Street: Dow roste, technologie ztrácejí",
+     "text": "Pondělní obchodování skončilo smíšeně. Dow Jones přidal 0,38 % na 51 850,55 bodu, S&P 500 ztratil 0,06 % na 7 807,24 a Nasdaq 0,44 % na 27 245,90. Nasdaq táhly dolů hlavně akcie Micronu. Dluhopisový trh byl kvůli svátku Columbus Day zavřený."
     },
     {
-     "title": "Zlato kolem 4 220 USD, bitcoin zhruba 83 000 USD",
-     "text": "Zlato v pátek zdražilo zhruba o 1,5 % na přibližně 4 220 USD za unci. Bitcoin se při páteční uzávěrce pohyboval kolem 82 950 USD, protože většinu týdne hledal dno. Index volatility VIX klesl na 14,84."
+     "title": "Ropa Brent nad 106 dolary",
+     "text": "Brent se po útoku na letiště v Rijádu dostal přes 106 USD za barel a americká WTI se obchodovala kolem 93 USD. Ceny zvedají obavy z eskalace na Blízkém východě a z dopadů na snahu ukončit válku mezi USA a Íránem."
     },
     {
-     "title": "Ropa a výnosy dluhopisů hýbou trhy",
-     "text": "Ropa WTI se obchoduje kolem 91 USD za barel a její cenu výrazně ovlivňují zprávy z Íránu. Analytici Schwabu vidí podporu v pásmu 87–90 USD. Výnos desetiletých amerických dluhopisů vystoupal během týdne nejvýš od roku 2002."
+     "title": "Zlato a bitcoin oslabují",
+     "text": "Spotové zlato kleslo o 0,5 % na zhruba 4 171 USD za unci. Bitcoin se drží kolem 83 000 USD a za poslední týden ztratil asi 4 %."
     },
     {
-     "title": "Výhled na nový týden: výsledky firem a inflace v USA",
-     "text": "Startuje sezóna čtvrtletních výsledků a přijdou data o americké inflaci (CPI, PPI). Na pondělí nejsou hlášené žádné zásadní výsledky ani makrodata a americký dluhopisový trh bude kvůli Columbus Day zavřený. Analytici upozorňují, že i přes rekordní úrovně indexů slábne momentum a investoři se přesouvají do defenzivních sektorů."
+     "title": "Začíná výsledková sezóna",
+     "text": "Investoři se tento týden soustředí na začátek sezóny čtvrtletních výsledků a na data o inflaci. S&P 500 i Nasdaq minulý týden zaznamenaly rekordy a Nasdaq rostl čtvrtý týden po sobě."
     },
     {
-     "title": "Jednání MMF a Světové banky v Bangkoku",
-     "text": "Výroční zasedání MMF a Světové banky v Bangkoku budou podle očekávání určovat válka na Blízkém východě a vysoké zadlužení států."
-    },
-    {
-     "title": "S&P zlepšila výhled Česka na pozitivní",
-     "text": "Ratingová agentura S&P zlepšila výhled České republiky na pozitivní a potvrdila rating AA-/AA."
+     "title": "Nobelovu cenu za ekonomii mají Hall a Woodford",
+     "text": "Ocenění získali Američané Robert E. Hall ze Stanfordu a Michael Woodford z Kolumbijské univerzity. Cenu dostali za modely, které vládám a centrálním bankám pomáhají zvládat šoky, jako jsou energetické krize nebo inflace. Rozdělí si 12 milionů švédských korun."
     }
    ]
   }
