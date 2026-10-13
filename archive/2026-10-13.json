@@ -1,31 +1,35 @@
 {
  "date": "2026-10-13",
  "date_cz": "13.10.2026",
- "updated_at": "2026-10-13T01:31+02:00",
+ "updated_at": "2026-10-13T23:45+02:00",
  "sections": [
   {
    "key": "cr",
    "title": "🇨🇿 Česká republika",
    "items": [
     {
-     "title": "STAN a Spolu jednají o pražské koalici",
-     "text": "V Praze vyhrálo STAN se 17 mandáty. Spolu (ODS, TOP 09) má také 17 mandátů, Praha sobě 13, ANO 11 a Piráti 7 z celkových 65. Týmy STAN a Spolu se sejdou znovu ve čtvrtek a v pátek a budou řešit programové priority. Spolupráci s ANO obě strany vyloučily a lídr STAN Petr Hlaváček chce mít dohodu v listopadu."
+     "title": "Poslanci v prvním čtení podpořili mimořádnou daň pro rafinerie",
+     "text": "Daň má platit letos a příští rok. Vláda ji zdůvodňuje vyššími maržemi rafinerií kvůli situaci na světovém trhu s ropou a letos od ní čeká 5,5 až 9 miliard korun. Koalice ANO, SPD a Motoristů prosadila návrh až na druhý pokus."
     },
     {
-     "title": "Senát: o 22 obvodech rozhodne druhé kolo",
-     "text": "Pět obvodů zná senátora už po prvním kole. Ve zbylých 22 se bude volit 16. a 17. října. V Praze 1 se utká Jiří Padevět (STAN) s Janem Čižinským (Praha sobě), v Praze 9 obhajuje mandát David Smoljak (STAN) proti Dagmar Peckové (za ODS)."
+     "title": "ČEZ se v kauze Diag Human bude bránit u lucemburského soudu",
+     "text": "Podle premiéra Andreje Babiše (ANO) jsou zástupci ČEZ přesvědčeni, že u soudu uspějí. Babiš uvedl, že se to nedotkne činnosti firmy ani zákazníků v ČR."
     },
     {
-     "title": "Spor o jediný hlas v senátních volbách",
-     "text": "Lékaře Radka Černého v jednom obvodu předstihl kandidát ODS o jediný hlas. Černý zvažuje, zda žádat o přepočítání hlasů. Ústavní právník Ondřej Preuss pro iROZHLAS uvedl, že soud může přepočet nařídit jen tehdy, když k tomu má konkrétní důvody."
+     "title": "Babiš vystoupil na Pražském fóru o AI a duševním zdraví",
+     "text": "Premiér mluvil na fóru o umělé inteligenci a duševním zdraví v Lichtenštejnském paláci v Praze."
     },
     {
-     "title": "V Plzni se domluvila koalice",
-     "text": "V Plzni se na koalici dohodlo vítězné hnutí ANO s dosavadními partnery Pro Plzeň a STAN. V Jablonci nad Nisou mají být jednání podle ČT24 nejspíš složitá."
+     "title": "Za usmrcení dvouapůlletého syna dostal otec 17 let vězení",
+     "text": "Krajský soud v Ústí nad Labem odsoudil šestadvacetiletého muže, který v Drahomyšli u Žatce usmrtil svého dvouapůlletého syna."
     },
     {
-     "title": "Zákon o ochraně kritické infrastruktury před drony",
-     "text": "Návrh zákona o ochraně kritické infrastruktury před drony je v připomínkovém řízení. Hospodářské noviny upozorňují, že Německo zatím podobný návrh nemá, Česko ale ještě musí zvládnout praktické zavedení."
+     "title": "Hromadná nehoda omezila provoz na D1 u Prahy",
+     "text": "Provoz na dálnici D1 u Prahy omezila hromadná dopravní nehoda."
+    },
+    {
+     "title": "V Brně začal 10. ročník festivalu Janáček Brno",
+     "text": "Jubilejní ročník mezinárodního operního a hudebního festivalu potrvá pět týdnů."
     }
    ]
   },
@@ -34,24 +38,28 @@
    "title": "🌍 Svět",
    "items": [
     {
-     "title": "Húsíové znovu útočí na letiště v Rijádu",
-     "text": "Při sobotním útoku jemenských húsíů na letiště krále Chálida v Rijádu zemřelo podle různých zdrojů 12 až 13 lidí, včetně občana USA. V neděli zasáhl terminál další útok. V pondělí Saúdská Arábie sestřelila tři balistické rakety a letiště zůstává zavřené nejméně do 17. října. Trump zvažuje, zda se USA zapojí do boje proti húsíům."
+     "title": "Trump ohlásil energetické příměří, Rusko podle Kyjeva zaútočilo na elektrárnu",
+     "text": "Trump oznámil, že Rusko a Ukrajina souhlasily s okamžitým příměřím v útocích na energetiku. Podle Zelenského ale Rusko o několik hodin později zasáhlo elektrárnu v Charkově. Při ruských útocích tam zahynuli čtyři lidé."
     },
     {
-     "title": "Zelenskyj: Rusko porušilo energetické příměří",
-     "text": "Ukrajinský prezident v pondělí uvedl, že Rusko porušilo energetické příměří vyhlášené Donaldem Trumpem. Kreml podle dostupných zpráv odmítl Zelenského návrh na 60denní příměří kvůli volbám. Ruské ostřelování pokračovalo, mimo jiné na Dnipro a Slovjansk."
+     "title": "EU uvalila nové sankce na ruský zbrojní průmysl",
+     "text": "Víc než polovina nových sankcí míří na lidi a firmy, které pomáhají vyrábět balistické rakety. Dvanáct amerických senátorů z obou stran zároveň vyzvalo Trumpa, aby odstoupil od nedávné dohody s Putinem."
     },
     {
-     "title": "EU uvalila nové sankce na Rusko",
-     "text": "EU potrestala sankcemi pořádání voleb do Státní dumy na okupovaných územích Ukrajiny. Podle jednoho z médií přijala také rekordní balík sankcí proti ruskému zbrojnímu průmyslu."
+     "title": "Londýn: Za plánem útoku na základnu RAF Fairford je „téměř jistě“ Írán",
+     "text": "Britský premiér Andy Burnham řekl parlamentu, že za podezřením na plánovaný útok na leteckou základnu RAF Fairford téměř jistě stojí íránské Revoluční gardy."
     },
     {
-     "title": "Francie: průzkum vidí ve druhém kole Le Penovou a Mélenchona",
-     "text": "Podle nového průzkumu by do druhého kola francouzských prezidentských voleb postoupili Marine Le Penová a Jean-Luc Mélenchon. Podle Euronews to ukazuje, jak se politické rozdělení Francie dál prohlubuje."
+     "title": "Eskalace v Jemenu: Hútíové útočí na Saúdskou Arábii",
+     "text": "Saúdská Arábie hlásí novou vlnu útoků. Hútíové obklíčili Taizz, třetí největší město Jemenu. Trump je obvinil, že útoky na Saúdskou Arábii mají zvednout ceny ropy."
     },
     {
-     "title": "Islámské státy odsoudily útok na Saúdskou Arábii",
-     "text": "Turecko, Pákistán, Egypt a Saúdská Arábie odsoudily útoky húsíů na letiště v Rijádu. Odsoudil je i generální tajemník OSN. Turecko a Pákistán podle zpráv posílají do Saúdské Arábie vojáky v rámci obranného paktu."
+     "title": "Drony zasáhly dvě lodě v Černém moři u Bulharska",
+     "text": "Bulharský premiér Rumen Radev uvedl, že drony zasáhly dvě lodě u bulharského pobřeží."
+    },
+    {
+     "title": "Papež Lev XIV. úspěšně podstoupil operaci plic",
+     "text": "Podle Vatikánu proběhlo odstranění plicního nodulu v římské nemocnici Gemelli úspěšně. Zotavení má trvat zhruba týden."
     }
    ]
   },
@@ -60,24 +68,28 @@
    "title": "📈 Ekonomika a trhy",
    "items": [
     {
-     "title": "Wall Street: Dow roste, technologie ztrácejí",
-     "text": "Pondělní obchodování skončilo smíšeně. Dow Jones přidal 0,38 % na 51 850,55 bodu, S&P 500 ztratil 0,06 % na 7 807,24 a Nasdaq 0,44 % na 27 245,90. Nasdaq táhly dolů hlavně akcie Micronu. Dluhopisový trh byl kvůli svátku Columbus Day zavřený."
+     "title": "Wall Street mírně ve ztrátě",
+     "text": "S&P 500 skončil prakticky beze změny (−0,02 % na 7 805,45 bodu), těsně pod rekordem z minulého týdne. Dow Jones ztratil 0,35 % na 51 670,10 bodu a Nasdaq 0,15 % na 27 204,38 bodu. Trh táhly dolů akcie výrobců paměťových čipů a smíšené reakce na výsledky velkých bank. Investoři teď čekají na americkou inflaci (CPI)."
     },
     {
-     "title": "Ropa Brent nad 106 dolary",
-     "text": "Brent se po útoku na letiště v Rijádu dostal přes 106 USD za barel a americká WTI se obchodovala kolem 93 USD. Ceny zvedají obavy z eskalace na Blízkém východě a z dopadů na snahu ukončit válku mezi USA a Íránem."
+     "title": "JPMorgan zvýšil zisk, ale nesplnil očekávání",
+     "text": "Čistý zisk za 3. čtvrtletí vzrostl meziročně o 6 % na 15,3 mld. USD (5,57 USD na akcii), analytici čekali asi 5,90 USD. Tržby za obchodování stouply o 15 %, poplatky z investičního bankovnictví o 14 %. Výsledky zveřejnily také Goldman Sachs, Wells Fargo a Citi."
     },
     {
-     "title": "Zlato a bitcoin oslabují",
-     "text": "Spotové zlato kleslo o 0,5 % na zhruba 4 171 USD za unci. Bitcoin se drží kolem 83 000 USD a za poslední týden ztratil asi 4 %."
+     "title": "Pražská burza rostla potřetí v řadě, koruna mírně posílila",
+     "text": "Index PX přidal 0,22 % na 2 603,42 bodu a vrátil se nad hranici 2 600 bodů. Moneta ztratila 2,3 %, Komerční banka přidala 0,4 % na 995 Kč. Koruna večer stála na 24,35 Kč/EUR a 21,76 Kč/USD."
     },
     {
-     "title": "Začíná výsledková sezóna",
-     "text": "Investoři se tento týden soustředí na začátek sezóny čtvrtletních výsledků a na data o inflaci. S&P 500 i Nasdaq minulý týden zaznamenaly rekordy a Nasdaq rostl čtvrtý týden po sobě."
+     "title": "Ropa zdražuje, zlato mírně oslabilo",
+     "text": "Ropa během dne zdražovala kvůli napětí na Blízkém východě, WTI se obchodovala kolem 94 USD a Brent kolem 105,6 USD za barel. Zlato kleslo o 10,70 USD na zhruba 4 160 USD za unci."
     },
     {
-     "title": "Nobelovu cenu za ekonomii mají Hall a Woodford",
-     "text": "Ocenění získali Američané Robert E. Hall ze Stanfordu a Michael Woodford z Kolumbijské univerzity. Cenu dostali za modely, které vládám a centrálním bankám pomáhají zvládat šoky, jako jsou energetické krize nebo inflace. Rozdělí si 12 milionů švédských korun."
+     "title": "Bitcoin roste kolem 83 tisíc dolarů",
+     "text": "Bitcoin přidal zhruba 1,9 % na asi 83 300 USD, zatímco akcie a drahé kovy oslabovaly."
+    },
+    {
+     "title": "MMF mírně zlepšil výhled světové ekonomiky",
+     "text": "Mezinárodní měnový fond letos čeká globální růst 3,1 %. Zároveň varuje před rostoucími riziky z narůstajícího zadlužení."
     }
    ]
   }
