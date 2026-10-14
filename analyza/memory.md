@@ -1,31 +1,31 @@
 ## Běží
-- 2026-10-14: FED HOLD 28.10. — Williams holubičí (1 hike letos, 0 v 2027), trh čeká víc → výnosy i dolar měkčí; jestřáb změkl, do zasedání nepotvrzeno. (běží, klíčové)
-- 2026-10-14: ČIPY = test AI trade — ASML Q3 dnes 14.10., TSMC zítra 15.10.; guidance zlomí/potvrdí tezi o křehkém techu. (běží, klíčové)
-- 2026-10-14: 10letý 5,217 % (1D −0,44 %, YTD +25,32 %) — po úlevě pořád nad 4,5 %, kotva na tech; dlouhé dluhopisy až trvale pod ~4,5 %. (běží, klíčové)
-- 2026-10-14: TLT $78,37 nad 52t min 76,43 (1T +1,41 %) — odraz ne obrat; vstup až 10letý pod 4,5 %. (běží, klíčové)
-- 2026-10-14: 3M poukázka 4,057 % u 52t max — král parkování suchého prachu, nulová durace; reinvestiční riziko až Fed otočí. (běží, klíčové)
-- 2026-10-14: AKCIE BEZ POLŠTÁŘE — S&P 7 805 vs max 7 844 (~0,5 %), Nasdaq 27 204 vs 27 722 (~1,9 %); úleva z CPI nestačila na maxima. (běží, klíčové)
-- 2026-10-14: VIX 15,19 u 52t min 13,38 — strach se po CPI nevrátil; obrat sentimentu až nad ~20. (běží)
-- 2026-10-14: ROTACE DO VALUE? — dnes nesedí, Dow −0,35 % s techem po JPM missu; náznak, ne trend. (běží)
-- 2026-10-14: BANKY Q3 — JPM miss ($5,57 vs 5,90), GS beat (trading); dnes BofA/MS/BlackRock; tech vlažný, test valuací pokračuje. (běží)
-- 2026-10-14: ZLATO $4 168 (1M −3,81 %, YTD −3,99 %) — konsolidace po korekci, CB poptávka; DCA po troškách. (běží, klíčové)
-- 2026-10-14: MĚĎ $6,7425 těsně pod max 6,83, 1R +35,38 % — dlouhodobě ano, přidávat jen na zpětce ~6,0–6,2. (běží, klíčové)
-- 2026-10-14: STŘÍBRO $58,81, YTD −16,14 % vs 1R +16,90 % — obrat až nad $62 s objemem. (běží)
-- 2026-10-14: ROPA WTI $94,19 (1T +6,69 %, YTD +64,04 %) — válečná prémie, přehřáté; nehonit, risk splasknutí. (běží)
-- 2026-10-14: ZEMNÍ PLYN $3,306 (1M +13,26 %) — zimní poptávka + napjaté zásoby EU; spike, nehonit do topné sezóny. (běží)
-- 2026-10-14: BTC $83 220 (3M +31,26 %) — stabilizace nad $80k, risk-on; dlouhodobý obrat (1R −26,43 %) ne. (běží, klíčové)
-- 2026-10-14: ETH slabý článek — $2 498, 1R −39,46 %, odtoky z ETF; nekupovat, dokud neporáží BTC. (běží)
-- 2026-10-14: QQQ $743,57 pod max 762,86 — draho a křehké; kupovat pod ~$700 nebo po potvrzení výsledky (ASML/TSMC). (běží, klíčové)
-- 2026-10-14: Jádro VWCE €173,22 / MSCI World €132,27 u ATH (1R +22,99 % / +22,13 %) — DCA, páteř portfolia. (běží)
-- 2026-10-14: DOLAR USD/CZK 21,75 (1D −0,26 %, 1R +3,52 %) — u 52t max, měkne na holubičím Fedu; otočka nepotvrzena. (běží)
-- 2026-10-14: EVROPA laggard — DAX YTD +3,72 %, Euro Stoxx +7,14 %; nepřeceňovat jednodenní vedení. (běží)
-- 2026-10-14: PPI + maloobchod čt 15.10. 8:30 ET — druhý inflační test týdne; horký PPI smaže úlevu z CPI. (běží, klíčové)
+- 2026-10-15: ČIPY = test AI trade — VYŠLO NARUBY: TSMC rekord (+~50 % r/r), ASML beat, a tech stejně dolů (Nasdaq −1,88 %). Ani skvělá čísla neudrží přehřátý sektor = silný signál křehkosti. (klíčové)
+- 2026-10-15: CXMT riziko — čínský průlom v paměti (4F²) straší Micron/Samsung/Hynix, podkopává US dominanci v čipech; nový faktor tlaku na polovodiče. (běží, klíčové)
+- 2026-10-15: AKCIE BEZ POLŠTÁŘE — VYŠLO: polštář u maxim nulový, úbytek přišel (S&P −1,11 %, Nasdaq −1,88 %); zatím korekce, ne obrat. (běží, klíčové)
+- 2026-10-15: ROTACE DO VALUE posiluje — Dow 1T +0,86 % vs Nasdaq 1T −3,07 %; z náznaku čitelný vzor, ještě ne potvrzený trend. (běží, klíčové)
+- 2026-10-15: VIX 16,87 (1D +10,48 %) — strach se probudil, ale pod prahem; obrat sentimentu až nad ~20. (běží, klíčové)
+- 2026-10-15: QQQ $728,95 (1T −3,80 %) — draho a křehké; kupovat až pod ~$700 nebo reset sentimentu (VIX >20). (běží, klíčové)
+- 2026-10-15: FED HOLD 28.10. — holubičí Williams, výnosy dnes −0,52 % sedí; dolar u 52t max (USD/CZK 21,79), otočka nepotvrzena. (běží, klíčové)
+- 2026-10-15: 10letý 5,19 % (1D −0,52 %, YTD +24,67 %) — chytil risk-off bid, pořád nad 4,5 %; kotva na tech. (běží, klíčové)
+- 2026-10-15: TLT $78,89 (1D +0,66 %) nad 52t min 76,43 — odraz ne obrat; vstup až 10letý trvale pod 4,5 %. (běží, klíčové)
+- 2026-10-15: 3M poukázka 4,085 % u 52t max — král parkování suchého prachu, nulová durace; reinvestiční riziko až Fed otočí. (běží, klíčové)
+- 2026-10-15: ZLATO $4 126 (1M −4,78 %, dnes −1,23 % s akciemi) — korekce, ne rozpad; CB poptávka + deficit; DCA po troškách. (běží, klíčové)
+- 2026-10-15: STŘÍBRO $55,76 (1D −5,76 %, YTD −20,50 %) — padající nůž; obrat až nad $62 s objemem. (běží)
+- 2026-10-15: MĚĎ $6,615 pod max 6,83, 1R +32,82 % — dlouhodobě ano, přidávat jen na zpětce ~6,0–6,2. (běží)
+- 2026-10-15: ROPA WTI $94,93 (1R +61,72 %) — válečná prémie, přehřáté; nehonit, risk splasknutí. (běží)
+- 2026-10-15: BTC $81 498 (3M +28,54 %, 1R −27,95 %) — stabilizace nad $80k křehká, dnes risk-off s techem; dlouhodobý obrat ne. (běží)
+- 2026-10-15: ETH $2 417, 1R −41,42 % — slabý článek, podvýkon vůči BTC; nekupovat, dokud neporáží bitcoin. (běží)
+- 2026-10-15: Jádro VWCE €172,60 / MSCI World €131,74 pod ATH (1R +22,55 % / +21,63 %) — diverzifikace tlumí pokles; DCA, páteř. (běží)
+- 2026-10-15: EVROPA laggard — DAX YTD +3,14 %, Euro Stoxx +6,40 %; nepřeceňovat jednodenní vedení. (běží)
+- 2026-10-16: OPEX pátek (třetí pátek) — měsíční expirace opcí může zesílit volatilitu; sleduj druhý den tech-selloffu. (běží)
+- 2026-10-15: PPI/maloobchod 15.10. — výnosy klesly, žádný inflační šok; benignímu scénáři před Fedem odpovídá (data možná zpožděná). (běží)
 
 ## Uzavřeno
-- 2026-10-14: „CPI horké = spínač u maxim" — NEVYŠLO (benigní): print v souladu/chladnější, výnosy dolů, akcie udržely maxima.
-- 2026-10-13: „BANKY = test valuací" — VYŠLO ČÁSTEČNĚ: beaty i JPM miss, tech vlažný, test pokračuje.
-- 2026-10-13: „VIX couvá = obrat sentimentu" — NEVYŠLO: výskok vyfučel, strach zpět na podlaze.
-- 2026-10-12: „Columbus Day 12.10." — VYŠLO: stocks open, bonds/banky zavřené, tenké objemy.
+- 2026-10-15: „ČIPY zlomí/potvrdí tezi" — VYŠLO: beat od TSMC i ASML, tech stejně dolů → křehkost potvrzena.
+- 2026-10-14: „CPI horké = spínač u maxim" — NEVYŠLO (benigní): print chladnější, akcie udržely maxima den předtím.
+- 2026-10-13: „BANKY = test valuací" — VYŠLO ČÁSTEČNĚ: beaty i JPM miss, tech vlažný.
+- 2026-10-13: „VIX couvá = obrat sentimentu" — NEVYŠLO: výskok vyfučel (do 15.10., kdy se vrátil).
+- 2026-10-12: „Columbus Day" — VYŠLO: stocks open, bonds/banky zavřené.
 - 2026-10-11: „AI trhlina = systémový problém" — NEVYŠLO, rebound potvrzen.
 - 2026-10-01: „PCE den: hot = spínač" — ČÁSTEČNĚ NEVYŠLO: print měkký, výnosy vylétly.
 - 2026-09-17: „Fed hike pohne dolarem" — VYŠLO, USD/CZK nad 21.
