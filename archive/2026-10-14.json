@@ -1,0 +1,97 @@
+{
+ "date": "2026-10-14",
+ "date_cz": "14.10.2026",
+ "updated_at": "2026-10-14T22:29+02:00",
+ "sections": [
+  {
+   "key": "cr",
+   "title": "🇨🇿 Česká republika",
+   "items": [
+    {
+     "title": "Sněmovna přehlasovala prezidentovo veto zákona o státních úřednících",
+     "text": "Poslanci znovu schválili nová pravidla pro státní zaměstnance, která prezident Pavel stejně jako opozice kritizoval kvůli obavám z politizace státní správy. Doprovodná novela navíc omezuje prezidentovy pravomoci u vedoucích stálých misí při mezinárodních organizacích."
+    },
+    {
+     "title": "Koalice opět prosadila noční jednání Sněmovny",
+     "text": "Vládní koalice znovu odhlasovala, že poslanci mohou projednávat zákony i v noci. Zástupci koalice se zároveň shodli na znění novely o asistentech pedagoga."
+    },
+    {
+     "title": "Senátoři napadli u Ústavního soudu regulaci cen pohonných hmot",
+     "text": "Skupina senátorů vedená Tomášem Goláněm (ODS) navrhla zrušit zákon o regulaci cen pohonných hmot. Připouštějí, že stát může ceny v mimořádné situaci regulovat. Vadí jim ale příliš široké pravomoci vlády a slabá ochrana podnikatelů před dlouhodobě ztrátovým provozem."
+    },
+    {
+     "title": "Střet zájmů premiéra Babiše",
+     "text": "Podle Transparency International jí Evropská komise potvrdila, že Andrej Babiš je ve střetu zájmů. Soud zároveň potvrdil, že úřady začaly dotaci spojenou s tímto střetem zájmů vymáhat po Agrofertu včas."
+    },
+    {
+     "title": "Po komunálních volbách vznikají koalice",
+     "text": "V Ústí nad Labem bude koalice Jedno Úst­í se 22 z 37 mandátů vládnout sama a primátorem se stane nestraník Tomáš Vohryzka. V Olomouci se chystá koalice v čele se STAN, ve Zlíně se o koalici dál jedná."
+    },
+    {
+     "title": "Sucho může postihnout téměř třetinu Česka",
+     "text": "Výjimečné a extrémní sucho může podle ČTK zasáhnout téměř třetinu území. Na Lipně kvůli nízké hladině vody vzniklo ze zátoky samostatné jezero."
+    }
+   ]
+  },
+  {
+   "key": "svet",
+   "title": "🌍 Svět",
+   "items": [
+    {
+     "title": "Rusko útočilo na Ukrajinu, 600 tisíc lidí je bez proudu",
+     "text": "V Kyjevě zemřeli čtyři lidé, když úder zasáhl panelový dům. V Lucku zahynulo šest lidí a deset bylo zraněno, další tři oběti hlásí Dněpropetrovská a Záporožská oblast. Asi 600 tisíc Ukrajinců zůstalo bez elektřiny. Kyjev zároveň uvádí, že SpaceX omezila některé služby Starlinku a narušila tím obranné mise."
+    },
+    {
+     "title": "V Hormuzském průlivu se potopily dvě nákladní lodě",
+     "text": "Podle Reuters byla nedaleko průlivu po zásahu projektilem potopena kontejnerová loď pod singapurskou vlajkou a další plavidlo bylo poškozeno. Írán na lodě v úžině útočí od února, kdy USA a Izrael zahájily údery proti Teheránu."
+    },
+    {
+     "title": "Válka v Jemenu se stupňuje",
+     "text": "Saúdská Arábie zaútočila na ropné zařízení u Saná. Hútíové zasáhli centrálu Saudi Aramco v Dhahránu, kde vznikl menší požár. Koalice vedená Saúdy uvedla, že zachytila balistickou raketu vypálenou na Rijád."
+    },
+    {
+     "title": "Papež Lev XIV. podstoupil operaci kvůli nádoru plic",
+     "text": "Vatikán oznámil, že papež byl v úterý operován, protože mu lékaři odstraňovali zhoubný nádor v plicích."
+    },
+    {
+     "title": "Turecká policie provedla razii v opoziční Halk TV",
+     "text": "Policie zasáhla v istanbulském sídle stanice, vysílání bylo přerušeno a vláda do televize dosadila správce. Podle AFP jde o další zásah proti médiím kritickým vůči prezidentu Erdoganovi."
+    },
+    {
+     "title": "EU chce odložit metanové nařízení",
+     "text": "Evropská komise navrhla odložit o rok klíčové povinnosti pro dováženou ropu a plyn. Česko žádalo až tříletý odklad, premiér Babiš ale návrh uvítal."
+    }
+   ]
+  },
+  {
+   "key": "ekonomika",
+   "title": "📈 Ekonomika a trhy",
+   "items": [
+    {
+     "title": "Wall Street po inflačních datech klesla, technologie ztrácely nejvíc",
+     "text": "Nasdaq Composite zakončil den na 26 692,87 bodu (−1,88 %), S&P 500 na 7 718,94 bodu (−1,11 %) a Dow Jones na 51 621,48 bodu (−0,09 %). Index malých firem Russell 2000 klesl zhruba o 2 %. Nejvíc ztrácely akcie výrobců čipů a pamětí."
+    },
+    {
+     "title": "Americká inflace v září zrychlila na 3,7 %",
+     "text": "Spotřebitelské ceny v USA meziročně vzrostly o 3,7 % (v srpnu 3,4 %, trh čekal 3,6 %). Jádrová inflace dosáhla 2,6 % meziročně a 0,3 % meziměsíčně, obojí nad odhady analytiků."
+    },
+    {
+     "title": "Vzrostly sázky na zvýšení sazeb Fedu, rostly i výnosy dluhopisů",
+     "text": "Podle CME FedWatch trh nyní vidí 44–47% šanci, že Fed zvýší sazby už na konci října; před zveřejněním inflace to bylo asi 20 %. Na alespoň jedno zvýšení do konce roku sázky přesahují 90 %. Výnos desetiletých dluhopisů USA se během dne pohyboval mezi 5,27 a 5,33 %, dvouleté dosáhly 4,94 %."
+    },
+    {
+     "title": "Akcie CoreWeave propadly zhruba o 15 %",
+     "text": "Ztráty vedly firmy, které pronajímají výpočetní kapacitu pro AI (tzv. neoclouds). Investory znepokojil výnos dluhopisů CoreWeave splatných v roce 2032, který den předtím vyskočil až na 15 %."
+    },
+    {
+     "title": "Bitcoin pod 84 tisíci dolarů, ropa kolem 95 dolarů",
+     "text": "Bitcoin po inflačních datech spadl z téměř 84 000 na zhruba 82 000 USD. Americká ropa WTI se obchodovala kolem 95 USD za barel a zlato zhruba za 4 130–4 150 USD za unci. Údaje jsou orientační, zdroje se v nich liší."
+    },
+    {
+     "title": "Čínský obchodní přebytek překonal odhady",
+     "text": "Čínský obchodní přebytek se v září zvýšil víc, než se čekalo, protože prudce rostl export. Ministři financí EU se mezitím dohodli na balíčku, který má propojit kapitálové trhy v Unii."
+    }
+   ]
+  }
+ ]
+}

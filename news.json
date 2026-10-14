@@ -1,35 +1,35 @@
 {
- "date": "2026-10-13",
- "date_cz": "13.10.2026",
- "updated_at": "2026-10-13T23:45+02:00",
+ "date": "2026-10-14",
+ "date_cz": "14.10.2026",
+ "updated_at": "2026-10-14T22:29+02:00",
  "sections": [
   {
    "key": "cr",
    "title": "🇨🇿 Česká republika",
    "items": [
     {
-     "title": "Poslanci v prvním čtení podpořili mimořádnou daň pro rafinerie",
-     "text": "Daň má platit letos a příští rok. Vláda ji zdůvodňuje vyššími maržemi rafinerií kvůli situaci na světovém trhu s ropou a letos od ní čeká 5,5 až 9 miliard korun. Koalice ANO, SPD a Motoristů prosadila návrh až na druhý pokus."
+     "title": "Sněmovna přehlasovala prezidentovo veto zákona o státních úřednících",
+     "text": "Poslanci znovu schválili nová pravidla pro státní zaměstnance, která prezident Pavel stejně jako opozice kritizoval kvůli obavám z politizace státní správy. Doprovodná novela navíc omezuje prezidentovy pravomoci u vedoucích stálých misí při mezinárodních organizacích."
     },
     {
-     "title": "ČEZ se v kauze Diag Human bude bránit u lucemburského soudu",
-     "text": "Podle premiéra Andreje Babiše (ANO) jsou zástupci ČEZ přesvědčeni, že u soudu uspějí. Babiš uvedl, že se to nedotkne činnosti firmy ani zákazníků v ČR."
+     "title": "Koalice opět prosadila noční jednání Sněmovny",
+     "text": "Vládní koalice znovu odhlasovala, že poslanci mohou projednávat zákony i v noci. Zástupci koalice se zároveň shodli na znění novely o asistentech pedagoga."
     },
     {
-     "title": "Babiš vystoupil na Pražském fóru o AI a duševním zdraví",
-     "text": "Premiér mluvil na fóru o umělé inteligenci a duševním zdraví v Lichtenštejnském paláci v Praze."
+     "title": "Senátoři napadli u Ústavního soudu regulaci cen pohonných hmot",
+     "text": "Skupina senátorů vedená Tomášem Goláněm (ODS) navrhla zrušit zákon o regulaci cen pohonných hmot. Připouštějí, že stát může ceny v mimořádné situaci regulovat. Vadí jim ale příliš široké pravomoci vlády a slabá ochrana podnikatelů před dlouhodobě ztrátovým provozem."
     },
     {
-     "title": "Za usmrcení dvouapůlletého syna dostal otec 17 let vězení",
-     "text": "Krajský soud v Ústí nad Labem odsoudil šestadvacetiletého muže, který v Drahomyšli u Žatce usmrtil svého dvouapůlletého syna."
+     "title": "Střet zájmů premiéra Babiše",
+     "text": "Podle Transparency International jí Evropská komise potvrdila, že Andrej Babiš je ve střetu zájmů. Soud zároveň potvrdil, že úřady začaly dotaci spojenou s tímto střetem zájmů vymáhat po Agrofertu včas."
     },
     {
-     "title": "Hromadná nehoda omezila provoz na D1 u Prahy",
-     "text": "Provoz na dálnici D1 u Prahy omezila hromadná dopravní nehoda."
+     "title": "Po komunálních volbách vznikají koalice",
+     "text": "V Ústí nad Labem bude koalice Jedno Úst­í se 22 z 37 mandátů vládnout sama a primátorem se stane nestraník Tomáš Vohryzka. V Olomouci se chystá koalice v čele se STAN, ve Zlíně se o koalici dál jedná."
     },
     {
-     "title": "V Brně začal 10. ročník festivalu Janáček Brno",
-     "text": "Jubilejní ročník mezinárodního operního a hudebního festivalu potrvá pět týdnů."
+     "title": "Sucho může postihnout téměř třetinu Česka",
+     "text": "Výjimečné a extrémní sucho může podle ČTK zasáhnout téměř třetinu území. Na Lipně kvůli nízké hladině vody vzniklo ze zátoky samostatné jezero."
     }
    ]
   },
@@ -38,28 +38,28 @@
    "title": "🌍 Svět",
    "items": [
     {
-     "title": "Trump ohlásil energetické příměří, Rusko podle Kyjeva zaútočilo na elektrárnu",
-     "text": "Trump oznámil, že Rusko a Ukrajina souhlasily s okamžitým příměřím v útocích na energetiku. Podle Zelenského ale Rusko o několik hodin později zasáhlo elektrárnu v Charkově. Při ruských útocích tam zahynuli čtyři lidé."
+     "title": "Rusko útočilo na Ukrajinu, 600 tisíc lidí je bez proudu",
+     "text": "V Kyjevě zemřeli čtyři lidé, když úder zasáhl panelový dům. V Lucku zahynulo šest lidí a deset bylo zraněno, další tři oběti hlásí Dněpropetrovská a Záporožská oblast. Asi 600 tisíc Ukrajinců zůstalo bez elektřiny. Kyjev zároveň uvádí, že SpaceX omezila některé služby Starlinku a narušila tím obranné mise."
     },
     {
-     "title": "EU uvalila nové sankce na ruský zbrojní průmysl",
-     "text": "Víc než polovina nových sankcí míří na lidi a firmy, které pomáhají vyrábět balistické rakety. Dvanáct amerických senátorů z obou stran zároveň vyzvalo Trumpa, aby odstoupil od nedávné dohody s Putinem."
+     "title": "V Hormuzském průlivu se potopily dvě nákladní lodě",
+     "text": "Podle Reuters byla nedaleko průlivu po zásahu projektilem potopena kontejnerová loď pod singapurskou vlajkou a další plavidlo bylo poškozeno. Írán na lodě v úžině útočí od února, kdy USA a Izrael zahájily údery proti Teheránu."
     },
     {
-     "title": "Londýn: Za plánem útoku na základnu RAF Fairford je „téměř jistě“ Írán",
-     "text": "Britský premiér Andy Burnham řekl parlamentu, že za podezřením na plánovaný útok na leteckou základnu RAF Fairford téměř jistě stojí íránské Revoluční gardy."
+     "title": "Válka v Jemenu se stupňuje",
+     "text": "Saúdská Arábie zaútočila na ropné zařízení u Saná. Hútíové zasáhli centrálu Saudi Aramco v Dhahránu, kde vznikl menší požár. Koalice vedená Saúdy uvedla, že zachytila balistickou raketu vypálenou na Rijád."
     },
     {
-     "title": "Eskalace v Jemenu: Hútíové útočí na Saúdskou Arábii",
-     "text": "Saúdská Arábie hlásí novou vlnu útoků. Hútíové obklíčili Taizz, třetí největší město Jemenu. Trump je obvinil, že útoky na Saúdskou Arábii mají zvednout ceny ropy."
+     "title": "Papež Lev XIV. podstoupil operaci kvůli nádoru plic",
+     "text": "Vatikán oznámil, že papež byl v úterý operován, protože mu lékaři odstraňovali zhoubný nádor v plicích."
     },
     {
-     "title": "Drony zasáhly dvě lodě v Černém moři u Bulharska",
-     "text": "Bulharský premiér Rumen Radev uvedl, že drony zasáhly dvě lodě u bulharského pobřeží."
+     "title": "Turecká policie provedla razii v opoziční Halk TV",
+     "text": "Policie zasáhla v istanbulském sídle stanice, vysílání bylo přerušeno a vláda do televize dosadila správce. Podle AFP jde o další zásah proti médiím kritickým vůči prezidentu Erdoganovi."
     },
     {
-     "title": "Papež Lev XIV. úspěšně podstoupil operaci plic",
-     "text": "Podle Vatikánu proběhlo odstranění plicního nodulu v římské nemocnici Gemelli úspěšně. Zotavení má trvat zhruba týden."
+     "title": "EU chce odložit metanové nařízení",
+     "text": "Evropská komise navrhla odložit o rok klíčové povinnosti pro dováženou ropu a plyn. Česko žádalo až tříletý odklad, premiér Babiš ale návrh uvítal."
     }
    ]
   },
@@ -68,28 +68,28 @@
    "title": "📈 Ekonomika a trhy",
    "items": [
     {
-     "title": "Wall Street mírně ve ztrátě",
-     "text": "S&P 500 skončil prakticky beze změny (−0,02 % na 7 805,45 bodu), těsně pod rekordem z minulého týdne. Dow Jones ztratil 0,35 % na 51 670,10 bodu a Nasdaq 0,15 % na 27 204,38 bodu. Trh táhly dolů akcie výrobců paměťových čipů a smíšené reakce na výsledky velkých bank. Investoři teď čekají na americkou inflaci (CPI)."
+     "title": "Wall Street po inflačních datech klesla, technologie ztrácely nejvíc",
+     "text": "Nasdaq Composite zakončil den na 26 692,87 bodu (−1,88 %), S&P 500 na 7 718,94 bodu (−1,11 %) a Dow Jones na 51 621,48 bodu (−0,09 %). Index malých firem Russell 2000 klesl zhruba o 2 %. Nejvíc ztrácely akcie výrobců čipů a pamětí."
     },
     {
-     "title": "JPMorgan zvýšil zisk, ale nesplnil očekávání",
-     "text": "Čistý zisk za 3. čtvrtletí vzrostl meziročně o 6 % na 15,3 mld. USD (5,57 USD na akcii), analytici čekali asi 5,90 USD. Tržby za obchodování stouply o 15 %, poplatky z investičního bankovnictví o 14 %. Výsledky zveřejnily také Goldman Sachs, Wells Fargo a Citi."
+     "title": "Americká inflace v září zrychlila na 3,7 %",
+     "text": "Spotřebitelské ceny v USA meziročně vzrostly o 3,7 % (v srpnu 3,4 %, trh čekal 3,6 %). Jádrová inflace dosáhla 2,6 % meziročně a 0,3 % meziměsíčně, obojí nad odhady analytiků."
     },
     {
-     "title": "Pražská burza rostla potřetí v řadě, koruna mírně posílila",
-     "text": "Index PX přidal 0,22 % na 2 603,42 bodu a vrátil se nad hranici 2 600 bodů. Moneta ztratila 2,3 %, Komerční banka přidala 0,4 % na 995 Kč. Koruna večer stála na 24,35 Kč/EUR a 21,76 Kč/USD."
+     "title": "Vzrostly sázky na zvýšení sazeb Fedu, rostly i výnosy dluhopisů",
+     "text": "Podle CME FedWatch trh nyní vidí 44–47% šanci, že Fed zvýší sazby už na konci října; před zveřejněním inflace to bylo asi 20 %. Na alespoň jedno zvýšení do konce roku sázky přesahují 90 %. Výnos desetiletých dluhopisů USA se během dne pohyboval mezi 5,27 a 5,33 %, dvouleté dosáhly 4,94 %."
     },
     {
-     "title": "Ropa zdražuje, zlato mírně oslabilo",
-     "text": "Ropa během dne zdražovala kvůli napětí na Blízkém východě, WTI se obchodovala kolem 94 USD a Brent kolem 105,6 USD za barel. Zlato kleslo o 10,70 USD na zhruba 4 160 USD za unci."
+     "title": "Akcie CoreWeave propadly zhruba o 15 %",
+     "text": "Ztráty vedly firmy, které pronajímají výpočetní kapacitu pro AI (tzv. neoclouds). Investory znepokojil výnos dluhopisů CoreWeave splatných v roce 2032, který den předtím vyskočil až na 15 %."
     },
     {
-     "title": "Bitcoin roste kolem 83 tisíc dolarů",
-     "text": "Bitcoin přidal zhruba 1,9 % na asi 83 300 USD, zatímco akcie a drahé kovy oslabovaly."
+     "title": "Bitcoin pod 84 tisíci dolarů, ropa kolem 95 dolarů",
+     "text": "Bitcoin po inflačních datech spadl z téměř 84 000 na zhruba 82 000 USD. Americká ropa WTI se obchodovala kolem 95 USD za barel a zlato zhruba za 4 130–4 150 USD za unci. Údaje jsou orientační, zdroje se v nich liší."
     },
     {
-     "title": "MMF mírně zlepšil výhled světové ekonomiky",
-     "text": "Mezinárodní měnový fond letos čeká globální růst 3,1 %. Zároveň varuje před rostoucími riziky z narůstajícího zadlužení."
+     "title": "Čínský obchodní přebytek překonal odhady",
+     "text": "Čínský obchodní přebytek se v září zvýšil víc, než se čekalo, protože prudce rostl export. Ministři financí EU se mezitím dohodli na balíčku, který má propojit kapitálové trhy v Unii."
     }
    ]
   }
