@@ -1,35 +1,35 @@
 {
- "date": "2026-10-14",
- "date_cz": "14.10.2026",
- "updated_at": "2026-10-14T22:29+02:00",
+ "date": "2026-10-15",
+ "date_cz": "15.10.2026",
+ "updated_at": "2026-10-15T22:11+02:00",
  "sections": [
   {
    "key": "cr",
    "title": "🇨🇿 Česká republika",
    "items": [
     {
-     "title": "Sněmovna přehlasovala prezidentovo veto zákona o státních úřednících",
-     "text": "Poslanci znovu schválili nová pravidla pro státní zaměstnance, která prezident Pavel stejně jako opozice kritizoval kvůli obavám z politizace státní správy. Doprovodná novela navíc omezuje prezidentovy pravomoci u vedoucích stálých misí při mezinárodních organizacích."
+     "title": "V Liblicích odstřelili nejvyšší stavby Česka",
+     "text": "České Radiokomunikace dnes ráno nechaly odstřelit dva 355 metrů vysoké vysílací stožáry v Liblicích u Českého Brodu. Téměř 50 let to byly nejvyšší stavby v Česku."
     },
     {
-     "title": "Koalice opět prosadila noční jednání Sněmovny",
-     "text": "Vládní koalice znovu odhlasovala, že poslanci mohou projednávat zákony i v noci. Zástupci koalice se zároveň shodli na znění novely o asistentech pedagoga."
+     "title": "Babiš odmítá nové zdroje příjmů rozpočtu EU a chce změny v ETS",
+     "text": "Premiér Andrej Babiš před summitem v Bruselu označil návrhy Evropské komise na nové vlastní zdroje příštího rozpočtu EU za pro Česko zcela nepřijatelné. Prosazuje také další změny v systému emisních povolenek (ETS), v čemž má podporu Itálie a Polska."
     },
     {
-     "title": "Senátoři napadli u Ústavního soudu regulaci cen pohonných hmot",
-     "text": "Skupina senátorů vedená Tomášem Goláněm (ODS) navrhla zrušit zákon o regulaci cen pohonných hmot. Připouštějí, že stát může ceny v mimořádné situaci regulovat. Vadí jim ale příliš široké pravomoci vlády a slabá ochrana podnikatelů před dlouhodobě ztrátovým provozem."
+     "title": "Regulovaná cena nafty bude nejvyšší od začátku regulace",
+     "text": "Maximální povolená cena nafty od pátku stoupne o 14 haléřů na 48,77 Kč za litr. Je to nejvíc od zavedení regulace na začátku října, cenový strop u benzinu naopak klesne. Vláda zároveň připravuje cenové stropy pro energeticky náročný průmysl."
     },
     {
-     "title": "Střet zájmů premiéra Babiše",
-     "text": "Podle Transparency International jí Evropská komise potvrdila, že Andrej Babiš je ve střetu zájmů. Soud zároveň potvrdil, že úřady začaly dotaci spojenou s tímto střetem zájmů vymáhat po Agrofertu včas."
+     "title": "Soud v Praze pokračuje v prvním případu čínské špionáže",
+     "text": "Městský soud v Praze dál projednává případ muže obžalovaného ze špionáže pro Čínu. Takový případ se u českých soudů řeší poprvé v historii."
     },
     {
-     "title": "Po komunálních volbách vznikají koalice",
-     "text": "V Ústí nad Labem bude koalice Jedno Úst­í se 22 z 37 mandátů vládnout sama a primátorem se stane nestraník Tomáš Vohryzka. V Olomouci se chystá koalice v čele se STAN, ve Zlíně se o koalici dál jedná."
+     "title": "Hrozí výjimečné sucho na třetině území",
+     "text": "Výjimečné a extrémní sucho by mohlo zasáhnout téměř třetinu Česka. Vyplývá to ze zprávy zveřejněné ve středu 14. října."
     },
     {
-     "title": "Sucho může postihnout téměř třetinu Česka",
-     "text": "Výjimečné a extrémní sucho může podle ČTK zasáhnout téměř třetinu území. Na Lipně kvůli nízké hladině vody vzniklo ze zátoky samostatné jezero."
+     "title": "Jihlavu povede koalice bez ANO",
+     "text": "Jihlavu bude další čtyři roky řídit koalice ODS, KDU-ČSL, TOP 09 a STAN, oznámil primátor Petr Ryška (ODS). Koalice má v zastupitelstvu 21 z 37 mandátů."
     }
    ]
   },
@@ -38,28 +38,28 @@
    "title": "🌍 Svět",
    "items": [
     {
-     "title": "Rusko útočilo na Ukrajinu, 600 tisíc lidí je bez proudu",
-     "text": "V Kyjevě zemřeli čtyři lidé, když úder zasáhl panelový dům. V Lucku zahynulo šest lidí a deset bylo zraněno, další tři oběti hlásí Dněpropetrovská a Záporožská oblast. Asi 600 tisíc Ukrajinců zůstalo bez elektřiny. Kyjev zároveň uvádí, že SpaceX omezila některé služby Starlinku a narušila tím obranné mise."
+     "title": "Ukrajina zasáhla ruské bombardéry a znovu útočí na rafinerie",
+     "text": "Podle ukrajinského námořnictva zasáhly ukrajinské síly v noci letiště Borisoglebsk ve Voroněžské oblasti a šest bombardérů Su-34M. Po krátkém energetickém příměří Kyjev opět udeřil na rafinerii v Rjazaňské oblasti. Ruské útoky mezitím zabily několik civilistů v Kirovohradské a Dněpropetrovské oblasti."
     },
     {
-     "title": "V Hormuzském průlivu se potopily dvě nákladní lodě",
-     "text": "Podle Reuters byla nedaleko průlivu po zásahu projektilem potopena kontejnerová loď pod singapurskou vlajkou a další plavidlo bylo poškozeno. Írán na lodě v úžině útočí od února, kdy USA a Izrael zahájily údery proti Teheránu."
+     "title": "USA mají podle CNN nové plány úderů na Írán",
+     "text": "Americká armáda podle zdrojů CNN připravila plány úderů na íránskou energetickou infrastrukturu a jaderná zařízení, včetně možného nasazení bomby přezdívané „matka všech bomb“. Prezident Trump zároveň uvedl, že USA na Írán nezaútočí před 3. listopadem."
     },
     {
-     "title": "Válka v Jemenu se stupňuje",
-     "text": "Saúdská Arábie zaútočila na ropné zařízení u Saná. Hútíové zasáhli centrálu Saudi Aramco v Dhahránu, kde vznikl menší požár. Koalice vedená Saúdy uvedla, že zachytila balistickou raketu vypálenou na Rijád."
+     "title": "Izrael zastavuje dovoz komerčního zboží do Gazy",
+     "text": "Izrael oznámil, že do Pásma Gazy už nebude pouštět komerční zboží."
     },
     {
-     "title": "Papež Lev XIV. podstoupil operaci kvůli nádoru plic",
-     "text": "Vatikán oznámil, že papež byl v úterý operován, protože mu lékaři odstraňovali zhoubný nádor v plicích."
+     "title": "V Pákistánu se zřítila střecha školy",
+     "text": "V Péšávaru na severozápadě Pákistánu se zřítila střecha soukromé školy. Podle nemocnice zahynulo nejméně 17 žáků a jedna učitelka, jiné zprávy uvádějí až 28 mrtvých dětí."
     },
     {
-     "title": "Turecká policie provedla razii v opoziční Halk TV",
-     "text": "Policie zasáhla v istanbulském sídle stanice, vysílání bylo přerušeno a vláda do televize dosadila správce. Podle AFP jde o další zásah proti médiím kritickým vůči prezidentu Erdoganovi."
+     "title": "Boje v Jemenu odřízly od pomoci 800 tisíc lidí",
+     "text": "Podle Světového potravinového programu OSN odřízly těžké boje mezi Húsíy a jednotkami podporovanými Saúdskou Arábií od životně důležité pomoci asi 800 tisíc lidí."
     },
     {
-     "title": "EU chce odložit metanové nařízení",
-     "text": "Evropská komise navrhla odložit o rok klíčové povinnosti pro dováženou ropu a plyn. Česko žádalo až tříletý odklad, premiér Babiš ale návrh uvítal."
+     "title": "Severní Korea zkoušela rakety odpalované zpod vody",
+     "text": "KLDR provedla první zkoušky raket odpalovaných zpod vody po téměř třech letech. Nejspíš byly vypuštěny z ponorky určené k nesení jaderných zbraní. V albánské Tiraně se mezitím protivládní protesty studentů zvrhly ve střety a podle ministerstva zdravotnictví bylo zraněno 89 lidí, z toho 61 policistů."
     }
    ]
   },
@@ -68,28 +68,28 @@
    "title": "📈 Ekonomika a trhy",
    "items": [
     {
-     "title": "Wall Street po inflačních datech klesla, technologie ztrácely nejvíc",
-     "text": "Nasdaq Composite zakončil den na 26 692,87 bodu (−1,88 %), S&P 500 na 7 718,94 bodu (−1,11 %) a Dow Jones na 51 621,48 bodu (−0,09 %). Index malých firem Russell 2000 klesl zhruba o 2 %. Nejvíc ztrácely akcie výrobců čipů a pamětí."
+     "title": "Wall Street: Dow posílil o 1 %, technologie dál pod tlakem",
+     "text": "Dow Jones uzavřel podle dostupných kotací na 52 177,69 bodu (+1,08 %), S&P 500 na 7 744,06 (+0,33 %) a Nasdaq na 26 713,03 (+0,08 %). Den předtím Nasdaq po vyšší inflaci spadl o 1,88 % a S&P 500 o 1,11 %. Čipové a AI tituly dál zaostávaly kvůli obavám z dluhů, které financují výstavbu AI infrastruktury."
     },
     {
-     "title": "Americká inflace v září zrychlila na 3,7 %",
-     "text": "Spotřebitelské ceny v USA meziročně vzrostly o 3,7 % (v srpnu 3,4 %, trh čekal 3,6 %). Jádrová inflace dosáhla 2,6 % meziročně a 0,3 % meziměsíčně, obojí nad odhady analytiků."
+     "title": "Výnosy amerických dluhopisů prudce klesly",
+     "text": "Investoři se po dalších datech o velkoobchodní inflaci přesouvali z technologických akcií do dluhopisů. Výnos desetiletého dluhopisu klesl o více než 10 bazických bodů na zhruba 5,09 %, třicetiletého na asi 5,43 %."
     },
     {
-     "title": "Vzrostly sázky na zvýšení sazeb Fedu, rostly i výnosy dluhopisů",
-     "text": "Podle CME FedWatch trh nyní vidí 44–47% šanci, že Fed zvýší sazby už na konci října; před zveřejněním inflace to bylo asi 20 %. Na alespoň jedno zvýšení do konce roku sázky přesahují 90 %. Výnos desetiletých dluhopisů USA se během dne pohyboval mezi 5,27 a 5,33 %, dvouleté dosáhly 4,94 %."
+     "title": "Trh čeká další zvýšení sazeb Fedu",
+     "text": "Zářijová inflace v USA vystoupala meziročně na 3,7 % a překonala očekávaných 3,6 %. Futures na sazby Fedu podle CME FedWatch počítají do konce roku alespoň s jedním dalším zvýšením o čtvrt procentního bodu."
     },
     {
-     "title": "Akcie CoreWeave propadly zhruba o 15 %",
-     "text": "Ztráty vedly firmy, které pronajímají výpočetní kapacitu pro AI (tzv. neoclouds). Investory znepokojil výnos dluhopisů CoreWeave splatných v roce 2032, který den předtím vyskočil až na 15 %."
+     "title": "Ropa nad 100 dolary, zlato oslabuje",
+     "text": "Brent zlevnil po Trumpově slibu, že USA nezaútočí na Írán před 3. listopadem, ale stále se drží kolem 102–104 USD za barel. Zlato se dnes obchodovalo kolem 4 120–4 140 USD za unci a ztrácí třetí seanci v řadě."
     },
     {
-     "title": "Bitcoin pod 84 tisíci dolarů, ropa kolem 95 dolarů",
-     "text": "Bitcoin po inflačních datech spadl z téměř 84 000 na zhruba 82 000 USD. Americká ropa WTI se obchodovala kolem 95 USD za barel a zlato zhruba za 4 130–4 150 USD za unci. Údaje jsou orientační, zdroje se v nich liší."
+     "title": "Bitcoin klesl ke 81 tisícům dolarů",
+     "text": "Bitcoin se dnes pohyboval zhruba kolem 80 800 USD. Ve středu krátce vystoupal k 84 000 USD, zisky ale smazala vyšší než očekávaná americká inflace."
     },
     {
-     "title": "Čínský obchodní přebytek překonal odhady",
-     "text": "Čínský obchodní přebytek se v září zvýšil víc, než se čekalo, protože prudce rostl export. Ministři financí EU se mezitím dohodli na balíčku, který má propojit kapitálové trhy v Unii."
+     "title": "Evropa: Ericsson vyletěl o 12 %, Mondi propadl",
+     "text": "Podle Sharecastu uzavřel Stoxx 600 v plusu o 0,4 % na 640,16 bodu, přestože technologický sektor ztrácel. Akcie Ericssonu posílily téměř o 12 % po lepších tržbách za 3. čtvrtletí. Pernod Ricard mírně rostl, Mondi po slabších výsledcích výrazně oslabil."
     }
    ]
   }
