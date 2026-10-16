@@ -1,0 +1,97 @@
+{
+ "date": "2026-10-16",
+ "date_cz": "16.10.2026",
+ "updated_at": "2026-10-16T21:48+02:00",
+ "sections": [
+  {
+   "key": "cr",
+   "title": "🇨🇿 Česká republika",
+   "items": [
+    {
+     "title": "Začalo druhé kolo senátních voleb",
+     "text": "Volební místnosti se otevřely v pátek. Podle ČTK zatím přišlo méně než deset procent voličů. Předseda TOP 09 vidí ve výsledcích voleb ústup podpory vlády ANO."
+    },
+    {
+     "title": "Babiš na summitu EU: Trump nás dohodou s Putinem podrazil",
+     "text": "Premiér Babiš na summitu EU v Bruselu označil americko-ruskou dohodu, podle níž Rusko může znovu dodávat paliva na světové trhy, za zradu Evropy. Zároveň řekl, že Česko nebude ručit za žádnou další půjčku Ukrajině."
+    },
+    {
+     "title": "Vláda chce příští rok zrušit 10 % úřednických míst",
+     "text": "Premiér Babiš oznámil, že chce příští rok zrušit desetinu úřednických míst. Koncepci výstavby armády vláda neprojedná v pondělí, ale až koncem října."
+    },
+    {
+     "title": "Prezident Pavel k cestě do Maroka",
+     "text": "Prezident Petr Pavel reagoval na otázky ohledně své cesty do Maroka. Podle jeho slov za let soukromým tryskáčem zaplatil 19 tisíc eur."
+    },
+    {
+     "title": "Bývalý soudce Kafka obžalován z podvodu",
+     "text": "Státní zástupkyně obžalovala bývalého soudce Kafku z podvodu, který podle obžaloby dosahuje 32 milionů korun."
+    },
+    {
+     "title": "V pražské restauraci vybuchla plynová kamna",
+     "text": "V restauraci v centru Prahy vybuchla plynová kamna a několik lidí utrpělo popáleniny. Při srážce dvou aut v Jarošově nad Nežárkou se zranilo šest lidí."
+    }
+   ]
+  },
+  {
+   "key": "svet",
+   "title": "🌍 Svět",
+   "items": [
+    {
+     "title": "Střelba ve škole v Oregonu",
+     "text": "Při střelbě ve škole v americkém Oregonu zemřelo několik dětí a jeden učitel. Motiv útočníka zatím není známý."
+    },
+    {
+     "title": "Zelenskyj na summitu EU: Rusko válku ukončit nechce",
+     "text": "Ukrajinský prezident v Bruselu řekl, že nevidí žádné známky toho, že by Rusko chtělo válku ukončit, a že Putinovi nestačí žádný územní ústupek. Ukrajina podle něj obnovuje útoky na ruská energetická zařízení. Zelenskyj také uvedl, že americké rakety putují místo na Ukrajinu na Blízký východ."
+    },
+    {
+     "title": "Putin hrozí odvetou, Trump kritizuje Zelenského",
+     "text": "Putin pohrozil odvetou za ukrajinské útoky na ruské rafinerie a datová centra. Trump v rozhovoru pro Newsmax řekl, že se Zelenským se jedná hůř než s Putinem. Dohodu s Ruskem o dodávkách nafty podle něj uzavřel v zájmu USA."
+    },
+    {
+     "title": "U Hormuzského průlivu zasažen další tanker",
+     "text": "U Hormuzského průlivu byl zasažen další ropný tanker. Podle námořních hlášení bylo v oblasti průlivu mezi 5. a 11. říjnem napadeno 12 plavidel. Rumunsko stále pátrá po sedmi námořnících z lodi zasažené dronem."
+    },
+    {
+     "title": "Hútíové ostřelovali prezidentský palác v Adenu",
+     "text": "Rakety jemenských hútíů zasáhly oblast prezidentského paláce v Adenu a zabily pět lidí."
+    },
+    {
+     "title": "V Jerevanu začala konference OSN o biodiverzitě COP17",
+     "text": "Generální tajemník OSN Guterres promluvil na zahájení konference OSN o biologické rozmanitosti COP17 v arménském Jerevanu."
+    }
+   ]
+  },
+  {
+   "key": "ekonomika",
+   "title": "📈 Ekonomika a trhy",
+   "items": [
+    {
+     "title": "Wall Street: Dow roste, technologie slábnou",
+     "text": "Ve čtvrtek Dow Jones posílil o 1,08 % na 52 177,69 bodu, S&P 500 o 0,33 % na 7 744,06 a Nasdaq o 0,08 % na 26 713,03. V pátek se obchodovalo smíšeně: Dow rostl, Nasdaq klesal. Za týden je Nasdaq zatím ve ztrátě přes 2 % a S&P 500 téměř 1 %, Dow směřuje k zisku kolem 1 %. Konečné páteční uzavírací hodnoty zatím nebyly k dispozici."
+    },
+    {
+     "title": "Pokračuje výprodej čipů a akcií spojených s AI",
+     "text": "Polovodiče klesají devátý obchodní den v řadě kvůli obavám z výdajů na AI. Korejský Kospi ve čtvrtek ztratil přes 7 %. V Evropě oslabily ASML o 5,7 %, ASM International o 8,6 % a Infineon o 8 %. Investoři přesouvají peníze do defenzivních sektorů."
+    },
+    {
+     "title": "Evropské akcie mírně v plusu",
+     "text": "Ve čtvrtek Stoxx 600 přidal 0,38 % na 640,17 bodu, DAX 0,33 % na 25 382,62 a CAC 40 0,78 % na 7 934,70. Nejvíc táhly farmaceutické firmy, AstraZeneca posílila o 3,2 %. Konečné páteční uzavírací hodnoty zatím nebyly k dispozici."
+    },
+    {
+     "title": "Pražská burza: pět dní růstu v řadě",
+     "text": "Index PX ve čtvrtek posílil o 1,27 % na 2 650,44 bodu a rostl tak pátý den v řadě. Akcie VIG zdražily o 8,18 % poté, co pojišťovna zvýšila výhled zisku. V pátek v poledne byl index zhruba beze změny, 2 649,67 bodu."
+    },
+    {
+     "title": "Bitcoin kolem 82 000 USD, zlato nad 4 200 USD",
+     "text": "Bitcoin se po krátkém poklesu pod 80 000 USD vrátil k zhruba 82 200 USD, ale míří k druhé týdenní ztrátě v řadě. Z bitcoinových ETF odtékají peníze už druhý týden. Zlato se kvůli poptávce po bezpečných aktivech drželo zhruba mezi 4 187 a 4 210 USD za unci."
+    },
+    {
+     "title": "Ropa Brent kolem 105 USD, výnosy dluhopisů USA nad 5 %",
+     "text": "Brent se obchodoval kolem 105 USD a WTI kolem 95,6 USD za barel. Ceny mírně klesly, protože Mezinárodní energetická agentura (IEA) plánuje rychleji uvolňovat nouzové zásoby. Výnos desetiletých amerických dluhopisů se pohyboval mezi 5,07 a 5,11 %. Trhy dál ovlivňuje vyšší než očekávaná zářijová inflace v USA."
+    }
+   ]
+  }
+ ]
+}
