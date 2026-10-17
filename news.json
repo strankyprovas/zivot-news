@@ -1,35 +1,31 @@
 {
- "date": "2026-10-16",
- "date_cz": "16.10.2026",
- "updated_at": "2026-10-16T21:48+02:00",
+ "date": "2026-10-17",
+ "date_cz": "17.10.2026",
+ "updated_at": "2026-10-17T21:03+02:00",
  "sections": [
   {
    "key": "cr",
    "title": "🇨🇿 Česká republika",
    "items": [
     {
-     "title": "Začalo druhé kolo senátních voleb",
-     "text": "Volební místnosti se otevřely v pátek. Podle ČTK zatím přišlo méně než deset procent voličů. Předseda TOP 09 vidí ve výsledcích voleb ústup podpory vlády ANO."
+     "title": "Senátní volby: ANO nezískalo ani jeden mandát",
+     "text": "Ve druhém kole senátních voleb (16.–17. října) se rozhodovalo o 22 křeslech. Hnutí ANO neuspělo v žádném obvodu, přestože mělo nejvíc kandidátů ve finálních duelech. Vládní strany tak ze všech 27 letos obsazovaných mandátů nezískaly žádný."
     },
     {
-     "title": "Babiš na summitu EU: Trump nás dohodou s Putinem podrazil",
-     "text": "Premiér Babiš na summitu EU v Bruselu označil americko-ruskou dohodu, podle níž Rusko může znovu dodávat paliva na světové trhy, za zradu Evropy. Zároveň řekl, že Česko nebude ručit za žádnou další půjčku Ukrajině."
+     "title": "Volby vyhráli Starostové, uspěla i ODS",
+     "text": "STAN se Starosty pro Liberecký kraj po šesti letech znovu vyhrál senátní volby, dobře dopadla také ODS. Uspěli mimo jiné Karel Řehka (STAN) v Plzni-městě, Ivo Trešl (STAN) v Lounech a Petr Paták (ODS) na Kladně. V Chebu neuspěla Sandra Tsoukernik, kterou podporoval premiér Babiš. Senátorem tam zůstává Plevný."
     },
     {
-     "title": "Vláda chce příští rok zrušit 10 % úřednických míst",
-     "text": "Premiér Babiš oznámil, že chce příští rok zrušit desetinu úřednických míst. Koncepci výstavby armády vláda neprojedná v pondělí, ale až koncem října."
+     "title": "Babiš: výsledek je katastrofální, druhé kolo mělo nízkou účast",
+     "text": "Premiér Andrej Babiš označil výsledek senátních voleb za katastrofální. Ve druhém kole volilo podle Deníku jen 18,54 % voličů, v prvním kole to bylo 42,14 %. Senát se obmění zhruba z jedné třetiny, rozložení sil se ale změní jen málo."
     },
     {
-     "title": "Prezident Pavel k cestě do Maroka",
-     "text": "Prezident Petr Pavel reagoval na otázky ohledně své cesty do Maroka. Podle jeho slov za let soukromým tryskáčem zaplatil 19 tisíc eur."
+     "title": "Summit EU: dohoda o rozpočtu nepadla, lídři chtějí přezkum ETS2",
+     "text": "Unijní summit 15.–16. října skončil bez dohody o víceletém rozpočtu. Babiš čeká dohodu nejspíš v únoru či březnu a odmítá nové vlastní zdroje EU, například podíl z daně z tabáku. Česko a země V4 prosadily do závěrů výzvu, aby Komise znovu posoudila dopady systému emisních povolenek ETS2. Jeho odklad ale vyjednán nebyl."
     },
     {
-     "title": "Bývalý soudce Kafka obžalován z podvodu",
-     "text": "Státní zástupkyně obžalovala bývalého soudce Kafku z podvodu, který podle obžaloby dosahuje 32 milionů korun."
-    },
-    {
-     "title": "V pražské restauraci vybuchla plynová kamna",
-     "text": "V restauraci v centru Prahy vybuchla plynová kamna a několik lidí utrpělo popáleniny. Při srážce dvou aut v Jarošově nad Nežárkou se zranilo šest lidí."
+     "title": "Prezident Pavel zveřejnil náklady na soukromé lety",
+     "text": "Prezident Petr Pavel po návratu z dovolené v Maroku zveřejnil, kolik zaplatil za lety soukromými letadly. Kritici tvrdí, že některé otázky zůstávají nezodpovězené."
     }
    ]
   },
@@ -38,28 +34,28 @@
    "title": "🌍 Svět",
    "items": [
     {
-     "title": "Střelba ve škole v Oregonu",
-     "text": "Při střelbě ve škole v americkém Oregonu zemřelo několik dětí a jeden učitel. Motiv útočníka zatím není známý."
+     "title": "Trump pozastavil sankce proti Rusku podle Grahamova zákona",
+     "text": "Prezident Trump v pátek podepsal nařízení, kterým pozastavil sankce a cla podle Grahamova zákona ještě předtím, než začaly platit. Šlo mimo jiné o cla až 500 % na ruské zboží a sankce proti zahraničním bankám. Proti se postavili i někteří republikánští senátoři. Podle kancléře Merze šest zemí G7 považuje krok za špatný signál."
     },
     {
-     "title": "Zelenskyj na summitu EU: Rusko válku ukončit nechce",
-     "text": "Ukrajinský prezident v Bruselu řekl, že nevidí žádné známky toho, že by Rusko chtělo válku ukončit, a že Putinovi nestačí žádný územní ústupek. Ukrajina podle něj obnovuje útoky na ruská energetická zařízení. Zelenskyj také uvedl, že americké rakety putují místo na Ukrajinu na Blízký východ."
+     "title": "Zelenskyj: USA odměňují Putina, Rusko zasáhlo energetiku",
+     "text": "Ukrajinský prezident kritizoval americký krok jako finanční odměnu pro Putina, která ho jen povzbudí k dalším útokům. Spojil ho s rozsáhlým ruským úderem na ukrajinskou energetiku. Ruské útoky způsobily požáry v továrnách v Oděse a Záporoží."
     },
     {
-     "title": "Putin hrozí odvetou, Trump kritizuje Zelenského",
-     "text": "Putin pohrozil odvetou za ukrajinské útoky na ruské rafinerie a datová centra. Trump v rozhovoru pro Newsmax řekl, že se Zelenským se jedná hůř než s Putinem. Dohodu s Ruskem o dodávkách nafty podle něj uzavřel v zájmu USA."
+     "title": "Hormuzský průliv: rekordní počet útoků na lodě",
+     "text": "Podle britské agentury UKMTO bylo od minulé neděle napadeno nejméně 10 plavidel, nejvíc za týden od začátku války s Íránem v únoru. Íránské Revoluční gardy tvrdí, že průliv je uzavřený a že supertanker se dvěma miliony barelů ropy začal hořet po nárazu na minu. Nezávisle to zatím ověřeno nebylo."
     },
     {
-     "title": "U Hormuzského průlivu zasažen další tanker",
-     "text": "U Hormuzského průlivu byl zasažen další ropný tanker. Podle námořních hlášení bylo v oblasti průlivu mezi 5. a 11. říjnem napadeno 12 plavidel. Rumunsko stále pátrá po sedmi námořnících z lodi zasažené dronem."
+     "title": "Francii zachvátily studentské protesty",
+     "text": "Protesty středoškoláků se šíří celou Francií, přidaly se i odbory a v některých městech došlo ke střetům a požárům. Policie zadržela přes 5 000 lidí, většinou mladistvých. Premiér Lecornu svolal krizovou schůzku a slíbil plán řešení do konce října."
     },
     {
-     "title": "Hútíové ostřelovali prezidentský palác v Adenu",
-     "text": "Rakety jemenských hútíů zasáhly oblast prezidentského paláce v Adenu a zabily pět lidí."
+     "title": "Izrael před volbami 27. října",
+     "text": "Průzkumy dávají Netanjahuově koalici zhruba 50 ze 120 křesel, tedy asi o deset méně, než potřebuje k většině. Nejsilnější stranou je podle několika průzkumů Eisenkotův Jašar. Analytici čekají patovou situaci."
     },
     {
-     "title": "V Jerevanu začala konference OSN o biodiverzitě COP17",
-     "text": "Generální tajemník OSN Guterres promluvil na zahájení konference OSN o biologické rozmanitosti COP17 v arménském Jerevanu."
+     "title": "KLDR testovala nové torpédo",
+     "text": "Severní Korea provedla podvodní test toho, co označila za nový typ supersonického přesně naváděného torpéda."
     }
    ]
   },
@@ -68,28 +64,28 @@
    "title": "📈 Ekonomika a trhy",
    "items": [
     {
-     "title": "Wall Street: Dow roste, technologie slábnou",
-     "text": "Ve čtvrtek Dow Jones posílil o 1,08 % na 52 177,69 bodu, S&P 500 o 0,33 % na 7 744,06 a Nasdaq o 0,08 % na 26 713,03. V pátek se obchodovalo smíšeně: Dow rostl, Nasdaq klesal. Za týden je Nasdaq zatím ve ztrátě přes 2 % a S&P 500 téměř 1 %, Dow směřuje k zisku kolem 1 %. Konečné páteční uzavírací hodnoty zatím nebyly k dispozici."
+     "title": "Wall Street v pátek klesla, Nasdaq měl nejhorší týden od června",
+     "text": "Dnes je sobota a burzy jsou zavřené, čísla jsou proto z pátečního uzavření. S&P 500 kleslo o 1,1 % na 7 659,44 bodu, Nasdaq o 2,1 % na 26 140,03 bodu a Dow Jones o 0,3 % na 52 002,41 bodu. Za týden ztratil Nasdaq zhruba 4,5 %, kdežto Dow Jones přidal 0,7 % a zaznamenal druhý rostoucí týden v řadě."
     },
     {
-     "title": "Pokračuje výprodej čipů a akcií spojených s AI",
-     "text": "Polovodiče klesají devátý obchodní den v řadě kvůli obavám z výdajů na AI. Korejský Kospi ve čtvrtek ztratil přes 7 %. V Evropě oslabily ASML o 5,7 %, ASM International o 8,6 % a Infineon o 8 %. Investoři přesouvají peníze do defenzivních sektorů."
+     "title": "Výprodej čipů a obavy z bubliny kolem AI",
+     "text": "Pokles táhly akcie výrobců čipů: Micron ztratil asi 5,6 % a Intel 5,8 %. Na náladu trhu dál tlačí obavy z předražení technologických a AI titulů a také vysoké ceny ropy."
     },
     {
-     "title": "Evropské akcie mírně v plusu",
-     "text": "Ve čtvrtek Stoxx 600 přidal 0,38 % na 640,17 bodu, DAX 0,33 % na 25 382,62 a CAC 40 0,78 % na 7 934,70. Nejvíc táhly farmaceutické firmy, AstraZeneca posílila o 3,2 %. Konečné páteční uzavírací hodnoty zatím nebyly k dispozici."
+     "title": "Evropa táhla opačným směrem a měla nejlepší týden od června",
+     "text": "STOXX 600 v pátek přidal asi 0,7 % na 644,74 bodu, německý DAX 0,95 % na 25 622,61 bodu. CAC 40 posílil o 0,28 % a FTSE 100 o 0,38 %. Za týden si evropský index připsal přes 2 %, podpořily ho silné firemní výsledky."
     },
     {
-     "title": "Pražská burza: pět dní růstu v řadě",
-     "text": "Index PX ve čtvrtek posílil o 1,27 % na 2 650,44 bodu a rostl tak pátý den v řadě. Akcie VIG zdražily o 8,18 % poté, co pojišťovna zvýšila výhled zisku. V pátek v poledne byl index zhruba beze změny, 2 649,67 bodu."
+     "title": "Ropa kolem 100 USD, zlato přes 4 100 USD",
+     "text": "WTI se v pátek podle CoinDesku vyšplhala až na zhruba 101,7 USD za barel (+3,8 %). Podle jiných zpráv se později vrátila k 96 USD poté, co IEA zrychlila uvolňování 100 milionů barelů z rezerv. Spotové zlato stálo v pátek ráno asi 4 166 USD za unci."
     },
     {
-     "title": "Bitcoin kolem 82 000 USD, zlato nad 4 200 USD",
-     "text": "Bitcoin se po krátkém poklesu pod 80 000 USD vrátil k zhruba 82 200 USD, ale míří k druhé týdenní ztrátě v řadě. Z bitcoinových ETF odtékají peníze už druhý týden. Zlato se kvůli poptávce po bezpečných aktivech drželo zhruba mezi 4 187 a 4 210 USD za unci."
+     "title": "Bitcoin klesá kolem 81 000 USD",
+     "text": "Bitcoin v pátek ztrácel spolu s akciemi a klesl zhruba na 81 000–81 400 USD, tedy asi o 1 % za den. Z bitcoinových ETF dál odtékají peníze."
     },
     {
-     "title": "Ropa Brent kolem 105 USD, výnosy dluhopisů USA nad 5 %",
-     "text": "Brent se obchodoval kolem 105 USD a WTI kolem 95,6 USD za barel. Ceny mírně klesly, protože Mezinárodní energetická agentura (IEA) plánuje rychleji uvolňovat nouzové zásoby. Výnos desetiletých amerických dluhopisů se pohyboval mezi 5,07 a 5,11 %. Trhy dál ovlivňuje vyšší než očekávaná zářijová inflace v USA."
+     "title": "Výnosy dluhopisů a sazby: trh sleduje Fed",
+     "text": "Výnos desetiletých amerických dluhopisů klesl na 5,09 %. Začátkem měsíce byl přes 5,30 %, nejvýš od roku 2002. Fed v září zvedl sazbu na přibližně 3,9 %. Na říjnovém zasedání se čeká beze změny, ale pravděpodobnost zvýšení v prosinci podle CME stoupla na 74 %. Příští týden zveřejní výsledky mimo jiné Netflix, GM, RTX, Meta a Tesla."
     }
    ]
   }
