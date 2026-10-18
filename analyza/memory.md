@@ -1,29 +1,30 @@
-- 2026-10-18: BANKOVNÍ STRACH neeskaloval — Zions/WA v pátek část ztrát smazaly (+4 %/+2 % intradenně), žádný nový odpis o víkendu; test „vyšel", ale nerozšířil se. (běží, klíčové)
-- 2026-10-18: AI-ÚVĚROVÁ NERVOZITA = jádro selloffu, ne banky samy — CoreWeave dluhopisy >15 %; trh testuje, zda AI výnosy utáhnou drahé půjčky. (běží, klíčové)
-- 2026-10-18: ČIPY padají 8. den, SOX −16 %; navíc Tchaj-wan omezí AI čip export do Číny — st Lam/TXN rozhodnou. (běží, klíčové)
-- 2026-10-18: VIX 19,99 (1T +34,70 %) — strach s fundamentem, ale na prahu; nákupní zóna až nad 22–25 s panikou, nepřeklopeno. (běží, klíčové)
-- 2026-10-18: ROTACE DO VALUE — Dow 1T +0,67 % vs Nasdaq −4,48 %; peníze přeskakují, neutíkají. Zdravý znak. (běží, klíčové)
-- 2026-10-18: PRVNÍ TRHLINA u stropu — S&P 7 659 (1T −1,95 %), ~2,4 % pod max; rok drží (YTD +11,89 %). Změna charakteru, ne trendu. (běží, klíčové)
-- 2026-10-18: QQQ $709,80 (1T −5,52 %) — nad buy triggerem ~$700; přikoupit tech až pod $700 A VIX >22–25. Obě podmínky nesplněny. (běží, klíčové)
-- 2026-10-18: 10letý 5,098 % — kotva vysoko, trh cení pauzu ne cuts; drží i v panice. (běží, klíčové)
-- 2026-10-18: ZLATO $4 181 (YTD −3,69 %, 1M −4,97 %) — safe-haven bid vlažný i v panice; korekce ne rozpad, DCA po troškách. (běží, klíčové)
-- 2026-10-18: ROPA WTI $99,02 (1T +7,81 %, YTD +72,45 %) — zchladla; ruská nafta dohoda tlačí dolů; nehonit, vstup zpětka k ~$90. (běží)
-- 2026-10-18: 3M poukázka 4,07 % — placená trpělivost, nulová durace; král parkování než Fed otočí. (běží, klíčové)
-- 2026-10-18: STŘÍBRO $57,31 (1M −12,47 %, YTD −18,29 %) — padající nůž; obrat až nad $62 s objemem. (běží)
-- 2026-10-18: MĚĎ $6,5735 (YTD +16,76 %) — strukturálně ano, přidávat jen na zpětce ~6,0–6,2. (běží)
-- 2026-10-18: BTC $81 580 (3M +29,87 %, 1R −23,90 %) — stabilizace nad $80k, dlouhodobě pod vodou; čekat na potvrzení. (běží)
-- 2026-10-18: ETH $2 406 (1R −38,15 %) — nejslabší velké aktivum; nekupovat, dokud neporáží BTC. (běží)
-- 2026-10-18: JÁDRO VWCE €170,44 / MSCI World €130,54 (~2 % pod ATH, 1R +20,25 %/+19,98 %) — DCA, páteř portfolia. (běží, klíčové)
-- 2026-10-18: TLT $80,05 (YTD −8,16 %) — odraz ne obrat; vstup až 10letý trvale pod 4,5 %. (běží)
-- 2026-10-18: VELKÝ TÝDEN VÝSLEDKŮ od 19.10. — 210+ firem; út Netflix+GE, st Meta/Tesla/IBM/Lam/TXN/SAP, pá AmEx. (běží, klíčové)
-- 2026-10-18: FED BLACKOUT, hold 27.–28.10. — tón kolem úvěrů hne sazbami víc než sazba sama. (běží, klíčové)
-- 2026-10-18: SKRYTÉ ÚVĚROVÉ RIZIKO — NDFI/private credit půjčky jako nová neznámá; každý další odpis zesílí strach. (běží, klíčové)
-- 2026-10-18: DOLAR — USD/CZK 21,63, EUR/USD 1,1242; zatím oddech, ne obrat síly dolaru. (běží)
+- 2026-10-19: AI-ÚVĚROVÁ NERVOZITA = jádro výprodeje — rekordní prémie za AI dluhopisy, CoreWeave −25 % za 5 seancí; test, zda AI zisky utáhnou drahé půjčky. (běží, klíčové)
+- 2026-10-19: ČIPY v nejdelší sérii ztrát od 2006; rozhodnou st výsledky Lam/TXN. (běží, klíčové)
+- 2026-10-19: BANKOVNÍ STRACH nerozšířen — žádný nový odpis, Zions/WA stabilní; test vyšel, ale nenakazil. (běží, klíčové)
+- 2026-10-19: ROTACE DO VALUE — Dow 1T +0,67 %, DAX +0,95 %, Euro Stoxx +0,58 % vs Nasdaq 1T −4,48 %; peníze přeskakují, neutíkají. Zdravý znak. (běží, klíčové)
+- 2026-10-19: ZMĚNA CHARAKTERU, ne trendu — S&P 7 659 (1T −1,95 %, ~2,4 % pod max), ale YTD +11,89 %, 1M +0,28 %. (běží, klíčové)
+- 2026-10-19: VIX 19,99 (1T +34,70 %) — strach s fundamentem, ale na prahu; nákupní zóna v techu až nad 22–25 s panikou. (běží, klíčové)
+- 2026-10-19: QQQ $709,80 (1T −5,52 %) — přikup techu až pod $700 A VIX >22–25. Obě podmínky nesplněny. (běží, klíčové)
+- 2026-10-19: 10letý 5,098 % — kotva vysoko, trh cení pauzu ne cuts; drží tlak na tech i zlato. (běží, klíčové)
+- 2026-10-19: 3M poukázka 4,07 % — placená trpělivost, nulová durace; král parkování, než Fed otočí. (běží, klíčové)
+- 2026-10-19: JÁDRO VWCE €170,44 / MSCI World €130,54 (~2 % pod ATH, 1R +20,25 %/+19,98 %) — DCA, páteř portfolia. (běží, klíčové)
+- 2026-10-19: ZLATO $4 196 (YTD −3,35 %, 1M −5,18 % z přestřelených max) — korekce ne rozpad; troškový DCA jako pojistka. (běží, klíčové)
+- 2026-10-19: ROPA WTI $98,27 (1D −3,10 %, YTD +71,14 %) — chladne na ruské nabídce; nehonit, vstup zpět k ~$90. (běží)
+- 2026-10-19: STŘÍBRO $57,43 (1M −13,71 %, YTD −18,11 %) — padající nůž; obrat až nad $62 s objemem. (běží)
+- 2026-10-19: MĚĎ $6,5695 (YTD +16,69 %) — strukturálně ano, přidávat jen na zpětce ~6,0–6,2. (běží)
+- 2026-10-19: BTC $81 535 (3M +29,79 %, 1R −23,94 %) — stabilizace nad $80k, dlouhodobě pod vodou; čekat na potvrzení. (běží)
+- 2026-10-19: ETH $2 390 (1R −38,56 %) — nejslabší velké aktivum; nekupovat, dokud neporáží BTC. (běží)
+- 2026-10-19: TLT $80,05 (YTD −8,16 %, blízko ročního min 76,43) — odraz ne obrat; vstup až 10letý trvale pod 4,5 %. (běží)
+- 2026-10-19: VELKÝ TÝDEN VÝSLEDKŮ — út Netflix+GE, st Meta/Tesla/IBM/Lam/TXN/SAP, pá AmEx; reálné zisky vs drahé valuace. (běží, klíčové)
+- 2026-10-19: FED BLACKOUT, hold 27.–28.10. — tón kolem úvěrů hne sazbami víc než sazba sama. (běží, klíčové)
+- 2026-10-19: SKRYTÉ ÚVĚROVÉ RIZIKO — NDFI/private credit jako nová neznámá; každý další odpis zesílí strach. (běží, klíčové)
+- 2026-10-19: DOLAR — USD/CZK 21,64, EUR/USD 1,1232; oddech, ne obrat síly dolaru. (běží)
+- 2026-10-19: POZN. K DATŮM — tabulka ukazuje stav z konce min. týdne, přes pondělí beze změny; sledovat, jestli úterní tape potvrdí. (běží)
 
 ## Uzavřeno
-- 2026-10-17: „REGIONÁLNÍ BANKY = test dne" → VYŠLO: Zions/WA odpisy z podezření na podvod, KRE −6 %, strach se probudil.
-- 2026-10-17: „VIX pod prahem" → PŘEKONÁNO: skok na 20 měl fundament (banky).
-- 2026-10-16: „OPEX pátek zesílí volatilitu" → NEVYŠLO: volatilita přišla z bank.
+- 2026-10-17: „REGIONÁLNÍ BANKY = test dne" → VYŠLO: Zions/WA odpisy z podezření na podvod, KRE −6 %, strach se probudil; nenakazil (viz 2026-10-19).
+- 2026-10-17: „VIX pod prahem" → PŘEKONÁNO: skok na 20 měl fundament (banky/AI úvěry).
+- 2026-10-16: „OPEX pátek zesílí volatilitu" → NEVYŠLO: volatilita přišla z bank/úvěrů.
 - 2026-10-16: „PPI teplé = tlak na tech" → ČÁSTEČNĚ NEVYŠLO: úvěrový strach přebil data.
 - 2026-10-15: „ČIPY zlomí/potvrdí tezi" → VYŠLO: beat TSMC i ASML, tech stejně dolů → křehkost.
 - 2026-10-14: „CPI horké = spínač" → NEVYŠLO (benigní print).
