@@ -1,0 +1,93 @@
+{
+ "date": "2026-10-18",
+ "date_cz": "18.10.2026",
+ "updated_at": "2026-10-18T21:15+02:00",
+ "sections": [
+  {
+   "key": "cr",
+   "title": "🇨🇿 Česká republika",
+   "items": [
+    {
+     "title": "Senátní volby: ANO nezískalo žádný mandát",
+     "text": "Ve druhém kole senátních voleb (17. 10.) neuspěl ani jeden ze 13 kandidátů ANO a hnutí přišlo i o obhajovaný mandát v Karviné. Nejvíc křesel získalo STAN (10 z 27), ODS jich má sedm. Premiér Babiš podle ČT24 označil výsledek za katastrofální."
+    },
+    {
+     "title": "Babiš v nedělním videu mluvil o rozpočtu EU a ETS2",
+     "text": "Hlavním tématem premiérova pravidelného nedělního videa byl rozpočet EU na roky 2028–2034 a peníze pro Česko. Zopakoval také, že jeho vláda nezavede emisní povolenky ETS2. Kritici mu vyčítají, že o porážce ANO v senátních volbách nemluvil."
+    },
+    {
+     "title": "Senátoři pošlou služební zákon k Ústavnímu soudu",
+     "text": "Předseda Senátu Miloš Vystrčil (ODS) oznámil, že senátoři navrhnou Ústavnímu soudu zrušit části služebního zákona. Sněmovna tento týden přehlasovala veto prezidenta Pavla. Podle Vystrčila zákon protiústavně omezuje pravomoc prezidenta jmenovat vedoucí zastupitelských misí."
+    },
+    {
+     "title": "Vystrčil zve Babiše do Senátu",
+     "text": "Vystrčil chce, aby premiér chodil na schůze Senátu, a pozve ho na ustavující schůzi 19. listopadu. Pozvání popsal jako „podanou ruku“ poté, co Babiš horní komoru kritizoval."
+    },
+    {
+     "title": "V Ostravě vznikne koalice ANO, Starostů a Ostravaku",
+     "text": "Vítězné ANO se dohodlo se Starosty pro Ostravu a hnutím Ostravak. Koalice bude mít 37 z 55 křesel v zastupitelstvu, smlouvu chce podepsat do pátku. Primátorem má být Richard Vereš (ANO)."
+    }
+   ]
+  },
+  {
+   "key": "svet",
+   "title": "🌍 Svět",
+   "items": [
+    {
+     "title": "Francie po nejhorších nepokojích za mnoho let",
+     "text": "Do protestů po celé Francii se podle úřadů zapojilo asi 550 tisíc lidí. Zadržených je podle AP a Reuters zhruba 1 800, podle ministerstva vnitra citovaného France 24 téměř 2 400. Jeden demonstrant v Paříži zemřel a v Limoges hořela radnice. Macron slíbil „plnou transparentnost“ ohledně postupu policie."
+    },
+    {
+     "title": "Ukrajina zaútočila drony na Petrohrad",
+     "text": "Ukrajina zasáhla v Petrohradu ropný terminál a datové centrum. Ruské ministerstvo obrany tvrdí, že přes noc sestřelilo 1 015 dronů. Jeden člověk zahynul. Útok přišel navzdory Trumpovu požadavku, aby Kyjev přestal útočit na ruskou energetiku."
+    },
+    {
+     "title": "Ruské údery zabíjely na Ukrajině",
+     "text": "Podle CNN zemřelo na Ukrajině za 24 hodin do nedělního rána 11 lidí a téměř 50 bylo zraněno. V pátek Rusko zasáhlo přes 15 energetických zařízení a více než milion lidí byl dočasně bez proudu."
+    },
+    {
+     "title": "Hormuz: Írán nabízí znovuotevření průlivu do 7 dnů",
+     "text": "Íránský ministr zahraničí Arákčí řekl, že návrh na znovuotevření Hormuzského průlivu do sedmi dnů, předaný USA přes Katar, stále platí. Teherán a Washington se ale dál neshodnou na podmínkách konce války. Írán uvedl, že se v průlivu potopila nákladní loď po nárazu na minu."
+    },
+    {
+     "title": "Izrael před volbami, v Gaze dál umírají lidé",
+     "text": "Izraelci budou příští týden volit, poprvé od útoků 7. října. Izraelské údery v Gaze zabily čtyři lidi a Izrael oznámil zabití velitele Hamásu Izz ad-Dína al-Bajka. Na 20. října je údajně naplánováno jednání Izraele, USA a Libanonu na Floridě."
+    },
+    {
+     "title": "Papež Lev XIV. po hospitalizaci",
+     "text": "Papež poděkoval věřícím na Svatopetrském náměstí za modlitby během pobytu v nemocnici. Ke svým povinnostem se chce vracet postupně."
+    }
+   ]
+  },
+  {
+   "key": "ekonomika",
+   "title": "📈 Ekonomika a trhy",
+   "items": [
+    {
+     "title": "Wall Street: technologie táhly trh dolů (pátek)",
+     "text": "Kvůli víkendu jde o páteční uzávěrky. Nasdaq ztratil 2,1 % na 26 140,03 bodu, nejvíc od července, a za týden odepsal asi 4,5 %. S&P 500 klesl o 1,1 % na 7 659,44 bodu a za týden zhruba o 2 %. Dow Jones ubral 0,3 % na 52 002,41 bodu, týden ale zakončil ziskem."
+    },
+    {
+     "title": "Výprodej AI a čipových akcií",
+     "text": "Investory znepokojuje financování infrastruktury pro AI. Micron klesl asi o 5,6 % a CoreWeave téměř o 12 %, jeho celkový dluh přesahuje 51 mld. USD."
+    },
+    {
+     "title": "Ropa Brent u 110 dolarů",
+     "text": "Brent v pátek posílil asi o 3,7 % na 109,86 USD za barel, nejvýš od května. WTI uzavřela kolem 101,41 USD. Cenu žene napětí na Blízkém východě a výpadek ruských rafinerií po ukrajinských útocích."
+    },
+    {
+     "title": "Bitcoin kolem 81–82 tisíc dolarů",
+     "text": "Bitcoin se v neděli držel v pásmu zhruba 80 800–82 200 USD. Od rekordu 126 080 USD z října 2025 je výrazně níž."
+    },
+    {
+     "title": "Výnosy amerických dluhopisů nad 5 %",
+     "text": "Desetiletý výnos amerických dluhopisů zakončil týden na 5,07 %, pod maximem 5,31 % z 5. října. Fed je před zasedáním 28. října v období mlčení."
+    },
+    {
+     "title": "Tento týden výsledky Mety, Tesly a Netflixu",
+     "text": "Hospodaření zveřejní mimo jiné Meta, Tesla, Netflix, P&G, SAP a Texas Instruments. Výsledky ukážou, jak na tom je obchod s AI."
+    }
+   ]
+  }
+ ]
+}
