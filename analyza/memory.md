@@ -1,28 +1,30 @@
-- 2026-10-19: AI-ÚVĚROVÁ NERVOZITA = jádro výprodeje — rekordní prémie za AI dluhopisy, CoreWeave −25 % za 5 seancí; test, zda AI zisky utáhnou drahé půjčky. (běží, klíčové)
-- 2026-10-19: ČIPY v nejdelší sérii ztrát od 2006; rozhodnou st výsledky Lam/TXN. (běží, klíčové)
-- 2026-10-19: BANKOVNÍ STRACH nerozšířen — žádný nový odpis, Zions/WA stabilní; test vyšel, ale nenakazil. (běží, klíčové)
-- 2026-10-19: ROTACE DO VALUE — Dow 1T +0,67 %, DAX +0,95 %, Euro Stoxx +0,58 % vs Nasdaq 1T −4,48 %; peníze přeskakují, neutíkají. Zdravý znak. (běží, klíčové)
-- 2026-10-19: ZMĚNA CHARAKTERU, ne trendu — S&P 7 659 (1T −1,95 %, ~2,4 % pod max), ale YTD +11,89 %, 1M +0,28 %. (běží, klíčové)
-- 2026-10-19: VIX 19,99 (1T +34,70 %) — strach s fundamentem, ale na prahu; nákupní zóna v techu až nad 22–25 s panikou. (běží, klíčové)
+- 2026-10-19: AI-ÚVĚROVÁ NERVOZITA = motor výprodeje — Goldman hlásí rozšíření AI úvěrových spreadů, CoreWeave CDS na distressed úrovních; test, zda AI zisky utáhnou drahé půjčky. (běží, klíčové)
+- 2026-10-19: ČIPY v nejdelší sérii ztrát od 2008; rozhodnou st výsledky Lam/TXN (21.10.). (běží, klíčové)
+- 2026-10-19: BANKOVNÍ STRACH nerozšířen — přes víkend žádný nový odpis, nákaza se nekoná; test vyšel, ale nenakazil. (běží, klíčové)
+- 2026-10-19: ROTACE DO VALUE — Dow 1T +0,67 % vs Nasdaq 1T −4,48 %; peníze přeskakují, neutíkají. Zdravý znak. (běží, klíčové)
+- 2026-10-19: ZMĚNA CHARAKTERU, ne trendu — S&P 7 659 (1T −1,95 %, ~2,4 % pod max), YTD +11,89 %. (běží, klíčové)
+- 2026-10-19: RANNÍ ODRAZ FUTURES — Nasdaq100 futures ~+1,3 %, S&P +0,8 % v pondělí pre-open; tabulka = páteční dno. Sledovat, zda vydrží do zavření. (běží)
+- 2026-10-19: VIX 18,64 (1D −6,75 %) — z pátečních ~20 zase slevil; nákupní zóna v techu až nad 22–25 s panikou. (běží, klíčové)
 - 2026-10-19: QQQ $709,80 (1T −5,52 %) — přikup techu až pod $700 A VIX >22–25. Obě podmínky nesplněny. (běží, klíčové)
-- 2026-10-19: 10letý 5,098 % — kotva vysoko, trh cení pauzu ne cuts; drží tlak na tech i zlato. (běží, klíčové)
+- 2026-10-19: 10letý 5,098 % (1T −2,78 %, 1M +3,05 %) — kotva vysoko, trh cení pauzu ne cuts; tlak na tech i zlato. (běží, klíčové)
 - 2026-10-19: 3M poukázka 4,07 % — placená trpělivost, nulová durace; král parkování, než Fed otočí. (běží, klíčové)
-- 2026-10-19: JÁDRO VWCE €170,44 / MSCI World €130,54 (~2 % pod ATH, 1R +20,25 %/+19,98 %) — DCA, páteř portfolia. (běží, klíčové)
-- 2026-10-19: ZLATO $4 196 (YTD −3,35 %, 1M −5,18 % z přestřelených max) — korekce ne rozpad; troškový DCA jako pojistka. (běží, klíčové)
-- 2026-10-19: ROPA WTI $98,27 (1D −3,10 %, YTD +71,14 %) — chladne na ruské nabídce; nehonit, vstup zpět k ~$90. (běží)
-- 2026-10-19: STŘÍBRO $57,43 (1M −13,71 %, YTD −18,11 %) — padající nůž; obrat až nad $62 s objemem. (běží)
-- 2026-10-19: MĚĎ $6,5695 (YTD +16,69 %) — strukturálně ano, přidávat jen na zpětce ~6,0–6,2. (běží)
-- 2026-10-19: BTC $81 535 (3M +29,79 %, 1R −23,94 %) — stabilizace nad $80k, dlouhodobě pod vodou; čekat na potvrzení. (běží)
-- 2026-10-19: ETH $2 390 (1R −38,56 %) — nejslabší velké aktivum; nekupovat, dokud neporáží BTC. (běží)
+- 2026-10-19: JÁDRO VWCE €170,52 / MSCI World €130,46 (~2 % pod ATH, 1R +19,5 %/+19,1 %) — DCA, páteř portfolia. (běží, klíčové)
+- 2026-10-19: ZLATO $4 189 (YTD −3,51 %, 1M −5,33 % z přestřelených max) — korekce ne rozpad; troškový DCA jako pojistka. (běží, klíčové)
+- 2026-10-19: ROPA WTI $98,29 (1D −3,08 %, YTD +71,18 %) — chladne na ruské nabídce; nehonit, vstup zpět k ~$90. (běží)
+- 2026-10-19: STŘÍBRO $57,67 (1M −13,35 %, YTD −17,77 %) — padající nůž; obrat až nad $62 s objemem. (běží)
+- 2026-10-19: MĚĎ $6,5765 (YTD +16,81 %, 1R +31,58 %) — strukturálně ano, přidávat jen na zpětce ~6,0–6,2. (běží)
+- 2026-10-19: BTC $82 914 (3M +28,54 %, 1R −23,70 %) — stabilizace nad $80k, dlouhodobě pod vodou; čekat na potvrzení. (běží)
+- 2026-10-19: ETH $2 441 (1R −38,73 %) — nejslabší velké aktivum; nekupovat, dokud neporáží BTC. (běží)
 - 2026-10-19: TLT $80,05 (YTD −8,16 %, blízko ročního min 76,43) — odraz ne obrat; vstup až 10letý trvale pod 4,5 %. (běží)
-- 2026-10-19: VELKÝ TÝDEN VÝSLEDKŮ — út Netflix+GE, st Meta/Tesla/IBM/Lam/TXN/SAP, pá AmEx; reálné zisky vs drahé valuace. (běží, klíčové)
+- 2026-10-19: VELKÝ TÝDEN VÝSLEDKŮ — út Netflix+GM, st Meta/Tesla/IBM/Lam/TXN/SAP, pá AmEx; ~70 firem S&P, reálné zisky vs drahé valuace. (běží, klíčové)
 - 2026-10-19: FED BLACKOUT, hold 27.–28.10. — tón kolem úvěrů hne sazbami víc než sazba sama. (běží, klíčové)
 - 2026-10-19: SKRYTÉ ÚVĚROVÉ RIZIKO — NDFI/private credit jako nová neznámá; každý další odpis zesílí strach. (běží, klíčové)
-- 2026-10-19: DOLAR — USD/CZK 21,64, EUR/USD 1,1232; oddech, ne obrat síly dolaru. (běží)
-- 2026-10-19: POZN. K DATŮM — tabulka ukazuje stav z konce min. týdne, přes pondělí beze změny; sledovat, jestli úterní tape potvrdí. (běží)
+- 2026-10-19: SHUTDOWN zpožďuje makrodata — část publikací vychází opožděně; pozor na mezery v číslech. (běží)
+- 2026-10-19: DOLAR — USD/CZK 21,70, EUR/USD 1,1213; oddech, ne obrat síly dolaru. (běží)
 
 ## Uzavřeno
-- 2026-10-17: „REGIONÁLNÍ BANKY = test dne" → VYŠLO: Zions/WA odpisy z podezření na podvod, KRE −6 %, strach se probudil; nenakazil (viz 2026-10-19).
+- 2026-10-18: „POZN. K DATŮM (páteční close drží přes pondělí)" → POTVRZENO: ranní futures ukazují odraz nad pátečním dnem, tabulka = dno.
+- 2026-10-17: „REGIONÁLNÍ BANKY = test dne" → VYŠLO: Zions/WA odpisy, KRE −6 %, strach se probudil; nenakazil.
 - 2026-10-17: „VIX pod prahem" → PŘEKONÁNO: skok na 20 měl fundament (banky/AI úvěry).
 - 2026-10-16: „OPEX pátek zesílí volatilitu" → NEVYŠLO: volatilita přišla z bank/úvěrů.
 - 2026-10-16: „PPI teplé = tlak na tech" → ČÁSTEČNĚ NEVYŠLO: úvěrový strach přebil data.
