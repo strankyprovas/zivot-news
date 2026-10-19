@@ -1,0 +1,93 @@
+{
+ "date": "2026-10-19",
+ "date_cz": "19.10.2026",
+ "updated_at": "2026-10-19T23:21+02:00",
+ "sections": [
+  {
+   "key": "cr",
+   "title": "🇨🇿 Česká republika",
+   "items": [
+    {
+     "title": "Vláda schválila novelu o asistentech pedagoga",
+     "text": "Vláda v pondělí jednomyslně schválila novelu o financování a profesionalizaci asistentů pedagoga. Před dvěma týdny projednávání přerušila kvůli výhradám koaličních partnerů. Podle ministra školství Roberta Plagy (za ANO) novela zruší neefektivní prvky inkluze a omezí přidělování asistentů jednotlivým žákům."
+    },
+    {
+     "title": "Dohoda o nových platech ve veřejné sféře od ledna",
+     "text": "Zástupci vlády, odborů a zaměstnavatelů se dohodli na změně odměňování ve veřejných a státních službách od ledna. Podle ČT24 se většině zaměstnanců tarify příští rok zvýší a nikomu se nesníží."
+    },
+    {
+     "title": "Koncepce armády KVAČR 2040 se odkládá na 26. října",
+     "text": "Vláda projedná koncepci armády až 26. října. Premiér Babiš si na tiskové konferenci postěžoval na průtahy. Za prioritu označil protivzdušnou obranu a nákup izraelských systémů SPYDER."
+    },
+    {
+     "title": "Další body z jednání vlády",
+     "text": "Některé body vláda schválila bez rozpravy, například převody majetku Správy železnic. Projednávání návrhu rozpočtu Státního fondu audiovize přerušila."
+    },
+    {
+     "title": "STAN nabídl Pirátům společnou koalici v Praze",
+     "text": "Podle Echo24 dostali Piráti od STANu nabídku ke společnému vládnutí v Praze po komunálních volbách. Odpovědět mají do středy."
+    }
+   ]
+  },
+  {
+   "key": "svet",
+   "title": "🌍 Svět",
+   "items": [
+    {
+     "title": "Ukrajina zaútočila tisícovkou dronů, Rusko udeřilo na Kyjev",
+     "text": "Ukrajina vyslala přes 1 000 dronů na 15 ruských regionů. Podle ruských úřadů zemřel jeden člověk a pět bylo zraněno. Rusko odpovědělo masivním nočním úderem na Kyjev, kde zahynula nejméně jedna žena a přes půl milionu domácností zůstalo bez proudu. Ruský dron navíc zasáhl park v Charkovské oblasti a zabil šest lidí, z toho tři děti."
+    },
+    {
+     "title": "Ve Francii protestovalo přes 500 tisíc lidí",
+     "text": "Víkendové protesty proti drahotě přerostly v násilí. Prezident Macron prohlásil, že výtržníci ponesou odpovědnost. Nepokoje doléhají i na evropské trhy."
+    },
+    {
+     "title": "Trump podpořil Netanjahua před volbami, v Gaze hromadný pohřeb",
+     "text": "Trump veřejně podpořil izraelského premiéra Netanjahua před volbami 27. října. V Gaze se konal hromadný pohřeb 75 Palestinců, jejichž ostatky byly nalezeny v troskách budov."
+    },
+    {
+     "title": "Jemen: útok Húsíů zabil 18 lidí",
+     "text": "Húsíové zaútočili na vládní výcvikový tábor v provincii Šabva a zabili 18 lidí. Spojené arabské emiráty se se Saúdskou Arábií dohodly, že se do konfliktu znovu zapojí, podle zpráv obnovením plateb části vládních sil."
+    },
+    {
+     "title": "Alberta hlasuje o cestě k nezávislosti",
+     "text": "Obyvatelé kanadské provincie Alberta v pondělí hlasují o tom, zda zahájit proces, který by mohl vést k nezávislosti na Kanadě."
+    },
+    {
+     "title": "Papež Lev XIV. se poprvé ukázal po operaci",
+     "text": "Papež se poprvé od operace rakoviny objevil na veřejnosti. Slíbil, že se k úředním povinnostem bude vracet postupně."
+    }
+   ]
+  },
+  {
+   "key": "ekonomika",
+   "title": "📈 Ekonomika a trhy",
+   "items": [
+    {
+     "title": "Wall Street: technologie táhly Nasdaq nahoru",
+     "text": "Nasdaq Composite posílil o 1,11 % na 26 430,89 bodu a S&P 500 o 0,41 % na 7 690,73 bodu. Dow Jones mírně ztratil 0,07 % na 51 966,03 bodu. Technologické akcie se odrazily od výprodeje: Amazon vzrostl téměř o 5 % a Tesla o více než 3 %."
+    },
+    {
+     "title": "Evropa a Praha zahájily týden poklesem",
+     "text": "Panevropský index STOXX Europe 600 klesl o 0,8 % na 639,56 bodu. Trhy zatížily nepokoje ve Francii a rostoucí výnosy dluhopisů. Pražský index PX dopoledne oslaboval zhruba o 0,3–0,4 % pod 2 650 bodů a přerušil šest růstových seancí v řadě; nejvíc ztrácely akcie VIG."
+    },
+    {
+     "title": "Ropa zlevnila po uvolnění sankcí na Rusko",
+     "text": "Brent klesl k zhruba 108 USD za barel a WTI k přibližně 98 USD (prosincový kontrakt −1 %). Pokles následoval po americkém uvolnění omezení na ruskou ropu. V USA stál galon benzinu v průměru 4,29 USD."
+    },
+    {
+     "title": "Zlato pod tlakem sázek na zvýšení sazeb Fedu",
+     "text": "Zlato se obchodovalo kolem 4 140–4 190 USD za unci, podle jedné zprávy o 0,54 % níže. Tlačí na něj rostoucí americké výnosy. Trh přisuzuje zvýšení sazeb Fedu v říjnu pravděpodobnost asi 16 %, v prosinci asi 92 %."
+    },
+    {
+     "title": "Bitcoin se drží kolem 82 tisíc dolarů",
+     "text": "Bitcoin se pohyboval kolem 82 000 USD, podle FXStreet asi 82 380 USD (+0,45 %). Za poslední týden ztratil zhruba 2 %."
+    },
+    {
+     "title": "Týden výsledků: Netflix, Tesla, Meta, SAP i Moneta",
+     "text": "Tento týden zveřejní čtvrtletní výsledky mimo jiné Netflix, Tesla, Meta a SAP. Z pražské burzy hospodaření oznámí MONETA Money Bank."
+    }
+   ]
+  }
+ ]
+}
