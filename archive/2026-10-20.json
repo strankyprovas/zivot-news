@@ -1,0 +1,97 @@
+{
+ "date": "2026-10-20",
+ "date_cz": "20.10.2026",
+ "updated_at": "2026-10-20T22:18+02:00",
+ "sections": [
+  {
+   "key": "cr",
+   "title": "🇨🇿 Česká republika",
+   "items": [
+    {
+     "title": "Česko nepodpořilo finský návrh omezit vstup Rusů do EU",
+     "text": "Ministr zahraničí Petr Macinka podle Seznam Zpráv rozhodl, že Česko nepodpoří finský návrh na omezení vstupu ruských občanů do Evropské unie."
+    },
+    {
+     "title": "Babiš chce rychle zrušit poplatky za ČT a ČRo",
+     "text": "Premiér Andrej Babiš řekl, že rozhlasové a televizní poplatky by se měly zrušit co nejdříve. Náklady by podle něj místo lidí a firem nesl státní rozpočet. Z jeho odpovědi ale není jasné, odkud by na to stát vzal peníze."
+    },
+    {
+     "title": "Poslanci mohou projednat vyšší pokuty za týrání zvířat",
+     "text": "Sněmovna by se mohla zabývat zvýšením pokut za týrání zvířat a zákazem lovu norováním."
+    },
+    {
+     "title": "Kladno a Mladá Boleslav mají nová vedení radnic, Praha ještě jedná",
+     "text": "Po komunálních volbách dnes vznikla nová vedení radnic v Kladně a Mladé Boleslavi. O pražské koalici se zatím dál vyjednává."
+    },
+    {
+     "title": "Cenové stropy pohonných hmot ve středu mírně klesnou",
+     "text": "Maximální cena nafty klesne o šest haléřů na 48,61 Kč za litr a benzinu o 19 haléřů na 45,46 Kč za litr. Česko navíc trápí sucho: dva nejhorší stupně půdního sucha zasahují téměř polovinu území."
+    },
+    {
+     "title": "Téměř pětina migrantů v ČR je ohrožena chudobou",
+     "text": "Vyplývá to ze zprávy Poverty Watch 2026, o které informovaly České noviny."
+    }
+   ]
+  },
+  {
+   "key": "svet",
+   "title": "🌍 Svět",
+   "items": [
+    {
+     "title": "V Oslu začala jednání Zelenského s Witkoffem",
+     "text": "Ukrajinský prezident Volodymyr Zelenskyj zahájil v Oslu rozhovory s americkým vyjednavačem Stevem Witkoffem. Donald Trump přitom v pondělí v Bílém domě Zelenského kritizoval a řekl, že je čas, aby za Ukrajinu vyjednával někdo jiný."
+    },
+    {
+     "title": "Napětí v Hormuzském průlivu a útoky Húsíů",
+     "text": "Íránské revoluční gardy tvrdí, že v Hormuzském průlivu začaly hořet dva tankery, které najely na jejich námořní miny. Koalice vedená Saúdskou Arábií v Jemenu oznámila, že sestřelila balistickou střelu, kterou Húsíové vypálili na Rijád. Británie rozšiřuje vojenskou podporu Saúdské Arábii o „obranné“ letecké hlídky RAF."
+    },
+    {
+     "title": "Finsko nakoupí milion protipěchotních min",
+     "text": "Finská vláda oznámila, že za více než 100 milionů dolarů nakoupí milion protipěchotních min. Důvodem je rostoucí napětí s Ruskem."
+    },
+    {
+     "title": "Nepokoje ve Francii, Macron odmítl odvolat ministra",
+     "text": "Prezident Emmanuel Macron přiznal, že vláda podcenila přípravu na nepokoje, demisi ministra ale odmítl. Politická nestabilita doléhá i na francouzský akciový trh. Násilné protesty eskalují také v Albánii."
+    },
+    {
+     "title": "Povodně ve Španělsku a Marseille",
+     "text": "Přívalové deště ve východním Španělsku si vyžádaly čtyři oběti. Desítky tisíc lidí musely být evakuovány nebo dostaly pokyn zůstat v úkrytu. Rozsáhlé záplavy zasáhly také francouzskou Marseille."
+    },
+    {
+     "title": "Útok dronu v Súdánu zabil 80 lidí",
+     "text": "Dron v neděli večer zaútočil poblíž tržiště ve státě Západní Kordofán a zabil 80 lidí."
+    }
+   ]
+  },
+  {
+   "key": "ekonomika",
+   "title": "📈 Ekonomika a trhy",
+   "items": [
+    {
+     "title": "Wall Street: Dow roste, Nasdaq stagnuje",
+     "text": "Podle údajů Yahoo Finance, které ale ještě nemusí být konečné, Dow Jones posílil o 1,02 % na 52 495,88 bodu a S&P 500 o 0,28 % na 7 712,57 bodu. Nasdaq skončil téměř beze změny (−0,02 %, 26 424,82 bodu). Trh táhly lepší než očekávané čtvrtletní výsledky General Motors a 3M."
+    },
+    {
+     "title": "Evropské akcie mírně ve ztrátě",
+     "text": "Stoxx 600 i německý DAX ztratily zhruba 0,1 % (638,64 a 25 304,42 bodu). Francouzský CAC 40 klesl o 0,4 % na 7 838,49 bodu a Euro Stoxx 50 o 0,4 %. Trhy během dne smazaly část hlubších ztrát."
+    },
+    {
+     "title": "Ropa po překonání 100 dolarů prudce zlevnila",
+     "text": "Cena ropy po překonání hranice 100 dolarů za barel klesla téměř o 5 %. WTI se podle zdroje a času pohybovala mezi zhruba 98 a 101 dolary. Hlavním tématem zůstává situace v Hormuzském průlivu."
+    },
+    {
+     "title": "Zlato stagnuje, bitcoin kolem 82 tisíc dolarů",
+     "text": "Zlato se drží zhruba beze změny v pásmu přibližně 4 140–4 180 dolarů za unci. Bitcoin během dne vystoupal na 83 300 dolarů a pak se vrátil k zhruba 82 000 dolarům."
+    },
+    {
+     "title": "Čínský HDP zrychlil na 4,5 %",
+     "text": "Čínská ekonomika ve třetím čtvrtletí meziročně vzrostla o 4,5 %, zatímco ve druhém čtvrtletí to bylo 4,3 %. Data zveřejnil čínský statistický úřad v pondělí."
+    },
+    {
+     "title": "Saúdská Arábie odložila investiční konferenci FII",
+     "text": "Rijád přesunul 10. ročník své hlavní investiční konference, plánovaný na 26.–29. října, na rok 2027."
+    }
+   ]
+  }
+ ]
+}
