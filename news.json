@@ -1,35 +1,35 @@
 {
- "date": "2026-10-20",
- "date_cz": "20.10.2026",
- "updated_at": "2026-10-20T22:18+02:00",
+ "date": "2026-10-21",
+ "date_cz": "21.10.2026",
+ "updated_at": "2026-10-21T22:27+02:00",
  "sections": [
   {
    "key": "cr",
    "title": "🇨🇿 Česká republika",
    "items": [
     {
-     "title": "Česko nepodpořilo finský návrh omezit vstup Rusů do EU",
-     "text": "Ministr zahraničí Petr Macinka podle Seznam Zpráv rozhodl, že Česko nepodpoří finský návrh na omezení vstupu ruských občanů do Evropské unie."
+     "title": "Sněmovna začala jednat o rozpočtu na rok 2027",
+     "text": "Poslanci zahájili první čtení návrhu státního rozpočtu na příští rok. Návrh počítá se schodkem 386 miliard korun, o 76 miliard vyšším než letos. Příjmy mají být zhruba 2,199 bilionu a výdaje asi 2,585 bilionu korun. V prvním čtení se schvalují základní parametry, které už později nelze měnit."
     },
     {
-     "title": "Babiš chce rychle zrušit poplatky za ČT a ČRo",
-     "text": "Premiér Andrej Babiš řekl, že rozhlasové a televizní poplatky by se měly zrušit co nejdříve. Náklady by podle něj místo lidí a firem nesl státní rozpočet. Z jeho odpovědi ale není jasné, odkud by na to stát vzal peníze."
+     "title": "Schillerová hájí schodek, opozice chce návrh vrátit",
+     "text": "Ministryně financí Alena Schillerová (ANO) označila rozpočet za investiční. Ministerstvo obrany v něm má dostat 2 % HDP. Opozice chce návrh vrátit k přepracování: předseda Pirátů Zdeněk Hřib tvrdí, že skutečný schodek je kolem 440 miliard, a TOP 09 žádá schodek 310, případně 290 miliard."
     },
     {
-     "title": "Poslanci mohou projednat vyšší pokuty za týrání zvířat",
-     "text": "Sněmovna by se mohla zabývat zvýšením pokut za týrání zvířat a zákazem lovu norováním."
+     "title": "Senát schválil, že dálniční známky nebudou zdražovat",
+     "text": "Senát přes kritiku opozice schválil zrušení automatického zdražování dálničních známek, takže jejich ceny zůstanou příští rok stejné. Jednodenní známka má nově platit 24 hodin od zakoupení, ne jen do půlnoci. Státní fond dopravní infrastruktury tím přijde zhruba o 488 milionů korun. Zákon má jít k podpisu prezidentovi koncem příštího týdne."
     },
     {
-     "title": "Kladno a Mladá Boleslav mají nová vedení radnic, Praha ještě jedná",
-     "text": "Po komunálních volbách dnes vznikla nová vedení radnic v Kladně a Mladé Boleslavi. O pražské koalici se zatím dál vyjednává."
+     "title": "Senát projednával i nová pravidla pro cizince",
+     "text": "Senátoři měli na programu také zákon, který mění pravidla pro pobyt cizinců v Česku. Podle dostupných informací počítá s digitalizací udělování a rušení pobytů."
     },
     {
-     "title": "Cenové stropy pohonných hmot ve středu mírně klesnou",
-     "text": "Maximální cena nafty klesne o šest haléřů na 48,61 Kč za litr a benzinu o 19 haléřů na 45,46 Kč za litr. Česko navíc trápí sucho: dva nejhorší stupně půdního sucha zasahují téměř polovinu území."
+     "title": "Bezpečnostní rada projednala armádní koncepci",
+     "text": "Bezpečnostní rada státu projednala koncepci armády. Vláda Andreje Babiše ji má projednat příští týden."
     },
     {
-     "title": "Téměř pětina migrantů v ČR je ohrožena chudobou",
-     "text": "Vyplývá to ze zprávy Poverty Watch 2026, o které informovaly České noviny."
+     "title": "Vláda, odbory a zaměstnavatelé se dohodli na změně platů",
+     "text": "Zástupci vlády, odborů a zaměstnavatelů se v pondělí 19. října shodli na změně nastavení platů."
     }
    ]
   },
@@ -38,28 +38,28 @@
    "title": "🌍 Svět",
    "items": [
     {
-     "title": "V Oslu začala jednání Zelenského s Witkoffem",
-     "text": "Ukrajinský prezident Volodymyr Zelenskyj zahájil v Oslu rozhovory s americkým vyjednavačem Stevem Witkoffem. Donald Trump přitom v pondělí v Bílém domě Zelenského kritizoval a řekl, že je čas, aby za Ukrajinu vyjednával někdo jiný."
+     "title": "Witkoff jednal s Putinem o míru na Ukrajině",
+     "text": "Americký vyjednavač Steve Witkoff se v Konstantinovském paláci u Petrohradu setkal s Vladimirem Putinem a podle amerického činitele mu měl předat aktualizovaný mírový návrh. Jednání trvalo asi tři hodiny. Kreml návrhy prostuduje, ale podle mluvčího Peskova to potrvá dlouho. Moskva naznačila, že rozhovory by mohly pokračovat v listopadu."
     },
     {
-     "title": "Napětí v Hormuzském průlivu a útoky Húsíů",
-     "text": "Íránské revoluční gardy tvrdí, že v Hormuzském průlivu začaly hořet dva tankery, které najely na jejich námořní miny. Koalice vedená Saúdskou Arábií v Jemenu oznámila, že sestřelila balistickou střelu, kterou Húsíové vypálili na Rijád. Británie rozšiřuje vojenskou podporu Saúdské Arábii o „obranné“ letecké hlídky RAF."
+     "title": "Rusko propustilo amerického občana",
+     "text": "Rusko propustilo 74letého Američana, který byl ve vězení za boje na straně Ukrajiny. Podle agentur jde o Stephena Hubbarda, vězněného přes čtyři roky. Při ruských úderech na Ukrajinu zahynuli podle ukrajinského premiéra čtyři lidé."
     },
     {
-     "title": "Finsko nakoupí milion protipěchotních min",
-     "text": "Finská vláda oznámila, že za více než 100 milionů dolarů nakoupí milion protipěchotních min. Důvodem je rostoucí napětí s Ruskem."
+     "title": "Francie prodlužuje zákazy vycházení po nepokojích",
+     "text": "Francouzská vláda vyhlásila noční zákazy vycházení v Paříži a dalších městech, které mají platit tak dlouho, jak bude potřeba. Po násilných protestech kvůli školství a životním nákladům bylo zadrženo přes 2 500 lidí. Na sobotní demonstrace chce vláda nasadit masivní policejní síly i vojáky z operace Sentinelle. Prezident Macron čelí kritice, že v této situaci odjel na cestu do Perského zálivu."
     },
     {
-     "title": "Nepokoje ve Francii, Macron odmítl odvolat ministra",
-     "text": "Prezident Emmanuel Macron přiznal, že vláda podcenila přípravu na nepokoje, demisi ministra ale odmítl. Politická nestabilita doléhá i na francouzský akciový trh. Násilné protesty eskalují také v Albánii."
+     "title": "Izrael zadržel na Západním břehu desítky Američanů",
+     "text": "Izraelské síly zadržely asi 80 amerických a izraelských rabínů a aktivistů, kteří pomáhali Palestincům se sklizní oliv. Mezi zadrženými byl i demokratický kandidát do Kongresu Brad Lander."
     },
     {
-     "title": "Povodně ve Španělsku a Marseille",
-     "text": "Přívalové deště ve východním Španělsku si vyžádaly čtyři oběti. Desítky tisíc lidí musely být evakuovány nebo dostaly pokyn zůstat v úkrytu. Rozsáhlé záplavy zasáhly také francouzskou Marseille."
+     "title": "Jemen: Húsíové zaútočili na obytnou čtvrť v Taizu",
+     "text": "Podle Úřadu OSN pro uprchlíky (UNHCR) bylo od červencového obnovení bojů v Jemenu vysídleno přes 250 tisíc lidí."
     },
     {
-     "title": "Útok dronu v Súdánu zabil 80 lidí",
-     "text": "Dron v neděli večer zaútočil poblíž tržiště ve státě Západní Kordofán a zabil 80 lidí."
+     "title": "Další události v Evropě a Asii",
+     "text": "V Rumunsku složila přísahu nová vláda s novým premiérem. Ve Španělsku začalo uklízení po smrtících povodních. Turecko chce předložit parlamentu mandát k vyslání vojáků do Saúdské Arábie v rámci společného obranného paktu."
     }
    ]
   },
@@ -68,28 +68,28 @@
    "title": "📈 Ekonomika a trhy",
    "items": [
     {
-     "title": "Wall Street: Dow roste, Nasdaq stagnuje",
-     "text": "Podle údajů Yahoo Finance, které ale ještě nemusí být konečné, Dow Jones posílil o 1,02 % na 52 495,88 bodu a S&P 500 o 0,28 % na 7 712,57 bodu. Nasdaq skončil téměř beze změny (−0,02 %, 26 424,82 bodu). Trh táhly lepší než očekávané čtvrtletní výsledky General Motors a 3M."
+     "title": "Wall Street: konečné středeční uzávěry zatím nejsou k dispozici",
+     "text": "Během středečního obchodování byly akcie v plusu: S&P 500 kolem +0,4 až +0,5 %, technologický Nasdaq asi +1 % a Dow Jones jen mírně. Konečná čísla se nepodařilo ověřit. V úterý S&P 500 posílil o 0,58 % na 7 757,17 bodu a připsal si třetí růstový den v řadě. Nasdaq stoupl o 1,05 % na 26 702,86 a Dow Jones o 0,69 % na 52 856,09 bodu."
     },
     {
-     "title": "Evropské akcie mírně ve ztrátě",
-     "text": "Stoxx 600 i německý DAX ztratily zhruba 0,1 % (638,64 a 25 304,42 bodu). Francouzský CAC 40 klesl o 0,4 % na 7 838,49 bodu a Euro Stoxx 50 o 0,4 %. Trhy během dne smazaly část hlubších ztrát."
+     "title": "SpaceX roste, Netflix padá",
+     "text": "Akcie SpaceX během dne posílily asi o 11 % po čtvrtletním zisku, který překonal odhady analytiků. Netflix ztrácel přibližně 4–5 %, protože jeho výhled tržeb nesplnil očekávání trhu, přestože zisk za 3. čtvrtletí byl lepší, než se čekalo. Analytici snižují cílové ceny jeho akcií."
     },
     {
-     "title": "Ropa po překonání 100 dolarů prudce zlevnila",
-     "text": "Cena ropy po překonání hranice 100 dolarů za barel klesla téměř o 5 %. WTI se podle zdroje a času pohybovala mezi zhruba 98 a 101 dolary. Hlavním tématem zůstává situace v Hormuzském průlivu."
+     "title": "Večer výsledky Tesly a Mety",
+     "text": "Tesla a Meta zveřejní čtvrtletní výsledky po zavření burzy. U Tesly analytici čekají zisk kolem 0,43–0,45 dolaru na akcii a tržby asi 27,9 miliardy dolarů. Akcie Tesly před výsledky posilovaly zhruba o 3 %."
     },
     {
-     "title": "Zlato stagnuje, bitcoin kolem 82 tisíc dolarů",
-     "text": "Zlato se drží zhruba beze změny v pásmu přibližně 4 140–4 180 dolarů za unci. Bitcoin během dne vystoupal na 83 300 dolarů a pak se vrátil k zhruba 82 000 dolarům."
+     "title": "Ropa nad 110 dolary, zlato oslabuje",
+     "text": "Ropa Brent se ráno obchodovala kolem 110,7 dolaru za barel, asi o 2 dolary méně než den předtím. Napětí na Blízkém východě ji ale drží nad hranicí 110 dolarů. Zlato oslabuje čtvrtou seanci v řadě a je na nejnižší úrovni od 15. října, zhruba 4 128 dolarů za unci, protože drahá ropa zvyšuje obavy z inflace."
     },
     {
-     "title": "Čínský HDP zrychlil na 4,5 %",
-     "text": "Čínská ekonomika ve třetím čtvrtletí meziročně vzrostla o 4,5 %, zatímco ve druhém čtvrtletí to bylo 4,3 %. Data zveřejnil čínský statistický úřad v pondělí."
+     "title": "Bitcoin kolem 81 tisíc dolarů",
+     "text": "Podle posledního ověřeného údaje z úterního rána (20. října) stál bitcoin zhruba 81 260 dolarů. Středeční cenu se nepodařilo ověřit."
     },
     {
-     "title": "Saúdská Arábie odložila investiční konferenci FII",
-     "text": "Rijád přesunul 10. ročník své hlavní investiční konference, plánovaný na 26.–29. října, na rok 2027."
+     "title": "Pražská burza posílila",
+     "text": "Index PX vzrostl o 0,54 % na 2 663,08 bodu, nejvíc se dařilo akciím VIG a Erste. Menší tituly většinou klesaly, CSG ztratila 4,5 %. Koruna byla podle posledního dostupného údaje kolem 24,30 Kč za euro."
     }
    ]
   }
