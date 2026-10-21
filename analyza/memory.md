@@ -1,32 +1,30 @@
-- 2026-10-21: ROZHODUJÍCÍ VÝSLEDKY po dnešní zavírce (Meta/Tesla/TXN/Lam/IBM/SAP) — reakce ČT ráno; rozhodne směr techu na týdny. (běží, klíčové)
-- 2026-10-21: META — trh neřeší tržby, ale CAPEX guidance na AI; klíč k „AI zisky vs valuace". (běží, klíčové)
-- 2026-10-21: ČIPY TXN/Lam — výsledky dnes po zavírce; řeknou, jestli osmidenní série ztrát byla dno. Opce u TXN cení ~6,6 %. (běží, klíčové)
-- 2026-10-21: ROTACE DO HODNOTY POKRAČUJE — Dow +1,02 % (nový rekord, 1T +1,60 %) vs Nasdaq flat (1T −2,87 %); zdravotnictví + průmysl vedou. (běží, klíčové)
-- 2026-10-21: ZMĚNA CHARAKTERU, ne trendu — S&P 7 713 (YTD +12,67 %, 1R +14,51 %) zdravý, pod povrchem výměna motoru. (běží, klíčové)
-- 2026-10-21: TECH PŘEPRODANÝ BEZ KATALYZÁTORU — Nasdaq 1T −2,87 %, QQQ 1T −3,49 %; odraz se neukázal, dno určí dnešní výsledky. (běží, klíčové)
-- 2026-10-21: 10LETÝ 5,117 % (1D −0,37 %, oddech) — skoro na max od 2002; nad 5,15 % tech znovu padá. (běží, klíčové)
-- 2026-10-21: VIX 17,47 (1D +0,92 %, ale 1M +22,94 %) — strach roste pomalu pod povrchem. Nákupní zóna tech 22–25, nesplněno. (běží, klíčové)
-- 2026-10-21: QQQ $717,63 — přikup až pod $700 A VIX >22. Obě nesplněny. (běží, klíčové)
-- 2026-10-21: ROPA WTI $99,15 (1D −2,59 %, 1T +4,27 %) — chladne, ale YTD +72,68 % přehřátá. Vstup ~$90, nehonit. (běží)
-- 2026-10-21: AI-ÚVĚROVÁ NERVOZITA — obavy z nákladů na AI buildout drží tech u země; hlavní riziko na pozadí. (běží, klíčové)
-- 2026-10-21: SKRYTÉ ÚVĚROVÉ RIZIKO — NDFI/private credit + CoreWeave CDS, neznámá v pozadí. (běží)
-- 2026-10-21: 3M poukázka 4,08 % — placená trpělivost, nulová durace; parkování před Fedem. (běží, klíčové)
-- 2026-10-21: JÁDRO VWCE €170,64 / MSCI World €130,65 (~2 % pod ATH, 1R +19,23 %) — DCA, páteř. (běží, klíčové)
-- 2026-10-21: ZLATO $4 139 (YTD −4,66 %, 1M −5,43 %) — korekce ne rozpad; pojistka, reálné výnosy tlačí. (běží, klíčové)
-- 2026-10-21: STŘÍBRO $57,38 (1M −12,98 %, YTD −18,19 %, 1T +3,29 %) — padající nůž; obrat až nad $62 s objemem. (běží)
-- 2026-10-21: MĚĎ $6,54 (YTD +16,21 %, 1R +32,71 %, u max 6,83) — strukturálně ano, přidávat jen na zpětce ~6,0–6,2. (běží)
-- 2026-10-21: BTC $83 476 (3M +20,52 %, 1R −23,05 %) — stabilizace nad $80k, spíš příležitost; čekat na potvrzení. (běží)
-- 2026-10-21: ETH $2 462 (1R −36,50 %) — nejslabší velké aktivum; nekupovat, dokud neporáží BTC. (běží)
-- 2026-10-21: TLT $80,13 (YTD −8,07 %, u min 76,43, 10letý na maximu) — padající nůž; vstup až 10letý trvale pod 4,5 %. (běží)
-- 2026-10-21: FED JESTŘÁB, zasedá 27.–28.10. — BofA i nadále volá říjnový hike (těsné); riziko nahoru. (běží, klíčové)
-- 2026-10-21: SHUTDOWN zpožďuje makrodata — pozor na mezery v číslech. (běží)
-- 2026-10-21: DOLAR — USD/CZK 21,65, EUR/USD 1,1221; oddech, ne obrat. (běží)
+- 2026-10-22: VÝSLEDKY ZAFUNGOVALY — Meta/Tesla/TXN/IBM beat → tech +1 % (Nasdaq 26 703, QQQ $725,20). Katalyzátor dorazil, odraz konečně přišel. (vyšlo, klíčové)
+- 2026-10-22: ZMĚNA CHARAKTERU, ne trendu — S&P 7 757 (YTD +13,32 %, 1R +15,79 %) zdravý; pod povrchem výměna motoru pokračuje. (běží, klíčové)
+- 2026-10-22: POZOR na úlevu — Nasdaq 1T jen +0,04 %, 1M −1,99 %; jeden zelený den škody měsíce nespraví. (běží, klíčové)
+- 2026-10-22: ROTACE DO HODNOTY — Dow 52 856 (1T +2,39 %, 1M +1,91 %, u rekordu); dnes se tech jen přidal. (běží, klíčové)
+- 2026-10-22: 10LETÝ 5,146 % (1D +0,57 %) — skoro max od 2002, strop každého tech odrazu; nad 5,15 % tech znovu padá. (běží, klíčové)
+- 2026-10-22: VIX 16,68 (1D −3,64 %) — strach po výsledcích splaskl. Nákupní zóna tech při VIX >22 nesplněna. (běží, klíčové)
+- 2026-10-22: QQQ $725,20 — přikup JEN pod $700 A VIX >22. Obě nesplněny, odraz utekl bez nákupu (disciplína). (běží, klíčové)
+- 2026-10-22: FED JESTŘÁB, zasedá 27.–28.10. — hlavní riziko příštího týdne; BofA dál mluví o možném hiku. (běží, klíčové)
+- 2026-10-22: 3M poukázka 4,06 % — placená trpělivost, nulová durace; lavička před Fedem. (běží, klíčové)
+- 2026-10-22: JÁDRO VWCE €170,36 / MSCI World €130,43 (~2 % pod ATH, 1R +19,03 %) — DCA, páteř. (běží, klíčové)
+- 2026-10-22: BITCOIN $84 288 (3M +21,69 %, 1R −22,30 %) — mění se z nože na příležitost, stabilizace nad $80k; malá pozice, nad hlavou $116k. (běží, klíčové)
+- 2026-10-22: ROPA WTI $97,86 (1D −3,86 %, YTD +70,43 %) — chladne na uvolnění sankcí a nabídce OPEC+; přehřátá, vstup ~$90, nehonit. (běží)
+- 2026-10-22: ZEMNÍ PLYN $2,78 (1T −13,23 %, YTD −24,72 %) — padající nůž, nechytat. (běží)
+- 2026-10-22: ZLATO $4 145 (YTD −4,52 %, 1M −5,29 %) — korekce ne rozpad; pojistka, reálné výnosy tlačí. (běží, klíčové)
+- 2026-10-22: STŘÍBRO $57,74 (1M −12,42 %, YTD −17,66 %, 1T +3,95 %) — padající nůž; obrat až nad $62 s objemem. (běží)
+- 2026-10-22: MĚĎ $6,55 (YTD +16,33 %, 1R +32,85 %, u max 6,83) — strukturálně ano, přidávat jen na zpětce ~6,0–6,2. (běží)
+- 2026-10-22: ETH $2 479 (1R −36,05 %) — nejslabší velké aktivum, zaostává i za BTC; nekupovat, dokud neporáží BTC. (běží)
+- 2026-10-22: TLT $80,24 (YTD −7,94 %, u min 76,43, 10letý u max) — padající nůž; vstup až 10letý trvale pod 4,5 %. (běží)
+- 2026-10-22: AI-ÚVĚROVÁ NERVOZITA — obavy z nákladů na AI buildout na pozadí, dnes přebita dobrými výsledky; riziko dál visí. (běží)
+- 2026-10-22: SKRYTÉ ÚVĚROVÉ RIZIKO — NDFI/private credit + CoreWeave CDS, neznámá v pozadí. (běží)
+- 2026-10-22: SHUTDOWN zpožďuje makrodata — mezery v číslech, trh jede po firmách a sazbách. (běží)
+- 2026-10-22: DOLAR — USD/CZK 21,59 (1D −0,12 %), EUR/USD 1,1235; oddech, ne obrat. (běží)
 
 ## Uzavřeno
-- 2026-10-21: „Netflix reklama ~$3 mld jako klíč" → NEVYŠLO firmě: řez na $2,7 mld, akcie −6 %; potvrdilo křehkost i u silných jmen.
+- 2026-10-22: „Rozhodující výsledky rozhodnou směr techu" → VYŠLO pozitivně: Meta/Tesla/TXN/IBM beat, tech +1 %, beat tentokrát zafungoval (vs 15.10., kdy ne).
+- 2026-10-21: „Netflix reklama ~$3 mld jako klíč" → NEVYŠLO firmě: řez na $2,7 mld, akcie −6 %; křehkost i u silných jmen.
 - 2026-10-21: „GM reakce dnes" → VYŠLO negativně: −7 %, Dow ustál díky 3M a zdravotnictví.
-- 2026-10-20: „Ranní odraz futures — vydrží do zavření?" → VYŠLO ten den, ale do 21.10. vyprchal (Nasdaq 1T −2,87 %).
+- 2026-10-20: „Ranní odraz futures" → VYŠLO ten den, ale do 21.10. vyprchal; 22.10. přišel odraz nový, tentokrát na výsledcích.
 - 2026-10-17: „Regionální banky = test dne" → VYŠLO: odpisy probudily strach, nenakazil.
-- 2026-10-15: „Čipy zlomí/potvrdí tezi" → VYŠLO: beat, tech stejně dolů → křehkost.
-
-Zdroje: [Zacks – Stock Market News Oct 21, 2026](https://finance.yahoo.com/markets/stocks/articles/stock-market-news-oct-21-065700416.html), [Benzinga – Meta/Tesla earnings swing](https://www.benzinga.com/markets/options/26/10/62480628/meta-platforms-tesla-could-swing-more-than-100-billion-after-earnings), [Earnings Edge – Wednesday setups](https://www.earnings-edge.com/p/earnings-edge-for-wednesday-setups-d83)
+- 2026-10-15: „Čipy zlomí/potvrdí tezi" → VYŠLO: beat, tech stejně dolů → křehkost (22.10. se to otočilo).
