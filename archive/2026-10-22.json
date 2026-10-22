@@ -1,0 +1,97 @@
+{
+ "date": "2026-10-22",
+ "date_cz": "22.10.2026",
+ "updated_at": "2026-10-22T22:25+02:00",
+ "sections": [
+  {
+   "key": "cr",
+   "title": "🇨🇿 Česká republika",
+   "items": [
+    {
+     "title": "Sněmovna dál jedná o rozpočtu se schodkem 386 miliard",
+     "text": "Poslanci pokračovali v úvodní debatě o státním rozpočtu na příští rok, kterou ve středu nedokončili. Vláda navrhuje deficit 386 miliard korun. Opozice ho kritizuje a výše schodku se nelíbí ani části koalice, která slibuje v dalších letech škrty v řádu desítek miliard."
+    },
+    {
+     "title": "Praha: STAN a SPOLU mohou vládnout bez Pirátů",
+     "text": "Pokud do listopadového zasedání zastupitelstva nevznikne trojkoalice, povedou metropoli Starostové a SPOLU. Piráti nabídku ke spolupráci odmítli."
+    },
+    {
+     "title": "Evropské právo: výslechy podezřelých bez advokáta",
+     "text": "Podle verdiktu porušují evropské právo české předpisy, které umožňují vyslýchat podezřelé bez advokáta. Ministerstvo zahraničí verdikt prověřuje a uvádí, že Česko z něj vyvodí patřičné závěry. Rozsudek podle něj nemá sankce."
+    },
+    {
+     "title": "STAN podá podnět kvůli poslanci Ševčíkovi",
+     "text": "Opoziční hnutí STAN se obrátí na sněmovní mandátový a imunitní výbor kvůli tomu, jak se poslanec SPD Ševčík choval k poslankyni Michaele Šebelové."
+    },
+    {
+     "title": "Sbírka na Korzo Národní překročila 2,5 milionu",
+     "text": "Akce připomíná 36. výročí sametové revoluce a nedostala dotaci. Lidé do veřejné sbírky na ni přispěli už 2,5 milionu korun."
+    },
+    {
+     "title": "Zemřel podezřelý z vraždy na Děčínsku",
+     "text": "Muž podezřelý z vraždy a pokusu o vraždu na Děčínsku zemřel v nemocnici."
+    }
+   ]
+  },
+  {
+   "key": "svet",
+   "title": "🌍 Svět",
+   "items": [
+    {
+     "title": "Masivní raketový útok na Kyjev",
+     "text": "Rusko v noci na čtvrtek zaútočilo raketami na Kyjev. Stalo se to jen několik hodin poté, co Putin prohlásil, že Kreml je příští měsíc připraven obnovit mírová jednání. Americký vyslanec Witkoff označil Putina za „humanitáře“, což Ukrajinu i její podporovatele šokovalo."
+    },
+    {
+     "title": "Napětí kolem Íránu",
+     "text": "Podle zdroje NPR připravují USA a Izrael plány na možný útok na Írán na začátek listopadu, tedy po amerických volbách v polovině volebního období. Námořnictvo íránských revolučních gard uvedlo, že v severní části Perského zálivu byla zasažena čtyři plavidla zapojená do nelegálního překládání ropy, a varovalo USA před širší odvetou."
+    },
+    {
+     "title": "Útok na saúdské letiště",
+     "text": "Při úderu na Mezinárodní letiště krále Fahda v Saúdské Arábii zemřeli nejméně dva lidé a osm bylo zraněno. Útok mají mít podle zpráv na svědomí jemenští Hútíové."
+    },
+    {
+     "title": "Ebola se šíří do Nigérie",
+     "text": "Nigérie hlásí první případ eboly po více než deseti letech a je čtvrtou africkou zemí zasaženou současnou epidemií. WHO varuje, že nákaza se stala regionálním problémem veřejného zdraví."
+    },
+    {
+     "title": "OSN: Cíl 1,5 °C je ztracen",
+     "text": "Podle OSN už svět přišel o šanci udržet oteplení do 1,5 °C nad předindustriální úrovní."
+    },
+    {
+     "title": "Macron chce zakázat „nelegitimní“ protesty",
+     "text": "Francouzský prezident oznámil, že Francie po sobotních nepokojích v příštích dnech zakáže „nelegitimní“ protesty."
+    }
+   ]
+  },
+  {
+   "key": "ekonomika",
+   "title": "📈 Ekonomika a trhy",
+   "items": [
+    {
+     "title": "Wall Street: Nasdaq měl nejhorší den od června",
+     "text": "Nasdaq Composite klesl o 2,6 % na 26 008,86 bodu a S&P 500 ztratil 1,21 % na 7 663,43 bodu, což byl jeho nejhorší den od července. Dow Jones zůstal téměř beze změny (+0,02 % na 52 867,98). Výprodej táhly technologické firmy a čipaři, kteří podle Bloombergu klesli zhruba o 6 %."
+    },
+    {
+     "title": "Meta po výsledcích propadla",
+     "text": "Akcie Mety spadly téměř o 7 %. Tržby za 3. čtvrtletí stouply o 26 % na 64,6 mld. USD a překonaly odhady. Zisk na akcii ale kvůli právnímu výdaji 9,89 mld. USD klesl na 3,83 USD. Firma zvedla spodní hranici investic na 135–145 mld. USD, což oživilo obavy z dluhem financovaných výdajů na AI. Oznámila také split akcií 2:1."
+    },
+    {
+     "title": "Tesla ztratila 3 %",
+     "text": "Tržby 28 mld. USD mírně zaostaly za odhady, zisk na akcii 0,48 USD je naopak překonal. Tesla snížila letošní plán investic na zhruba 20 mld. USD z více než 25 mld. Akcie přesto skončily o 3 % níž."
+    },
+    {
+     "title": "Ropa nad 110 dolary",
+     "text": "Brent podražil zhruba o 2,9 % na přibližně 112 USD za barel. Ceny ženou obavy z výpadků dodávek z Blízkého východu po útocích na tankery u Hormuzského průlivu a na saúdská energetická zařízení."
+    },
+    {
+     "title": "Výnosy dluhopisů klesly",
+     "text": "Investoři během výprodeje technologických akcií utíkali do státních dluhopisů. Výnos 10letého amerického dluhopisu klesl asi o 11 bazických bodů na 5,02 % a 30letý se přiblížil 5,32 %. Trhy čekají na zasedání Fedu příští týden."
+    },
+    {
+     "title": "Bitcoin kolem 83 tisíc dolarů",
+     "text": "Bitcoin se ve čtvrtek ráno obchodoval kolem 82 700 USD. Přes noc přitom krátce vystoupal až na 84 808 USD."
+    }
+   ]
+  }
+ ]
+}
