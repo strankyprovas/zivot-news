@@ -1,0 +1,97 @@
+{
+ "date": "2026-10-24",
+ "date_cz": "24.10.2026",
+ "updated_at": "2026-10-24T21:16+02:00",
+ "sections": [
+  {
+   "key": "cr",
+   "title": "🇨🇿 Česká republika",
+   "items": [
+    {
+     "title": "Sněmovna po nočním jednání schválila v prvním čtení zrušení poplatků za ČT a ČRo",
+     "text": "Koalice ANO, SPD a Motoristů nečekaně zařadila návrh na program a v sobotu ráno ho po bouřlivém jednání schválila v prvním čtení. Návrh teď míří do druhého čtení. Opozice ranní hlasování ostře kritizovala. Podle Echo24 se dav odpůrců pokusil vniknout do Sněmovny a zasáhla policie."
+    },
+    {
+     "title": "Babiš: Peníze pro veřejnoprávní média zaručí zákon a budou navázané na inflaci",
+     "text": "Premiér odmítá, že by šlo o zestátnění médií. Financování má být mandatorním výdajem s inflační doložkou. ČT by příští rok dostala ze státního rozpočtu 5,74 miliardy korun, což je asi o miliardu méně, než letos plánuje vybrat na poplatcích. ČRo by dostal 2,065 miliardy."
+    },
+    {
+     "title": "Biskupové vyzvali k zachování poplatků, zaměstnanci ČT a ČRo chystají stávku",
+     "text": "Stálá rada České biskupské konference vyzvala zákonodárce, aby poplatky zachovali, protože podle ní zaručují nezávislost médií. Zaměstnanci ČT a ČRo ohlásili na 3. listopadu stávku."
+    },
+    {
+     "title": "Personální změny v Ústřední vojenské nemocnici",
+     "text": "Ředitel ÚVN Luděk Hána odvolal náměstka pro obchod, jehož činnost prověřuje Vojenská policie. Skončil také šéf kliniky, kterého Zeman neprávem obvinil ze sabotáže."
+    },
+    {
+     "title": "Šéf pražského letiště Lašák rezignoval",
+     "text": "Generální ředitel Letiště Praha Lašák rezignoval necelé tři měsíce po nástupu do funkce."
+    },
+    {
+     "title": "V noci se mění čas, v neděli hrozí silný vítr",
+     "text": "V noci ze soboty na neděli 25. října končí letní čas a hodiny se posunou o hodinu zpět. Části Česka v neděli zasáhne silný vítr s nárazy až 90 km/h. Kvůli větru na Sněžce nejel horní úsek lanovky."
+    }
+   ]
+  },
+  {
+   "key": "svet",
+   "title": "🌍 Svět",
+   "items": [
+    {
+     "title": "Roste napětí mezi USA a Íránem, Washington varuje před cestami na Blízký východ",
+     "text": "Americký velvyslanec v Turecku Tom Barrack uvedl, že nový úder na Írán je možný už o víkendu. Teherán hrozí širší odvetou a tvrdí, že americké lodě do Perského zálivu nepustí. USA kvůli útokům Húsíů vydaly cestovní varování pro 13 zemí regionu, mimo jiné Saúdskou Arábii, SAE, Katar a Izrael."
+    },
+    {
+     "title": "Útok na pravoslavný kostel v Jordánsku",
+     "text": "Ozbrojenci zaútočili na řecký pravoslavný kostel v Karaku během pohřbu. NPR uvádí sedm mrtvých a 40 zraněných, Reuters píše o osmi obětech. Útok odsoudila Arabská liga."
+    },
+    {
+     "title": "Ukrajina: lokální příměří v Oleškách, drony zastavily moskevská letiště",
+     "text": "Ukrajina potvrdila humanitární příměří v okupovaném městě Olešky, které zprostředkovala Melania Trumpová. Ukrajinské síly zasáhly elektronický závod v Orlu a útoky dronů vedly k uzavření moskevských letišť. Zelenskyj oznámil, že Starlink po více než týdnu výpadků opět funguje normální rychlostí."
+    },
+    {
+     "title": "Požár zničil Orlí hnízdo v Bavorsku",
+     "text": "Rozsáhlý noční požár z velké části zničil Kehlsteinhaus, bývalé Hitlerovo horské sídlo. Existuje podezření, že požár založil žhář."
+    },
+    {
+     "title": "Izrael uzavřel město na Západním břehu",
+     "text": "Izrael uzavřel jedno z měst na Západním břehu Jordánu poté, co palestinští ozbrojenci zabili dva izraelské vojáky."
+    },
+    {
+     "title": "Francie se chystá na další protesty, u Vanuatu udeřilo silné zemětřesení",
+     "text": "Obchody v Lyonu a Orléansu i luxusní butiky zabedňují výlohy kvůli obavám z nepokojů. U Vanuatu udeřilo zemětřesení o síle 7,2. Úřady vydaly varování před tsunami, o škodách se zatím neví."
+    }
+   ]
+  },
+  {
+   "key": "ekonomika",
+   "title": "📈 Ekonomika a trhy",
+   "items": [
+    {
+     "title": "Wall Street v pátek zavřela v minusu",
+     "text": "Dow Jones klesl o 1,23 % na 52 215,16 bodu, S&P 500 o 0,52 % na 7 623,68 a Nasdaq o 0,21 % na 25 955,34. S&P 500 za týden ztratil 0,5 % a Nasdaq zaznamenal druhý týdenní pokles v řadě. Burzy jsou o víkendu zavřené, jde tedy o poslední obchodní den."
+    },
+    {
+     "title": "Ropa Brent nad 116 dolary, nejvýš za půl roku",
+     "text": "Brent v pátek podražil zhruba o 3 % na přibližně 116–117 USD za barel, protože trh se bojí nových úderů USA na Írán. Ropa roste třetí týden v řadě. Drahá ropa zvyšuje obavy z inflace. Jako jediný sektor se dařilo energetice."
+    },
+    {
+     "title": "Bitcoin spadl pod 80 tisíc dolarů",
+     "text": "Podle CoinDesku bitcoin za 24 hodin oslabil o 2,2 % na zhruba 79 700 USD, nejníž za více než měsíc. Ether, XRP a Solana ztratily 3–4 %. Za den byly likvidovány kryptopozice za asi 670 milionů USD. Na trh tlačí napětí na Blízkém východě a odliv peněz z bitcoinových ETF."
+    },
+    {
+     "title": "Zlato pod hranicí 4 000 dolarů",
+     "text": "Zlato týden zakončilo poklesem. Podle Trading Economics se obchodovalo kolem 3 994 USD za unci (−0,8 %), jiné zdroje uvádějí zhruba 4 028 USD."
+    },
+    {
+     "title": "Čipy se po čtvrtečním výprodeji stabilizovaly",
+     "text": "Po čtvrtečním výprodeji kvůli obavám z výdajů na AI, kdy Nasdaq ztratil 2,6 %, polovodičový index SOX v pátek přidal 0,44 %. Intel se po propadu o zhruba 7–8 % odrazil. Výsledky zveřejní 29. října a opce naznačují pohyb kolem 8 %."
+    },
+    {
+     "title": "Příští týden zasedá Fed i ECB",
+     "text": "Investoři čekají příští týden zasedání americké centrální banky (FOMC) a ECB, která mohou trhy výrazně rozhýbat."
+    }
+   ]
+  }
+ ]
+}
