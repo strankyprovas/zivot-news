@@ -1,0 +1,97 @@
+{
+ "date": "2026-10-25",
+ "date_cz": "25.10.2026",
+ "updated_at": "2026-10-25T20:27+01:00",
+ "sections": [
+  {
+   "key": "cr",
+   "title": "🇨🇿 Česká republika",
+   "items": [
+    {
+     "title": "Tisíce lidí v Praze demonstrovaly za veřejnoprávní média",
+     "text": "Na Staroměstském náměstí se v neděli sešly tisíce lidí na podporu nezávislosti ČT a ČRo. Předseda Milionu chvilek Mikuláš Minář vyzval premiéra Andreje Babiše (ANO) k veřejné debatě o změně financování těchto médií. Koaliční partnery Tomia Okamuru (SPD) a Petra Macinku (Motoristé) organizátoři vyzvali, aby uznali chybu a novelu stáhli."
+    },
+    {
+     "title": "Zrušení poplatků prošlo nečekaně prvním čtením",
+     "text": "Sněmovna v sobotu brzy ráno po vypjatém nočním jednání poslala do druhého čtení novelu, která ruší poplatky za ČT a ČRo a obě média by financovala ze státního rozpočtu. Opozice slibuje, že bude proti novele bojovat dál."
+    },
+    {
+     "title": "SPD svolává po volebním neúspěchu celostátní grémium",
+     "text": "Hnutí SPD svolalo na 8. listopadu celostátní grémium, které má reagovat na jeho neúspěch v komunálních a senátních volbách. Premiér Babiš označil výsledek ANO v senátních volbách za katastrofální, strategii vlády ale podle něj měnit nebude."
+    },
+    {
+     "title": "Soud přezkoumává volby ve 13 jihočeských obcích",
+     "text": "Krajský soud v Českých Budějovicích posuzuje stížnosti na volby ve třinácti obcích na jihu Čech. Lhůta pro podání stížností skončila v sobotu 24. října v 16:00 a soud má na rozhodnutí 20 dní."
+    },
+    {
+     "title": "MZV varuje před cestami do Saúdské Arábie",
+     "text": "Ministerstvo zahraničí varovalo před cestami do Saúdské Arábie, kterou opakovaně napadají jemenští Húsíové. Na Českobudějovicku mezitím veterináři kvůli salmonele zlikvidují chov slepic."
+    },
+    {
+     "title": "Skončil letní čas",
+     "text": "V noci na neděli se hodiny posunuly ze 3:00 zpět na 2:00 a Česko se vrátilo ke středoevropskému času."
+    }
+   ]
+  },
+  {
+   "key": "svet",
+   "title": "🌍 Svět",
+   "items": [
+    {
+     "title": "Evropou se šíří protesty, ve Francii zadrželi přes 1300 lidí",
+     "text": "Demonstrace probíhají ve Francii, Albánii, Itálii, Španělsku a Portugalsku. Francouzské ministerstvo vnitra podle předběžné bilance uvedlo, že policie při sobotních protestech zadržela 1314 lidí. V Tiraně policie nasadila slzný plyn a vodní děla."
+    },
+    {
+     "title": "Saúdové sestřelili húsíjské rakety a drony mířící na Rijád",
+     "text": "Saúdské síly podle zpráv zachytily rakety a drony, které Húsíové vypálili na Rijád. Mezinárodní letiště krále Chálida znovu otevřelo terminály 1 a 2 pro vnitrostátní i mezinárodní lety. Konflikt probíhá v napětí kolem války USA a Izraele s Íránem."
+    },
+    {
+     "title": "Ukrajina a Rusko pokračují v útocích, jednání se chystají na listopad",
+     "text": "Ruský dron zasáhl obytný dům v Dněpropetrovské oblasti, zabil 3 lidi a 12 zranil. Ukrajinské drony podle místních zasáhly obchodní centrum v ruské Bělgorodské oblasti. Obě strany uvádějí, že na listopad plánují rozhovory ve Spojených arabských emirátech."
+    },
+    {
+     "title": "Kim Čong-un navštívil čínský Tan-tung",
+     "text": "Severokorejský vůdce přijel do čínského pohraničního města Tan-tung po nově otevřeném mostě."
+    },
+    {
+     "title": "V Keni zemřelo při nehodě autobusu nejméně 22 lidí",
+     "text": "Na hlavní dálnici Nairobi–Mombasa se autobus srazil s nákladním autem. Podle policie zahynulo nejméně 22 lidí."
+    },
+    {
+     "title": "Požár poškodil Orlí hnízdo u Berchtesgadenu",
+     "text": "Oheň poškodil horské sídlo Kehlsteinhaus v Bavorsku. Policie poblíž zadržela muže podezřelého ze žhářství."
+    }
+   ]
+  },
+  {
+   "key": "ekonomika",
+   "title": "📈 Ekonomika a trhy",
+   "items": [
+    {
+     "title": "Wall Street zakončila týden poklesem (páteční závěr, v neděli se neobchoduje)",
+     "text": "V pátek Dow Jones klesl o 1,23 % na 52 215 bodů, S&P 500 o 0,52 % na 7 623,68 a Nasdaq o 0,21 % na 25 955 bodů. S&P 500 ztratil druhý týden po sobě a je asi 2,5 % pod rekordem ze 6. října. Dow si za týden připsal třetí růst v řadě."
+    },
+    {
+     "title": "Technologie zasáhly obavy z financování AI",
+     "text": "Ve čtvrtek obavy z financování AI poslaly Nasdaq do největšího denního propadu od června a polovodičový index SOX ztratil 6,7 %. V pátek se čipové akcie stabilizovaly."
+    },
+    {
+     "title": "Ropa Brent na 116,72 USD, za týden přidala zhruba 6 %",
+     "text": "Brent v pátek uzavřel na 116,72 USD za barel (+3,1 %), nejvýše od konce dubna. WTI skončila na 103,27 USD. Ceny táhnou nahoru útoky Húsíů na saúdskou energetickou infrastrukturu a válka s Íránem."
+    },
+    {
+     "title": "Zlato spadlo pod 4 000 USD",
+     "text": "Zlato zakončilo týden kolem 3 995 USD za unci, týdně zhruba o 4 % níž. Šlo o nejhorší týden od června. Drahý kov tlačí dolů obavy, že dražší ropa zvýší inflaci a Fed bude zvedat sazby."
+    },
+    {
+     "title": "Bitcoin se drží kolem 80 tisíc USD",
+     "text": "V sobotu bitcoin klesl až na 79 146 USD, nejníže za více než měsíc. Pak se vrátil nad hranici 80 000 USD."
+    },
+    {
+     "title": "Týden s Fedem a výsledky technologických gigantů",
+     "text": "Fed zasedá 27.–28. října a trh podle FXStreet přisuzuje zvýšení sazeb v prosinci pravděpodobnost kolem 78 %. Desetiletý výnos USA je blízko 5 % a VIX kolem 19,5. Výsledky zveřejní Alphabet, Microsoft, Amazon, Intel, Eli Lilly, Exxon a Chevron, vyjdou také data o PCE a HDP."
+    }
+   ]
+  }
+ ]
+}
