@@ -1,35 +1,31 @@
 {
- "date": "2026-10-25",
- "date_cz": "25.10.2026",
- "updated_at": "2026-10-25T20:27+01:00",
+ "date": "2026-10-26",
+ "date_cz": "26.10.2026",
+ "updated_at": "2026-10-26T22:25+01:00",
  "sections": [
   {
    "key": "cr",
    "title": "🇨🇿 Česká republika",
    "items": [
     {
-     "title": "Tisíce lidí v Praze demonstrovaly za veřejnoprávní média",
-     "text": "Na Staroměstském náměstí se v neděli sešly tisíce lidí na podporu nezávislosti ČT a ČRo. Předseda Milionu chvilek Mikuláš Minář vyzval premiéra Andreje Babiše (ANO) k veřejné debatě o změně financování těchto médií. Koaliční partnery Tomia Okamuru (SPD) a Petra Macinku (Motoristé) organizátoři vyzvali, aby uznali chybu a novelu stáhli."
+     "title": "Koalice od zrušení poplatků za ČT a ČRo neustoupí",
+     "text": "Premiér Andrej Babiš řekl, že koalice ANO, SPD a Motoristů návrh na zrušení poplatků za veřejnoprávní média nestáhne. O jeho konečné podobě se ale ještě jedná a ve druhém čtení chce Babiš navrhnout i dobrovolné placení. Proti návrhu v neděli 25. října v Praze protestovaly tisíce lidí."
     },
     {
-     "title": "Zrušení poplatků prošlo nečekaně prvním čtením",
-     "text": "Sněmovna v sobotu brzy ráno po vypjatém nočním jednání poslala do druhého čtení novelu, která ruší poplatky za ČT a ČRo a obě média by financovala ze státního rozpočtu. Opozice slibuje, že bude proti novele bojovat dál."
+     "title": "Babiš ostře kritizoval ředitele Českého rozhlasu",
+     "text": "Premiér zaútočil na ředitele ČRo Zavorala, který vyzval k veřejné diskusi o poplatcích."
     },
     {
-     "title": "SPD svolává po volebním neúspěchu celostátní grémium",
-     "text": "Hnutí SPD svolalo na 8. listopadu celostátní grémium, které má reagovat na jeho neúspěch v komunálních a senátních volbách. Premiér Babiš označil výsledek ANO v senátních volbách za katastrofální, strategii vlády ale podle něj měnit nebude."
+     "title": "Vláda prodloužila regulaci cen paliv a schválila koncesi na D35",
+     "text": "Podle ministryně financí Aleny Schillerové platí regulace cen pohonných hmot do 30. listopadu. Kabinet také schválil koncesi na dostavbu dálnice D35 za zhruba 71 miliard korun a podpořil novelu, která omezuje pravomoci odvolacích soudů."
     },
     {
-     "title": "Soud přezkoumává volby ve 13 jihočeských obcích",
-     "text": "Krajský soud v Českých Budějovicích posuzuje stížnosti na volby ve třinácti obcích na jihu Čech. Lhůta pro podání stížností skončila v sobotu 24. října v 16:00 a soud má na rozhodnutí 20 dní."
+     "title": "Česko zřejmě zdvojnásobí dovoz plynu z Alžírska",
+     "text": "Česko získalo od Alžírska předběžný příslib, že bude moci dovážet dvojnásobné množství plynu."
     },
     {
-     "title": "MZV varuje před cestami do Saúdské Arábie",
-     "text": "Ministerstvo zahraničí varovalo před cestami do Saúdské Arábie, kterou opakovaně napadají jemenští Húsíové. Na Českobudějovicku mezitím veterináři kvůli salmonele zlikvidují chov slepic."
-    },
-    {
-     "title": "Skončil letní čas",
-     "text": "V noci na neděli se hodiny posunuly ze 3:00 zpět na 2:00 a Česko se vrátilo ke středoevropskému času."
+     "title": "Komunální politika: Pardubice mají novou koalici, v Praze se protestovalo",
+     "text": "Pardubice povede nová pětikoalice a primátorem má být Ondřej Tichý z ODS. V Praze se konaly protesty proti účasti ODS ve vedení města."
     }
    ]
   },
@@ -38,28 +34,24 @@
    "title": "🌍 Svět",
    "items": [
     {
-     "title": "Evropou se šíří protesty, ve Francii zadrželi přes 1300 lidí",
-     "text": "Demonstrace probíhají ve Francii, Albánii, Itálii, Španělsku a Portugalsku. Francouzské ministerstvo vnitra podle předběžné bilance uvedlo, že policie při sobotních protestech zadržela 1314 lidí. V Tiraně policie nasadila slzný plyn a vodní děla."
+     "title": "Rusko a Ukrajina se dohodly na dočasném příměří od 29. října",
+     "text": "Podle agentury Reuters dohoda umožní dopravit humanitární pomoc do Olešek a otevře koridor pro evakuaci civilistů. Při ruských útocích na Kyjev ale zemřeli 4 lidé a desítky dalších byly zraněny. Strany si 23. října vyměnily 270 válečných zajatců."
     },
     {
-     "title": "Saúdové sestřelili húsíjské rakety a drony mířící na Rijád",
-     "text": "Saúdské síly podle zpráv zachytily rakety a drony, které Húsíové vypálili na Rijád. Mezinárodní letiště krále Chálida znovu otevřelo terminály 1 a 2 pro vnitrostátní i mezinárodní lety. Konflikt probíhá v napětí kolem války USA a Izraele s Íránem."
+     "title": "Saúdská koalice bombardovala Saná, Húsíové útočí na Rijád",
+     "text": "Koalice vedená Saúdskou Arábií v pondělí ráno zasáhla Saná a podle svých slov zničila dvě odpalovací zařízení balistických raket. Húsíové tvrdí, že zaútočili raketami a drony na letiště v Rijádu a na ropovod East-West. Koalice uvádí, že raketu mířící na Rijád sestřelila."
     },
     {
-     "title": "Ukrajina a Rusko pokračují v útocích, jednání se chystají na listopad",
-     "text": "Ruský dron zasáhl obytný dům v Dněpropetrovské oblasti, zabil 3 lidi a 12 zranil. Ukrajinské drony podle místních zasáhly obchodní centrum v ruské Bělgorodské oblasti. Obě strany uvádějí, že na listopad plánují rozhovory ve Spojených arabských emirátech."
+     "title": "O bulharském prezidentovi rozhodne druhé kolo",
+     "text": "V prvním kole vedla úřadující prezidentka Ilijana Jotova s 34,8 % hlasů, prozápadní reformista Andrej Gjurov získal 31,9 %. Druhé kolo bude 1. listopadu. Volební účast byla rekordně nízká, zhruba 22,5 %."
     },
     {
-     "title": "Kim Čong-un navštívil čínský Tan-tung",
-     "text": "Severokorejský vůdce přijel do čínského pohraničního města Tan-tung po nově otevřeném mostě."
+     "title": "Alžírsko pošle vojáky do Nigeru",
+     "text": "Alžírsko vyšle vojáky do Nigeru, což bude jeho první nasazení v zahraničí od roku 1973. Niger kvůli celostátnímu nedostatku paliva zavedl zákaz večerního a nočního prodeje benzinu."
     },
     {
-     "title": "V Keni zemřelo při nehodě autobusu nejméně 22 lidí",
-     "text": "Na hlavní dálnici Nairobi–Mombasa se autobus srazil s nákladním autem. Podle policie zahynulo nejméně 22 lidí."
-    },
-    {
-     "title": "Požár poškodil Orlí hnízdo u Berchtesgadenu",
-     "text": "Oheň poškodil horské sídlo Kehlsteinhaus v Bavorsku. Policie poblíž zadržela muže podezřelého ze žhářství."
+     "title": "Cyklon Arnab sílí v Bengálském zálivu",
+     "text": "Srílanská meteorologická služba vydala kvůli sílící cyklonální bouři Arnab červené varování před silným větrem a rozbouřeným mořem."
     }
    ]
   },
@@ -68,28 +60,24 @@
    "title": "📈 Ekonomika a trhy",
    "items": [
     {
-     "title": "Wall Street zakončila týden poklesem (páteční závěr, v neděli se neobchoduje)",
-     "text": "V pátek Dow Jones klesl o 1,23 % na 52 215 bodů, S&P 500 o 0,52 % na 7 623,68 a Nasdaq o 0,21 % na 25 955 bodů. S&P 500 ztratil druhý týden po sobě a je asi 2,5 % pod rekordem ze 6. října. Dow si za týden připsal třetí růst v řadě."
+     "title": "Wall Street zavřela v zisku, růst táhly technologie",
+     "text": "Nasdaq Composite stoupl o 0,82 % na 26 169,38 bodu, S&P 500 o 0,70 % na 7 676,77 bodu a Dow Jones o 0,28 % na 52 361,58 bodu. Indexy tak přerušily dva týdny poklesů. Trh teď čeká na rozhodnutí Fedu o sazbách a výsledky velkých technologických firem."
     },
     {
-     "title": "Technologie zasáhly obavy z financování AI",
-     "text": "Ve čtvrtek obavy z financování AI poslaly Nasdaq do největšího denního propadu od června a polovodičový index SOX ztratil 6,7 %. V pátek se čipové akcie stabilizovaly."
+     "title": "Anthropic veřejně podal žádost o IPO",
+     "text": "Firma podala u SEC prospekt S-1 a chce se obchodovat na Nasdaqu pod symbolem „ANT“. Za první pololetí 2026 vykázala tržby 16,3 mld. USD, zatímco za celý rok 2025 to bylo 4,6 mld. USD. Uvedení na burzu se podle médií chystá na polovinu listopadu, cena akcií zatím stanovena není."
     },
     {
-     "title": "Ropa Brent na 116,72 USD, za týden přidala zhruba 6 %",
-     "text": "Brent v pátek uzavřel na 116,72 USD za barel (+3,1 %), nejvýše od konce dubna. WTI skončila na 103,27 USD. Ceny táhnou nahoru útoky Húsíů na saúdskou energetickou infrastrukturu a válka s Íránem."
+     "title": "Evropské akcie dohánějí minulý týden",
+     "text": "Během dne rostl DAX zhruba o 0,7 %, CAC 40 o 0,8 % a FTSE MIB o 0,85 %. V pátek STOXX 600 ztratil 0,3 % a za celý týden přes 1 %, hlavně kvůli nepokojům ve Francii a drahé ropě."
     },
     {
-     "title": "Zlato spadlo pod 4 000 USD",
-     "text": "Zlato zakončilo týden kolem 3 995 USD za unci, týdně zhruba o 4 % níž. Šlo o nejhorší týden od června. Drahý kov tlačí dolů obavy, že dražší ropa zvýší inflaci a Fed bude zvedat sazby."
+     "title": "Ropa zlevňuje, ale je stále velmi drahá",
+     "text": "Brent klesl asi o 1,8 % na 115,28 USD za barel a WTI o 1,6 % na 101,75 USD. Průměrná cena benzinu v USA se podle AAA drží na 4,28 USD za galon kvůli konfliktu na Blízkém východě."
     },
     {
-     "title": "Bitcoin se drží kolem 80 tisíc USD",
-     "text": "V sobotu bitcoin klesl až na 79 146 USD, nejníže za více než měsíc. Pak se vrátil nad hranici 80 000 USD."
-    },
-    {
-     "title": "Týden s Fedem a výsledky technologických gigantů",
-     "text": "Fed zasedá 27.–28. října a trh podle FXStreet přisuzuje zvýšení sazeb v prosinci pravděpodobnost kolem 78 %. Desetiletý výnos USA je blízko 5 % a VIX kolem 19,5. Výsledky zveřejní Alphabet, Microsoft, Amazon, Intel, Eli Lilly, Exxon a Chevron, vyjdou také data o PCE a HDP."
+     "title": "Zlato se drží kolem 4 000 USD, bitcoin u 80 000 USD",
+     "text": "Spotové zlato podle CNBC posílilo o 0,5 % na zhruba 4 014 USD za unci, protože ropa zlevnila a trh čeká na Fed. Bitcoin se obchoduje kolem 80 000 USD a stále na něj doléhají obavy z inflace."
     }
    ]
   }

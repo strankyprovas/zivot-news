@@ -1,0 +1,85 @@
+{
+ "date": "2026-10-26",
+ "date_cz": "26.10.2026",
+ "updated_at": "2026-10-26T22:25+01:00",
+ "sections": [
+  {
+   "key": "cr",
+   "title": "🇨🇿 Česká republika",
+   "items": [
+    {
+     "title": "Koalice od zrušení poplatků za ČT a ČRo neustoupí",
+     "text": "Premiér Andrej Babiš řekl, že koalice ANO, SPD a Motoristů návrh na zrušení poplatků za veřejnoprávní média nestáhne. O jeho konečné podobě se ale ještě jedná a ve druhém čtení chce Babiš navrhnout i dobrovolné placení. Proti návrhu v neděli 25. října v Praze protestovaly tisíce lidí."
+    },
+    {
+     "title": "Babiš ostře kritizoval ředitele Českého rozhlasu",
+     "text": "Premiér zaútočil na ředitele ČRo Zavorala, který vyzval k veřejné diskusi o poplatcích."
+    },
+    {
+     "title": "Vláda prodloužila regulaci cen paliv a schválila koncesi na D35",
+     "text": "Podle ministryně financí Aleny Schillerové platí regulace cen pohonných hmot do 30. listopadu. Kabinet také schválil koncesi na dostavbu dálnice D35 za zhruba 71 miliard korun a podpořil novelu, která omezuje pravomoci odvolacích soudů."
+    },
+    {
+     "title": "Česko zřejmě zdvojnásobí dovoz plynu z Alžírska",
+     "text": "Česko získalo od Alžírska předběžný příslib, že bude moci dovážet dvojnásobné množství plynu."
+    },
+    {
+     "title": "Komunální politika: Pardubice mají novou koalici, v Praze se protestovalo",
+     "text": "Pardubice povede nová pětikoalice a primátorem má být Ondřej Tichý z ODS. V Praze se konaly protesty proti účasti ODS ve vedení města."
+    }
+   ]
+  },
+  {
+   "key": "svet",
+   "title": "🌍 Svět",
+   "items": [
+    {
+     "title": "Rusko a Ukrajina se dohodly na dočasném příměří od 29. října",
+     "text": "Podle agentury Reuters dohoda umožní dopravit humanitární pomoc do Olešek a otevře koridor pro evakuaci civilistů. Při ruských útocích na Kyjev ale zemřeli 4 lidé a desítky dalších byly zraněny. Strany si 23. října vyměnily 270 válečných zajatců."
+    },
+    {
+     "title": "Saúdská koalice bombardovala Saná, Húsíové útočí na Rijád",
+     "text": "Koalice vedená Saúdskou Arábií v pondělí ráno zasáhla Saná a podle svých slov zničila dvě odpalovací zařízení balistických raket. Húsíové tvrdí, že zaútočili raketami a drony na letiště v Rijádu a na ropovod East-West. Koalice uvádí, že raketu mířící na Rijád sestřelila."
+    },
+    {
+     "title": "O bulharském prezidentovi rozhodne druhé kolo",
+     "text": "V prvním kole vedla úřadující prezidentka Ilijana Jotova s 34,8 % hlasů, prozápadní reformista Andrej Gjurov získal 31,9 %. Druhé kolo bude 1. listopadu. Volební účast byla rekordně nízká, zhruba 22,5 %."
+    },
+    {
+     "title": "Alžírsko pošle vojáky do Nigeru",
+     "text": "Alžírsko vyšle vojáky do Nigeru, což bude jeho první nasazení v zahraničí od roku 1973. Niger kvůli celostátnímu nedostatku paliva zavedl zákaz večerního a nočního prodeje benzinu."
+    },
+    {
+     "title": "Cyklon Arnab sílí v Bengálském zálivu",
+     "text": "Srílanská meteorologická služba vydala kvůli sílící cyklonální bouři Arnab červené varování před silným větrem a rozbouřeným mořem."
+    }
+   ]
+  },
+  {
+   "key": "ekonomika",
+   "title": "📈 Ekonomika a trhy",
+   "items": [
+    {
+     "title": "Wall Street zavřela v zisku, růst táhly technologie",
+     "text": "Nasdaq Composite stoupl o 0,82 % na 26 169,38 bodu, S&P 500 o 0,70 % na 7 676,77 bodu a Dow Jones o 0,28 % na 52 361,58 bodu. Indexy tak přerušily dva týdny poklesů. Trh teď čeká na rozhodnutí Fedu o sazbách a výsledky velkých technologických firem."
+    },
+    {
+     "title": "Anthropic veřejně podal žádost o IPO",
+     "text": "Firma podala u SEC prospekt S-1 a chce se obchodovat na Nasdaqu pod symbolem „ANT“. Za první pololetí 2026 vykázala tržby 16,3 mld. USD, zatímco za celý rok 2025 to bylo 4,6 mld. USD. Uvedení na burzu se podle médií chystá na polovinu listopadu, cena akcií zatím stanovena není."
+    },
+    {
+     "title": "Evropské akcie dohánějí minulý týden",
+     "text": "Během dne rostl DAX zhruba o 0,7 %, CAC 40 o 0,8 % a FTSE MIB o 0,85 %. V pátek STOXX 600 ztratil 0,3 % a za celý týden přes 1 %, hlavně kvůli nepokojům ve Francii a drahé ropě."
+    },
+    {
+     "title": "Ropa zlevňuje, ale je stále velmi drahá",
+     "text": "Brent klesl asi o 1,8 % na 115,28 USD za barel a WTI o 1,6 % na 101,75 USD. Průměrná cena benzinu v USA se podle AAA drží na 4,28 USD za galon kvůli konfliktu na Blízkém východě."
+    },
+    {
+     "title": "Zlato se drží kolem 4 000 USD, bitcoin u 80 000 USD",
+     "text": "Spotové zlato podle CNBC posílilo o 0,5 % na zhruba 4 014 USD za unci, protože ropa zlevnila a trh čeká na Fed. Bitcoin se obchoduje kolem 80 000 USD a stále na něj doléhají obavy z inflace."
+    }
+   ]
+  }
+ ]
+}
