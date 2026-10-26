@@ -1,30 +1,31 @@
-- 2026-10-25 (večer): Víkend bez obchodování — čísla zamrzlá na pátku (S&P 7 624, Nasdaq 25 955, Dow 52 215, VIX 19,45); jen krypto žilo, slabé. (běží)
-- 2026-10-25: Pondělí 26.10. = rozehřívací den, lehký, bez velkých dat; hlavní impulzy až od středy (Fed + bigtech). (běží)
-- 2026-10-24: OTOČKA ROTACE — Dow −1,23 % nejhorší, Nasdaq −0,21 % nejlepší; při ropném šoku „Dow = polštář" NEPLATÍ. (běží, klíčové)
-- 2026-10-25: ROPA WTI $101,76 (YTD +77 %, 3M +28 %), Brent pátek $116,72 = půlroční max. Žene to geopolitická prémie (Húsíové, Írán), NE výpadek — Hormuz toky nad předválečnými. Přehřátá, vstup ~$90. (běží, klíčové)
-- 2026-10-24: AI-POCHYBNOSTI — bolest v techu/čipech (Nasdaq 1M −3,65 %, QQQ −4,95 %), ne celý trh. Rozhodnou bigtech výsledky. (běží, klíčové)
-- 2026-10-24: 10LETÝ 4,988 % — risk-off bez útěku do dluhopisů (TLT slabý), zdravější. (běží)
-- 2026-10-24: VIX 19,45 (1M +24 %) — strach roste, pořád <20; nákup techu VIX >22 NEsplněn. (běží, klíčové)
-- 2026-10-25: FED ST 28.10. 19:00 SEČ — hold ~94 %, hike ~6 %; prosincový hike ~73 %. Hawkish hold jistý, hra o tón Powella + ropu. Hlavní riziko týdne. (běží, klíčové)
-- 2026-10-24: 3M poukázka 4,032 % — placená trpělivost, suché palivo před Fedem; preferovaný krátkodobý tip. (běží, klíčové)
-- 2026-10-24: QQQ $704,40 (1M −4,95 %) — přikup JEN pod $700 A VIX >22; obě nesplněny, čekat. (běží, klíčové)
-- 2026-10-24: JÁDRO VWCE €169,30 / MSCI World €129,84 (YTD +16 %) — DCA, páteř; korekce = levnější vstup. (běží, klíčové)
-- 2026-10-24: MĚĎ $6,506 (1R +26,56 %) — nejzdravější komodita, strukturální poptávka; přidávat po částech. (běží, klíčové)
-- 2026-10-24: ZLATO $4 011 (1M −7,17 %, u 52t min $3 901, max $5 586) — korekce z přehřátí, ne rozpad; malá pojistka. (běží, klíčové)
-- 2026-10-24: STŘÍBRO $54,12 (1M −16 %, YTD −23 %) — padající nůž; obrat až nad $62 s objemem. (běží)
-- 2026-10-25: BIGTECH: MSFT+GOOGL st 28.10. po zavření (po Fedu), AMZN čt 29.10. (~$202 mld tržby), AAPL po 2.11. Rozhodnou o AI-pochybnostech. (běží, klíčové)
-- 2026-10-25: HDP 3Q + PCE čt 29.10. ráno — inflační data, klíč po Fedu. (běží)
-- 2026-10-25: BITCOIN $80 462 (1R −27,93 %, 1T −2,99 %) — drží nad $80k, víkend bez odrazu, slabé; malá pozice. (běží)
-- 2026-10-25: ETH $2 344 (1R −40,72 %, 1T −4,21 %) — nejslabší aktivum; nekupovat dokud neporáží BTC. (běží)
-- 2026-10-24: TLT $81,34 (1R −11,07 %) — pod vodou v hikujícím cyklu, vstup až 10letý trvale pod 4,5 %. (běží)
-- 2026-10-25: ZEMNÍ PLYN $2,982 (1D +12,95 % = squeeze přeplněného shortu, 1T −2,49 %, u dna) — „nechytat" platí; obrat až nad ~$3,5 s ochlazením. (běží)
-- 2026-10-24: DOLAR USD/CZK 21,65, EUR/USD 1,1213 — dolar pevný, risk-off podpora. (běží)
-- 2026-10-24: DIVERGENČNÍ NÁSTROJ (zelený close + rostoucí VIX → otočka) — čeká na test během obchodního týdne u Fedu. (nástroj)
-- 2026-10-24: SHUTDOWN zpožďuje vládní data — trh jede po firmách, Fedu, soukromých PMI, geopolitice. (běží)
+- 2026-10-26 (ráno): Pondělí = rozehřívací den, lehký, bez velkých dat; hlavní impulzy od středy (Fed + bigtech). (běží)
+- 2026-10-26: ROPA WTI $101,01 (1D −2,19 %, YTD +75,91 %) — prémie se vypouští na diplomacii Katar/Írán, ale Húsíové útočí na Rijád. Přehřátá, vstup ~$90 nebo reálný výpadek. (běží, klíčové)
+- 2026-10-26: FED ST 28.10. 19:00 SEČ — hold ~94 %, hike ~9 %; prosincový hike ~84 %. Hawkish hold jistý, hra o tón Powella. Hlavní riziko týdne. (běží, klíčové)
+- 2026-10-26: BIGTECH: MSFT+GOOGL st 28.10. po zavření (po Fedu), AMZN čt 29.10., AAPL po 2.11. Rozhodnou o AI-pochybnostech. (běží, klíčové)
+- 2026-10-26: HDP 3Q + PCE čt 29.10. ráno — inflační data, klíč po Fedu. (běží)
+- 2026-10-26: AI-POCHYBNOSTI — bolest v techu/čipech (Nasdaq 1M −3,65 %, QQQ 1M −4,95 %), ne celý trh. Rozhodnou bigtech výsledky. (běží, klíčové)
+- 2026-10-26: OTOČKA ROTACE — Dow −1,23 % nejhorší, Nasdaq −0,21 % nejlepší; „Dow = polštář" při ropném šoku NEPLATÍ. (běží, klíčové)
+- 2026-10-26: VIX 19,19 (1M +29 %) — strach lehce povolil, pořád <20; nákup techu VIX >22 NEsplněn. (běží, klíčové)
+- 2026-10-26: QQQ $704,40 (1M −4,95 %) — přikup JEN pod $700 A VIX >22; obě nesplněny, čekat. (běží, klíčové)
+- 2026-10-26: 3M poukázka 4,032 % — placená trpělivost, suché palivo před Fedem; preferovaný krátkodobý tip. (běží, klíčové)
+- 2026-10-26: JÁDRO VWCE €169,08 / MSCI World €129,81 (YTD +16 %) — DCA, páteř; korekce = levnější vstup. (běží, klíčové)
+- 2026-10-26: MĚĎ $6,5565 (1R +27,55 %) — nejzdravější komodita, strukturální poptávka; přidávat po částech. (běží, klíčové)
+- 2026-10-26: ZLATO $4 032 (1M −6,69 %, u 52t min $3 901) — korekce z přehřátí, stabilizace, ne rozpad; malá pojistka. (běží, klíčové)
+- 2026-10-26: STŘÍBRO $54,13 (1M −15,74 %, YTD −22,82 %) — padající nůž; obrat až nad $62 s objemem. (běží)
+- 2026-10-26: 10LETÝ 4,988 % — risk-off bez útěku do dluhopisů (TLT slabý), zdravější. (běží)
+- 2026-10-26: BITCOIN $80 412 (1R −29,75 %, 1T −4,28 %) — drží nad $80k, ale slabost se prohlubuje; malá pozice. (běží)
+- 2026-10-26: ETH $2 332 (1R −43,91 %, 1T −5,61 %) — nejslabší aktivum; nekupovat dokud neporáží BTC. (běží)
+- 2026-10-26: ZEMNÍ PLYN $3,019 (1D +14,36 % = squeeze shortů, 1T −1,28 %, u dna) — „nechytat" platí; obrat až nad ~$3,5 s ochlazením. (běží)
+- 2026-10-26: TLT $81,34 (1R −11,07 %) — pod vodou v hikujícím cyklu, vstup až 10letý trvale pod 4,5 %. (běží)
+- 2026-10-26: DOLAR USD/CZK 21,74 (YTD +5,44 %), EUR/USD 1,1208 — dolar pevný, risk-off podpora; ukusuje korunový výnos z US aktiv. (běží)
+- 2026-10-26: DIVERGENČNÍ NÁSTROJ (zelený close + rostoucí VIX → otočka) — test během obchodního týdne u Fedu. (nástroj)
+- 2026-10-26: SHUTDOWN zpožďuje vládní data — trh jede po firmách, Fedu, soukromých PMI, geopolitice. (běží)
+- 2026-10-24: DOW slabost strukturální při ropné prémii — rotace do hodnoty neposkytuje polštář. (běží)
 
 ## Uzavřeno
-- 2026-10-25: „Krypto slabé, víkend bez odrazu" → VYŠLO, potvrzeno nedělním večerem.
-- 2026-10-23: „Rotace do hodnoty = polštář" → otočena opakovaně; neplatí při ropném šoku.
+- 2026-10-25: „Krypto slabé, víkend bez odrazu" → VYŠLO, potvrzeno i pondělním otevřením (BTC 1T −4,28 %).
+- 2026-10-25: „Pondělí 26.10. = rozehřívací den" → probíhá dle očekávání, lehký start.
+- 2026-10-23: „Rotace do hodnoty = polštář" → NEVYŠLO, neplatí při ropném šoku.
 - 2026-10-23: „Odraz/výsledky zafungovaly" → odměna jen jednodenní, smazána AI pochybnostmi + Íránem.
 - 2026-10-21: „Netflix reklama jako klíč" → NEVYŠLO, slabý výhled, −5 %.
 - 2026-10-17: „Regionální banky = test dne" → VYŠLO, strach se nenakazil.
