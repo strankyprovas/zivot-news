@@ -1,0 +1,97 @@
+{
+ "date": "2026-10-27",
+ "date_cz": "27.10.2026",
+ "updated_at": "2026-10-27T22:08+01:00",
+ "sections": [
+  {
+   "key": "cr",
+   "title": "🇨🇿 Česká republika",
+   "items": [
+    {
+     "title": "Studenti vyhlásili stávkovou pohotovost kvůli ČT a ČRo",
+     "text": "Stávkovou pohotovost vyhlásila část studentů v Praze a Brně, mimo jiné na DAMU, JAMU a Masarykově univerzitě. Protestují proti vládnímu plánu zrušit od příštího roku poplatky pro Českou televizi a Český rozhlas a financovat je přímo ze státního rozpočtu. Zaměstnanci obou médií z iniciativy Veřejnoprávně vyhlásili na 3. listopadu celodenní stávku."
+    },
+    {
+     "title": "Fico v Praze, s Babišem odhalili sochu přátelství",
+     "text": "Slovenský premiér Robert Fico s předsedou vlády Andrejem Babišem (ANO) slavnostně odhalili sochu česko-slovenského přátelství v zahradě Strakovy akademie."
+    },
+    {
+     "title": "Pavel podepsal smlouvu se Slovenskem o policejní spolupráci",
+     "text": "Prezident Petr Pavel podepsal ratifikační listinu ke smlouvě se Slovenskem o policejní spolupráci. Rozhodnutí musí ještě spolupodepsat premiér."
+    },
+    {
+     "title": "Schillerová: 10 % úřednických míst zrušíme, leden je ale nereálný",
+     "text": "Ministryně Alena Schillerová potvrdila plán zrušit desetinu úřednických míst ve státní správě. Podle ní ale není reálné to stihnout do ledna."
+    },
+    {
+     "title": "Policie prověřuje zásah u Sněmovny",
+     "text": "Policie prověřuje zákrok proti protestujícím u Poslanecké sněmovny."
+    },
+    {
+     "title": "Nafta od středy opět zdraží",
+     "text": "Od středy opět vzroste zastropovaná cena nafty."
+    }
+   ]
+  },
+  {
+   "key": "svet",
+   "title": "🌍 Svět",
+   "items": [
+    {
+     "title": "Izrael volí nový parlament",
+     "text": "V Izraeli se konají parlamentní volby. Podle průzkumů může opoziční blok získat víc křesel než koalice premiéra Netanjahua, většinu k sestavení vlády ale zřejmě nebude mít jistou ani jedna strana. Podle médií Netanjahu prosazoval nový vojenský úder proti Íránu, náčelník armády se tomu ale bránil."
+    },
+    {
+     "title": "Ukrajina: v Oleškách platí omezené příměří, Rusko v noci zaútočilo na Kyjev",
+     "text": "Ukrajinští představitelé i ruské ministerstvo obrany uvedli, že v Rusy okupovaných Oleškách se dodržuje omezené příměří. Kyjev mezitím v noci zasáhl ruský útok."
+    },
+    {
+     "title": "Indie evakuuje pobřeží před cyklonem Arnab",
+     "text": "Úřady ve státě Ándhrapradéš na východě Indie evakuovaly z ohrožených pobřežních oblastí desítky tisíc lidí. Cyklon se blíží k pevnině."
+    },
+    {
+     "title": "Hútíové vypálili rakety na Saúdskou Arábii",
+     "text": "Koalice vedená Saúdskou Arábií oznámila, že zachytila a zničila balistické rakety a drony, které vypustili hútíové podporovaní Íránem."
+    },
+    {
+     "title": "Rumunsko: údajná ruská sabotáž je vážným porušením suverenity",
+     "text": "Rumunský prezident Nicușor Dan označil údajně připravovanou ruskou sabotáž za vážné porušení suverenity a bezpečnosti země."
+    },
+    {
+     "title": "Proces kvůli Nord Streamu pokračuje",
+     "text": "Německý soud zamítl žádost obhajoby o zastavení procesu s bývalým ukrajinským důstojníkem obviněným z účasti na výbuších plynovodu Nord Stream."
+    }
+   ]
+  },
+  {
+   "key": "ekonomika",
+   "title": "📈 Ekonomika a trhy",
+   "items": [
+    {
+     "title": "Wall Street v plusu díky čipům",
+     "text": "Všechny tři hlavní americké indexy zavřely v plusu. Nasdaq stoupl o 1,18 % na 26 477,81 bodu, S&P 500 o 0,60 % na 7 722,60 bodu a Dow Jones o 0,03 % na 52 377,57 bodu. Růst táhly polovodičové a technologické akcie."
+    },
+    {
+     "title": "Trh čeká na Fed a výsledky Big Techu",
+     "text": "Začalo dvoudenní zasedání americké centrální banky. Většina trhu čeká, že Fed ve středu ponechá sazby beze změny. Ve středu zveřejní výsledky také Alphabet a Microsoft, tento týden reportuje zhruba třetina firem z S&P 500."
+    },
+    {
+     "title": "IPO Anthropicu oživilo AI rally",
+     "text": "Anthropic v pondělí zveřejnil žádost o vstup na burzu (S-1) a chce se obchodovat na Nasdaqu pod tickerem ANT. Za první pololetí vykázal tržby 16,3 mld. USD. Zpráva podpořila akcie čipových firem jako Nvidia, Broadcom, AMD a Micron."
+    },
+    {
+     "title": "Pražská burza před svátkem posílila o 1,5 %",
+     "text": "Index PX stoupl o 1,54 % na 2 638,23 bodu, rostly ČEZ a banky. Moneta Money Bank přidala přes 5 %. Koruna mírně posílila k euru a oslabila k dolaru na 21,83 Kč/USD."
+    },
+    {
+     "title": "Ropa kolem 100 USD, zlato nad 4 000 USD",
+     "text": "Ropa WTI během dne mírně zlevnila na zhruba 101 USD za barel. Zlato se drželo nad 4 000 USD za unci, kolem 4 040–4 080 USD."
+    },
+    {
+     "title": "Bitcoin kolem 80 000 USD",
+     "text": "Bitcoin se před rozhodnutím Fedu obchodoval kolem hranice 80 000 USD a chvílemi klesl těsně pod ni."
+    }
+   ]
+  }
+ ]
+}
