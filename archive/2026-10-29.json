@@ -1,0 +1,89 @@
+{
+ "date": "2026-10-29",
+ "date_cz": "29.10.2026",
+ "updated_at": "2026-10-29T22:34+01:00",
+ "sections": [
+  {
+   "key": "cr",
+   "title": "🇨🇿 Česká republika",
+   "items": [
+    {
+     "title": "Česko a Maďarsko chtějí z EU peníze na rychlovlak Praha–Budapešť",
+     "text": "Po společném jednání vlád v Praze premiér Andrej Babiš oznámil, že Česko a Maďarsko budou v jednáních o příštím sedmiletém rozpočtu EU usilovat o peníze na vysokorychlostní železnici. Trať má spojit Prahu, Brno, Bratislavu a Budapešť. Ministři dopravy podepsali memorandum o spolupráci a maďarský premiér Péter Magyar mluví o projektu na více než deset let."
+    },
+    {
+     "title": "Brusel předběžně schválil posledních 23 miliard z plánu obnovy",
+     "text": "Evropská komise předběžně schválila pro Česko dalších 23 miliard Kč z Národního plánu obnovy. Jde o sedmou a poslední platbu."
+    },
+    {
+     "title": "Postoloprty: policie zahájila úkony trestního řízení kvůli nalezeným ostatkům",
+     "text": "Úřad dokumentace a vyšetřování zločinů komunismu prověřuje lidské ostatky nalezené v areálu bývalých kasáren na Lounsku jako možnou vraždu. Zatím jde o část jedné končetiny a státní zastupitelství nemá informace, že by šlo o hromadný hrob. Místo souvisí s poválečným masakrem z června 1945, kdy bylo zastřeleno nejméně 763 lidí."
+    },
+    {
+     "title": "Jeskyňáři zřejmě našli místo, kde vzniká Punkva",
+     "text": "Potápěči v Amatérské jeskyni v Moravském krasu nejspíš objevili soutok Sloupského potoka a Bílé vody, ze kterého vzniká řeka Punkva. Definitivně to potvrdí až stopovací zkoušky."
+    }
+   ]
+  },
+  {
+   "key": "svet",
+   "title": "🌍 Svět",
+   "items": [
+    {
+     "title": "Izraelské volby bez jasného vítěze",
+     "text": "Netanjahuův Likud získal nejvíc hlasů, jeho blok ale podle všeho nedosáhne 61 mandátů potřebných k sestavení vlády."
+    },
+    {
+     "title": "U Hormuzského průlivu hoří tři tankery po najetí na miny",
+     "text": "Podle íránských představitelů najely tři ropné tankery při průjezdu Hormuzským průlivem na námořní miny a hoří. Ropná skvrna už zasáhla pláže ve Spojených arabských emirátech."
+    },
+    {
+     "title": "Španělsko drží smutek po srážce rychlovlaků",
+     "text": "Při srážce vysokorychlostních vlaků zemřelo 68 lidí a desítky dalších jsou zraněné. Španělsko vyhlásilo třídenní státní smutek."
+    },
+    {
+     "title": "Válka na Ukrajině: masivní útok drony na Moskvu, oběti v Dnipru",
+     "text": "Podle moskevského starosty Rusko v noci sestřelilo většinu ze 613 dronů, které mířily na Moskvu. Při ruském útoku na Dnipro podle ČTK zahynulo 14 lidí."
+    },
+    {
+     "title": "OSN opět odsoudila americké embargo vůči Kubě",
+     "text": "Valné shromáždění OSN přijalo rezoluci proti americkému embargu. Pro hlasovalo 130 zemí, proti 17 a 25 se zdrželo."
+    },
+    {
+     "title": "USA a Japonsko budou společně vyrábět rakety",
+     "text": "Oba spojenci se dohodli, že v Japonsku zřídí závod na společnou výrobu raket. Reagují tím na rostoucí asertivitu Číny v Asii."
+    }
+   ]
+  },
+  {
+   "key": "ekonomika",
+   "title": "📈 Ekonomika a trhy",
+   "items": [
+    {
+     "title": "Wall Street ve ztrátě, technologie táhly Nasdaq dolů",
+     "text": "Nasdaq Composite odepsal 1,38 % na 26 184,72 bodu a S&P 500 klesl o 0,3 % na 7 720,39 bodu. Dow Jones ztratil 132,54 bodu (−0,25 %) na 52 342,56 bodu. Šíře trhu přitom byla kladná a rostoucích akcií bylo víc než klesajících."
+    },
+    {
+     "title": "Alphabet zažil nejhorší den v historii",
+     "text": "Akcie Alphabetu spadly zhruba o 12 % po slabých výsledcích reklamy ve vyhledávání a prudce rostoucích výdajích na AI. Podle Reuters jde o největší jednodenní propad v historii firmy. Obavy z nákladů na AI se znovu vrátily na trh."
+    },
+    {
+     "title": "Amazon zklamal, po uzavření trhu klesá",
+     "text": "Tržby Amazonu za 3. čtvrtletí vzrostly o 12 % na zhruba 201,9 mld. USD, výsledky ale nesplnily odhady analytiků v tržbách ani v zisku na akcii. Trh znervózněly i plánované investice 220 mld. USD. Akcie po zveřejnění výsledků ztrácely zhruba 8–11 %."
+    },
+    {
+     "title": "Americká ekonomika ve 3. čtvrtletí zrychlila na 3,4 %",
+     "text": "HDP USA rostl v anualizovaném vyjádření o 3,4 %, oproti 2,2 % ve 2. čtvrtletí a odhadům kolem 3,2 %. Růst táhla spotřeba domácností (+3,8 %) a investice do AI. Výnosy amerických dluhopisů podle Reuters klesly."
+    },
+    {
+     "title": "Fed nechal sazby beze změny, ekonomové spekulují o prosincovém zvýšení",
+     "text": "Fed ve středu ponechal sazby beze změny v poměru hlasů 10:2. Podle ekonomů silný růst HDP spolu s daty o zrychlující a rozšiřující se zářijové inflaci posiluje argumenty pro zvýšení sazeb v prosinci."
+    },
+    {
+     "title": "Komodity a krypto: ropa zlevnila, bitcoin kolem 81 tisíc",
+     "text": "Ropa WTI zlevnila o 2,3 % na 100,44 USD za barel a Brent o 1,8 % na 109,61 USD. Zlaté futures klesly o 0,4 % na 4 036 USD za unci. Bitcoin se obchodoval kolem 81 600 USD (+0,5 %), údaje se ale podle zdroje a času liší."
+    }
+   ]
+  }
+ ]
+}
