@@ -1,27 +1,35 @@
 {
- "date": "2026-10-29",
- "date_cz": "29.10.2026",
- "updated_at": "2026-10-29T22:34+01:00",
+ "date": "2026-10-30",
+ "date_cz": "30.10.2026",
+ "updated_at": "2026-10-30T22:23+01:00",
  "sections": [
   {
    "key": "cr",
    "title": "🇨🇿 Česká republika",
    "items": [
     {
-     "title": "Česko a Maďarsko chtějí z EU peníze na rychlovlak Praha–Budapešť",
-     "text": "Po společném jednání vlád v Praze premiér Andrej Babiš oznámil, že Česko a Maďarsko budou v jednáních o příštím sedmiletém rozpočtu EU usilovat o peníze na vysokorychlostní železnici. Trať má spojit Prahu, Brno, Bratislavu a Budapešť. Ministři dopravy podepsali memorandum o spolupráci a maďarský premiér Péter Magyar mluví o projektu na více než deset let."
+     "title": "Při železniční nehodě ve Španělsku zemřel Čech",
+     "text": "Ministerstvo zahraničí v pátek ČTK potvrdilo, že při středeční srážce vlaků ve Španělsku zemřel český občan. Počet obětí neštěstí podle ČTK vzrostl na 69."
     },
     {
-     "title": "Brusel předběžně schválil posledních 23 miliard z plánu obnovy",
-     "text": "Evropská komise předběžně schválila pro Česko dalších 23 miliard Kč z Národního plánu obnovy. Jde o sedmou a poslední platbu."
+     "title": "Policie obvinila exposlankyni ANO Balaštíkovou",
+     "text": "Policie obvinila bývalou poslankyni hnutí ANO Margitu Balaštíkovou. Podle podezření měla ovlivňovat kontroly zlínské hygienické stanice ve firmě svého bývalého manžela. Balaštíková vinu opakovaně odmítá."
     },
     {
-     "title": "Postoloprty: policie zahájila úkony trestního řízení kvůli nalezeným ostatkům",
-     "text": "Úřad dokumentace a vyšetřování zločinů komunismu prověřuje lidské ostatky nalezené v areálu bývalých kasáren na Lounsku jako možnou vraždu. Zatím jde o část jedné končetiny a státní zastupitelství nemá informace, že by šlo o hromadný hrob. Místo souvisí s poválečným masakrem z června 1945, kdy bylo zastřeleno nejméně 763 lidí."
+     "title": "ČEZ od příštího roku zdraží elektřinu",
+     "text": "Podle ČT24 ČEZ od příštího roku zdraží dodávky 1,6 milionu zákazníků, kteří mají smlouvu na dobu neurčitou."
     },
     {
-     "title": "Jeskyňáři zřejmě našli místo, kde vzniká Punkva",
-     "text": "Potápěči v Amatérské jeskyni v Moravském krasu nejspíš objevili soutok Sloupského potoka a Bílé vody, ze kterého vzniká řeka Punkva. Definitivně to potvrdí až stopovací zkoušky."
+     "title": "Spor o rozhlasové a televizní poplatky pokračuje",
+     "text": "SPD trvá na zrušení poplatků za ČT a ČRo a odmítá, aby se veřejnoprávní média financovala z daní. Podle Tomia Okamury koalice probere další postup na pondělní koaliční radě. Sněmovní výbor měl debatu o poplatcích podle všeho přerušit."
+    },
+    {
+     "title": "Brusel předběžně schválil Česku posledních 23 miliard z plánu obnovy",
+     "text": "Evropská komise předběžně schválila sedmou a poslední platbu z Národního plánu obnovy, a to zhruba 23 miliard Kč."
+    },
+    {
+     "title": "Komplikace kolem dostavby Dukovan",
+     "text": "Korejská KHNP se rozešla s hlavním stavebním konsorciem, což stavbu nových jaderných bloků v Dukovanech komplikuje."
     }
    ]
   },
@@ -30,28 +38,28 @@
    "title": "🌍 Svět",
    "items": [
     {
-     "title": "Izraelské volby bez jasného vítěze",
-     "text": "Netanjahuův Likud získal nejvíc hlasů, jeho blok ale podle všeho nedosáhne 61 mandátů potřebných k sestavení vlády."
+     "title": "Írán tvrdí, že v Hormuzském průlivu najely na miny tankery",
+     "text": "Íránské revoluční gardy tvrdí, že tři tankery u ománského pobřeží začaly hořet poté, co najely na miny. Íránská armáda hlásí ještě čtvrtou zasaženou loď. AP íránskou verzi nedokázala ověřit. Gardy také zpochybňují tvrzení amerického velitelství CENTCOM, že hlavní plavební trasy jsou odminované."
     },
     {
-     "title": "U Hormuzského průlivu hoří tři tankery po najetí na miny",
-     "text": "Podle íránských představitelů najely tři ropné tankery při průjezdu Hormuzským průlivem na námořní miny a hoří. Ropná skvrna už zasáhla pláže ve Spojených arabských emirátech."
+     "title": "Napětí v regionu roste, Katar tlačí na jadernou dohodu",
+     "text": "Jemenští Húsíové se přihlásili k nové vlně útoků na saúdská letiště a ropná zařízení. Katar podle zpráv tlačí na jadernou dohodu s Íránem dřív, než dojde k útokům. Do regionu má podle zpráv mířit třetí americká letadlová loď."
     },
     {
-     "title": "Španělsko drží smutek po srážce rychlovlaků",
-     "text": "Při srážce vysokorychlostních vlaků zemřelo 68 lidí a desítky dalších jsou zraněné. Španělsko vyhlásilo třídenní státní smutek."
+     "title": "Ruský dron zabil na nádraží v Dnipru nejméně 14 lidí",
+     "text": "Ruský dron zasáhl nástupiště hlavního nádraží v Dnipru, kde lidé čekali na příměstský vlak. Zahynulo nejméně 14 lidí (CNN uvádí 15) a deset dalších bylo zraněno. Ruské útoky ve čtvrtek zabily po celé Ukrajině nejméně 19 lidí. Zelenskyj žádá reakci spojenců."
     },
     {
-     "title": "Válka na Ukrajině: masivní útok drony na Moskvu, oběti v Dnipru",
-     "text": "Podle moskevského starosty Rusko v noci sestřelilo většinu ze 613 dronů, které mířily na Moskvu. Při ruském útoku na Dnipro podle ČTK zahynulo 14 lidí."
+     "title": "Španělsko drží státní smutek po srážce vlaků",
+     "text": "Po tragické srážce vlaků s 69 oběťmi vyhlásilo Španělsko státní smutek. Král navštívil zraněné v nemocnici a ve veřejné debatě se řeší, která rozhodnutí k neštěstí vedla."
     },
     {
-     "title": "OSN opět odsoudila americké embargo vůči Kubě",
-     "text": "Valné shromáždění OSN přijalo rezoluci proti americkému embargu. Pro hlasovalo 130 zemí, proti 17 a 25 se zdrželo."
+     "title": "Diplomacie: G20 v Atlantě a signál od Abbáse",
+     "text": "V Atlantě jednali ministři zahraničí zemí G20. Palestinský prezident Mahmúd Abbás naznačil, že je ochoten jednat s novou izraelskou vládou."
     },
     {
-     "title": "USA a Japonsko budou společně vyrábět rakety",
-     "text": "Oba spojenci se dohodli, že v Japonsku zřídí závod na společnou výrobu raket. Reagují tím na rostoucí asertivitu Číny v Asii."
+     "title": "EU zvažuje obranné půjčky na podporu ukrajinského rozpočtu",
+     "text": "Evropská unie zvažuje, že by ukrajinský rozpočet podpořila půjčkami na obranu. V okupovaných Oleškách mezitím drží místní příměří, díky kterému mohou obyvatelé město opustit."
     }
    ]
   },
@@ -60,28 +68,28 @@
    "title": "📈 Ekonomika a trhy",
    "items": [
     {
-     "title": "Wall Street ve ztrátě, technologie táhly Nasdaq dolů",
-     "text": "Nasdaq Composite odepsal 1,38 % na 26 184,72 bodu a S&P 500 klesl o 0,3 % na 7 720,39 bodu. Dow Jones ztratil 132,54 bodu (−0,25 %) na 52 342,56 bodu. Šíře trhu přitom byla kladná a rostoucích akcií bylo víc než klesajících."
+     "title": "Wall Street uzavřela říjen prudkým výprodejem",
+     "text": "Dow Jones klesl o 1,09 % na 51 770,31 bodu, S&P 500 o 1,82 % na 7 580,07 a Nasdaq o 2,86 % na 25 437,00 bodu. Pro S&P 500 i Nasdaq to byl nejhorší den od června. Nasdaq za říjen ztratil přes 5 %, což je jeho nejhorší měsíc od března 2025. Dow naopak skončil měsíc v plusu."
     },
     {
-     "title": "Alphabet zažil nejhorší den v historii",
-     "text": "Akcie Alphabetu spadly zhruba o 12 % po slabých výsledcích reklamy ve vyhledávání a prudce rostoucích výdajích na AI. Podle Reuters jde o největší jednodenní propad v historii firmy. Obavy z nákladů na AI se znovu vrátily na trh."
+     "title": "Intel se propadl zhruba o 29 %, Amazon zklamal",
+     "text": "Intel prudce oslabil po slabém výhledu, který naznačuje zpomalení trhu s počítači. Amazon nesplnil očekávání a kvůli výdajům na AI se mu výrazně prohloubil záporný volný cash flow. Výprodej zasáhl i čipaře: Nvidia ztratila 4,2 % a AMD 10,9 %."
     },
     {
-     "title": "Amazon zklamal, po uzavření trhu klesá",
-     "text": "Tržby Amazonu za 3. čtvrtletí vzrostly o 12 % na zhruba 201,9 mld. USD, výsledky ale nesplnily odhady analytiků v tržbách ani v zisku na akcii. Trh znervózněly i plánované investice 220 mld. USD. Akcie po zveřejnění výsledků ztrácely zhruba 8–11 %."
+     "title": "Rekordní hack Binance srazil bitcoin",
+     "text": "Z burzy Binance hackeři odcizili aktiva za zhruba 6,3 miliardy dolarů, což je největší krádež kryptoměn v historii. Burza pozastavila výběry, asi 3 miliardy zmrazila a slíbila uhradit všechny ztráty. Bitcoin spadl asi o 4–5 %, krátce až na šestitýdenní minimum kolem 76 400 USD."
     },
     {
-     "title": "Americká ekonomika ve 3. čtvrtletí zrychlila na 3,4 %",
-     "text": "HDP USA rostl v anualizovaném vyjádření o 3,4 %, oproti 2,2 % ve 2. čtvrtletí a odhadům kolem 3,2 %. Růst táhla spotřeba domácností (+3,8 %) a investice do AI. Výnosy amerických dluhopisů podle Reuters klesly."
+     "title": "Zlato na ročním minimu, ropa Brent nad 110 USD",
+     "text": "Zlato zlevnilo zhruba o 3 % na přibližně 3 900 USD za unci, nejníž od října 2025, protože trh zvažuje další zvýšení sazeb Fedu. Brent se kvůli napětí v Hormuzském průlivu obchodoval zhruba za 112–117 USD za barel, WTI kolem 103 USD."
     },
     {
-     "title": "Fed nechal sazby beze změny, ekonomové spekulují o prosincovém zvýšení",
-     "text": "Fed ve středu ponechal sazby beze změny v poměru hlasů 10:2. Podle ekonomů silný růst HDP spolu s daty o zrychlující a rozšiřující se zářijové inflaci posiluje argumenty pro zvýšení sazeb v prosinci."
+     "title": "Pražská burza v poklesu, koruna pevná",
+     "text": "Index PX na konci posledního říjnového týdne oslabil o 0,79 % na 2 627,33 bodu. Od začátku roku je tak dole přibližně o 2,2 %. Koruna podle zpráv posiluje vůči euru i dolaru."
     },
     {
-     "title": "Komodity a krypto: ropa zlevnila, bitcoin kolem 81 tisíc",
-     "text": "Ropa WTI zlevnila o 2,3 % na 100,44 USD za barel a Brent o 1,8 % na 109,61 USD. Zlaté futures klesly o 0,4 % na 4 036 USD za unci. Bitcoin se obchodoval kolem 81 600 USD (+0,5 %), údaje se ale podle zdroje a času liší."
+     "title": "Spekulace o předčasném odchodu Lagardeové z ECB",
+     "text": "Christine Lagardeová podle zpráv odejde z čela ECB předčasně. Podle říjnové zprávy agentury Reuters by ji Světové ekonomické fórum mohlo jmenovat předsedkyní už 2. listopadu. Mezi favority na její nástupnictví patří Klaas Knot a Pablo Hernández de Cos. Konečné rozhodnutí zatím oficiálně nepadlo."
     }
    ]
   }
