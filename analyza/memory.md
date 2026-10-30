@@ -1,33 +1,32 @@
-- 2026-10-30: AI-CAPEX TRESTÁ POČTVRTÉ — META → GOOGL −8 % → AMZN −10 % → INTEL −20/22 %; hlavní cenotvorný faktor techu. (běží, klíčové)
-- 2026-10-30: INTEL −20/22 % — slabý Q4 výhled, PC slowdown do H1 2027; přidává slabost techu, nechytat na dně. (vyšlo)
-- 2026-10-30: AMZN −10 % PO ZLÉM — AWS +39 % (akcelerace), ale FCF −42 mld. z capexu $77 mld.; beat nestačí, když hoří hotovost. (vyšlo, klíčové)
+- 2026-10-30: AI-CAPEX PÁTÁ RÁNA — Intel −30 % (nejhorší den za dekády), AMD −11 %, Nvidia −4,2 %; Nasdaq −2,86 %, nejhorší den od června. (běží, klíčové)
 - 2026-10-30: NOVÉ PRAVIDLO — trh trestá i beat, pokud za ním stojí hořící hotovost; cloud růst nestačí. (běží, klíčové)
-- 2026-10-30: ROTACE, NE PROPAD — Nasdaq 1M −2,52 % vs S&P +0,90 %, Dow +2,82 %; sledovat, jestli se nemění v risk-off (padne i Dow + VIX >20). (běží, klíčové)
-- 2026-10-30: 10LETÝ 4,989 % (−1,11 %) — drží pod pětkou druhý den, první trhlina v kotvě; sledovat pokračování vs. návrat nad 5 %. (běží, klíčové)
-- 2026-10-30: VIX 18,45 (+7,27 %) — zvedá se, ale pod 20; polštář se ztenčuje, bez paniky. (běží, klíčové)
-- 2026-10-30: QQQ $715,34 — přikup JEN pod $700 A VIX >22; obě NEsplněny, trpělivost. (běží, klíčové)
-- 2026-10-30: JÁDRO VWCE €169,22 / MSCI World €129,98 (YTD +16/+16 %) — kousek pod ATH, rotace ho tkla jen −1,3 %; DCA páteř. (běží, klíčové)
-- 2026-10-30: MĚĎ $6,516 (1R +28,32 %) — strukturální; přidávat po částech na poklesech, nehonit 52t max 6,83. (běží, klíčové)
-- 2026-10-30: ROPA WTI $103,99 (YTD +81 %) — přehřátá geopol. prémie; vstup ~$90 nebo reálný výpadek; dnes report Exxon/Chevron. (běží)
-- 2026-10-30: BITCOIN $77 479 (1R −28,46 %) — pod osmdesátkou, teze „drží 80k" nevyšla; malá pozice, nedokupovat pod $80k. (běží)
-- 2026-10-30: ETH $2 240 (1R −41,13 %) — nejslabší, nekupovat dokud neporáží BTC. (běží)
-- 2026-10-30: STŘÍBRO $50,64 (1D −2,97 %, YTD −27,80 %) — padající nůž, padá s risk-off ne proti němu; obrat až nad $62 s objemem. (běží)
-- 2026-10-30: ZLATO $3 991 (1M −5,03 %) — padá s likviditou, pojistka teď nefunguje; stabilizace u 52t min 3 925. (běží)
-- 2026-10-30: TLT $81,49 (1R −10,02 %) — sledovat, vstup až 10letý trvale pod 4,5 %. (běží)
-- 2026-10-30: DOLAR USD/CZK 21,71 (strop 21,93) — kousek pod maximem, EUR/USD 1,1206; hlídat proražení 21,93. (běží, klíčové)
-- 2026-10-30: 3M poukázka 3,998 % — placená trpělivost, plnohodnotná pozice, dolarové riziko. (běží)
-- 2026-10-30: EVROPA ZELENĚJŠÍ VZOREC — DAX 1T +2,80 %, ale dnes −0,58 %; risk-off nerozlišuje, dlouhodobě zaostává. (běží)
-- 2026-10-30: HAWKISH HOLD — Fed 28.10. podržel 3,75–4,00 %, prosinec ~85 % na hike; tlak na výnosy. (běží, klíčové)
-- 2026-10-30: AAPL REPORTUJE PONDĚLÍ 2.11. po zavírce — poslední bigtech, pozor iPhone guidance + Čína. (běží, klíčové)
-- 2026-10-30: MĚSÍČNÍ UZÁVĚRKA 30.10. — poslední den října, rebalancování/window dressing, zvýšené pohyby do close. (běží)
-- 2026-10-30: DIVERGENČNÍ NÁSTROJ — červený tech + rostoucí VIX; sledovat přepnutí rotace na risk-off. (nástroj)
-- 2026-10-30: SHUTDOWN SKONČIL (43 dní) — makrodata chybí/rozházená, brát s rezervou. (běží)
+- 2026-10-31: ROTACE SE PŘEPÍNÁ NA RISK-OFF — Dow dnes −1,09 % (už není útočiště), VIX 19,42; signál „Dow dolů + VIX ~20" prakticky splněn. (běží, klíčové)
+- 2026-10-31: ALE JEN US-TECH — DAX +1,31 %, Euro Stoxx +0,64 % zeleně; není globální panika. Hlídat, jestli se rozlije do Evropy. (běží, klíčové)
+- 2026-10-31: DIVERGENČNÍ NÁSTROJ ZABLIKAL — červený tech + VIX +12,91 %; sledovat průraz nad 20 jako potvrzení risk-off. (nástroj, běží)
+- 2026-10-31: VIX 19,42 (+12,91 %) — na hraně dvacítky, polštář prakticky pryč. (běží, klíčové)
+- 2026-10-31: 10LETÝ 4,929 % (−1,20 %) — třetí den pod pětkou, kotva povolila; jediná dobrá zpráva pro tech. (běží, klíčové)
+- 2026-10-31: QQQ $690,49 — POD prahem $700 (1. podmínka splněna), VIX 19,42 (<22, 2. ne); přikup až obě. (běží, klíčové)
+- 2026-10-31: JÁDRO VWCE €171,44 / MSCI World €131,46 (YTD +18/+18 %) — v techové bouři −0,29 %, odolnost drží; DCA páteř. (běží, klíčové)
+- 2026-10-31: ZLATO $3 885 (1M −7,55 %) — na ročním minimu 3 879, padá i přes nucené prodeje z akcií; NEkupovat, čekat 2–3 dny stabilizace nad $3 900. (běží)
+- 2026-10-31: STŘÍBRO $49,13 (1M −19,09 %, YTD −30 %) — padající nůž pod padesátkou, padá s risk-off; obrat až nad $62 s objemem. (běží)
+- 2026-10-31: MĚĎ $6,51 (1R +28,19 %) — na risk-off dni skoro nehnula, strukturální; přidávat po částech, nehonit 52t max 6,83. (běží, klíčové)
+- 2026-10-31: ROPA WTI $102,95 (YTD +79 %) — jediná zelená komodita dne = geopol. prémie; vstup ~$90 nebo reálný výpadek. (běží)
+- 2026-10-31: BITCOIN $77 159 (1R −28,76 %) — pod osmdesátkou, ale v techové bouři drží (−0,79 %); malá pozice, bez katalyzátoru nedokupovat. (běží)
+- 2026-10-31: ETH $2 242 (1R −41,07 %) — nejslabší aktivum, nekupovat dokud neporáží BTC. (běží)
+- 2026-10-31: TLT $81,84 (1R −9,36 %) — vstup až 10letý trvale pod 4,5 % (teď 4,929 %). (běží)
+- 2026-10-31: DOLAR USD/CZK 21,79 (strop 21,93) — drží pod maximem, EUR/USD 1,1166; hlídat proražení 21,93. (běží, klíčové)
+- 2026-10-31: 3M poukázka 3,973 % — placená trpělivost, dolarové riziko. (běží)
+- 2026-10-31: HAWKISH HOLD — Fed podržel 3,75–4,00 %, prosinec hike pravděpodobný; tlak na výnosy i na zlato/stříbro (náklad držení). (běží, klíčové)
+- 2026-10-31: AAPL REPORTUJE PONDĚLÍ 2.11. po zavírce — poslední bigtech, iPhone guidance + Čína; slabost = šestá rána, VIX nad 20. (běží, klíčové)
+- 2026-10-31: PONDĚLÍ NOVÝ MĚSÍC — po brutálním konci října buď novoměsíční příliv, nebo pokračování prodeje. (běží)
+- 2026-10-31: SHUTDOWN SKONČIL (43 dní) — makrodata rozházená, brát s rezervou. (běží)
 
 ## Uzavřeno
-- 2026-10-30: „Bitcoin drží osmdesátku" → NEVYŠLO: pod $80k, krypto bez katalyzátoru, risk-off v techu.
-- 2026-10-30: „AMZN reportuje" → VYŠLO (po zlém): beat AWS, ale záporný FCF potrestán −10 %.
-- 2026-10-29: „Hawkish hold (28.10.)" → VYŠLO: hold s hikovými disidenty, 10letý nad 5 %.
+- 2026-10-31: „Rotace, ne propad" → ČÁSTEČNĚ (signál fungoval): Dow padl, VIX k 20, risk-off se přepíná — ale zatím jen v US techu.
+- 2026-10-30: „Bitcoin drží osmdesátku" → NEVYŠLO: pod $80k, krypto bez katalyzátoru.
+- 2026-10-30: „AMZN reportuje" → VYŠLO (po zlém): beat AWS, záporný FCF potrestán −10 %.
+- 2026-10-30: „Intel slabý výhled" → VYŠLO (hůř): −30 %, nejhorší den za dekády.
+- 2026-10-29: „Hawkish hold" → VYŠLO: hold s hikovými disidenty.
 - 2026-10-29: „Bigtech dvojrána (Fed + MSFT/GOOGL)" → VYŠLO: GOOGL −8 %.
-- 2026-10-28: „META beat (21.10.)" → VYŠLO: laťka pro AI/cloud vysoko.
 - 2026-10-21: „Netflix reklama jako klíč" → NEVYŠLO: slabý výhled, −5 %.
 - 2026-10-15: „Čipy zlomí/potvrdí tezi" → VYŠLO: beat, tech stejně dolů → křehkost.
