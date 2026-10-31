@@ -1,35 +1,31 @@
 {
- "date": "2026-10-30",
- "date_cz": "30.10.2026",
- "updated_at": "2026-10-30T22:23+01:00",
+ "date": "2026-10-31",
+ "date_cz": "31.10.2026",
+ "updated_at": "2026-10-31T21:24+01:00",
  "sections": [
   {
    "key": "cr",
    "title": "🇨🇿 Česká republika",
    "items": [
     {
-     "title": "Při železniční nehodě ve Španělsku zemřel Čech",
-     "text": "Ministerstvo zahraničí v pátek ČTK potvrdilo, že při středeční srážce vlaků ve Španělsku zemřel český občan. Počet obětí neštěstí podle ČTK vzrostl na 69."
+     "title": "Babiš: ČT a ČRo by se mohly financovat z dobrovolných poplatků",
+     "text": "Premiér Andrej Babiš oznámil, že ministerstvo financí připravuje návrh, podle kterého by se veřejnoprávní média financovala z dobrovolných plateb. Peníze by tak nešly přímo ze státního rozpočtu, jak vláda plánovala dříve."
     },
     {
-     "title": "Policie obvinila exposlankyni ANO Balaštíkovou",
-     "text": "Policie obvinila bývalou poslankyni hnutí ANO Margitu Balaštíkovou. Podle podezření měla ovlivňovat kontroly zlínské hygienické stanice ve firmě svého bývalého manžela. Balaštíková vinu opakovaně odmítá."
+     "title": "Premiér letos nechystá změny ve vládě",
+     "text": "Babiš v sobotu na TV Nova vyloučil, že by letos vyměnil některé ministry. Výměny ale nevyloučil v dalších letech. Programové prohlášení koalice chce znovu projít v lednu."
     },
     {
-     "title": "ČEZ od příštího roku zdraží elektřinu",
-     "text": "Podle ČT24 ČEZ od příštího roku zdraží dodávky 1,6 milionu zákazníků, kteří mají smlouvu na dobu neurčitou."
+     "title": "Politikům od ledna vzrostou platy o pět procent",
+     "text": "Podle souhrnu ČT24 se platy politiků od ledna zvýší o pět procent."
     },
     {
-     "title": "Spor o rozhlasové a televizní poplatky pokračuje",
-     "text": "SPD trvá na zrušení poplatků za ČT a ČRo a odmítá, aby se veřejnoprávní média financovala z daní. Podle Tomia Okamury koalice probere další postup na pondělní koaliční radě. Sněmovní výbor měl debatu o poplatcích podle všeho přerušit."
+     "title": "ČSÚ: Senioři se dožívají vyššího věku",
+     "text": "Český statistický úřad uvádí, že naděje na dožití seniorů dál roste."
     },
     {
-     "title": "Brusel předběžně schválil Česku posledních 23 miliard z plánu obnovy",
-     "text": "Evropská komise předběžně schválila sedmou a poslední platbu z Národního plánu obnovy, a to zhruba 23 miliard Kč."
-    },
-    {
-     "title": "Komplikace kolem dostavby Dukovan",
-     "text": "Korejská KHNP se rozešla s hlavním stavebním konsorciem, což stavbu nových jaderných bloků v Dukovanech komplikuje."
+     "title": "Meteorologové čekají vydatné sněžení",
+     "text": "Předpovědi počasí hlásí, že v Česku brzy může napadnout i několik desítek centimetrů sněhu."
     }
    ]
   },
@@ -38,28 +34,24 @@
    "title": "🌍 Svět",
    "items": [
     {
-     "title": "Írán tvrdí, že v Hormuzském průlivu najely na miny tankery",
-     "text": "Íránské revoluční gardy tvrdí, že tři tankery u ománského pobřeží začaly hořet poté, co najely na miny. Íránská armáda hlásí ještě čtvrtou zasaženou loď. AP íránskou verzi nedokázala ověřit. Gardy také zpochybňují tvrzení amerického velitelství CENTCOM, že hlavní plavební trasy jsou odminované."
+     "title": "Izraelské volby skončily patem",
+     "text": "Podle konečných výsledků nemá většinu 61 ze 120 křesel žádný blok. Netanjahuova koalice získala 53 mandátů (Likud 27), opoziční blok Gadiho Eisenkota 48 a arabské strany 19. Výsledky dostane prezident Herzog 4. listopadu. Volební komise odmítla Netanjahuova tvrzení, že volby byly ukradeny."
     },
     {
-     "title": "Napětí v regionu roste, Katar tlačí na jadernou dohodu",
-     "text": "Jemenští Húsíové se přihlásili k nové vlně útoků na saúdská letiště a ropná zařízení. Katar podle zpráv tlačí na jadernou dohodu s Íránem dřív, než dojde k útokům. Do regionu má podle zpráv mířit třetí americká letadlová loď."
+     "title": "Zelenskyj v Istanbulu jednal o bezpečnosti v Černém moři",
+     "text": "Ukrajinský prezident se v Istanbulu setkal s tureckým prezidentem Erdoğanem. Erdoğan vyzval obě válčící strany, aby zastavily útoky v Černém moři. Zelenskyj také potvrdil, že se lidé evakuovaní z Olešek vrátili na území pod ukrajinskou kontrolou."
     },
     {
-     "title": "Ruský dron zabil na nádraží v Dnipru nejméně 14 lidí",
-     "text": "Ruský dron zasáhl nástupiště hlavního nádraží v Dnipru, kde lidé čekali na příměstský vlak. Zahynulo nejméně 14 lidí (CNN uvádí 15) a deset dalších bylo zraněno. Ruské útoky ve čtvrtek zabily po celé Ukrajině nejméně 19 lidí. Zelenskyj žádá reakci spojenců."
+     "title": "Rusko znovu zaútočilo na nádraží v Dnipru",
+     "text": "Podle Kyiv Independent ruská armáda znovu udeřila na železniční stanici v Dnipru, den po útoku, který zabil 15 lidí. Kanada přislíbila 500 milionů eur na půjčku pro Ukrajinu, které na rok 2027 chybějí peníze v rozpočtu."
     },
     {
-     "title": "Španělsko drží státní smutek po srážce vlaků",
-     "text": "Po tragické srážce vlaků s 69 oběťmi vyhlásilo Španělsko státní smutek. Král navštívil zraněné v nemocnici a ve veřejné debatě se řeší, která rozhodnutí k neštěstí vedla."
+     "title": "Írán označil vstřícný krok USA za pozitivní",
+     "text": "Íránský ministr zahraničí podle Al-Džazíry nazval americkou nabídku k jednání pozitivním krokem. Íránská delegace je na rozhovorech v Kataru. V Gaze mezitím při izraelských útocích zahynuli nejméně čtyři Palestinci."
     },
     {
-     "title": "Diplomacie: G20 v Atlantě a signál od Abbáse",
-     "text": "V Atlantě jednali ministři zahraničí zemí G20. Palestinský prezident Mahmúd Abbás naznačil, že je ochoten jednat s novou izraelskou vládou."
-    },
-    {
-     "title": "EU zvažuje obranné půjčky na podporu ukrajinského rozpočtu",
-     "text": "Evropská unie zvažuje, že by ukrajinský rozpočet podpořila půjčkami na obranu. V okupovaných Oleškách mezitím drží místní příměří, díky kterému mohou obyvatelé město opustit."
+     "title": "Polsko: Spor o Ústavní soud se vyostřuje",
+     "text": "Ve Varšavě eskaluje spor o fungování Ústavního soudu a v zemi se protestuje. Prezident Karol Nawrocki podle dostupných zpráv svolal schůzku všech politických sil."
     }
    ]
   },
@@ -68,28 +60,24 @@
    "title": "📈 Ekonomika a trhy",
    "items": [
     {
-     "title": "Wall Street uzavřela říjen prudkým výprodejem",
-     "text": "Dow Jones klesl o 1,09 % na 51 770,31 bodu, S&P 500 o 1,82 % na 7 580,07 a Nasdaq o 2,86 % na 25 437,00 bodu. Pro S&P 500 i Nasdaq to byl nejhorší den od června. Nasdaq za říjen ztratil přes 5 %, což je jeho nejhorší měsíc od března 2025. Dow naopak skončil měsíc v plusu."
+     "title": "Wall Street zakončila říjen velkým výprodejem",
+     "text": "V pátek 30. 10. (o víkendu se neobchoduje) klesl S&P 500 o 1,82 % na 7 580 bodů a Dow Jones o 1,09 % na 51 770 bodů. Nasdaq ztratil 2,86 % na 25 437 bodů. Investoři se zbavovali technologických akcií kvůli pochybnostem, zda se vyplatí obří výdaje na AI."
     },
     {
-     "title": "Intel se propadl zhruba o 29 %, Amazon zklamal",
-     "text": "Intel prudce oslabil po slabém výhledu, který naznačuje zpomalení trhu s počítači. Amazon nesplnil očekávání a kvůli výdajům na AI se mu výrazně prohloubil záporný volný cash flow. Výprodej zasáhl i čipaře: Nvidia ztratila 4,2 % a AMD 10,9 %."
+     "title": "Nasdaq má nejhorší měsíc od března 2025",
+     "text": "Technologický index Nasdaq za říjen ztratil zhruba 5,3 %, což je jeho nejhorší měsíc od března 2025."
     },
     {
-     "title": "Rekordní hack Binance srazil bitcoin",
-     "text": "Z burzy Binance hackeři odcizili aktiva za zhruba 6,3 miliardy dolarů, což je největší krádež kryptoměn v historii. Burza pozastavila výběry, asi 3 miliardy zmrazila a slíbila uhradit všechny ztráty. Bitcoin spadl asi o 4–5 %, krátce až na šestitýdenní minimum kolem 76 400 USD."
+     "title": "Intel zažil nejhorší den za desítky let",
+     "text": "Akcie Intelu po zklamání z hospodářských výsledků zažily nejhorší den za desítky let. Po výsledcích výrazně ztrácel i Reddit."
     },
     {
-     "title": "Zlato na ročním minimu, ropa Brent nad 110 USD",
-     "text": "Zlato zlevnilo zhruba o 3 % na přibližně 3 900 USD za unci, nejníž od října 2025, protože trh zvažuje další zvýšení sazeb Fedu. Brent se kvůli napětí v Hormuzském průlivu obchodoval zhruba za 112–117 USD za barel, WTI kolem 103 USD."
+     "title": "Zlato pod 4 000 dolary, ropa nad 100 dolary",
+     "text": "Zlato zlevnilo zhruba o 3,6 % na přibližně 3 876 USD za unci. Americká ropa WTI podražila asi o 0,9 % na téměř 103 USD za barel, Brent se podle zdrojů obchoduje zhruba mezi 113 a 118 USD."
     },
     {
-     "title": "Pražská burza v poklesu, koruna pevná",
-     "text": "Index PX na konci posledního říjnového týdne oslabil o 0,79 % na 2 627,33 bodu. Od začátku roku je tak dole přibližně o 2,2 %. Koruna podle zpráv posiluje vůči euru i dolaru."
-    },
-    {
-     "title": "Spekulace o předčasném odchodu Lagardeové z ECB",
-     "text": "Christine Lagardeová podle zpráv odejde z čela ECB předčasně. Podle říjnové zprávy agentury Reuters by ji Světové ekonomické fórum mohlo jmenovat předsedkyní už 2. listopadu. Mezi favority na její nástupnictví patří Klaas Knot a Pablo Hernández de Cos. Konečné rozhodnutí zatím oficiálně nepadlo."
+     "title": "Bitcoin kolem 77 tisíc dolarů",
+     "text": "Bitcoin se v pátek obchodoval zhruba za 77 400 USD. Je to asi o 2 650 USD méně než o den dříve a přibližně o 31 tisíc USD méně než před rokem."
     }
    ]
   }

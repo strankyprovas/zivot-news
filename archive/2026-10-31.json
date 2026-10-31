@@ -1,0 +1,85 @@
+{
+ "date": "2026-10-31",
+ "date_cz": "31.10.2026",
+ "updated_at": "2026-10-31T21:24+01:00",
+ "sections": [
+  {
+   "key": "cr",
+   "title": "🇨🇿 Česká republika",
+   "items": [
+    {
+     "title": "Babiš: ČT a ČRo by se mohly financovat z dobrovolných poplatků",
+     "text": "Premiér Andrej Babiš oznámil, že ministerstvo financí připravuje návrh, podle kterého by se veřejnoprávní média financovala z dobrovolných plateb. Peníze by tak nešly přímo ze státního rozpočtu, jak vláda plánovala dříve."
+    },
+    {
+     "title": "Premiér letos nechystá změny ve vládě",
+     "text": "Babiš v sobotu na TV Nova vyloučil, že by letos vyměnil některé ministry. Výměny ale nevyloučil v dalších letech. Programové prohlášení koalice chce znovu projít v lednu."
+    },
+    {
+     "title": "Politikům od ledna vzrostou platy o pět procent",
+     "text": "Podle souhrnu ČT24 se platy politiků od ledna zvýší o pět procent."
+    },
+    {
+     "title": "ČSÚ: Senioři se dožívají vyššího věku",
+     "text": "Český statistický úřad uvádí, že naděje na dožití seniorů dál roste."
+    },
+    {
+     "title": "Meteorologové čekají vydatné sněžení",
+     "text": "Předpovědi počasí hlásí, že v Česku brzy může napadnout i několik desítek centimetrů sněhu."
+    }
+   ]
+  },
+  {
+   "key": "svet",
+   "title": "🌍 Svět",
+   "items": [
+    {
+     "title": "Izraelské volby skončily patem",
+     "text": "Podle konečných výsledků nemá většinu 61 ze 120 křesel žádný blok. Netanjahuova koalice získala 53 mandátů (Likud 27), opoziční blok Gadiho Eisenkota 48 a arabské strany 19. Výsledky dostane prezident Herzog 4. listopadu. Volební komise odmítla Netanjahuova tvrzení, že volby byly ukradeny."
+    },
+    {
+     "title": "Zelenskyj v Istanbulu jednal o bezpečnosti v Černém moři",
+     "text": "Ukrajinský prezident se v Istanbulu setkal s tureckým prezidentem Erdoğanem. Erdoğan vyzval obě válčící strany, aby zastavily útoky v Černém moři. Zelenskyj také potvrdil, že se lidé evakuovaní z Olešek vrátili na území pod ukrajinskou kontrolou."
+    },
+    {
+     "title": "Rusko znovu zaútočilo na nádraží v Dnipru",
+     "text": "Podle Kyiv Independent ruská armáda znovu udeřila na železniční stanici v Dnipru, den po útoku, který zabil 15 lidí. Kanada přislíbila 500 milionů eur na půjčku pro Ukrajinu, které na rok 2027 chybějí peníze v rozpočtu."
+    },
+    {
+     "title": "Írán označil vstřícný krok USA za pozitivní",
+     "text": "Íránský ministr zahraničí podle Al-Džazíry nazval americkou nabídku k jednání pozitivním krokem. Íránská delegace je na rozhovorech v Kataru. V Gaze mezitím při izraelských útocích zahynuli nejméně čtyři Palestinci."
+    },
+    {
+     "title": "Polsko: Spor o Ústavní soud se vyostřuje",
+     "text": "Ve Varšavě eskaluje spor o fungování Ústavního soudu a v zemi se protestuje. Prezident Karol Nawrocki podle dostupných zpráv svolal schůzku všech politických sil."
+    }
+   ]
+  },
+  {
+   "key": "ekonomika",
+   "title": "📈 Ekonomika a trhy",
+   "items": [
+    {
+     "title": "Wall Street zakončila říjen velkým výprodejem",
+     "text": "V pátek 30. 10. (o víkendu se neobchoduje) klesl S&P 500 o 1,82 % na 7 580 bodů a Dow Jones o 1,09 % na 51 770 bodů. Nasdaq ztratil 2,86 % na 25 437 bodů. Investoři se zbavovali technologických akcií kvůli pochybnostem, zda se vyplatí obří výdaje na AI."
+    },
+    {
+     "title": "Nasdaq má nejhorší měsíc od března 2025",
+     "text": "Technologický index Nasdaq za říjen ztratil zhruba 5,3 %, což je jeho nejhorší měsíc od března 2025."
+    },
+    {
+     "title": "Intel zažil nejhorší den za desítky let",
+     "text": "Akcie Intelu po zklamání z hospodářských výsledků zažily nejhorší den za desítky let. Po výsledcích výrazně ztrácel i Reddit."
+    },
+    {
+     "title": "Zlato pod 4 000 dolary, ropa nad 100 dolary",
+     "text": "Zlato zlevnilo zhruba o 3,6 % na přibližně 3 876 USD za unci. Americká ropa WTI podražila asi o 0,9 % na téměř 103 USD za barel, Brent se podle zdrojů obchoduje zhruba mezi 113 a 118 USD."
+    },
+    {
+     "title": "Bitcoin kolem 77 tisíc dolarů",
+     "text": "Bitcoin se v pátek obchodoval zhruba za 77 400 USD. Je to asi o 2 650 USD méně než o den dříve a přibližně o 31 tisíc USD méně než před rokem."
+    }
+   ]
+  }
+ ]
+}
