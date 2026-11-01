@@ -1,0 +1,85 @@
+{
+ "date": "2026-11-01",
+ "date_cz": "01.11.2026",
+ "updated_at": "2026-11-01T21:57+01:00",
+ "sections": [
+  {
+   "key": "cr",
+   "title": "🇨🇿 Česká republika",
+   "items": [
+    {
+     "title": "V Peci pod Sněžkou hořel hotel Hořec",
+     "text": "V noci na neděli začala hořet střecha hotelu Hořec z roku 1908 a hasiči z něj evakuovali 35 lidí. Na místě zasahovalo až 13 jednotek, záchranáři ošetřili tři lidi a nikoho nepřevezli do nemocnice. Požár byl zvládnut kolem 9:00, příčina zatím není známá."
+    },
+    {
+     "title": "Zemřel textař Pavel Žák",
+     "text": "Textař a skladatel Pavel Žák zemřel v neděli v Praze ve věku 85 let. Zprávu potvrdil ČTK jeho syn Přemysl Žák."
+    },
+    {
+     "title": "Na horách napadl sníh, platí povinnost zimních pneumatik",
+     "text": "Na hřebenech hor nasněžilo, nejvíc v Jeseníkách, Krkonoších a na Šumavě. Od 1. listopadu musejí řidiči za zimních podmínek jezdit na zimních pneumatikách."
+    },
+    {
+     "title": "Nedělní debata ČT: financování veřejnoprávních médií a ruští hokejisté",
+     "text": "Taťána Malá (ANO) a ministr pro sport Boris Šťastný (Motoristé) diskutovali o hlasování o financování ČT a ČRo. Šťastný také uvedl, že s dalšími ministry jedná o účasti ruských týmů na hokejových šampionátech."
+    },
+    {
+     "title": "Policie prověřuje komentáře pod příspěvkem poslance Rajchla",
+     "text": "Policie prověřuje komentáře pod příspěvkem poslance SPD Jindřicha Rajchla. Ten na sítích sdílel fotografii zakladatelky spolku Díky, že můžem."
+    }
+   ]
+  },
+  {
+   "key": "svet",
+   "title": "🌍 Svět",
+   "items": [
+    {
+     "title": "Hormuzský průliv zůstává prakticky uzavřený",
+     "text": "Podle britské agentury UKMTO zasáhl v neděli plavidlo v průlivu neznámý projektil. Katarská média předtím informovala o útoku na katarský plynový tanker. Írán trvá na tom, že průliv neotevře, dokud USA nepřijmou jeho podmínky. Trump řekl, že USA nemají s dohodou „naspěch“."
+    },
+    {
+     "title": "Ukrajinské drony zasáhly velkou ruskou rafinerii v Kstovu",
+     "text": "V noci na neděli po útoku dronů hořela rafinerie v Kstovu v Nižněnovgorodské oblasti. Podle gubernátora sestřelila ruská protivzdušná obrana přes sto dronů. Při ruském nedělním útoku na ukrajinskou Vinnyckou oblast zahynuli dva lidé."
+    },
+    {
+     "title": "Bulharsko: prezidentské volby podle exit pollů vyhrála Jotovová",
+     "text": "Ve druhém kole vyhrála podle exit pollů úřadující prezidentka Ilijana Jotovová s asi 51 % hlasů, bývalý premiér Andrej Gjurov získal kolem 45 %. Pokud se výsledek potvrdí, bude Jotovová první zvolenou prezidentkou v historii Bulharska. Volební účast byla nízká."
+    },
+    {
+     "title": "USA před úterními volbami do Kongresu",
+     "text": "Trump nakonec vyrazil v neděli na předvolební mítinky do Iowy a Kansasu, které původně zrušil. Republikáni obhajují těsnou většinu v Kongresu, v celostátních průzkumech vedou demokraté."
+    },
+    {
+     "title": "Izrael: ani Netanjahu, ani Eisenkot nemají většinu",
+     "text": "Podle konečného sčítání má blok Benjamina Netanjahua 53 ze 120 křesel a blok Gadiho Eisenkota 48, potřebných 61 tak nemá nikdo. Výsledky se mají ve středu předat prezidentovi Herzogovi a čekají se jednání o koalici."
+    }
+   ]
+  },
+  {
+   "key": "ekonomika",
+   "title": "📈 Ekonomika a trhy",
+   "items": [
+    {
+     "title": "Wall Street zakončila říjen prudkým výprodejem",
+     "text": "Dnes je neděle a burzy jsou zavřené. V pátek klesl Nasdaq o 2,86 % na 25 437 bodů, S&P 500 o 1,82 % na 7 580 bodů a Dow Jones o 1,09 % na 51 770 bodů. Russell 2000 ztratil 1,66 %. S&P 500 je zhruba 3 % pod rekordem ze 6. října."
+    },
+    {
+     "title": "Intel se propadl o 29 %, trhy znepokojují náklady na AI",
+     "text": "Akcie Intelu měly nejhorší den za desítky let. Firma sice překonala čtvrtletní odhady, ale vydala slabý výhled. Výsledky Intelu a Amazonu zesílily obavy z obřích nákladů na rozvoj umělé inteligence."
+    },
+    {
+     "title": "Ropa se drží nad 100 dolary kvůli Hormuzu",
+     "text": "Kvůli zablokovanému Hormuzskému průlivu zůstává ropa velmi drahá. Koncem října se Brent obchodoval kolem 114 USD za barel a WTI kolem 101 USD."
+    },
+    {
+     "title": "Bitcoin slábne, zlato je na ročním minimu",
+     "text": "V pátek klesl bitcoin a zlato se dostalo na nejnižší úroveň za rok. Podle víkendových přehledů se bitcoin drží kolem 78 tisíc USD, za týden ztratil asi 2,6 %."
+    },
+    {
+     "title": "ČNB ve čtvrtek nejspíš zvýší sazby na 4 %",
+     "text": "Analytici téměř jednotně čekají, že ČNB zvýší základní sazbu o čtvrt bodu z 3,75 % na 4 %. Důvodem jsou drahé energie kvůli Hormuzu a jádrová inflace, která je znovu nad 3 %. Hypotéky zdražují už několik týdnů."
+    }
+   ]
+  }
+ ]
+}
