@@ -1,31 +1,31 @@
 {
- "date": "2026-11-01",
- "date_cz": "01.11.2026",
- "updated_at": "2026-11-01T21:57+01:00",
+ "date": "2026-11-03",
+ "date_cz": "03.11.2026",
+ "updated_at": "2026-11-03T00:47+01:00",
  "sections": [
   {
    "key": "cr",
    "title": "🇨🇿 Česká republika",
    "items": [
     {
-     "title": "V Peci pod Sněžkou hořel hotel Hořec",
-     "text": "V noci na neděli začala hořet střecha hotelu Hořec z roku 1908 a hasiči z něj evakuovali 35 lidí. Na místě zasahovalo až 13 jednotek, záchranáři ošetřili tři lidi a nikoho nepřevezli do nemocnice. Požár byl zvládnut kolem 9:00, příčina zatím není známá."
+     "title": "Zaměstnanci ČT a ČRo dnes celý den stávkují",
+     "text": "Iniciativa Veřejnoprávně vyhlásila 24hodinovou stávku proti vládnímu plánu zrušit poplatky a platit veřejnoprávní média ze státního rozpočtu. Podle návrhu by ČT a ČRo dostaly zhruba o 15 % méně peněz a jejich rozpočty by klesly celkem o 1,4 miliardy korun. Rozhlas místo běžného programu vysílá hudbu a reprízy a zpravodajství je omezené. Ke stávce se přidali i studenti a od 16:36 je na Václavském náměstí shromáždění."
     },
     {
-     "title": "Zemřel textař Pavel Žák",
-     "text": "Textař a skladatel Pavel Žák zemřel v neděli v Praze ve věku 85 let. Zprávu potvrdil ČTK jeho syn Přemysl Žák."
+     "title": "Babiš: veřejnoprávní média by se mohla platit dobrovolně",
+     "text": "Premiér Andrej Babiš před stávkou řekl, že by se veřejnoprávní vysílání mohlo financovat z dobrovolných plateb, a ne ze státního rozpočtu. Návrh na zrušení poplatků projednává Sněmovna přednostně."
     },
     {
-     "title": "Na horách napadl sníh, platí povinnost zimních pneumatik",
-     "text": "Na hřebenech hor nasněžilo, nejvíc v Jeseníkách, Krkonoších a na Šumavě. Od 1. listopadu musejí řidiči za zimních podmínek jezdit na zimních pneumatikách."
+     "title": "Vláda schválila koncepci armády, prezident ji kritizuje",
+     "text": "Vláda v pondělí schválila novou koncepci výstavby armády. Prezident Petr Pavel byl u jednání a řekl, že dokument není realistický a neplní základní cíle. Armádu podle něj popisuje jako příliš malou, nedostatečně vybavenou a s nedostatkem zásob."
     },
     {
-     "title": "Nedělní debata ČT: financování veřejnoprávních médií a ruští hokejisté",
-     "text": "Taťána Malá (ANO) a ministr pro sport Boris Šťastný (Motoristé) diskutovali o hlasování o financování ČT a ČRo. Šťastný také uvedl, že s dalšími ministry jedná o účasti ruských týmů na hokejových šampionátech."
+     "title": "Soud osvobodil Číňana obžalovaného ze špionáže",
+     "text": "Pražský soud zprostil obžaloby čínského občana, který byl obviněn ze špionáže pro čínskou zpravodajskou službu."
     },
     {
-     "title": "Policie prověřuje komentáře pod příspěvkem poslance Rajchla",
-     "text": "Policie prověřuje komentáře pod příspěvkem poslance SPD Jindřicha Rajchla. Ten na sítích sdílel fotografii zakladatelky spolku Díky, že můžem."
+     "title": "Bývalí předsedové Ústavního soudu kritizují prezidenta",
+     "text": "Podle zpravodajského přehledu iROZHLAS bývalí předsedové Ústavního soudu kritizují prezidenta, že zablokoval jmenování zvolených soudců. Podrobnosti ve výsledcích vyhledávání nebyly."
     }
    ]
   },
@@ -34,24 +34,28 @@
    "title": "🌍 Svět",
    "items": [
     {
-     "title": "Hormuzský průliv zůstává prakticky uzavřený",
-     "text": "Podle britské agentury UKMTO zasáhl v neděli plavidlo v průlivu neznámý projektil. Katarská média předtím informovala o útoku na katarský plynový tanker. Írán trvá na tom, že průliv neotevře, dokud USA nepřijmou jeho podmínky. Trump řekl, že USA nemají s dohodou „naspěch“."
+     "title": "V USA dnes probíhají volby do Kongresu",
+     "text": "Volí se všech 435 křesel ve Sněmovně reprezentantů, 35 křesel v Senátu a 36 guvernérů. Předčasně už hlasovalo přes 57 milionů lidí. Demokraté potřebují v Senátu čistý zisk čtyř křesel a ve Sněmovně tří. První volební místnosti se zavírají v 18:00 východního času (24:00 SEČ)."
     },
     {
-     "title": "Ukrajinské drony zasáhly velkou ruskou rafinerii v Kstovu",
-     "text": "V noci na neděli po útoku dronů hořela rafinerie v Kstovu v Nižněnovgorodské oblasti. Podle gubernátora sestřelila ruská protivzdušná obrana přes sto dronů. Při ruském nedělním útoku na ukrajinskou Vinnyckou oblast zahynuli dva lidé."
+     "title": "Nejvyšší soud USA zamítl Trumpův pokus vyřadit hlasy v Kalifornii",
+     "text": "Soud odmítl žádost Trumpovy administrativy na poslední chvíli odložit stranou 20 000 kalifornských hlasovacích lístků. Jiný soudce zakázal ministerstvu vnitřní bezpečnosti (DHS) provádět kvůli volbám plošné zátahy v devíti státech."
     },
     {
-     "title": "Bulharsko: prezidentské volby podle exit pollů vyhrála Jotovová",
-     "text": "Ve druhém kole vyhrála podle exit pollů úřadující prezidentka Ilijana Jotovová s asi 51 % hlasů, bývalý premiér Andrej Gjurov získal kolem 45 %. Pokud se výsledek potvrdí, bude Jotovová první zvolenou prezidentkou v historii Bulharska. Volební účast byla nízká."
+     "title": "Írán naznačuje ochotu jednat s USA",
+     "text": "Podle agentury IRNA schválil nejvyšší vůdce Mojtaba Chameneí, aby vláda usilovala o rozhovory o ukončení konfliktu. Ministr zahraničí Arákčí ale tvrdí, že přímá jednání s USA neprobíhají. Návrh se připravuje v Kataru. Trump podle zpráv řekl Netanjahuovi, že chce dát diplomacii víc času, než rozhodne o obnovení úderů."
     },
     {
-     "title": "USA před úterními volbami do Kongresu",
-     "text": "Trump nakonec vyrazil v neděli na předvolební mítinky do Iowy a Kansasu, které původně zrušil. Republikáni obhajují těsnou většinu v Kongresu, v celostátních průzkumech vedou demokraté."
+     "title": "Belgický premiér De Wever podal demisi",
+     "text": "Bart De Wever odstoupil kvůli dlouhodobé rozpočtové krizi. Král Filip zatím nerozhodl, zda demisi přijme."
     },
     {
-     "title": "Izrael: ani Netanjahu, ani Eisenkot nemají většinu",
-     "text": "Podle konečného sčítání má blok Benjamina Netanjahua 53 ze 120 křesel a blok Gadiho Eisenkota 48, potřebných 61 tak nemá nikdo. Výsledky se mají ve středu předat prezidentovi Herzogovi a čekají se jednání o koalici."
+     "title": "Izrael po nerozhodných volbách",
+     "text": "V Tel Avivu demonstrovaly tisíce lidí. Chtějí, aby opoziční lídr Gadi Eisenkot sestavil židovsko-arabskou koalici a ukončil vládu Benjamina Netanjahua. Izraelské údery v Gaze zabily v neděli nejméně osm Palestinců."
+    },
+    {
+     "title": "Ukrajina zasáhla ropné zařízení v Samarské oblasti",
+     "text": "Ukrajinské síly podle zpráv v noci zasáhly ropné zařízení v ruské Samarské oblasti. Rusko oznámilo útok na přístavní infrastrukturu v Oděské oblasti."
     }
    ]
   },
@@ -60,24 +64,24 @@
    "title": "📈 Ekonomika a trhy",
    "items": [
     {
-     "title": "Wall Street zakončila říjen prudkým výprodejem",
-     "text": "Dnes je neděle a burzy jsou zavřené. V pátek klesl Nasdaq o 2,86 % na 25 437 bodů, S&P 500 o 1,82 % na 7 580 bodů a Dow Jones o 1,09 % na 51 770 bodů. Russell 2000 ztratil 1,66 %. S&P 500 je zhruba 3 % pod rekordem ze 6. října."
+     "title": "Wall Street: z technologií se odchází, Dow roste",
+     "text": "Pondělní seance je poslední, jejíž uzavření je zatím k dispozici. S&P 500 kleslo o 0,51 % na 7 541,40 bodu a Nasdaq Composite o 1,07 % na 25 164,32 bodu. Dow Jones přidal 0,41 % (+213,67 bodu) na zhruba 51 984 bodů díky přesunu peněz do defenzivních sektorů, například zdravotnictví. Nasdaq-100 přitom už v pátek ztratil 3,46 %."
     },
     {
-     "title": "Intel se propadl o 29 %, trhy znepokojují náklady na AI",
-     "text": "Akcie Intelu měly nejhorší den za desítky let. Firma sice překonala čtvrtletní odhady, ale vydala slabý výhled. Výsledky Intelu a Amazonu zesílily obavy z obřích nákladů na rozvoj umělé inteligence."
+     "title": "Ropa se propadla o 6–8 % kvůli nadějím na dohodu s Íránem",
+     "text": "Americká ropa WTI spadla asi o 7,4 % na přibližně 96,50 USD za barel, tedy pod hranici 100 dolarů. Brent ztratil kolem 6 % na zhruba 106,50 USD. Analytici varují, že pokud jednání ztroskotají, ceny se mohou vrátit nahoru."
     },
     {
-     "title": "Ropa se drží nad 100 dolary kvůli Hormuzu",
-     "text": "Kvůli zablokovanému Hormuzskému průlivu zůstává ropa velmi drahá. Koncem října se Brent obchodoval kolem 114 USD za barel a WTI kolem 101 USD."
+     "title": "Zlato roste, bitcoin stojí",
+     "text": "Zlato zpevnilo o 1,8 % na zhruba 3 946 USD za unci, pod hranicí 4 000 USD zůstává. Bitcoin se drží kolem 76 700–77 000 USD po říjnových ztrátách. Index volatility VIX je kolem 21 bodů."
     },
     {
-     "title": "Bitcoin slábne, zlato je na ročním minimu",
-     "text": "V pátek klesl bitcoin a zlato se dostalo na nejnižší úroveň za rok. Podle víkendových přehledů se bitcoin drží kolem 78 tisíc USD, za týden ztratil asi 2,6 %."
+     "title": "Evropské akcie posílily",
+     "text": "Německý DAX v pondělí přidal 0,63 % na 25 981 bodů a Euro Stoxx 50 vzrostl o 0,73 %. Pražská burza začala týden jen mírným růstem při velmi slabých obchodech."
     },
     {
-     "title": "ČNB ve čtvrtek nejspíš zvýší sazby na 4 %",
-     "text": "Analytici téměř jednotně čekají, že ČNB zvýší základní sazbu o čtvrt bodu z 3,75 % na 4 %. Důvodem jsou drahé energie kvůli Hormuzu a jádrová inflace, která je znovu nad 3 %. Hypotéky zdražují už několik týdnů."
+     "title": "Trhy čekají na volby, data z trhu práce a emise státních dluhopisů USA",
+     "text": "Investoři sledují výsledky dnešních amerických voleb, blížící se data z trhu práce a plán emisí amerického ministerstva financí. Technologické akcie dál tlačí obavy z vysokých výdajů na umělou inteligenci."
     }
    ]
   }

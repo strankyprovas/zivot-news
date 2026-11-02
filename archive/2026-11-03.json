@@ -1,0 +1,89 @@
+{
+ "date": "2026-11-03",
+ "date_cz": "03.11.2026",
+ "updated_at": "2026-11-03T00:47+01:00",
+ "sections": [
+  {
+   "key": "cr",
+   "title": "🇨🇿 Česká republika",
+   "items": [
+    {
+     "title": "Zaměstnanci ČT a ČRo dnes celý den stávkují",
+     "text": "Iniciativa Veřejnoprávně vyhlásila 24hodinovou stávku proti vládnímu plánu zrušit poplatky a platit veřejnoprávní média ze státního rozpočtu. Podle návrhu by ČT a ČRo dostaly zhruba o 15 % méně peněz a jejich rozpočty by klesly celkem o 1,4 miliardy korun. Rozhlas místo běžného programu vysílá hudbu a reprízy a zpravodajství je omezené. Ke stávce se přidali i studenti a od 16:36 je na Václavském náměstí shromáždění."
+    },
+    {
+     "title": "Babiš: veřejnoprávní média by se mohla platit dobrovolně",
+     "text": "Premiér Andrej Babiš před stávkou řekl, že by se veřejnoprávní vysílání mohlo financovat z dobrovolných plateb, a ne ze státního rozpočtu. Návrh na zrušení poplatků projednává Sněmovna přednostně."
+    },
+    {
+     "title": "Vláda schválila koncepci armády, prezident ji kritizuje",
+     "text": "Vláda v pondělí schválila novou koncepci výstavby armády. Prezident Petr Pavel byl u jednání a řekl, že dokument není realistický a neplní základní cíle. Armádu podle něj popisuje jako příliš malou, nedostatečně vybavenou a s nedostatkem zásob."
+    },
+    {
+     "title": "Soud osvobodil Číňana obžalovaného ze špionáže",
+     "text": "Pražský soud zprostil obžaloby čínského občana, který byl obviněn ze špionáže pro čínskou zpravodajskou službu."
+    },
+    {
+     "title": "Bývalí předsedové Ústavního soudu kritizují prezidenta",
+     "text": "Podle zpravodajského přehledu iROZHLAS bývalí předsedové Ústavního soudu kritizují prezidenta, že zablokoval jmenování zvolených soudců. Podrobnosti ve výsledcích vyhledávání nebyly."
+    }
+   ]
+  },
+  {
+   "key": "svet",
+   "title": "🌍 Svět",
+   "items": [
+    {
+     "title": "V USA dnes probíhají volby do Kongresu",
+     "text": "Volí se všech 435 křesel ve Sněmovně reprezentantů, 35 křesel v Senátu a 36 guvernérů. Předčasně už hlasovalo přes 57 milionů lidí. Demokraté potřebují v Senátu čistý zisk čtyř křesel a ve Sněmovně tří. První volební místnosti se zavírají v 18:00 východního času (24:00 SEČ)."
+    },
+    {
+     "title": "Nejvyšší soud USA zamítl Trumpův pokus vyřadit hlasy v Kalifornii",
+     "text": "Soud odmítl žádost Trumpovy administrativy na poslední chvíli odložit stranou 20 000 kalifornských hlasovacích lístků. Jiný soudce zakázal ministerstvu vnitřní bezpečnosti (DHS) provádět kvůli volbám plošné zátahy v devíti státech."
+    },
+    {
+     "title": "Írán naznačuje ochotu jednat s USA",
+     "text": "Podle agentury IRNA schválil nejvyšší vůdce Mojtaba Chameneí, aby vláda usilovala o rozhovory o ukončení konfliktu. Ministr zahraničí Arákčí ale tvrdí, že přímá jednání s USA neprobíhají. Návrh se připravuje v Kataru. Trump podle zpráv řekl Netanjahuovi, že chce dát diplomacii víc času, než rozhodne o obnovení úderů."
+    },
+    {
+     "title": "Belgický premiér De Wever podal demisi",
+     "text": "Bart De Wever odstoupil kvůli dlouhodobé rozpočtové krizi. Král Filip zatím nerozhodl, zda demisi přijme."
+    },
+    {
+     "title": "Izrael po nerozhodných volbách",
+     "text": "V Tel Avivu demonstrovaly tisíce lidí. Chtějí, aby opoziční lídr Gadi Eisenkot sestavil židovsko-arabskou koalici a ukončil vládu Benjamina Netanjahua. Izraelské údery v Gaze zabily v neděli nejméně osm Palestinců."
+    },
+    {
+     "title": "Ukrajina zasáhla ropné zařízení v Samarské oblasti",
+     "text": "Ukrajinské síly podle zpráv v noci zasáhly ropné zařízení v ruské Samarské oblasti. Rusko oznámilo útok na přístavní infrastrukturu v Oděské oblasti."
+    }
+   ]
+  },
+  {
+   "key": "ekonomika",
+   "title": "📈 Ekonomika a trhy",
+   "items": [
+    {
+     "title": "Wall Street: z technologií se odchází, Dow roste",
+     "text": "Pondělní seance je poslední, jejíž uzavření je zatím k dispozici. S&P 500 kleslo o 0,51 % na 7 541,40 bodu a Nasdaq Composite o 1,07 % na 25 164,32 bodu. Dow Jones přidal 0,41 % (+213,67 bodu) na zhruba 51 984 bodů díky přesunu peněz do defenzivních sektorů, například zdravotnictví. Nasdaq-100 přitom už v pátek ztratil 3,46 %."
+    },
+    {
+     "title": "Ropa se propadla o 6–8 % kvůli nadějím na dohodu s Íránem",
+     "text": "Americká ropa WTI spadla asi o 7,4 % na přibližně 96,50 USD za barel, tedy pod hranici 100 dolarů. Brent ztratil kolem 6 % na zhruba 106,50 USD. Analytici varují, že pokud jednání ztroskotají, ceny se mohou vrátit nahoru."
+    },
+    {
+     "title": "Zlato roste, bitcoin stojí",
+     "text": "Zlato zpevnilo o 1,8 % na zhruba 3 946 USD za unci, pod hranicí 4 000 USD zůstává. Bitcoin se drží kolem 76 700–77 000 USD po říjnových ztrátách. Index volatility VIX je kolem 21 bodů."
+    },
+    {
+     "title": "Evropské akcie posílily",
+     "text": "Německý DAX v pondělí přidal 0,63 % na 25 981 bodů a Euro Stoxx 50 vzrostl o 0,73 %. Pražská burza začala týden jen mírným růstem při velmi slabých obchodech."
+    },
+    {
+     "title": "Trhy čekají na volby, data z trhu práce a emise státních dluhopisů USA",
+     "text": "Investoři sledují výsledky dnešních amerických voleb, blížící se data z trhu práce a plán emisí amerického ministerstva financí. Technologické akcie dál tlačí obavy z vysokých výdajů na umělou inteligenci."
+    }
+   ]
+  }
+ ]
+}
