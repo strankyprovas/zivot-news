@@ -1,31 +1,35 @@
 {
  "date": "2026-11-03",
  "date_cz": "03.11.2026",
- "updated_at": "2026-11-03T00:47+01:00",
+ "updated_at": "2026-11-03T23:13+01:00",
  "sections": [
   {
    "key": "cr",
    "title": "🇨🇿 Česká republika",
    "items": [
     {
-     "title": "Zaměstnanci ČT a ČRo dnes celý den stávkují",
-     "text": "Iniciativa Veřejnoprávně vyhlásila 24hodinovou stávku proti vládnímu plánu zrušit poplatky a platit veřejnoprávní média ze státního rozpočtu. Podle návrhu by ČT a ČRo dostaly zhruba o 15 % méně peněz a jejich rozpočty by klesly celkem o 1,4 miliardy korun. Rozhlas místo běžného programu vysílá hudbu a reprízy a zpravodajství je omezené. Ke stávce se přidali i studenti a od 16:36 je na Václavském náměstí shromáždění."
+     "title": "Zaměstnanci ČT a ČRo stávkují celý den",
+     "text": "Krátce po úterní půlnoci začala celodenní stávka pracovníků České televize a Českého rozhlasu. Protestují proti koaličnímu návrhu, který mění financování veřejnoprávních médií. ČT vysílá v omezeném režimu, moderátoři jsou v černém a čtou zprávy z papíru. Radiožurnál zkrátil zpravodajské relace a web iROZHLAS vede jen souhrnný online přehled."
     },
     {
-     "title": "Babiš: veřejnoprávní média by se mohla platit dobrovolně",
-     "text": "Premiér Andrej Babiš před stávkou řekl, že by se veřejnoprávní vysílání mohlo financovat z dobrovolných plateb, a ne ze státního rozpočtu. Návrh na zrušení poplatků projednává Sněmovna přednostně."
+     "title": "Babiš: o zrušení poplatků by se ve druhém čtení mohlo jednat v lednu",
+     "text": "Podle premiéra Andreje Babiše by druhé čtení zákona o zrušení poplatků pro ČT a ČRo mohlo proběhnout v lednu. Protesty proti návrhu označil za pokrytectví. Opozice dříve ohlásila, že bude zákon obstruovat."
     },
     {
-     "title": "Vláda schválila koncepci armády, prezident ji kritizuje",
-     "text": "Vláda v pondělí schválila novou koncepci výstavby armády. Prezident Petr Pavel byl u jednání a řekl, že dokument není realistický a neplní základní cíle. Armádu podle něj popisuje jako příliš malou, nedostatečně vybavenou a s nedostatkem zásob."
+     "title": "Průzkum: většina chce financování ze státního rozpočtu, dvě třetiny ale nechtějí státní kontrolu",
+     "text": "Podle průzkumu, o kterém informovala ČT24, dává 54 % Čechů přednost financování veřejnoprávních médií ze státního rozpočtu a 34 % chce zachovat poplatky. Dvě třetiny lidí zároveň nechtějí, aby ČT a ČRo byly pod kontrolou státu."
     },
     {
-     "title": "Soud osvobodil Číňana obžalovaného ze špionáže",
-     "text": "Pražský soud zprostil obžaloby čínského občana, který byl obviněn ze špionáže pro čínskou zpravodajskou službu."
+     "title": "Výhrůžky poslancům koalice a spor o zásah ve Sněmovně",
+     "text": "Poslanci ANO, SPD a Motoristů dostávají e-mailem výhrůžky a zastrašující zprávy. Ochranná služba policie uvedla, že zásah proti demonstrantům ve Sněmovně byl přiměřený, pokleknutí demonstrantů podle ní přiměřené nebylo."
     },
     {
-     "title": "Bývalí předsedové Ústavního soudu kritizují prezidenta",
-     "text": "Podle zpravodajského přehledu iROZHLAS bývalí předsedové Ústavního soudu kritizují prezidenta, že zablokoval jmenování zvolených soudců. Podrobnosti ve výsledcích vyhledávání nebyly."
+     "title": "Krajská města skládají koalice po komunálních volbách",
+     "text": "Ve většině krajských měst už jsou nové koalice známé, v Praze a Českých Budějovicích se dál jedná. Ustavující zasedání zastupitelstev se ve většině krajských měst musí konat nejpozději v pondělí 9. listopadu."
+    },
+    {
+     "title": "Zemřel komentátor Patrik Eichler",
+     "text": "Ve věku 42 let zemřel publicista a komentátor Patrik Eichler."
     }
    ]
   },
@@ -34,28 +38,28 @@
    "title": "🌍 Svět",
    "items": [
     {
-     "title": "V USA dnes probíhají volby do Kongresu",
-     "text": "Volí se všech 435 křesel ve Sněmovně reprezentantů, 35 křesel v Senátu a 36 guvernérů. Předčasně už hlasovalo přes 57 milionů lidí. Demokraté potřebují v Senátu čistý zisk čtyř křesel a ve Sněmovně tří. První volební místnosti se zavírají v 18:00 východního času (24:00 SEČ)."
+     "title": "V USA se konají volby do Kongresu",
+     "text": "Američané volí v midterms, které rozhodnou o kontrole Kongresu na zbytek Trumpova mandátu. Hlavními tématy jsou ekonomika a válka s Íránem. Predikční trhy ráno dávaly šanci, že demokraté ovládnou obě komory, přes 75 %. Ministerstvo spravedlnosti vyslalo rekordních 1 000 volebních pozorovatelů do všech 50 států."
     },
     {
-     "title": "Nejvyšší soud USA zamítl Trumpův pokus vyřadit hlasy v Kalifornii",
-     "text": "Soud odmítl žádost Trumpovy administrativy na poslední chvíli odložit stranou 20 000 kalifornských hlasovacích lístků. Jiný soudce zakázal ministerstvu vnitřní bezpečnosti (DHS) provádět kvůli volbám plošné zátahy v devíti státech."
+     "title": "Spory o seznamy voličů před volbami",
+     "text": "Federální soudce dočasně zakázal ministerstvům spravedlnosti a vnitřní bezpečnosti posílat státům seznamy voličů, které administrativa považuje za možné necitizeny. Nejvyšší soud USA podle ČT24 odmítl zabránit Kalifornii, aby započítala hlasovací lístky, které administrativa označuje za pravděpodobně odevzdané necitizeny."
     },
     {
-     "title": "Írán naznačuje ochotu jednat s USA",
-     "text": "Podle agentury IRNA schválil nejvyšší vůdce Mojtaba Chameneí, aby vláda usilovala o rozhovory o ukončení konfliktu. Ministr zahraničí Arákčí ale tvrdí, že přímá jednání s USA neprobíhají. Návrh se připravuje v Kataru. Trump podle zpráv řekl Netanjahuovi, že chce dát diplomacii víc času, než rozhodne o obnovení úderů."
+     "title": "Írán a USA mají k dohodě daleko, objevily se zprávy o nových úderech",
+     "text": "Vysoký íránský představitel řekl agentuře Reuters, že Írán a USA mají k dohodě o ukončení války stále daleko. Teherán označil americkou odpověď na mírový plán za nepřesvědčivou. Podle WSJ provedly USA údery v oblasti Hormuzského průlivu, mimo jiné na ostrově Kešm a v Bandar Lenge."
     },
     {
-     "title": "Belgický premiér De Wever podal demisi",
-     "text": "Bart De Wever odstoupil kvůli dlouhodobé rozpočtové krizi. Král Filip zatím nerozhodl, zda demisi přijme."
+     "title": "Ruské letecké pumy zabily na Ukrajině 26 lidí",
+     "text": "Podle ČT24 zabily ruské letecké pumy v ukrajinské obci Komyšuvacha 26 lidí. Zástupci USA se tento týden mají sejít s představiteli zemí EU a NATO kvůli Ukrajině a evropské bezpečnosti."
     },
     {
-     "title": "Izrael po nerozhodných volbách",
-     "text": "V Tel Avivu demonstrovaly tisíce lidí. Chtějí, aby opoziční lídr Gadi Eisenkot sestavil židovsko-arabskou koalici a ukončil vládu Benjamina Netanjahua. Izraelské údery v Gaze zabily v neděli nejméně osm Palestinců."
+     "title": "Jemen: Húsíové jsou asi 80 km od Adenu",
+     "text": "Podle vojenských zdrojů agentury Reuters postoupili húsíové na méně než 50 mil (asi 80 km) od Adenu. Údery koalice vedené Saúdskou Arábií si podle zpráv vyžádaly 10 mrtvých."
     },
     {
-     "title": "Ukrajina zasáhla ropné zařízení v Samarské oblasti",
-     "text": "Ukrajinské síly podle zpráv v noci zasáhly ropné zařízení v ruské Samarské oblasti. Rusko oznámilo útok na přístavní infrastrukturu v Oděské oblasti."
+     "title": "Severní Korea popírá krádež kryptoměn z Binance",
+     "text": "Pchjongjang ostře odmítl obvinění FBI, že stojí za krádeží kryptoměn z burzy Binance."
     }
    ]
   },
@@ -64,24 +68,28 @@
    "title": "📈 Ekonomika a trhy",
    "items": [
     {
-     "title": "Wall Street: z technologií se odchází, Dow roste",
-     "text": "Pondělní seance je poslední, jejíž uzavření je zatím k dispozici. S&P 500 kleslo o 0,51 % na 7 541,40 bodu a Nasdaq Composite o 1,07 % na 25 164,32 bodu. Dow Jones přidal 0,41 % (+213,67 bodu) na zhruba 51 984 bodů díky přesunu peněz do defenzivních sektorů, například zdravotnictví. Nasdaq-100 přitom už v pátek ztratil 3,46 %."
+     "title": "Wall Street: Nasdaq a S&P 500 rostly, Dow klesl",
+     "text": "S&P 500 ve volební den ukončil třídenní sérii poklesů a přidal 0,37 % na přibližně 7 568 bodů. Nasdaq Composite vzrostl o 0,83 % na 25 372 bodů. Dow Jones ztratil 0,38 % (−198 bodů) na zhruba 51 786 bodů. Russell 2000 přidal 0,24 %. Nasdaq-100 (+0,7 %) zůstává v korekci, asi 10 % pod nedávným maximem."
     },
     {
-     "title": "Ropa se propadla o 6–8 % kvůli nadějím na dohodu s Íránem",
-     "text": "Americká ropa WTI spadla asi o 7,4 % na přibližně 96,50 USD za barel, tedy pod hranici 100 dolarů. Brent ztratil kolem 6 % na zhruba 106,50 USD. Analytici varují, že pokud jednání ztroskotají, ceny se mohou vrátit nahoru."
+     "title": "Čipy se odrazily, Apple a Palantir ztrácely",
+     "text": "Růst táhly polovodičové firmy po pondělním výprodeji. Dow brzdil Apple kvůli výhledu marží a slabšímu prodeji iPadů. Palantir oslabil, přestože překonal odhady tržeb i zisku. AMD zveřejňuje výsledky po zavření burzy."
     },
     {
-     "title": "Zlato roste, bitcoin stojí",
-     "text": "Zlato zpevnilo o 1,8 % na zhruba 3 946 USD za unci, pod hranicí 4 000 USD zůstává. Bitcoin se drží kolem 76 700–77 000 USD po říjnových ztrátách. Index volatility VIX je kolem 21 bodů."
+     "title": "Evropa oslabila, Bayer posílil",
+     "text": "STOXX Europe 600 klesl o 0,58 % na 645,66 bodu a německý DAX o 0,45 % na 25 864,62 bodu. Trhy čekaly na americké volby a reagovaly na kolísání ropy po novém útoku USA na Írán. Akcie Bayeru prudce vzrostly po lepších výsledcích a zvýšeném výhledu."
     },
     {
-     "title": "Evropské akcie posílily",
-     "text": "Německý DAX v pondělí přidal 0,63 % na 25 981 bodů a Euro Stoxx 50 vzrostl o 0,73 %. Pražská burza začala týden jen mírným růstem při velmi slabých obchodech."
+     "title": "Ropa po výkyvech klesla, zlato pod 4 000 USD",
+     "text": "Ceny ropy po kolísání kvůli dění kolem Íránu nakonec klesly. Brent se podle různých zdrojů pohyboval kolem 100 USD za barel nebo výš. Zlato během dne kolísalo zhruba mezi 3 900 a 3 970 USD za unci."
     },
     {
-     "title": "Trhy čekají na volby, data z trhu práce a emise státních dluhopisů USA",
-     "text": "Investoři sledují výsledky dnešních amerických voleb, blížící se data z trhu práce a plán emisí amerického ministerstva financí. Technologické akcie dál tlačí obavy z vysokých výdajů na umělou inteligenci."
+     "title": "Bitcoin kolem 77 tisíc dolarů",
+     "text": "Bitcoin se obchodoval zhruba za 76 500–77 500 USD. Za poslední týden ztratil asi 4 %, před týdnem byl kolem 80 500 USD."
+    },
+    {
+     "title": "Australská centrální banka zvýšila sazby, švýcarská inflace zrychlila",
+     "text": "Reserve Bank of Australia zvýšila hlavní úrokovou sazbu na 4,85 %. Inflace ve Švýcarsku vzrostla na 1,5 %."
     }
    ]
   }
