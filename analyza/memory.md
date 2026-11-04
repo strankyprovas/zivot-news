@@ -1,29 +1,30 @@
 - 2026-10-30: AI-CAPEX RÁNY — Intel −30 %, AMD −10,9 %, Nvidia −4,2 %; spouštěč celé techkorekce. (běží, klíčové)
-- 2026-10-30: NOVÉ PRAVIDLO — trh trestá i beat, pokud za ním hoří hotovost; otázka je „vychází matematika". (běží, klíčové)
-- 2026-11-03: NASDAQ 100 V KOREKCI — potvrzeno (Bloomberg), >10 % od vrcholu 6.10., třetí korekce roku; AI capex ~$828 mld. 2026. (běží, klíčové)
-- 2026-11-03: ROTACE RISK-OFF — Dow +0,41 % vs Nasdaq −1,07 %; Dow 1M +1,58 % vs Nasdaq 1M −7,45 %. (běží, klíčové)
-- 2026-11-03: VIX 21,36 NAD 20 — risk-off sepnutý (1M +37,63 %); nad 22–25 = kapitulace. (běží, klíčové)
-- 2026-11-03: QQQ $681,09 (1M −9,14 %) — pod $700 prohloubeno; přikupovat malé dávky, ne naráz. (běží, klíčové)
-- 2026-11-03: JÁDRO VWCE €167,76 / MSCI World €128,71 (YTD +15 %) — v techbouři 1T jen −2,28 %; DCA páteř beze změny. (běží, klíčové)
-- 2026-11-03: DIVERGENCE US vs EVROPA — drží (DAX 1M +2,24 % vs Nasdaq −7,45 %), ale DAX 1D −0,62 %; riziko přelití. (běží, klíčové)
-- 2026-11-03: 10LETÝ 4,894 % (1D −0,71 %) — pořád nad 4,5 %; tlačí kovy/TLT/tech. (běží, klíčové)
-- 2026-11-03: ZLATO $3 916 (1D −1,36 %, YTD −9,80 %) — u 52t minima 3 879, „stabilizace" NEVYŠLA; počkat na obrat. (běží)
-- 2026-11-03: STŘÍBRO $49,03 (YTD −30,09 %) — padající nůž u minima; obrat až nad $62 s objemem. (běží)
-- 2026-11-03: MĚĎ $6,3635 (1R +26,08 %) — slezla z maxima 6,83 (1D −2,75 %); přidávat na slabosti po částech. (běží, klíčové)
-- 2026-11-03: ROPA WTI $98,46 (1D +2,07 %) — odraz z minima pod stovkou; geopol. prémie vyfouklá, kolísá kolem $100. (běží)
-- 2026-11-03: BITCOIN $77 017 (1R −27,72 %) — mrtvý klid pod osmdesátkou; malá pozice, bez katalyzátoru nedokupovat. (běží)
-- 2026-11-03: ETH $2 265 (1R −37,13 %) — nejslabší velké aktivum, nekupovat dokud neporáží BTC. (běží)
-- 2026-11-03: TLT $81,73 — vstup až 10letý trvale pod 4,5 % (teď 4,894 %). (běží)
-- 2026-11-03: DOLAR USD/CZK 21,77 (strop 21,93) — drží pod maximem, EUR/USD 1,1181; hlídat proražení. (běží, klíčové)
+- 2026-10-30: NOVÉ PRAVIDLO — trh trestá beat s hořící hotovostí, ale ODMĚŇUJE beat, kde matematika vychází (AMD 4.11.). (běží, klíčové)
+- 2026-11-03: NASDAQ 100 V KOREKCI — >10 % od vrcholu 6.10.; QQQ 1M −9,38 %, AMD beat korekci nezrušil. (běží, klíčové)
+- 2026-11-04: AMD BEAT ODMĚNĚN — +6 % AH, zvedl čipy (SMCI, Arista); Nasdaq 4.11. +0,83 %, tech vedl den. (běží, klíčové)
+- 2026-11-04: ROTACE SE NA DEN OTOČILA — Nasdaq +0,83 % vs Dow −0,38 %; ale 1M Dow +1,01 % vs Nasdaq −7,66 %, trend rotace trvá. (běží, klíčové)
+- 2026-11-04: VIX 20,83 (−1,51 %) NAD 20 — strach polevil, risk-off nevypnutý; pod 20 = úleva potvrzená. (běží, klíčové)
+- 2026-11-04: QQQ $685,28 (1M −9,38 %) — úleva po AMD; přikupovat dlouhodobě po malých dávkách, ne naráz. (běží, klíčové)
+- 2026-11-04: JÁDRO VWCE €169,38 / MSCI World €129,93 (YTD +16,48 %) — v techbouři 1T jen −0,36 %; DCA páteř beze změny. (běží, klíčové)
+- 2026-11-04: DIVERGENCE US vs EVROPA — drží (DAX 1M +2,97 % vs Nasdaq −7,66 %); DAX 1D +0,63 %, zatím bez přelití. (běží)
+- 2026-11-04: 10LETÝ 4,952 % (1D +1,19 %) — znovu nahoru, nad 4,5 %; tlačí kovy/TLT/tech. (běží, klíčové)
+- 2026-11-04: ZLATO $3 944 (YTD −9,16 %) — u 52t minima 3 879, forced selling; padající nůž, obrat + výnos pod 4,5 %. (běží)
+- 2026-11-04: STŘÍBRO $49,73 (YTD −29,09 %) — padající nůž u minima 46,81; obrat až nad $62 s objemem. (běží)
+- 2026-11-04: MĚĎ $6,3985 (1R +26,78 %) — 11t minimum na techstrachu (1D −2,22 %); strukturální teze drží, přidávat po částech. (běží, klíčové)
+- 2026-11-04: ROPA WTI $96,35 (3M +28,09 %) — kolísá pod stovkou, geopol. prémie vyfouklá. (běží)
+- 2026-11-04: BITCOIN $76 834 (1R −24,37 %) — mrtvý klid pod osmdesátkou; malá pozice, bez katalyzátoru nedokupovat. (běží)
+- 2026-11-04: ETH $2 259 (1R −31,40 %) — nejslabší velké aktivum, nekupovat dokud neporáží BTC. (běží)
+- 2026-11-04: TLT $81,11 (1R −9,82 %) — vstup až 10letý trvale pod 4,5 % (teď 4,952 %). (běží)
+- 2026-11-04: DOLAR USD/CZK 21,69 (strop 21,93) — drží pod maximem, EUR/USD 1,1226; hlídat proražení. (běží)
 - 2026-11-02: HAWKISH HOLD — Fed 3,75–4,00 %, prosinec hike pravděpodobný; tlak na výnosy i kovy. (běží, klíčové)
-- 2026-11-03: AMD DNES PO ZAVÍRCE — konsenzus EPS ~$1,94, tržba ~$13,1 mld., DC +88 %, gaming −49 %; opce ±8,9 %, laťka vysoko. (běží, klíčové)
-- 2026-11-03: MIDTERM VOLBY DNES + JOLTS — kontrola Kongresu, výsledky přes noc = volatilita nad rámec makra. (běží, klíčové)
-- 2026-11-04: ISM SLUŽBY (st) + 11-06 NFP (pá, konsenzus +55 tis., nez. 4,2 %) — makro vrchol týdne. (běží, klíčové)
+- 2026-11-04: MIDTERM — Dems favorité (prediction ~94 % House, ~74 % Senát); trh nenacenil sweep = riziko pro čtvrtek. (běží, klíčové)
+- 2026-11-04: ISM SLUŽBY + 11-06 NFP (pá, konsenzus +55 tis., nez. 4,2 %) — makro vrchol týdne, data po shutdownu s rezervou. (běží, klíčové)
 - 2026-11-02: SHUTDOWN SKONČIL (43 dní) — makrodata rozházená, brát s rezervou. (běží)
 
 ## Uzavřeno
-- 2026-11-03: „AAPL marže klíč" → VYŠLO (po zlém): beat, ale guidance marží 47,9 % potrestáno −3 %.
-- 2026-11-03: „VIX průraz nad 20 = potvrzení risk-off" → VYŠLO: VIX nad 21.
+- 2026-11-04: „AMD po zavírce, laťka vysoko" → VYŠLO (po dobrém): beat odměněn +6 % AH, ne potrestán.
+- 2026-11-03: „AAPL marže klíč" → VYŠLO (po zlém): beat, guidance marží 47,9 % potrestáno −3 %.
+- 2026-11-03: „VIX průraz nad 20 = potvrzení risk-off" → VYŠLO.
 - 2026-11-01: „Rotace, ne propad" → VYŠLO: Dow zelený, tech dolů.
 - 2026-10-30: „Bitcoin drží osmdesátku" → NEVYŠLO: pod $80k bez katalyzátoru.
 - 2026-10-30: „AMZN reportuje" → VYŠLO (po zlém): beat AWS, záporný FCF.
