@@ -1,0 +1,93 @@
+{
+ "date": "2026-11-04",
+ "date_cz": "04.11.2026",
+ "updated_at": "2026-11-04T23:27+01:00",
+ "sections": [
+  {
+   "key": "cr",
+   "title": "🇨🇿 Česká republika",
+   "items": [
+    {
+     "title": "Babiš: Koalice od zrušení poplatků za ČT a ČRo neustoupí",
+     "text": "Premiér Andrej Babiš (ANO) řekl, že úterní stávku zaměstnanců ČT a ČRo a demonstrace vzal na vědomí. Koalice ANO, SPD a Motoristů ale svůj plán nemění: poplatky pro občany i firmy zruší a média bude financovat ze státního rozpočtu."
+    },
+    {
+     "title": "Pavel ocenil protesty, o Klempířovi rozhodne premiér",
+     "text": "Prezident Petr Pavel ocenil, že protesty za veřejnoprávní média proběhly kultivovaně, a kritiku ministra kultury Klempíře považuje za oprávněnou. Podle něj je ale na premiérovi, jestli Klempíř ve vládě zůstane."
+    },
+    {
+     "title": "Sněmovna schválila zákon o digitální ekonomice a vyšší platby za pojištěnce",
+     "text": "Poslanci přijali zákon o digitální ekonomice, který má zvýšit bezpečnost na internetu a lépe chránit děti. Schválili také zvýšení plateb státu za státní pojištěnce o 13 miliard korun, vláda přitom původně navrhovala 21 miliard."
+    },
+    {
+     "title": "Babiš jednal ve Varšavě s Tuskem",
+     "text": "Premiér Babiš s polským premiérem Donaldem Tuskem mluvil o energetice, evropském rozpočtu a bezpečnosti. Oba ocenili, že se obnovuje spolupráce Visegrádské čtyřky."
+    },
+    {
+     "title": "Konečná odchází z KSČM",
+     "text": "Kateřina Konečná opouští KSČM, protože strana vstoupila do evropské frakce Patrioti."
+    },
+    {
+     "title": "Přichází první sníh a náledí",
+     "text": "V Česku se objevuje první sníh a nebezpečné náledí, které má podle předpovědi vydržet i v dalších dnech."
+    }
+   ]
+  },
+  {
+   "key": "svet",
+   "title": "🌍 Svět",
+   "items": [
+    {
+     "title": "Demokraté v amerických volbách získali obě komory Kongresu",
+     "text": "Podle projekcí mají demokraté jasnou většinu ve Sněmovně reprezentantů a získali zpět i Senát. V Maine porazil demokrat Troy Jackson republikánskou senátorku Susan Collinsovou. Vyhráli také několik důležitých guvernérských voleb."
+    },
+    {
+     "title": "U Hormuzského průlivu byly zničeny čtyři tankery",
+     "text": "Íránské revoluční gardy oznámily, že u Hormuzského průlivu v noci najely na námořní miny a byly zničeny čtyři ropné tankery. Několik hodin před otevřením volebních místností v USA provedly Spojené státy úder na íránský ostrov Kešm."
+    },
+    {
+     "title": "Ruský útok na Ukrajině zabil 37 lidí",
+     "text": "Ruské bombardování střediska, kde se rozdávala humanitární pomoc, si podle ukrajinských úřadů vyžádalo 37 mrtvých a nejméně 59 lidí se pohřešuje. Rusko zasáhlo také elektrárny v Kyjevské a Žytomyrské oblasti."
+    },
+    {
+     "title": "Severní Korea odpálila několik raket",
+     "text": "Jihokorejská armáda zaznamenala několik raket, které Severní Korea odpálila směrem k moři u svého východního pobřeží."
+    },
+    {
+     "title": "Další události: Španělsko, Izrael, Etiopie",
+     "text": "Španělský ministr dopravy odstoupil kvůli železničním nehodám. Izraelská volební komise nezjistila v minulém týdnu podvody při hlasování. Etiopie vyhostila šest súdánských diplomatů."
+    }
+   ]
+  },
+  {
+   "key": "ekonomika",
+   "title": "📈 Ekonomika a trhy",
+   "items": [
+    {
+     "title": "Dow Jones měl nejlepší den od dubna 2025",
+     "text": "Dow Jones posílil o 3,03 % (+1 569 bodů) na 53 356 bodů. S&P 500 vzrostl o 1,58 % na 7 688,62 bodu a Nasdaq o 1,44 % na 25 736,51 bodu. Trhy reagovaly úlevou na jednoznačné vítězství demokratů, které snížilo nejistotu."
+    },
+    {
+     "title": "Ropa výrazně zlevnila",
+     "text": "Ropa po volbách prudce zlevnila, WTI podle jednoho zdroje spadla zhruba o 7,6 USD na přibližně 88,5 USD za barel. Ceny v různých zdrojích se ale liší. Na trhu hrají roli i zprávy o americko-íránských jednáních. Nejvíc ztrácely akcie energetických firem."
+    },
+    {
+     "title": "Zlato znovu nad 4 000 USD, výnosy dluhopisů klesají",
+     "text": "Zlato po oslabení dolaru vystoupalo zhruba na 4 050–4 060 USD za unci, během dne až k 4 070 USD. Výnos desetiletého amerického dluhopisu klesl přibližně na 4,89–4,92 %."
+    },
+    {
+     "title": "Bitcoin kolem 78–80 tisíc USD",
+     "text": "Bitcoin se podle různých zdrojů obchodoval zhruba mezi 78 300 a 80 100 USD."
+    },
+    {
+     "title": "Evropské akcie rostly",
+     "text": "Podle Benzingy přidal evropský index STOXX 600 1,7 %, německý DAX zhruba 2 %, francouzský CAC 40 2,1 %, londýnský FTSE 100 1,8 % a španělský IBEX 35 3,2 %. Datum zdroje ale nebylo možné jednoznačně ověřit."
+    },
+    {
+     "title": "McDonald's po výsledcích posílil",
+     "text": "Akcie McDonald's vzrostly poté, co firma zveřejnila lepší než očekávané hospodářské výsledky."
+    }
+   ]
+  }
+ ]
+}

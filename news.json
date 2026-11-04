@@ -1,35 +1,35 @@
 {
- "date": "2026-11-03",
- "date_cz": "03.11.2026",
- "updated_at": "2026-11-03T23:13+01:00",
+ "date": "2026-11-04",
+ "date_cz": "04.11.2026",
+ "updated_at": "2026-11-04T23:27+01:00",
  "sections": [
   {
    "key": "cr",
    "title": "🇨🇿 Česká republika",
    "items": [
     {
-     "title": "Zaměstnanci ČT a ČRo stávkují celý den",
-     "text": "Krátce po úterní půlnoci začala celodenní stávka pracovníků České televize a Českého rozhlasu. Protestují proti koaličnímu návrhu, který mění financování veřejnoprávních médií. ČT vysílá v omezeném režimu, moderátoři jsou v černém a čtou zprávy z papíru. Radiožurnál zkrátil zpravodajské relace a web iROZHLAS vede jen souhrnný online přehled."
+     "title": "Babiš: Koalice od zrušení poplatků za ČT a ČRo neustoupí",
+     "text": "Premiér Andrej Babiš (ANO) řekl, že úterní stávku zaměstnanců ČT a ČRo a demonstrace vzal na vědomí. Koalice ANO, SPD a Motoristů ale svůj plán nemění: poplatky pro občany i firmy zruší a média bude financovat ze státního rozpočtu."
     },
     {
-     "title": "Babiš: o zrušení poplatků by se ve druhém čtení mohlo jednat v lednu",
-     "text": "Podle premiéra Andreje Babiše by druhé čtení zákona o zrušení poplatků pro ČT a ČRo mohlo proběhnout v lednu. Protesty proti návrhu označil za pokrytectví. Opozice dříve ohlásila, že bude zákon obstruovat."
+     "title": "Pavel ocenil protesty, o Klempířovi rozhodne premiér",
+     "text": "Prezident Petr Pavel ocenil, že protesty za veřejnoprávní média proběhly kultivovaně, a kritiku ministra kultury Klempíře považuje za oprávněnou. Podle něj je ale na premiérovi, jestli Klempíř ve vládě zůstane."
     },
     {
-     "title": "Průzkum: většina chce financování ze státního rozpočtu, dvě třetiny ale nechtějí státní kontrolu",
-     "text": "Podle průzkumu, o kterém informovala ČT24, dává 54 % Čechů přednost financování veřejnoprávních médií ze státního rozpočtu a 34 % chce zachovat poplatky. Dvě třetiny lidí zároveň nechtějí, aby ČT a ČRo byly pod kontrolou státu."
+     "title": "Sněmovna schválila zákon o digitální ekonomice a vyšší platby za pojištěnce",
+     "text": "Poslanci přijali zákon o digitální ekonomice, který má zvýšit bezpečnost na internetu a lépe chránit děti. Schválili také zvýšení plateb státu za státní pojištěnce o 13 miliard korun, vláda přitom původně navrhovala 21 miliard."
     },
     {
-     "title": "Výhrůžky poslancům koalice a spor o zásah ve Sněmovně",
-     "text": "Poslanci ANO, SPD a Motoristů dostávají e-mailem výhrůžky a zastrašující zprávy. Ochranná služba policie uvedla, že zásah proti demonstrantům ve Sněmovně byl přiměřený, pokleknutí demonstrantů podle ní přiměřené nebylo."
+     "title": "Babiš jednal ve Varšavě s Tuskem",
+     "text": "Premiér Babiš s polským premiérem Donaldem Tuskem mluvil o energetice, evropském rozpočtu a bezpečnosti. Oba ocenili, že se obnovuje spolupráce Visegrádské čtyřky."
     },
     {
-     "title": "Krajská města skládají koalice po komunálních volbách",
-     "text": "Ve většině krajských měst už jsou nové koalice známé, v Praze a Českých Budějovicích se dál jedná. Ustavující zasedání zastupitelstev se ve většině krajských měst musí konat nejpozději v pondělí 9. listopadu."
+     "title": "Konečná odchází z KSČM",
+     "text": "Kateřina Konečná opouští KSČM, protože strana vstoupila do evropské frakce Patrioti."
     },
     {
-     "title": "Zemřel komentátor Patrik Eichler",
-     "text": "Ve věku 42 let zemřel publicista a komentátor Patrik Eichler."
+     "title": "Přichází první sníh a náledí",
+     "text": "V Česku se objevuje první sníh a nebezpečné náledí, které má podle předpovědi vydržet i v dalších dnech."
     }
    ]
   },
@@ -38,28 +38,24 @@
    "title": "🌍 Svět",
    "items": [
     {
-     "title": "V USA se konají volby do Kongresu",
-     "text": "Američané volí v midterms, které rozhodnou o kontrole Kongresu na zbytek Trumpova mandátu. Hlavními tématy jsou ekonomika a válka s Íránem. Predikční trhy ráno dávaly šanci, že demokraté ovládnou obě komory, přes 75 %. Ministerstvo spravedlnosti vyslalo rekordních 1 000 volebních pozorovatelů do všech 50 států."
+     "title": "Demokraté v amerických volbách získali obě komory Kongresu",
+     "text": "Podle projekcí mají demokraté jasnou většinu ve Sněmovně reprezentantů a získali zpět i Senát. V Maine porazil demokrat Troy Jackson republikánskou senátorku Susan Collinsovou. Vyhráli také několik důležitých guvernérských voleb."
     },
     {
-     "title": "Spory o seznamy voličů před volbami",
-     "text": "Federální soudce dočasně zakázal ministerstvům spravedlnosti a vnitřní bezpečnosti posílat státům seznamy voličů, které administrativa považuje za možné necitizeny. Nejvyšší soud USA podle ČT24 odmítl zabránit Kalifornii, aby započítala hlasovací lístky, které administrativa označuje za pravděpodobně odevzdané necitizeny."
+     "title": "U Hormuzského průlivu byly zničeny čtyři tankery",
+     "text": "Íránské revoluční gardy oznámily, že u Hormuzského průlivu v noci najely na námořní miny a byly zničeny čtyři ropné tankery. Několik hodin před otevřením volebních místností v USA provedly Spojené státy úder na íránský ostrov Kešm."
     },
     {
-     "title": "Írán a USA mají k dohodě daleko, objevily se zprávy o nových úderech",
-     "text": "Vysoký íránský představitel řekl agentuře Reuters, že Írán a USA mají k dohodě o ukončení války stále daleko. Teherán označil americkou odpověď na mírový plán za nepřesvědčivou. Podle WSJ provedly USA údery v oblasti Hormuzského průlivu, mimo jiné na ostrově Kešm a v Bandar Lenge."
+     "title": "Ruský útok na Ukrajině zabil 37 lidí",
+     "text": "Ruské bombardování střediska, kde se rozdávala humanitární pomoc, si podle ukrajinských úřadů vyžádalo 37 mrtvých a nejméně 59 lidí se pohřešuje. Rusko zasáhlo také elektrárny v Kyjevské a Žytomyrské oblasti."
     },
     {
-     "title": "Ruské letecké pumy zabily na Ukrajině 26 lidí",
-     "text": "Podle ČT24 zabily ruské letecké pumy v ukrajinské obci Komyšuvacha 26 lidí. Zástupci USA se tento týden mají sejít s představiteli zemí EU a NATO kvůli Ukrajině a evropské bezpečnosti."
+     "title": "Severní Korea odpálila několik raket",
+     "text": "Jihokorejská armáda zaznamenala několik raket, které Severní Korea odpálila směrem k moři u svého východního pobřeží."
     },
     {
-     "title": "Jemen: Húsíové jsou asi 80 km od Adenu",
-     "text": "Podle vojenských zdrojů agentury Reuters postoupili húsíové na méně než 50 mil (asi 80 km) od Adenu. Údery koalice vedené Saúdskou Arábií si podle zpráv vyžádaly 10 mrtvých."
-    },
-    {
-     "title": "Severní Korea popírá krádež kryptoměn z Binance",
-     "text": "Pchjongjang ostře odmítl obvinění FBI, že stojí za krádeží kryptoměn z burzy Binance."
+     "title": "Další události: Španělsko, Izrael, Etiopie",
+     "text": "Španělský ministr dopravy odstoupil kvůli železničním nehodám. Izraelská volební komise nezjistila v minulém týdnu podvody při hlasování. Etiopie vyhostila šest súdánských diplomatů."
     }
    ]
   },
@@ -68,28 +64,28 @@
    "title": "📈 Ekonomika a trhy",
    "items": [
     {
-     "title": "Wall Street: Nasdaq a S&P 500 rostly, Dow klesl",
-     "text": "S&P 500 ve volební den ukončil třídenní sérii poklesů a přidal 0,37 % na přibližně 7 568 bodů. Nasdaq Composite vzrostl o 0,83 % na 25 372 bodů. Dow Jones ztratil 0,38 % (−198 bodů) na zhruba 51 786 bodů. Russell 2000 přidal 0,24 %. Nasdaq-100 (+0,7 %) zůstává v korekci, asi 10 % pod nedávným maximem."
+     "title": "Dow Jones měl nejlepší den od dubna 2025",
+     "text": "Dow Jones posílil o 3,03 % (+1 569 bodů) na 53 356 bodů. S&P 500 vzrostl o 1,58 % na 7 688,62 bodu a Nasdaq o 1,44 % na 25 736,51 bodu. Trhy reagovaly úlevou na jednoznačné vítězství demokratů, které snížilo nejistotu."
     },
     {
-     "title": "Čipy se odrazily, Apple a Palantir ztrácely",
-     "text": "Růst táhly polovodičové firmy po pondělním výprodeji. Dow brzdil Apple kvůli výhledu marží a slabšímu prodeji iPadů. Palantir oslabil, přestože překonal odhady tržeb i zisku. AMD zveřejňuje výsledky po zavření burzy."
+     "title": "Ropa výrazně zlevnila",
+     "text": "Ropa po volbách prudce zlevnila, WTI podle jednoho zdroje spadla zhruba o 7,6 USD na přibližně 88,5 USD za barel. Ceny v různých zdrojích se ale liší. Na trhu hrají roli i zprávy o americko-íránských jednáních. Nejvíc ztrácely akcie energetických firem."
     },
     {
-     "title": "Evropa oslabila, Bayer posílil",
-     "text": "STOXX Europe 600 klesl o 0,58 % na 645,66 bodu a německý DAX o 0,45 % na 25 864,62 bodu. Trhy čekaly na americké volby a reagovaly na kolísání ropy po novém útoku USA na Írán. Akcie Bayeru prudce vzrostly po lepších výsledcích a zvýšeném výhledu."
+     "title": "Zlato znovu nad 4 000 USD, výnosy dluhopisů klesají",
+     "text": "Zlato po oslabení dolaru vystoupalo zhruba na 4 050–4 060 USD za unci, během dne až k 4 070 USD. Výnos desetiletého amerického dluhopisu klesl přibližně na 4,89–4,92 %."
     },
     {
-     "title": "Ropa po výkyvech klesla, zlato pod 4 000 USD",
-     "text": "Ceny ropy po kolísání kvůli dění kolem Íránu nakonec klesly. Brent se podle různých zdrojů pohyboval kolem 100 USD za barel nebo výš. Zlato během dne kolísalo zhruba mezi 3 900 a 3 970 USD za unci."
+     "title": "Bitcoin kolem 78–80 tisíc USD",
+     "text": "Bitcoin se podle různých zdrojů obchodoval zhruba mezi 78 300 a 80 100 USD."
     },
     {
-     "title": "Bitcoin kolem 77 tisíc dolarů",
-     "text": "Bitcoin se obchodoval zhruba za 76 500–77 500 USD. Za poslední týden ztratil asi 4 %, před týdnem byl kolem 80 500 USD."
+     "title": "Evropské akcie rostly",
+     "text": "Podle Benzingy přidal evropský index STOXX 600 1,7 %, německý DAX zhruba 2 %, francouzský CAC 40 2,1 %, londýnský FTSE 100 1,8 % a španělský IBEX 35 3,2 %. Datum zdroje ale nebylo možné jednoznačně ověřit."
     },
     {
-     "title": "Australská centrální banka zvýšila sazby, švýcarská inflace zrychlila",
-     "text": "Reserve Bank of Australia zvýšila hlavní úrokovou sazbu na 4,85 %. Inflace ve Švýcarsku vzrostla na 1,5 %."
+     "title": "McDonald's po výsledcích posílil",
+     "text": "Akcie McDonald's vzrostly poté, co firma zveřejnila lepší než očekávané hospodářské výsledky."
     }
    ]
   }
