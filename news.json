@@ -1,35 +1,35 @@
 {
- "date": "2026-11-04",
- "date_cz": "04.11.2026",
- "updated_at": "2026-11-04T23:27+01:00",
+ "date": "2026-11-05",
+ "date_cz": "05.11.2026",
+ "updated_at": "2026-11-05T23:34+01:00",
  "sections": [
   {
    "key": "cr",
    "title": "🇨🇿 Česká republika",
    "items": [
     {
-     "title": "Babiš: Koalice od zrušení poplatků za ČT a ČRo neustoupí",
-     "text": "Premiér Andrej Babiš (ANO) řekl, že úterní stávku zaměstnanců ČT a ČRo a demonstrace vzal na vědomí. Koalice ANO, SPD a Motoristů ale svůj plán nemění: poplatky pro občany i firmy zruší a média bude financovat ze státního rozpočtu."
+     "title": "ČNB zvýšila základní sazbu na 4 %",
+     "text": "Bankovní rada zvedla dvoutýdenní repo sazbu o 0,25 procentního bodu na 4 %. Hlasovala těsně v poměru 4:3. Jako důvod uvedla inflační tlaky a riziko dražších energií."
     },
     {
-     "title": "Pavel ocenil protesty, o Klempířovi rozhodne premiér",
-     "text": "Prezident Petr Pavel ocenil, že protesty za veřejnoprávní média proběhly kultivovaně, a kritiku ministra kultury Klempíře považuje za oprávněnou. Podle něj je ale na premiérovi, jestli Klempíř ve vládě zůstane."
+     "title": "Vláda chce rozšířit sektorovou daň i na banky",
+     "text": "Premiér Babiš a ministryně financí Schillerová dopoledne jednali se zástupci největších bank. Vláda chce pozměňovacími návrhy rozšířit zákon o zdanění rafinérií na další odvětví, podle médií třeba na banky, zbrojaře nebo energetiku. Vláda má o dani jednat v pondělí a Sněmovna příští pátek na mimořádné schůzi."
     },
     {
-     "title": "Sněmovna schválila zákon o digitální ekonomice a vyšší platby za pojištěnce",
-     "text": "Poslanci přijali zákon o digitální ekonomice, který má zvýšit bezpečnost na internetu a lépe chránit děti. Schválili také zvýšení plateb státu za státní pojištěnce o 13 miliard korun, vláda přitom původně navrhovala 21 miliard."
+     "title": "Opozice znovu neprosadila jednání o odvolání Okamury",
+     "text": "Sněmovní opozici se už potřetí po sobě nepodařilo doplnit na program schůze odvolání Tomia Okamury z funkce předsedy Sněmovny."
     },
     {
-     "title": "Babiš jednal ve Varšavě s Tuskem",
-     "text": "Premiér Babiš s polským premiérem Donaldem Tuskem mluvil o energetice, evropském rozpočtu a bezpečnosti. Oba ocenili, že se obnovuje spolupráce Visegrádské čtyřky."
+     "title": "Bombové hrozby u čtyř letadel mířících do Prahy",
+     "text": "Podle policie dostala čtyři letadla letící do Prahy bombovou hrozbu. Provoz letiště přesto běžel dál. Unijní představitel pro dopravu uvedl, že je zatím brzy říct, zda spolu hrozby v Evropě souvisejí."
     },
     {
-     "title": "Konečná odchází z KSČM",
-     "text": "Kateřina Konečná opouští KSČM, protože strana vstoupila do evropské frakce Patrioti."
+     "title": "Soud změnil výsledek voleb v Havířově",
+     "text": "Soud kvůli chybě při sčítání nechal přepočítat hlasy a výsledek voleb v Havířově změnil. Policie zároveň obvinila ženu z maření voleb v Mariánských Lázních kvůli kupování hlasů."
     },
     {
-     "title": "Přichází první sníh a náledí",
-     "text": "V Česku se objevuje první sníh a nebezpečné náledí, které má podle předpovědi vydržet i v dalších dnech."
+     "title": "Odbory ve Škodě Auto hrozí omezením výroby",
+     "text": "Odboráři ve Škodě Auto reagují na plán Volkswagenu zmrazit mzdy do roku 2030 a varují, že může dojít k omezení výroby."
     }
    ]
   },
@@ -38,24 +38,28 @@
    "title": "🌍 Svět",
    "items": [
     {
-     "title": "Demokraté v amerických volbách získali obě komory Kongresu",
-     "text": "Podle projekcí mají demokraté jasnou většinu ve Sněmovně reprezentantů a získali zpět i Senát. V Maine porazil demokrat Troy Jackson republikánskou senátorku Susan Collinsovou. Vyhráli také několik důležitých guvernérských voleb."
+     "title": "Demokraté ovládli v USA obě komory Kongresu",
+     "text": "Demokraté v amerických volbách do Kongresu získali Sněmovnu reprezentantů i Senát, kde mají podle průběžných výsledků 54 křesel proti 44. Výsledky v Mississippi a na Aljašce ještě nejsou známé. Trump i viceprezident Vance přiznali, že porážku republikánů zčásti způsobila válka s Íránem."
     },
     {
-     "title": "U Hormuzského průlivu byly zničeny čtyři tankery",
-     "text": "Íránské revoluční gardy oznámily, že u Hormuzského průlivu v noci najely na námořní miny a byly zničeny čtyři ropné tankery. Několik hodin před otevřením volebních místností v USA provedly Spojené státy úder na íránský ostrov Kešm."
+     "title": "Írán varuje USA a posílá jaderný návrh přes Katar",
+     "text": "Íránské vedení pohrozilo, že na případné nové útoky odpoví mnohem rozsáhleji. Podle agentury Reuters zároveň Teherán poslal Washingtonu přes Katar jaderný návrh, o kterém chce jednat až poté, co USA splní jeho sedm požadavků. V Perském zálivu byly napadeny další lodě, mimo jiné tanker u pobřeží Kataru."
     },
     {
-     "title": "Ruský útok na Ukrajině zabil 37 lidí",
-     "text": "Ruské bombardování střediska, kde se rozdávala humanitární pomoc, si podle ukrajinských úřadů vyžádalo 37 mrtvých a nejméně 59 lidí se pohřešuje. Rusko zasáhlo také elektrárny v Kyjevské a Žytomyrské oblasti."
+     "title": "Ruský úder na humanitární centrum na Ukrajině si vyžádal 42 mrtvých",
+     "text": "Počet obětí ruského úderu na ukrajinské centrum humanitární pomoci podle policie stoupl na 42. Turecký prezident Erdoğan po rozhovorech se Zelenským řekl, že chce s Putinem jednat o ukončení války."
     },
     {
-     "title": "Severní Korea odpálila několik raket",
-     "text": "Jihokorejská armáda zaznamenala několik raket, které Severní Korea odpálila směrem k moři u svého východního pobřeží."
+     "title": "Evropa doufá v obnovení americké podpory Ukrajiny",
+     "text": "Evropští lídři opatrně přivítali výsledky amerických voleb. Doufají, že nový Kongres ovládaný demokraty posílí podporu Ukrajině. Analytici ale čekají, že Ukrajina bude mezi prioritami demokratů až za životními náklady a válkou s Íránem."
     },
     {
-     "title": "Další události: Španělsko, Izrael, Etiopie",
-     "text": "Španělský ministr dopravy odstoupil kvůli železničním nehodám. Izraelská volební komise nezjistila v minulém týdnu podvody při hlasování. Etiopie vyhostila šest súdánských diplomatů."
+     "title": "Izraelské útoky v Gaze zabily nejméně čtyři Palestince",
+     "text": "Podle dosavadních zpráv zahynuli při izraelských útocích v Pásmu Gazy během dne nejméně čtyři Palestinci."
+    },
+    {
+     "title": "WHO schválila testy nových vakcín proti ebole",
+     "text": "Světová zdravotnická organizace povolila klinické testy dvou nových vakcín, které jsou vyvinuté přímo proti nejnovějšímu smrtelnému kmeni eboly."
     }
    ]
   },
@@ -64,28 +68,28 @@
    "title": "📈 Ekonomika a trhy",
    "items": [
     {
-     "title": "Dow Jones měl nejlepší den od dubna 2025",
-     "text": "Dow Jones posílil o 3,03 % (+1 569 bodů) na 53 356 bodů. S&P 500 vzrostl o 1,58 % na 7 688,62 bodu a Nasdaq o 1,44 % na 25 736,51 bodu. Trhy reagovaly úlevou na jednoznačné vítězství demokratů, které snížilo nejistotu."
+     "title": "Wall Street zažila nejhorší den od dubna 2025",
+     "text": "Nasdaq spadl o 5,52 % na 24 315 bodů a dostal se do korekce, tedy více než 10 % pod rekord z minulého měsíce. S&P 500 ztratil 4,36 % na 7 353,73 bodu a Dow Jones 3,44 % na 51 523 bodů, čímž smazal středeční povolební růst o 3 %. Výprodej táhly AI a čipové firmy, například AMD (−17,3 %) a Nvidia (−9,3 %)."
     },
     {
-     "title": "Ropa výrazně zlevnila",
-     "text": "Ropa po volbách prudce zlevnila, WTI podle jednoho zdroje spadla zhruba o 7,6 USD na přibližně 88,5 USD za barel. Ceny v různých zdrojích se ale liší. Na trhu hrají roli i zprávy o americko-íránských jednáních. Nejvíc ztrácely akcie energetických firem."
+     "title": "Evropské akcie převážně oslabily",
+     "text": "Německý DAX ztratil zhruba 0,4 % a technologický TecDAX 2,18 %. Britský FTSE 100 klesl o 0,43 % a Euro STOXX 50 o 0,55 %, francouzský CAC 40 naopak přidal 0,34 %. Hlavní propad Wall Street přišel až po uzavření evropských burz."
     },
     {
-     "title": "Zlato znovu nad 4 000 USD, výnosy dluhopisů klesají",
-     "text": "Zlato po oslabení dolaru vystoupalo zhruba na 4 050–4 060 USD za unci, během dne až k 4 070 USD. Výnos desetiletého amerického dluhopisu klesl přibližně na 4,89–4,92 %."
+     "title": "Pražská burza klesla, koruna mírně oslabila",
+     "text": "Index PX podle zpráv po třech dnech růstu ztratil 1,79 % na 2 639,67 bodu. Oslabily hlavně zbrojařské firmy a banky, na které dopadly zprávy o možné sektorové dani. Po zvýšení sazeb ČNB koruna vůči euru téměř stagnovala a k dolaru oslabila."
     },
     {
-     "title": "Bitcoin kolem 78–80 tisíc USD",
-     "text": "Bitcoin se podle různých zdrojů obchodoval zhruba mezi 78 300 a 80 100 USD."
+     "title": "Bitcoin smazal povolební zisky",
+     "text": "Bitcoin klesl zhruba o 5,6 % na asi 75–76 tisíc dolarů a během dne sáhl na minimum kolem 75 570 USD. Ether ztratil přes 7 %. Výprodej technologických akcií spustil na kryptotrzích likvidace pákových pozic za více než miliardu dolarů."
     },
     {
-     "title": "Evropské akcie rostly",
-     "text": "Podle Benzingy přidal evropský index STOXX 600 1,7 %, německý DAX zhruba 2 %, francouzský CAC 40 2,1 %, londýnský FTSE 100 1,8 % a španělský IBEX 35 3,2 %. Datum zdroje ale nebylo možné jednoznačně ověřit."
+     "title": "Zlato jako bezpečný přístav, ropa roste",
+     "text": "Zlato vystoupalo až na 4 116 USD za unci a pak se drželo kolem 4 100 USD, podle jedné analýzy denně zhruba +1,3 %. Ropa Brent po povolebním propadu znovu zdražila, podle jednoho zdroje během americké seance o 4,1 %, kvůli dalším útokům na lodě v Perském zálivu."
     },
     {
-     "title": "McDonald's po výsledcích posílil",
-     "text": "Akcie McDonald's vzrostly poté, co firma zveřejnila lepší než očekávané hospodářské výsledky."
+     "title": "Rusko zabralo ruskou pobočku tabákového koncernu JTI",
+     "text": "Rusko převzalo kontrolu nad ruskými aktivitami japonského tabákového giganta Japan Tobacco International."
     }
    ]
   }
