@@ -1,35 +1,35 @@
 {
- "date": "2026-11-05",
- "date_cz": "05.11.2026",
- "updated_at": "2026-11-05T23:34+01:00",
+ "date": "2026-11-06",
+ "date_cz": "06.11.2026",
+ "updated_at": "2026-11-06T22:57+01:00",
  "sections": [
   {
    "key": "cr",
    "title": "🇨🇿 Česká republika",
    "items": [
     {
-     "title": "ČNB zvýšila základní sazbu na 4 %",
-     "text": "Bankovní rada zvedla dvoutýdenní repo sazbu o 0,25 procentního bodu na 4 %. Hlasovala těsně v poměru 4:3. Jako důvod uvedla inflační tlaky a riziko dražších energií."
+     "title": "Velký výpadek proudu v Praze přerušil i jednání Sněmovny",
+     "text": "Proud vypadl hlavně v Praze 5, Praze 6 a na Malé Straně. Výpadek trval asi 45 minut a týkal se zhruba 70 000 odběratelů. Podle PRE ho způsobil technický problém na rozvodnách Červený vrch a Západ. Zastavil tramvaje i lanovku na Petřín, vypnul semafory a krátce zasáhl nemocnice Motol a ÚVN."
     },
     {
-     "title": "Vláda chce rozšířit sektorovou daň i na banky",
-     "text": "Premiér Babiš a ministryně financí Schillerová dopoledne jednali se zástupci největších bank. Vláda chce pozměňovacími návrhy rozšířit zákon o zdanění rafinérií na další odvětví, podle médií třeba na banky, zbrojaře nebo energetiku. Vláda má o dani jednat v pondělí a Sněmovna příští pátek na mimořádné schůzi."
+     "title": "Sněmovna ukončila třítýdenní schůzi",
+     "text": "Poslanci uzavřeli schůzi, která začala v polovině října. Dopoledne museli jednání přerušit kvůli výpadku elektřiny."
     },
     {
-     "title": "Opozice znovu neprosadila jednání o odvolání Okamury",
-     "text": "Sněmovní opozici se už potřetí po sobě nepodařilo doplnit na program schůze odvolání Tomia Okamury z funkce předsedy Sněmovny."
+     "title": "Od dneška platí vyšší sazby ČNB, banka čeká vyšší schodek",
+     "text": "Od 6. listopadu platí základní sazba 4,00 %, kterou ČNB zvýšila ve čtvrtek o 0,25 bodu. Je to letos druhé zvýšení. ČNB zároveň zhoršila odhad schodku veřejných financí na letošek i na další dva roky. Ministerstvo financí počítá se schodkem 2,8 % HDP letos a 3,5 % HDP příští rok."
     },
     {
-     "title": "Bombové hrozby u čtyř letadel mířících do Prahy",
-     "text": "Podle policie dostala čtyři letadla letící do Prahy bombovou hrozbu. Provoz letiště přesto běžel dál. Unijní představitel pro dopravu uvedl, že je zatím brzy říct, zda spolu hrozby v Evropě souvisejí."
+     "title": "Evropská komise zařadila Česko mezi země ohrožené migrací",
+     "text": "Česko je podle Evropské komise jednou ze zemí, které jsou ohrožené migrací."
     },
     {
-     "title": "Soud změnil výsledek voleb v Havířově",
-     "text": "Soud kvůli chybě při sčítání nechal přepočítat hlasy a výsledek voleb v Havířově změnil. Policie zároveň obvinila ženu z maření voleb v Mariánských Lázních kvůli kupování hlasů."
+     "title": "Průzkum NMS: Vedlo by ANO, posilují lidovci a Naše Česko",
+     "text": "Podle nového průzkumu agentury NMS by volby vyhrálo hnutí ANO. Roste podpora KDU-ČSL a uskupení Naše Česko."
     },
     {
-     "title": "Odbory ve Škodě Auto hrozí omezením výroby",
-     "text": "Odboráři ve Škodě Auto reagují na plán Volkswagenu zmrazit mzdy do roku 2030 a varují, že může dojít k omezení výroby."
+     "title": "Mrazivé ráno",
+     "text": "Ráno mrzlo i mimo hory. Na Jizerce naměřili −10,3 °C."
     }
    ]
   },
@@ -38,28 +38,28 @@
    "title": "🌍 Svět",
    "items": [
     {
-     "title": "Demokraté ovládli v USA obě komory Kongresu",
-     "text": "Demokraté v amerických volbách do Kongresu získali Sněmovnu reprezentantů i Senát, kde mají podle průběžných výsledků 54 křesel proti 44. Výsledky v Mississippi a na Aljašce ještě nejsou známé. Trump i viceprezident Vance přiznali, že porážku republikánů zčásti způsobila válka s Íránem."
+     "title": "Bombové hrozby na nejméně 18 letech v Evropě",
+     "text": "Hrozby vedly k nouzovým přistáním, odklonům letů, doprovodu stíhaček a bezpečnostním kontrolám. Letadla kvůli nim kontrolují i na pražském letišti."
     },
     {
-     "title": "Írán varuje USA a posílá jaderný návrh přes Katar",
-     "text": "Íránské vedení pohrozilo, že na případné nové útoky odpoví mnohem rozsáhleji. Podle agentury Reuters zároveň Teherán poslal Washingtonu přes Katar jaderný návrh, o kterém chce jednat až poté, co USA splní jeho sedm požadavků. V Perském zálivu byly napadeny další lodě, mimo jiné tanker u pobřeží Kataru."
+     "title": "Francii zasáhly velké protesty kvůli mzdám a životním nákladům",
+     "text": "Při celostátních demonstracích úřady zadržely přes 400 lidí. Zraněno bylo více než 50 policistů."
     },
     {
-     "title": "Ruský úder na humanitární centrum na Ukrajině si vyžádal 42 mrtvých",
-     "text": "Počet obětí ruského úderu na ukrajinské centrum humanitární pomoci podle policie stoupl na 42. Turecký prezident Erdoğan po rozhovorech se Zelenským řekl, že chce s Putinem jednat o ukončení války."
+     "title": "Napětí v Hormuzském průlivu",
+     "text": "Íránské revoluční gardy tvrdí, že nad ostrovem Kešm sestřelily dva americké průzkumné drony MQM-170. Trump mezitím s katarským emírem jednal o uklidnění situace na Blízkém východě."
     },
     {
-     "title": "Evropa doufá v obnovení americké podpory Ukrajiny",
-     "text": "Evropští lídři opatrně přivítali výsledky amerických voleb. Doufají, že nový Kongres ovládaný demokraty posílí podporu Ukrajině. Analytici ale čekají, že Ukrajina bude mezi prioritami demokratů až za životními náklady a válkou s Íránem."
+     "title": "Válka na Ukrajině a kroky Kremlu",
+     "text": "Útok dronu zapálil sklad firmy Ozon na jihu Ruska. Putin zároveň nechal převzít ruskou část japonského tabákového koncernu JTI."
     },
     {
-     "title": "Izraelské útoky v Gaze zabily nejméně čtyři Palestince",
-     "text": "Podle dosavadních zpráv zahynuli při izraelských útocích v Pásmu Gazy během dne nejméně čtyři Palestinci."
+     "title": "USA zavedly nové sankce kvůli Kubě",
+     "text": "Sankce míří na osm firem, dvě osoby a pět ropných tankerů napojených na Kubu."
     },
     {
-     "title": "WHO schválila testy nových vakcín proti ebole",
-     "text": "Světová zdravotnická organizace povolila klinické testy dvou nových vakcín, které jsou vyvinuté přímo proti nejnovějšímu smrtelnému kmeni eboly."
+     "title": "Jemen: od srpna přes 1 700 mrtvých",
+     "text": "Podle WHO zahynulo v Jemenu od srpna 1 771 lidí a 7 959 bylo zraněno."
     }
    ]
   },
@@ -68,28 +68,28 @@
    "title": "📈 Ekonomika a trhy",
    "items": [
     {
-     "title": "Wall Street zažila nejhorší den od dubna 2025",
-     "text": "Nasdaq spadl o 5,52 % na 24 315 bodů a dostal se do korekce, tedy více než 10 % pod rekord z minulého měsíce. S&P 500 ztratil 4,36 % na 7 353,73 bodu a Dow Jones 3,44 % na 51 523 bodů, čímž smazal středeční povolební růst o 3 %. Výprodej táhly AI a čipové firmy, například AMD (−17,3 %) a Nvidia (−9,3 %)."
+     "title": "Wall Street po čtvrtečním propadu částečně odrazila",
+     "text": "S&P 500 přidal 0,31 % na 7 376,86 bodu a Nasdaq 1,09 % na 24 579,42 bodu. Dow Jones ztratil 0,46 % (−237 bodů) na 51 285,73 bodu. Ve čtvrtek přitom Dow spadl o více než 1 800 bodů a Nasdaq zhruba o 4 %, protože se trh zbavoval akcií spojených s AI."
     },
     {
-     "title": "Evropské akcie převážně oslabily",
-     "text": "Německý DAX ztratil zhruba 0,4 % a technologický TecDAX 2,18 %. Britský FTSE 100 klesl o 0,43 % a Euro STOXX 50 o 0,55 %, francouzský CAC 40 naopak přidal 0,34 %. Hlavní propad Wall Street přišel až po uzavření evropských burz."
+     "title": "Čipaři se zotavují",
+     "text": "Polovodičový index z Philadelphie podle zpráv stoupl o 6,5 % a vrátil část čtvrtečních ztrát."
     },
     {
-     "title": "Pražská burza klesla, koruna mírně oslabila",
-     "text": "Index PX podle zpráv po třech dnech růstu ztratil 1,79 % na 2 639,67 bodu. Oslabily hlavně zbrojařské firmy a banky, na které dopadly zprávy o možné sektorové dani. Po zvýšení sazeb ČNB koruna vůči euru téměř stagnovala a k dolaru oslabila."
+     "title": "Evropské akcie klesly kvůli technologickým titulům",
+     "text": "Německý DAX zavřel o 1,92 % níž na 25 820,37 bodu. Index STOXX 600 ztrácel během dne asi 1,2 % (kolem 647 bodů), CAC 40 asi 1,1 % a FTSE 100 asi 1,5 %. Dolů táhly hlavně ASML a Infineon."
     },
     {
-     "title": "Bitcoin smazal povolební zisky",
-     "text": "Bitcoin klesl zhruba o 5,6 % na asi 75–76 tisíc dolarů a během dne sáhl na minimum kolem 75 570 USD. Ether ztratil přes 7 %. Výprodej technologických akcií spustil na kryptotrzích likvidace pákových pozic za více než miliardu dolarů."
+     "title": "Bitcoin znovu pod 80 000 USD",
+     "text": "Ve čtvrtek se bitcoin držel kolem 79 600 USD, v pátek podle dostupných dat klesl zhruba k 75 700 USD. Od rekordu kolem 126 000 USD je tak zhruba o 37–40 % níž."
     },
     {
-     "title": "Zlato jako bezpečný přístav, ropa roste",
-     "text": "Zlato vystoupalo až na 4 116 USD za unci a pak se drželo kolem 4 100 USD, podle jedné analýzy denně zhruba +1,3 %. Ropa Brent po povolebním propadu znovu zdražila, podle jednoho zdroje během americké seance o 4,1 %, kvůli dalším útokům na lodě v Perském zálivu."
+     "title": "Zlato kolem 4 080 USD, ropa Brent kolem 97 USD",
+     "text": "Spotové zlato se obchodovalo kolem 4 084 USD za unci, futures kolem 4 057 USD. Brent byl kolem 96,7 USD za barel. Ropa se drží výrazně pod nedávným vrcholem: WTI minulý pátek dosáhla 106 USD."
     },
     {
-     "title": "Rusko zabralo ruskou pobočku tabákového koncernu JTI",
-     "text": "Rusko převzalo kontrolu nad ruskými aktivitami japonského tabákového giganta Japan Tobacco International."
+     "title": "Sazby: ČNB i Bank of England zpřísňují",
+     "text": "Od dneška platí v Česku základní sazba 4,00 %. Nová prognóza ČNB připouští další zvyšování až k 4,5 % a koruna na čtvrteční rozhodnutí reagovala jen málo. Ve čtvrtek zvýšila sazby i Bank of England."
     }
    ]
   }

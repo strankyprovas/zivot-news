@@ -1,0 +1,97 @@
+{
+ "date": "2026-11-06",
+ "date_cz": "06.11.2026",
+ "updated_at": "2026-11-06T22:57+01:00",
+ "sections": [
+  {
+   "key": "cr",
+   "title": "🇨🇿 Česká republika",
+   "items": [
+    {
+     "title": "Velký výpadek proudu v Praze přerušil i jednání Sněmovny",
+     "text": "Proud vypadl hlavně v Praze 5, Praze 6 a na Malé Straně. Výpadek trval asi 45 minut a týkal se zhruba 70 000 odběratelů. Podle PRE ho způsobil technický problém na rozvodnách Červený vrch a Západ. Zastavil tramvaje i lanovku na Petřín, vypnul semafory a krátce zasáhl nemocnice Motol a ÚVN."
+    },
+    {
+     "title": "Sněmovna ukončila třítýdenní schůzi",
+     "text": "Poslanci uzavřeli schůzi, která začala v polovině října. Dopoledne museli jednání přerušit kvůli výpadku elektřiny."
+    },
+    {
+     "title": "Od dneška platí vyšší sazby ČNB, banka čeká vyšší schodek",
+     "text": "Od 6. listopadu platí základní sazba 4,00 %, kterou ČNB zvýšila ve čtvrtek o 0,25 bodu. Je to letos druhé zvýšení. ČNB zároveň zhoršila odhad schodku veřejných financí na letošek i na další dva roky. Ministerstvo financí počítá se schodkem 2,8 % HDP letos a 3,5 % HDP příští rok."
+    },
+    {
+     "title": "Evropská komise zařadila Česko mezi země ohrožené migrací",
+     "text": "Česko je podle Evropské komise jednou ze zemí, které jsou ohrožené migrací."
+    },
+    {
+     "title": "Průzkum NMS: Vedlo by ANO, posilují lidovci a Naše Česko",
+     "text": "Podle nového průzkumu agentury NMS by volby vyhrálo hnutí ANO. Roste podpora KDU-ČSL a uskupení Naše Česko."
+    },
+    {
+     "title": "Mrazivé ráno",
+     "text": "Ráno mrzlo i mimo hory. Na Jizerce naměřili −10,3 °C."
+    }
+   ]
+  },
+  {
+   "key": "svet",
+   "title": "🌍 Svět",
+   "items": [
+    {
+     "title": "Bombové hrozby na nejméně 18 letech v Evropě",
+     "text": "Hrozby vedly k nouzovým přistáním, odklonům letů, doprovodu stíhaček a bezpečnostním kontrolám. Letadla kvůli nim kontrolují i na pražském letišti."
+    },
+    {
+     "title": "Francii zasáhly velké protesty kvůli mzdám a životním nákladům",
+     "text": "Při celostátních demonstracích úřady zadržely přes 400 lidí. Zraněno bylo více než 50 policistů."
+    },
+    {
+     "title": "Napětí v Hormuzském průlivu",
+     "text": "Íránské revoluční gardy tvrdí, že nad ostrovem Kešm sestřelily dva americké průzkumné drony MQM-170. Trump mezitím s katarským emírem jednal o uklidnění situace na Blízkém východě."
+    },
+    {
+     "title": "Válka na Ukrajině a kroky Kremlu",
+     "text": "Útok dronu zapálil sklad firmy Ozon na jihu Ruska. Putin zároveň nechal převzít ruskou část japonského tabákového koncernu JTI."
+    },
+    {
+     "title": "USA zavedly nové sankce kvůli Kubě",
+     "text": "Sankce míří na osm firem, dvě osoby a pět ropných tankerů napojených na Kubu."
+    },
+    {
+     "title": "Jemen: od srpna přes 1 700 mrtvých",
+     "text": "Podle WHO zahynulo v Jemenu od srpna 1 771 lidí a 7 959 bylo zraněno."
+    }
+   ]
+  },
+  {
+   "key": "ekonomika",
+   "title": "📈 Ekonomika a trhy",
+   "items": [
+    {
+     "title": "Wall Street po čtvrtečním propadu částečně odrazila",
+     "text": "S&P 500 přidal 0,31 % na 7 376,86 bodu a Nasdaq 1,09 % na 24 579,42 bodu. Dow Jones ztratil 0,46 % (−237 bodů) na 51 285,73 bodu. Ve čtvrtek přitom Dow spadl o více než 1 800 bodů a Nasdaq zhruba o 4 %, protože se trh zbavoval akcií spojených s AI."
+    },
+    {
+     "title": "Čipaři se zotavují",
+     "text": "Polovodičový index z Philadelphie podle zpráv stoupl o 6,5 % a vrátil část čtvrtečních ztrát."
+    },
+    {
+     "title": "Evropské akcie klesly kvůli technologickým titulům",
+     "text": "Německý DAX zavřel o 1,92 % níž na 25 820,37 bodu. Index STOXX 600 ztrácel během dne asi 1,2 % (kolem 647 bodů), CAC 40 asi 1,1 % a FTSE 100 asi 1,5 %. Dolů táhly hlavně ASML a Infineon."
+    },
+    {
+     "title": "Bitcoin znovu pod 80 000 USD",
+     "text": "Ve čtvrtek se bitcoin držel kolem 79 600 USD, v pátek podle dostupných dat klesl zhruba k 75 700 USD. Od rekordu kolem 126 000 USD je tak zhruba o 37–40 % níž."
+    },
+    {
+     "title": "Zlato kolem 4 080 USD, ropa Brent kolem 97 USD",
+     "text": "Spotové zlato se obchodovalo kolem 4 084 USD za unci, futures kolem 4 057 USD. Brent byl kolem 96,7 USD za barel. Ropa se drží výrazně pod nedávným vrcholem: WTI minulý pátek dosáhla 106 USD."
+    },
+    {
+     "title": "Sazby: ČNB i Bank of England zpřísňují",
+     "text": "Od dneška platí v Česku základní sazba 4,00 %. Nová prognóza ČNB připouští další zvyšování až k 4,5 % a koruna na čtvrteční rozhodnutí reagovala jen málo. Ve čtvrtek zvýšila sazby i Bank of England."
+    }
+   ]
+  }
+ ]
+}
