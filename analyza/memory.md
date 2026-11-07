@@ -1,27 +1,29 @@
-- 2026-11-06: AI-ROUT PRASKL — Nasdaq −5,52 %/S&P −4,36 %, spouštěč modrá vlna v midterms → strach z regulace AI + zpomalení datacenter; nejhůř od jara. (běží, klíčové)
-- 2026-11-06: PRVNÍ STABILIZACE — den po routu futures zelené (NDX ~+1,35 %), Nvidia +3,6 % předobchod; test, jestli odraz vydrží, nebo je to reflex. (běží, klíčové)
-- 2026-11-06: VIX 26,54 (1T +36,66 %) — drobně dolů z 28,18, ale risk-off trvá; klid až pod 20. (běží, klíčové)
-- 2026-11-06: DEKAPLINK EVROPY OSLABIL — DAX 1D −2,35 %, Evropa se přidala k výprodeji; „zelená Evropa" z předvčerejška se přes noc nepotvrdila. (běží, klíčové)
-- 2026-11-06: NASDAQ KOREKCE — QQQ $647,05, 1M −14,61 %; přikupovat malými dávkami do slabosti, ne naráz. (běží, klíčové)
+- 2026-11-06: AI-ROUT (spouštěč modrá vlna v midterms → strach z regulace AI a zpomalení datacenter); nejhorší týden od dubna 2025. (běží, klíčové)
+- 2026-11-07: ODRAZ DRŽÍ 2. DEN — Nvidia +3,7 %, čipy +4,6 %, QQQ +1,40 %; ale týden červený počtvrté → reflexní bounce, ne potvrzené dno. (běží, klíčové)
+- 2026-11-07: VIX 25,64 (1T +32 %, 1M +66 %) — klesá pomalu, pořád nad 20; risk-off trvá, klid až pod 20. (běží, klíčové)
+- 2026-11-07: KOREKCE, NE KRACH — S&P ~5 % pod ATH, YTD +7,76 %; Nasdaq 1M −9,61 %, QQQ 1M −12,24 %. (běží, klíčové)
+- 2026-11-07: ČASOVÝ POSUN EU FONDŮ — VWCE/MSCI World 1D −2,28 %/−2,06 % dohání čtvrteční US rout, ne nový propad; v pondělí srovnají. (běží)
+- 2026-11-07: QQQ $656 (1M −12,24 %, YTD +6,80 %) — korekce, DCA malými dávkami do slabosti, ne naráz. (běží, klíčové)
+- 2026-11-07: JÁDRO VWCE €165,98 / MSCI World €127,79 (YTD +14 %) — DCA páteř, globálně drží líp než samotný Nasdaq. (běží, klíčové)
 - 2026-11-06: RIZIKO AI-REGULACE — hlavní driver sektoru; politika hýbe čipy víc než makro. (běží, klíčové)
-- 2026-11-06: JÁDRO VWCE €164,46 / MSCI World €126,20 (YTD +13,1 %) — spadlo z maxim, globálně drží; DCA páteř. (běží, klíčové)
-- 2026-11-06: ZLATO $4 079 (YTD −6,05 %) — pojistka, ne přehřáté ATH; nehonit, přidávat do slabosti ne do odrazu. (běží)
-- 2026-11-06: STŘÍBRO $52,14 — YTD −25,66 %, 1M −11,72 %, padající nůž; obrat až nad $62 s objemem. (běží)
-- 2026-11-06: MĚĎ $6,257 (1R +26,52 %) — strukturální teze drží, krátkodobě sráží risk-off (1T −3,12 %); přidávat po uklidnění. (běží, klíčové)
-- 2026-11-06: 10LETÝ 4,837 % — nad 4,5 %, dusí TLT i kovy. (běží, klíčové)
-- 2026-11-06: TLT $81,93 (1R −8,72 %) — vstup až 10letý trvale pod 4,5 %. (běží)
-- 2026-11-06: ROPA WTI $90,95 (1T −12,65 %) — odraz z de-eskalace pokračuje, týdně hluboko dole; „splasknutí, ne krach" drží. (běží, klíčové)
-- 2026-11-06: DOLAR USD/CZK 21,79 (+0,93 %) — risk-off bid sílí; EUR/USD 1,1176. (běží)
-- 2026-11-06: BITCOIN $75 992 (1R −24,98 %) — pod $80k, risk-off, víkend riziko kaskády; dokupovat až nad $80k s objemem. (běží)
-- 2026-11-06: ETH $2 239 (1R −32,41 %) — v panice beta prohrála; náznak ETH>BTC padl. (běží)
+- 2026-11-07: ZLATO $4 080 (YTD −6,03 %, −27 % z 52t max 5 586) — zdravá korekce po raketovém roce, pojistka; přidávat do slabosti, ne honit. (běží)
+- 2026-11-07: STŘÍBRO $51,97 (YTD −25,91 %, 3M −20,18 %) — padající nůž, týdenní +5,84 % je jen záškub; obrat až nad $62 s objemem. (běží)
+- 2026-11-07: MĚĎ $6,26 (1R +26,58 %, 1T −3,07 %) — struktura drží, risk-off sráží krátkodobě; přidávat po uklidnění. (běží, klíčové)
+- 2026-11-07: 10LETÝ 4,86 % (YTD +16,72 %) — nad 4,5 %, dusí TLT i kovy. (běží, klíčové)
+- 2026-11-07: TLT $81,92 (1R −8,54 %) — bez katalyzátoru; vstup až 10letý trvale pod 4,5 %. (běží)
+- 2026-11-07: ROPA WTI $90,34 (3M +10 %, YTD +57 %) — drží po de-eskalaci; „splasknutí, ne krach". (běží)
+- 2026-11-07: DOLAR USD/CZK 21,66 (z 21,79) — risk-off bid povolil s odrazem; EUR/USD 1,1228. (běží)
+- 2026-11-07: BITCOIN $75 795 (1R −26,68 %) — pod $80k, víkend riziko kaskády; dokupovat až trvale nad $80k s objemem. (běží)
+- 2026-11-07: ETH $2 236 (1R −34,90 %) — v panice beta prohrává, horší než BTC. (běží)
+- 2026-11-07: PROSINCOVÝ HIKE — teze „slábne" NEVYŠLA; silný NFP (165 tis. říjen) hike-sázky zase přiživil. (nevyšlo → sledovat)
 - 2026-11-06: PRAVIDLO — trh trestá beat s horší matematikou (QCOM, ARM), odměňuje beat kde čísla sedí. (běží, klíčové)
-- 2026-11-06: PROSINCOVÝ HIKE SLÁBNE — po routu trh srazil pravděpodobnost (~82 %→~67 %); panika mění kalkul Fedu. (běží)
-- 2026-11-06: NFP (říjen) — brát data po shutdownu s rezervou. (běží)
+- 2026-11-06: NFP (říjen) 165 tis. — silný, ale po shutdownu brát s rezervou. (běží)
 
 ## Uzavřeno
-- 2026-11-06: „VIX nad 20 = risk-off" → VYŠLO (vrchol 28,18, +69,66 % za den).
+- 2026-11-06: „První stabilizace po routu" → VYŠLO: odraz vydržel i druhý den (QQQ +1,40 %).
+- 2026-11-06: „VIX nad 20 = risk-off" → VYŠLO (vrchol 28,18).
 - 2026-11-06: „QCOM varování = hlavičkové riziko čipů" → VYŠLO, palivo routu.
-- 2026-11-06: „Rotace Dow vs Nasdaq" → VYŠLO silně (Dow 1M +0,67 % vs Nasdaq −11,71 %).
+- 2026-11-06: „Rotace Dow vs Nasdaq" → VYŠLO, pak se v pátek otočila zpět do techu.
 - 2026-11-05: „Gridlock rally" → VYŠLO, pak se obrátilo v AI-rout.
 - 2026-10-30: „Intel slabý výhled" → VYŠLO: −30 %, spouštěč techkorekce.
 - 2026-10-15: „Čipy zlomí/potvrdí tezi" → VYŠLO: křehkost se naplno projevila 6.11.
