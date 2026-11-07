@@ -1,35 +1,31 @@
 {
- "date": "2026-11-06",
- "date_cz": "06.11.2026",
- "updated_at": "2026-11-06T22:57+01:00",
+ "date": "2026-11-07",
+ "date_cz": "07.11.2026",
+ "updated_at": "2026-11-07T21:41+01:00",
  "sections": [
   {
    "key": "cr",
    "title": "🇨🇿 Česká republika",
    "items": [
     {
-     "title": "Velký výpadek proudu v Praze přerušil i jednání Sněmovny",
-     "text": "Proud vypadl hlavně v Praze 5, Praze 6 a na Malé Straně. Výpadek trval asi 45 minut a týkal se zhruba 70 000 odběratelů. Podle PRE ho způsobil technický problém na rozvodnách Červený vrch a Západ. Zastavil tramvaje i lanovku na Petřín, vypnul semafory a krátce zasáhl nemocnice Motol a ÚVN."
+     "title": "Rekordní mrazy na horách",
+     "text": "V noci na sobotu klesly teploty na horách až pod −14 °C. Na osmi ze 169 meteorologických stanic, které měří déle než 30 let, padly rekordy nejnižší teploty pro 7. listopad."
     },
     {
-     "title": "Sněmovna ukončila třítýdenní schůzi",
-     "text": "Poslanci uzavřeli schůzi, která začala v polovině října. Dopoledne museli jednání přerušit kvůli výpadku elektřiny."
+     "title": "Čermák už není stíhán za podporu terorismu",
+     "text": "Státní zástupce zrušil stíhání aktivisty proti covidovým opatřením a šiřitele dezinformací Tomáše Čermáka za podporu terorismu. Stíhání skončilo i u tří dalších lidí, jeden člověk zůstává obviněn ze pomoci."
     },
     {
-     "title": "Od dneška platí vyšší sazby ČNB, banka čeká vyšší schodek",
-     "text": "Od 6. listopadu platí základní sazba 4,00 %, kterou ČNB zvýšila ve čtvrtek o 0,25 bodu. Je to letos druhé zvýšení. ČNB zároveň zhoršila odhad schodku veřejných financí na letošek i na další dva roky. Ministerstvo financí počítá se schodkem 2,8 % HDP letos a 3,5 % HDP příští rok."
+     "title": "Maximální ceny pohonných hmot na víkend",
+     "text": "Ministerstvo financí vyhlásilo maximální ceny pohonných hmot na období 7.–9. listopadu. Litr benzinu stojí nejvýše 47,28 Kč s DPH. Ceny jsou zastropované podle vládního nařízení, které platí pro celý listopad."
     },
     {
-     "title": "Evropská komise zařadila Česko mezi země ohrožené migrací",
-     "text": "Česko je podle Evropské komise jednou ze zemí, které jsou ohrožené migrací."
+     "title": "Vláda posiluje krizovou připravenost",
+     "text": "Kabinet chce posílit připravenost Česka na krize. Ministr Metnar odmítá, že by stát spoléhal jen na jednu informační brožuru."
     },
     {
-     "title": "Průzkum NMS: Vedlo by ANO, posilují lidovci a Naše Česko",
-     "text": "Podle nového průzkumu agentury NMS by volby vyhrálo hnutí ANO. Roste podpora KDU-ČSL a uskupení Naše Česko."
-    },
-    {
-     "title": "Mrazivé ráno",
-     "text": "Ráno mrzlo i mimo hory. Na Jizerce naměřili −10,3 °C."
+     "title": "Lipavský kritizuje postup vlády",
+     "text": "Exministr zahraničí Jan Lipavský (za ODS) kritizoval, jak vláda postupuje, a vytkl jí, že věc neprobrala s opozicí."
     }
    ]
   },
@@ -38,28 +34,28 @@
    "title": "🌍 Svět",
    "items": [
     {
-     "title": "Bombové hrozby na nejméně 18 letech v Evropě",
-     "text": "Hrozby vedly k nouzovým přistáním, odklonům letů, doprovodu stíhaček a bezpečnostním kontrolám. Letadla kvůli nim kontrolují i na pražském letišti."
+     "title": "Ruský noční útok na Kyjevskou oblast",
+     "text": "Při nočním ruském útoku na Kyjevskou oblast zemřel jeden člověk. Útok poškodil domy i energetickou infrastrukturu, uvedl šéf regionální vojenské správy Tymur Tkačenko."
     },
     {
-     "title": "Francii zasáhly velké protesty kvůli mzdám a životním nákladům",
-     "text": "Při celostátních demonstracích úřady zadržely přes 400 lidí. Zraněno bylo více než 50 policistů."
+     "title": "Peking jedná o schůzce Si–Trump–Putin",
+     "text": "Čína potvrdila, že se jedná o možném setkání prezidentů Číny, USA a Ruska. Podle Guardianu by ho Rusko mohlo využít k prosazování svého postoje k Ukrajině."
     },
     {
-     "title": "Napětí v Hormuzském průlivu",
-     "text": "Íránské revoluční gardy tvrdí, že nad ostrovem Kešm sestřelily dva americké průzkumné drony MQM-170. Trump mezitím s katarským emírem jednal o uklidnění situace na Blízkém východě."
+     "title": "USA znovu udeřily na Írán",
+     "text": "Prezident Trump oznámil, že USA provedly další kolo „menších“ úderů na Írán."
     },
     {
-     "title": "Válka na Ukrajině a kroky Kremlu",
-     "text": "Útok dronu zapálil sklad firmy Ozon na jihu Ruska. Putin zároveň nechal převzít ruskou část japonského tabákového koncernu JTI."
+     "title": "Demokraté ovládli Kongres, republikáni hledají cestu dál",
+     "text": "Po úterních volbách v polovině mandátu získali demokraté podle projekcí kontrolu nad Sněmovnou reprezentantů i Senátem. Viceprezident Vance označil za hlavní důvod porážky republikánů válku s Íránem."
     },
     {
-     "title": "USA zavedly nové sankce kvůli Kubě",
-     "text": "Sankce míří na osm firem, dvě osoby a pět ropných tankerů napojených na Kubu."
+     "title": "Paraguay: Kongres odvolal prezidenta Peñu",
+     "text": "Prezidenta Santiaga Peñu podle Guardianu zadrželi několik minut poté, co ho Kongres odvolal. Krizi spustil pád digitální banky Ueno, kterou centrální banka 3. listopadu převzala a zablokovala účty milionům klientů. Peña byl do roku 2025 akcionářem její mateřské společnosti."
     },
     {
-     "title": "Jemen: od srpna přes 1 700 mrtvých",
-     "text": "Podle WHO zahynulo v Jemenu od srpna 1 771 lidí a 7 959 bylo zraněno."
+     "title": "Tisíce syrských vojáků míří do Saúdské Arábie a Jemenu",
+     "text": "Podle ČT24 budou v Saúdské Arábii a Jemenu nasazeny tisíce syrských vojáků."
     }
    ]
   },
@@ -68,28 +64,28 @@
    "title": "📈 Ekonomika a trhy",
    "items": [
     {
-     "title": "Wall Street po čtvrtečním propadu částečně odrazila",
-     "text": "S&P 500 přidal 0,31 % na 7 376,86 bodu a Nasdaq 1,09 % na 24 579,42 bodu. Dow Jones ztratil 0,46 % (−237 bodů) na 51 285,73 bodu. Ve čtvrtek přitom Dow spadl o více než 1 800 bodů a Nasdaq zhruba o 4 %, protože se trh zbavoval akcií spojených s AI."
+     "title": "Wall Street v pátek: technologie se odrazily, Dow oslaboval",
+     "text": "Nasdaq posílil o 1,09 % na 24 579 bodů a S&P 500 o 0,31 % na 7 376,86 bodu. Dow Jones klesl o 0,46 % na 51 285,73 bodu. Za týden ztratil S&P 500 asi 2,7 %. V sobotu se neobchoduje."
     },
     {
-     "title": "Čipaři se zotavují",
-     "text": "Polovodičový index z Philadelphie podle zpráv stoupl o 6,5 % a vrátil část čtvrtečních ztrát."
+     "title": "Čtvrteční propad kvůli obavám z regulace AI",
+     "text": "Ve čtvrtek se Nasdaq propadl o 5,5 %, S&P 500 o 4,4 % a Dow o 3,4 %. Investoři se po vítězství demokratů ve volbách začali obávat přísnější regulace umělé inteligence. V pátek se částečně vzpamatovaly hlavně čipové firmy."
     },
     {
-     "title": "Evropské akcie klesly kvůli technologickým titulům",
-     "text": "Německý DAX zavřel o 1,92 % níž na 25 820,37 bodu. Index STOXX 600 ztrácel během dne asi 1,2 % (kolem 647 bodů), CAC 40 asi 1,1 % a FTSE 100 asi 1,5 %. Dolů táhly hlavně ASML a Infineon."
+     "title": "Silný trh práce zvyšuje šanci na zvýšení sazeb",
+     "text": "Americká ekonomika v říjnu vytvořila 165 tisíc pracovních míst, téměř trojnásobek očekávání. Nezaměstnanost klesla na 4,1 %. Trh podle CME FedWatch odhaduje šanci na zvýšení sazeb Fedem v prosinci zhruba na 80 % a dolar posílil."
     },
     {
-     "title": "Bitcoin znovu pod 80 000 USD",
-     "text": "Ve čtvrtek se bitcoin držel kolem 79 600 USD, v pátek podle dostupných dat klesl zhruba k 75 700 USD. Od rekordu kolem 126 000 USD je tak zhruba o 37–40 % níž."
+     "title": "Další test pro Fed: inflace 10. listopadu",
+     "text": "Fed drží sazby v pásmu 3,75–4 %. Měsíc předtím je zvýšil poprvé od roku 2023. Klíčovým údajem pro další očekávání bude říjnová inflace (CPI), která vyjde v úterý 10. listopadu."
     },
     {
-     "title": "Zlato kolem 4 080 USD, ropa Brent kolem 97 USD",
-     "text": "Spotové zlato se obchodovalo kolem 4 084 USD za unci, futures kolem 4 057 USD. Brent byl kolem 96,7 USD za barel. Ropa se drží výrazně pod nedávným vrcholem: WTI minulý pátek dosáhla 106 USD."
+     "title": "Bitcoin stagnuje kolem 75 800 USD",
+     "text": "Bitcoin se v sobotu ráno obchodoval zhruba za 75 800 USD, tedy téměř stejně jako v pátek. Ve čtvrtek byl ještě kolem 79 600 USD. Nálada na kryptotrhu je podle indexu strachu a chamtivosti ve fázi extrémního strachu."
     },
     {
-     "title": "Sazby: ČNB i Bank of England zpřísňují",
-     "text": "Od dneška platí v Česku základní sazba 4,00 %. Nová prognóza ČNB připouští další zvyšování až k 4,5 % a koruna na čtvrteční rozhodnutí reagovala jen málo. Ve čtvrtek zvýšila sazby i Bank of England."
+     "title": "Ropa a zlato",
+     "text": "Prosincový kontrakt na americkou ropu se pohyboval kolem 90,8 USD za barel, asi 12 % pod nedávným vrcholem 106,20 USD. Zlato stálo přibližně 4 075 USD za unci. Obě ceny jsou přibližné, zdroj neuvádí přesný čas."
     }
    ]
   }

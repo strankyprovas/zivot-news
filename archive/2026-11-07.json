@@ -1,0 +1,93 @@
+{
+ "date": "2026-11-07",
+ "date_cz": "07.11.2026",
+ "updated_at": "2026-11-07T21:41+01:00",
+ "sections": [
+  {
+   "key": "cr",
+   "title": "🇨🇿 Česká republika",
+   "items": [
+    {
+     "title": "Rekordní mrazy na horách",
+     "text": "V noci na sobotu klesly teploty na horách až pod −14 °C. Na osmi ze 169 meteorologických stanic, které měří déle než 30 let, padly rekordy nejnižší teploty pro 7. listopad."
+    },
+    {
+     "title": "Čermák už není stíhán za podporu terorismu",
+     "text": "Státní zástupce zrušil stíhání aktivisty proti covidovým opatřením a šiřitele dezinformací Tomáše Čermáka za podporu terorismu. Stíhání skončilo i u tří dalších lidí, jeden člověk zůstává obviněn ze pomoci."
+    },
+    {
+     "title": "Maximální ceny pohonných hmot na víkend",
+     "text": "Ministerstvo financí vyhlásilo maximální ceny pohonných hmot na období 7.–9. listopadu. Litr benzinu stojí nejvýše 47,28 Kč s DPH. Ceny jsou zastropované podle vládního nařízení, které platí pro celý listopad."
+    },
+    {
+     "title": "Vláda posiluje krizovou připravenost",
+     "text": "Kabinet chce posílit připravenost Česka na krize. Ministr Metnar odmítá, že by stát spoléhal jen na jednu informační brožuru."
+    },
+    {
+     "title": "Lipavský kritizuje postup vlády",
+     "text": "Exministr zahraničí Jan Lipavský (za ODS) kritizoval, jak vláda postupuje, a vytkl jí, že věc neprobrala s opozicí."
+    }
+   ]
+  },
+  {
+   "key": "svet",
+   "title": "🌍 Svět",
+   "items": [
+    {
+     "title": "Ruský noční útok na Kyjevskou oblast",
+     "text": "Při nočním ruském útoku na Kyjevskou oblast zemřel jeden člověk. Útok poškodil domy i energetickou infrastrukturu, uvedl šéf regionální vojenské správy Tymur Tkačenko."
+    },
+    {
+     "title": "Peking jedná o schůzce Si–Trump–Putin",
+     "text": "Čína potvrdila, že se jedná o možném setkání prezidentů Číny, USA a Ruska. Podle Guardianu by ho Rusko mohlo využít k prosazování svého postoje k Ukrajině."
+    },
+    {
+     "title": "USA znovu udeřily na Írán",
+     "text": "Prezident Trump oznámil, že USA provedly další kolo „menších“ úderů na Írán."
+    },
+    {
+     "title": "Demokraté ovládli Kongres, republikáni hledají cestu dál",
+     "text": "Po úterních volbách v polovině mandátu získali demokraté podle projekcí kontrolu nad Sněmovnou reprezentantů i Senátem. Viceprezident Vance označil za hlavní důvod porážky republikánů válku s Íránem."
+    },
+    {
+     "title": "Paraguay: Kongres odvolal prezidenta Peñu",
+     "text": "Prezidenta Santiaga Peñu podle Guardianu zadrželi několik minut poté, co ho Kongres odvolal. Krizi spustil pád digitální banky Ueno, kterou centrální banka 3. listopadu převzala a zablokovala účty milionům klientů. Peña byl do roku 2025 akcionářem její mateřské společnosti."
+    },
+    {
+     "title": "Tisíce syrských vojáků míří do Saúdské Arábie a Jemenu",
+     "text": "Podle ČT24 budou v Saúdské Arábii a Jemenu nasazeny tisíce syrských vojáků."
+    }
+   ]
+  },
+  {
+   "key": "ekonomika",
+   "title": "📈 Ekonomika a trhy",
+   "items": [
+    {
+     "title": "Wall Street v pátek: technologie se odrazily, Dow oslaboval",
+     "text": "Nasdaq posílil o 1,09 % na 24 579 bodů a S&P 500 o 0,31 % na 7 376,86 bodu. Dow Jones klesl o 0,46 % na 51 285,73 bodu. Za týden ztratil S&P 500 asi 2,7 %. V sobotu se neobchoduje."
+    },
+    {
+     "title": "Čtvrteční propad kvůli obavám z regulace AI",
+     "text": "Ve čtvrtek se Nasdaq propadl o 5,5 %, S&P 500 o 4,4 % a Dow o 3,4 %. Investoři se po vítězství demokratů ve volbách začali obávat přísnější regulace umělé inteligence. V pátek se částečně vzpamatovaly hlavně čipové firmy."
+    },
+    {
+     "title": "Silný trh práce zvyšuje šanci na zvýšení sazeb",
+     "text": "Americká ekonomika v říjnu vytvořila 165 tisíc pracovních míst, téměř trojnásobek očekávání. Nezaměstnanost klesla na 4,1 %. Trh podle CME FedWatch odhaduje šanci na zvýšení sazeb Fedem v prosinci zhruba na 80 % a dolar posílil."
+    },
+    {
+     "title": "Další test pro Fed: inflace 10. listopadu",
+     "text": "Fed drží sazby v pásmu 3,75–4 %. Měsíc předtím je zvýšil poprvé od roku 2023. Klíčovým údajem pro další očekávání bude říjnová inflace (CPI), která vyjde v úterý 10. listopadu."
+    },
+    {
+     "title": "Bitcoin stagnuje kolem 75 800 USD",
+     "text": "Bitcoin se v sobotu ráno obchodoval zhruba za 75 800 USD, tedy téměř stejně jako v pátek. Ve čtvrtek byl ještě kolem 79 600 USD. Nálada na kryptotrhu je podle indexu strachu a chamtivosti ve fázi extrémního strachu."
+    },
+    {
+     "title": "Ropa a zlato",
+     "text": "Prosincový kontrakt na americkou ropu se pohyboval kolem 90,8 USD za barel, asi 12 % pod nedávným vrcholem 106,20 USD. Zlato stálo přibližně 4 075 USD za unci. Obě ceny jsou přibližné, zdroj neuvádí přesný čas."
+    }
+   ]
+  }
+ ]
+}
