@@ -1,0 +1,89 @@
+{
+ "date": "2026-11-08",
+ "date_cz": "08.11.2026",
+ "updated_at": "2026-11-08T21:58+01:00",
+ "sections": [
+  {
+   "key": "cr",
+   "title": "🇨🇿 Česká republika",
+   "items": [
+    {
+     "title": "Česká policie posílí hlídky po střelbě v Krakově",
+     "text": "Po sobotním útoku v Krakově posílí česká policie preventivně hlídky v ulicích."
+    },
+    {
+     "title": "Spor o financování ČT a ČRo pokračuje",
+     "text": "Premiér Andrej Babiš (ANO) v rozhovoru pro ČT připustil, že by se mohl změnit valorizační vzorec v návrhu financování veřejnoprávních médií. Zároveň mluvil o „stabilním a předvídatelném“ financování. Rušení poplatků ale koalice podle něj měnit nebude. Následovala úterní celodenní stávka ČT a ČRo a v sobotu se před budovou ČT v Praze protestovalo za reformu veřejnoprávních médií."
+    },
+    {
+     "title": "Sněmovna posunula změny penzijního spoření",
+     "text": "V pátek poslanci poslali do závěrečného čtení vládní novelu, která má penzijní spoření zatraktivnit. Tím skončila zhruba třítýdenní schůze Sněmovny, která začala v polovině října."
+    },
+    {
+     "title": "Spory o novou koncepci armády",
+     "text": "Vláda na začátku týdne schválila za účasti prezidenta Petra Pavla novou koncepci armády. Prezident Pavel ji označil za nerealistickou a podle něj neplní základní cíle."
+    }
+   ]
+  },
+  {
+   "key": "svet",
+   "title": "🌍 Svět",
+   "items": [
+    {
+     "title": "Krakov: střelbu vyšetřují jako terorismus, Polsko drží smutek",
+     "text": "Čtyřiadvacetiletý Polák v sobotu na hlavním náměstí v Krakově zastřelil šest lidí a asi 15 dalších zranil, mezi nimi i policisty. Podle ministra vnitra měl ultranacionalistické názory. V jeho domě se později našla těla tří příbuzných. Prezident Nawrocki vyhlásil státní smutek na 8. a 9. listopadu, premiér Tusk útok označil za první tak drastický teroristický čin v Polsku."
+    },
+    {
+     "title": "Íránská válka: v Hormuzském průlivu hořely tankery",
+     "text": "Íránské revoluční gardy tvrdí, že dva tankery u Hormuzského průlivu najely na miny a začaly hořet. Toto tvrzení zatím nikdo nezávisle neověřil. USA podle zpráv provedly omezené údery na ostrov Kešm. Zároveň pokračují diplomatické kontakty přes Katar, kam Írán podle Reuters poslal návrh týkající se jaderného programu."
+    },
+    {
+     "title": "Izrael: vládu se pokusí sestavit Eisenkot",
+     "text": "Bývalý náčelník generálního štábu Gadi Eisenkot získal doporučení 67 ze 120 poslanců, Netanjahu 46. Na sestavení vlády má nyní 28 dní a prezident může lhůtu prodloužit o další dva týdny."
+    },
+    {
+     "title": "USA po volbách do Kongresu",
+     "text": "Republikáni ve volbách do Kongresu prohráli a demokraté získali kontrolu nad Senátem. Trump uvedl, že výsledky přijímá a chce s demokraty spolupracovat. Vinu přičetl republikánským kandidátům a vysokým cenám benzinu kvůli válce s Íránem. Podle ukrajinských představitelů výsledek zvýšil šance Kyjeva na další americkou vojenskou pomoc."
+    },
+    {
+     "title": "Ukrajina: příprava jednání v Abú Dhabí a další útoky",
+     "text": "Ukrajinskou delegaci na mírových rozhovorech v Abú Dhabí, které zprostředkovávají USA, povede Rustem Umerov. Podle francouzského ministra zahraničí se jednání zúčastní i Evropa. Ruský úder na nádraží v Dnipru si podle CNN vyžádal 15 mrtvých."
+    },
+    {
+     "title": "Egypt: srážka vlaků v Gíze",
+     "text": "Při srážce vlaků v egyptské Gíze zemřeli čtyři lidé a 88 dalších bylo zraněno."
+    }
+   ]
+  },
+  {
+   "key": "ekonomika",
+   "title": "📈 Ekonomika a trhy",
+   "items": [
+    {
+     "title": "Wall Street: nejhorší týden od dubna 2025",
+     "text": "Burzy jsou o víkendu zavřené. Za týden do pátku 6. 11. klesl S&P 500 o 2,68 % na 7 376,86 bodu, Nasdaq o 3,37 % a Dow Jones o 0,94 % na 51 285,73 bodu. V pátek S&P 500 přidal 0,3 %, Nasdaq 1,1 % a Dow ztratil 0,5 %."
+    },
+    {
+     "title": "Čtvrteční výprodej technologií",
+     "text": "Ve čtvrtek se Nasdaq propadl zhruba o 5,5 % a hodnota firem v S&P 500 klesla asi o 3 biliony dolarů. Trh se obával, že demokraté po volebním vítězství zpřísní regulaci AI. Údaje se mezi zdroji mírně liší. V pátek se čipové akcie částečně odrazily."
+    },
+    {
+     "title": "Ropa zažila prudký týdenní pokles",
+     "text": "V pátek Brent uzavřel na 98,32 USD a WTI na 90,83 USD za barel. Za týden Brent ztratil přes 16 % a WTI téměř 13 %. Trhy doufaly, že výsledek amerických voleb povede k dohodě s Íránem a otevření Hormuzského průlivu. Nové útoky na lodě ale ceny mírně zvedly."
+    },
+    {
+     "title": "ČNB zvýšila sazby o čtvrt bodu",
+     "text": "Bankovní rada ČNB ve čtvrtek zvýšila základní úrokovou sazbu o 0,25 procentního bodu, předtím zvyšovala v červnu. Diskontní sazba je nově 3,00 % a lombardní 5,00 %, platí od 6. listopadu. Premiér Babiš před zvýšením varoval."
+    },
+    {
+     "title": "Bitcoin pod 76 tisíci dolarů",
+     "text": "Bitcoin se o víkendu obchoduje kolem 75 900 USD, za týden je zhruba o 2,7 % níž. Hlavní altcoiny ztrácely dvouciferně."
+    },
+    {
+     "title": "Zlato kolem 4 075 USD",
+     "text": "Zlato se ke konci týdne obchodovalo kolem 4 075 USD za unci. Na trhu dál panují obavy, že Fed bude sazby zvyšovat a výnosy zůstanou vysoké."
+    }
+   ]
+  }
+ ]
+}

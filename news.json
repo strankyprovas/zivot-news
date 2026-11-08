@@ -1,31 +1,27 @@
 {
- "date": "2026-11-07",
- "date_cz": "07.11.2026",
- "updated_at": "2026-11-07T21:41+01:00",
+ "date": "2026-11-08",
+ "date_cz": "08.11.2026",
+ "updated_at": "2026-11-08T21:58+01:00",
  "sections": [
   {
    "key": "cr",
    "title": "🇨🇿 Česká republika",
    "items": [
     {
-     "title": "Rekordní mrazy na horách",
-     "text": "V noci na sobotu klesly teploty na horách až pod −14 °C. Na osmi ze 169 meteorologických stanic, které měří déle než 30 let, padly rekordy nejnižší teploty pro 7. listopad."
+     "title": "Česká policie posílí hlídky po střelbě v Krakově",
+     "text": "Po sobotním útoku v Krakově posílí česká policie preventivně hlídky v ulicích."
     },
     {
-     "title": "Čermák už není stíhán za podporu terorismu",
-     "text": "Státní zástupce zrušil stíhání aktivisty proti covidovým opatřením a šiřitele dezinformací Tomáše Čermáka za podporu terorismu. Stíhání skončilo i u tří dalších lidí, jeden člověk zůstává obviněn ze pomoci."
+     "title": "Spor o financování ČT a ČRo pokračuje",
+     "text": "Premiér Andrej Babiš (ANO) v rozhovoru pro ČT připustil, že by se mohl změnit valorizační vzorec v návrhu financování veřejnoprávních médií. Zároveň mluvil o „stabilním a předvídatelném“ financování. Rušení poplatků ale koalice podle něj měnit nebude. Následovala úterní celodenní stávka ČT a ČRo a v sobotu se před budovou ČT v Praze protestovalo za reformu veřejnoprávních médií."
     },
     {
-     "title": "Maximální ceny pohonných hmot na víkend",
-     "text": "Ministerstvo financí vyhlásilo maximální ceny pohonných hmot na období 7.–9. listopadu. Litr benzinu stojí nejvýše 47,28 Kč s DPH. Ceny jsou zastropované podle vládního nařízení, které platí pro celý listopad."
+     "title": "Sněmovna posunula změny penzijního spoření",
+     "text": "V pátek poslanci poslali do závěrečného čtení vládní novelu, která má penzijní spoření zatraktivnit. Tím skončila zhruba třítýdenní schůze Sněmovny, která začala v polovině října."
     },
     {
-     "title": "Vláda posiluje krizovou připravenost",
-     "text": "Kabinet chce posílit připravenost Česka na krize. Ministr Metnar odmítá, že by stát spoléhal jen na jednu informační brožuru."
-    },
-    {
-     "title": "Lipavský kritizuje postup vlády",
-     "text": "Exministr zahraničí Jan Lipavský (za ODS) kritizoval, jak vláda postupuje, a vytkl jí, že věc neprobrala s opozicí."
+     "title": "Spory o novou koncepci armády",
+     "text": "Vláda na začátku týdne schválila za účasti prezidenta Petra Pavla novou koncepci armády. Prezident Pavel ji označil za nerealistickou a podle něj neplní základní cíle."
     }
    ]
   },
@@ -34,28 +30,28 @@
    "title": "🌍 Svět",
    "items": [
     {
-     "title": "Ruský noční útok na Kyjevskou oblast",
-     "text": "Při nočním ruském útoku na Kyjevskou oblast zemřel jeden člověk. Útok poškodil domy i energetickou infrastrukturu, uvedl šéf regionální vojenské správy Tymur Tkačenko."
+     "title": "Krakov: střelbu vyšetřují jako terorismus, Polsko drží smutek",
+     "text": "Čtyřiadvacetiletý Polák v sobotu na hlavním náměstí v Krakově zastřelil šest lidí a asi 15 dalších zranil, mezi nimi i policisty. Podle ministra vnitra měl ultranacionalistické názory. V jeho domě se později našla těla tří příbuzných. Prezident Nawrocki vyhlásil státní smutek na 8. a 9. listopadu, premiér Tusk útok označil za první tak drastický teroristický čin v Polsku."
     },
     {
-     "title": "Peking jedná o schůzce Si–Trump–Putin",
-     "text": "Čína potvrdila, že se jedná o možném setkání prezidentů Číny, USA a Ruska. Podle Guardianu by ho Rusko mohlo využít k prosazování svého postoje k Ukrajině."
+     "title": "Íránská válka: v Hormuzském průlivu hořely tankery",
+     "text": "Íránské revoluční gardy tvrdí, že dva tankery u Hormuzského průlivu najely na miny a začaly hořet. Toto tvrzení zatím nikdo nezávisle neověřil. USA podle zpráv provedly omezené údery na ostrov Kešm. Zároveň pokračují diplomatické kontakty přes Katar, kam Írán podle Reuters poslal návrh týkající se jaderného programu."
     },
     {
-     "title": "USA znovu udeřily na Írán",
-     "text": "Prezident Trump oznámil, že USA provedly další kolo „menších“ úderů na Írán."
+     "title": "Izrael: vládu se pokusí sestavit Eisenkot",
+     "text": "Bývalý náčelník generálního štábu Gadi Eisenkot získal doporučení 67 ze 120 poslanců, Netanjahu 46. Na sestavení vlády má nyní 28 dní a prezident může lhůtu prodloužit o další dva týdny."
     },
     {
-     "title": "Demokraté ovládli Kongres, republikáni hledají cestu dál",
-     "text": "Po úterních volbách v polovině mandátu získali demokraté podle projekcí kontrolu nad Sněmovnou reprezentantů i Senátem. Viceprezident Vance označil za hlavní důvod porážky republikánů válku s Íránem."
+     "title": "USA po volbách do Kongresu",
+     "text": "Republikáni ve volbách do Kongresu prohráli a demokraté získali kontrolu nad Senátem. Trump uvedl, že výsledky přijímá a chce s demokraty spolupracovat. Vinu přičetl republikánským kandidátům a vysokým cenám benzinu kvůli válce s Íránem. Podle ukrajinských představitelů výsledek zvýšil šance Kyjeva na další americkou vojenskou pomoc."
     },
     {
-     "title": "Paraguay: Kongres odvolal prezidenta Peñu",
-     "text": "Prezidenta Santiaga Peñu podle Guardianu zadrželi několik minut poté, co ho Kongres odvolal. Krizi spustil pád digitální banky Ueno, kterou centrální banka 3. listopadu převzala a zablokovala účty milionům klientů. Peña byl do roku 2025 akcionářem její mateřské společnosti."
+     "title": "Ukrajina: příprava jednání v Abú Dhabí a další útoky",
+     "text": "Ukrajinskou delegaci na mírových rozhovorech v Abú Dhabí, které zprostředkovávají USA, povede Rustem Umerov. Podle francouzského ministra zahraničí se jednání zúčastní i Evropa. Ruský úder na nádraží v Dnipru si podle CNN vyžádal 15 mrtvých."
     },
     {
-     "title": "Tisíce syrských vojáků míří do Saúdské Arábie a Jemenu",
-     "text": "Podle ČT24 budou v Saúdské Arábii a Jemenu nasazeny tisíce syrských vojáků."
+     "title": "Egypt: srážka vlaků v Gíze",
+     "text": "Při srážce vlaků v egyptské Gíze zemřeli čtyři lidé a 88 dalších bylo zraněno."
     }
    ]
   },
@@ -64,28 +60,28 @@
    "title": "📈 Ekonomika a trhy",
    "items": [
     {
-     "title": "Wall Street v pátek: technologie se odrazily, Dow oslaboval",
-     "text": "Nasdaq posílil o 1,09 % na 24 579 bodů a S&P 500 o 0,31 % na 7 376,86 bodu. Dow Jones klesl o 0,46 % na 51 285,73 bodu. Za týden ztratil S&P 500 asi 2,7 %. V sobotu se neobchoduje."
+     "title": "Wall Street: nejhorší týden od dubna 2025",
+     "text": "Burzy jsou o víkendu zavřené. Za týden do pátku 6. 11. klesl S&P 500 o 2,68 % na 7 376,86 bodu, Nasdaq o 3,37 % a Dow Jones o 0,94 % na 51 285,73 bodu. V pátek S&P 500 přidal 0,3 %, Nasdaq 1,1 % a Dow ztratil 0,5 %."
     },
     {
-     "title": "Čtvrteční propad kvůli obavám z regulace AI",
-     "text": "Ve čtvrtek se Nasdaq propadl o 5,5 %, S&P 500 o 4,4 % a Dow o 3,4 %. Investoři se po vítězství demokratů ve volbách začali obávat přísnější regulace umělé inteligence. V pátek se částečně vzpamatovaly hlavně čipové firmy."
+     "title": "Čtvrteční výprodej technologií",
+     "text": "Ve čtvrtek se Nasdaq propadl zhruba o 5,5 % a hodnota firem v S&P 500 klesla asi o 3 biliony dolarů. Trh se obával, že demokraté po volebním vítězství zpřísní regulaci AI. Údaje se mezi zdroji mírně liší. V pátek se čipové akcie částečně odrazily."
     },
     {
-     "title": "Silný trh práce zvyšuje šanci na zvýšení sazeb",
-     "text": "Americká ekonomika v říjnu vytvořila 165 tisíc pracovních míst, téměř trojnásobek očekávání. Nezaměstnanost klesla na 4,1 %. Trh podle CME FedWatch odhaduje šanci na zvýšení sazeb Fedem v prosinci zhruba na 80 % a dolar posílil."
+     "title": "Ropa zažila prudký týdenní pokles",
+     "text": "V pátek Brent uzavřel na 98,32 USD a WTI na 90,83 USD za barel. Za týden Brent ztratil přes 16 % a WTI téměř 13 %. Trhy doufaly, že výsledek amerických voleb povede k dohodě s Íránem a otevření Hormuzského průlivu. Nové útoky na lodě ale ceny mírně zvedly."
     },
     {
-     "title": "Další test pro Fed: inflace 10. listopadu",
-     "text": "Fed drží sazby v pásmu 3,75–4 %. Měsíc předtím je zvýšil poprvé od roku 2023. Klíčovým údajem pro další očekávání bude říjnová inflace (CPI), která vyjde v úterý 10. listopadu."
+     "title": "ČNB zvýšila sazby o čtvrt bodu",
+     "text": "Bankovní rada ČNB ve čtvrtek zvýšila základní úrokovou sazbu o 0,25 procentního bodu, předtím zvyšovala v červnu. Diskontní sazba je nově 3,00 % a lombardní 5,00 %, platí od 6. listopadu. Premiér Babiš před zvýšením varoval."
     },
     {
-     "title": "Bitcoin stagnuje kolem 75 800 USD",
-     "text": "Bitcoin se v sobotu ráno obchodoval zhruba za 75 800 USD, tedy téměř stejně jako v pátek. Ve čtvrtek byl ještě kolem 79 600 USD. Nálada na kryptotrhu je podle indexu strachu a chamtivosti ve fázi extrémního strachu."
+     "title": "Bitcoin pod 76 tisíci dolarů",
+     "text": "Bitcoin se o víkendu obchoduje kolem 75 900 USD, za týden je zhruba o 2,7 % níž. Hlavní altcoiny ztrácely dvouciferně."
     },
     {
-     "title": "Ropa a zlato",
-     "text": "Prosincový kontrakt na americkou ropu se pohyboval kolem 90,8 USD za barel, asi 12 % pod nedávným vrcholem 106,20 USD. Zlato stálo přibližně 4 075 USD za unci. Obě ceny jsou přibližné, zdroj neuvádí přesný čas."
+     "title": "Zlato kolem 4 075 USD",
+     "text": "Zlato se ke konci týdne obchodovalo kolem 4 075 USD za unci. Na trhu dál panují obavy, že Fed bude sazby zvyšovat a výnosy zůstanou vysoké."
     }
    ]
   }
