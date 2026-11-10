@@ -1,0 +1,81 @@
+{
+ "date": "2026-11-10",
+ "date_cz": "10.11.2026",
+ "updated_at": "2026-11-10T01:33+01:00",
+ "sections": [
+  {
+   "key": "cr",
+   "title": "🇨🇿 Česká republika",
+   "items": [
+    {
+     "title": "Česká a slovenská vláda dnes jednaly společně v Bratislavě",
+     "text": "Vlády Andreje Babiše a Roberta Fica se podle programu sešly ve Slovenské národní galerii a tiskovou konferenci premiérů ohlásily na 13:45. Hodnotily, jak se plní memorandum o užší spolupráci, a stanovovaly společné priority. Navazují tím na březnové zasedání v Nové Horce. Zprávy o výsledcích jednání se zatím nepodařilo dohledat."
+    },
+    {
+     "title": "ČSÚ dnes zveřejnil definitivní údaje o říjnové inflaci",
+     "text": "Podle předběžného odhadu ČSÚ ceny v říjnu meziročně stouply o 2,4 % a meziměsíčně o 0,4 %. V září byla inflace 2,5 %. ČNB v podzimní prognóze čekala za říjen 2,3 %. Konečné číslo ve výsledcích hledání zatím nebylo."
+    },
+    {
+     "title": "Imunitní výbor Sněmovny projedná podnět proti Ševčíkovi",
+     "text": "Podle ČTK z dnešního dne se sněmovní imunitní výbor bude zabývat podnětem vůči poslanci Ševčíkovi."
+    },
+    {
+     "title": "Vláda chce mít možnost zastropovat ceny energií",
+     "text": "Babišova vláda chce mít možnost zastropovat ceny elektřiny a plynu u výrobců. Energetický zákon chce protlačit Sněmovnou ve zrychleném čtení, k tomu ale potřebuje souhlas poslaneckých klubů. Svaz průmyslu žádá, aby vláda firmám s cenami energií pomohla víc."
+    },
+    {
+     "title": "Vznikne vládní rada pro umělou inteligenci",
+     "text": "Ministři schválili zřízení Rady vlády pro AI, oznámil premiér Babiš 9. listopadu. Ve středu 11. listopadu přijme Babiš v Kramářově vile maďarského prezidenta Andráse Baku."
+    }
+   ]
+  },
+  {
+   "key": "svet",
+   "title": "🌍 Svět",
+   "items": [
+    {
+     "title": "V Abú Dhabí začaly třístranné rozhovory o Ukrajině",
+     "text": "USA, Rusko a Ukrajina mají v Abú Dhabí jednat dva dny, tedy 10. a 11. listopadu. Hlavním tématem jsou bezpečnostní záruky pro Ukrajinu. Rusko dál požaduje celou Doněckou oblast, Ukrajina chce, aby hranici tvořila současná frontová linie. Moskva odmítá, aby se jednání účastnili Evropané. Američtí představitelé upozorňují, že rychlá dohoda nebude."
+    },
+    {
+     "title": "Ministři G7 v Paříži tlačí na Rubia kvůli Íránu a Ukrajině",
+     "text": "Dvoudenní schůzka ministrů zahraničí G7 začala v pondělí. Evropané chtějí po USA spravedlivé urovnání války na Ukrajině a snahu zabránit další eskalaci s Íránem. Americký ministr zahraničí Marco Rubio řekl, že jednání s Íránem nepokročila a íránské požadavky jsou podle něj nerealistické."
+    },
+    {
+     "title": "Hormuzský průliv zůstává ohniskem napětí",
+     "text": "Írán i USA útočí na lodě, které podle nich v Hormuzském průlivu porušují jejich omezení plavby. Íránská státní média hlásí zničení navigačních zařízení v jižní části průlivu. Trump označil obnovení bojů za „vysoce nepravděpodobné“, Washington ale nové údery nevylučuje."
+    },
+    {
+     "title": "Dohru amerických voleb do Kongresu ovládá válka s Íránem",
+     "text": "Republikáni v minulém týdnu ztratili kontrolu nad Kongresem. Republikánský kongresman podle zpráv z 9. listopadu navrhl odvolat ministra obrany Petea Hegsetha kvůli válce s Íránem. Pro Rubia je cesta do Paříže první zahraniční cestou od voleb."
+    }
+   ]
+  },
+  {
+   "key": "ekonomika",
+   "title": "📈 Ekonomika a trhy",
+   "items": [
+    {
+     "title": "Dnešní uzávěrky Wall Street zatím nejsou k dispozici",
+     "text": "Poslední dohledaná uzávěrka je z pondělí 9. listopadu, kdy trhy po nejhorším týdnu od dubna 2025 silně odrazily. Dow Jones přidal 2,15 % na 52 389,75 bodu, S&P 500 2,35 % na 7 549,94 a Nasdaq 2,74 % na 25 253,14. Russell 2000 posílil o 3,15 % a index volatility VIX klesl na 20,02."
+    },
+    {
+     "title": "Trhy čekají na americkou inflaci za říjen",
+     "text": "Úřad BLS měl index spotřebitelských cen zveřejnit dnes ve 14:30 SEČ. Ekonomové čekali meziměsíční růst o 0,3 % a u jádrové inflace o 0,2 % (v září to bylo 0,6 % a 0,3 %). Meziroční údaj BLS kvůli loňskému shutdownu nezveřejní. Jde o poslední inflační data před zasedáním Fedu 8.–9. prosince, kde analytici nevylučují zvýšení sazeb. Skutečné číslo se zatím nepodařilo ověřit."
+    },
+    {
+     "title": "Nvidia oslabila kvůli vyšetřování šéfa",
+     "text": "Akcie Nvidie v pondělí klesly zhruba o 4,3 % na 178,67 USD, během dne ztrácely až 6 %. Firma zahájila interní vyšetřování vztahu CEO Jensena Huanga s manažerkou, která podle NYT a FT předávala informace Pekingu. Nvidia uvádí, že nemá důvod se domnívat, že by unikla firemní tajemství nebo byla ohrožena národní bezpečnost."
+    },
+    {
+     "title": "Ropa zlevňuje, zlato posiluje",
+     "text": "V pondělí Brent klesl o 5,5 % na 92,91 USD za barel a WTI o 4,1 % na 87,07 USD. Pomohlo zmírnění geopolitického rizika. Zlato podle CoinDesku přidalo 1,8 % na zhruba 4 150 USD za unci."
+    },
+    {
+     "title": "Evropské akcie v pondělí rostly, bitcoin oslabil",
+     "text": "STOXX 600 přidal 1,26 % na 656,52 bodu, DAX zhruba 1,7 % na 26 267 bodů a italský FTSE MIB 2,69 %. ASML posílila asi o 4,7 %. Bitcoin klesl o 1,4 % na zhruba 74 800 USD. Investoři se obávají přísnější regulace kryptoměn v Kongresu, který nově ovládají demokraté."
+    }
+   ]
+  }
+ ]
+}

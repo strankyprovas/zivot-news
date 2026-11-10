@@ -1,27 +1,31 @@
 {
- "date": "2026-11-08",
- "date_cz": "08.11.2026",
- "updated_at": "2026-11-08T21:58+01:00",
+ "date": "2026-11-10",
+ "date_cz": "10.11.2026",
+ "updated_at": "2026-11-10T01:33+01:00",
  "sections": [
   {
    "key": "cr",
    "title": "🇨🇿 Česká republika",
    "items": [
     {
-     "title": "Česká policie posílí hlídky po střelbě v Krakově",
-     "text": "Po sobotním útoku v Krakově posílí česká policie preventivně hlídky v ulicích."
+     "title": "Česká a slovenská vláda dnes jednaly společně v Bratislavě",
+     "text": "Vlády Andreje Babiše a Roberta Fica se podle programu sešly ve Slovenské národní galerii a tiskovou konferenci premiérů ohlásily na 13:45. Hodnotily, jak se plní memorandum o užší spolupráci, a stanovovaly společné priority. Navazují tím na březnové zasedání v Nové Horce. Zprávy o výsledcích jednání se zatím nepodařilo dohledat."
     },
     {
-     "title": "Spor o financování ČT a ČRo pokračuje",
-     "text": "Premiér Andrej Babiš (ANO) v rozhovoru pro ČT připustil, že by se mohl změnit valorizační vzorec v návrhu financování veřejnoprávních médií. Zároveň mluvil o „stabilním a předvídatelném“ financování. Rušení poplatků ale koalice podle něj měnit nebude. Následovala úterní celodenní stávka ČT a ČRo a v sobotu se před budovou ČT v Praze protestovalo za reformu veřejnoprávních médií."
+     "title": "ČSÚ dnes zveřejnil definitivní údaje o říjnové inflaci",
+     "text": "Podle předběžného odhadu ČSÚ ceny v říjnu meziročně stouply o 2,4 % a meziměsíčně o 0,4 %. V září byla inflace 2,5 %. ČNB v podzimní prognóze čekala za říjen 2,3 %. Konečné číslo ve výsledcích hledání zatím nebylo."
     },
     {
-     "title": "Sněmovna posunula změny penzijního spoření",
-     "text": "V pátek poslanci poslali do závěrečného čtení vládní novelu, která má penzijní spoření zatraktivnit. Tím skončila zhruba třítýdenní schůze Sněmovny, která začala v polovině října."
+     "title": "Imunitní výbor Sněmovny projedná podnět proti Ševčíkovi",
+     "text": "Podle ČTK z dnešního dne se sněmovní imunitní výbor bude zabývat podnětem vůči poslanci Ševčíkovi."
     },
     {
-     "title": "Spory o novou koncepci armády",
-     "text": "Vláda na začátku týdne schválila za účasti prezidenta Petra Pavla novou koncepci armády. Prezident Pavel ji označil za nerealistickou a podle něj neplní základní cíle."
+     "title": "Vláda chce mít možnost zastropovat ceny energií",
+     "text": "Babišova vláda chce mít možnost zastropovat ceny elektřiny a plynu u výrobců. Energetický zákon chce protlačit Sněmovnou ve zrychleném čtení, k tomu ale potřebuje souhlas poslaneckých klubů. Svaz průmyslu žádá, aby vláda firmám s cenami energií pomohla víc."
+    },
+    {
+     "title": "Vznikne vládní rada pro umělou inteligenci",
+     "text": "Ministři schválili zřízení Rady vlády pro AI, oznámil premiér Babiš 9. listopadu. Ve středu 11. listopadu přijme Babiš v Kramářově vile maďarského prezidenta Andráse Baku."
     }
    ]
   },
@@ -30,28 +34,20 @@
    "title": "🌍 Svět",
    "items": [
     {
-     "title": "Krakov: střelbu vyšetřují jako terorismus, Polsko drží smutek",
-     "text": "Čtyřiadvacetiletý Polák v sobotu na hlavním náměstí v Krakově zastřelil šest lidí a asi 15 dalších zranil, mezi nimi i policisty. Podle ministra vnitra měl ultranacionalistické názory. V jeho domě se později našla těla tří příbuzných. Prezident Nawrocki vyhlásil státní smutek na 8. a 9. listopadu, premiér Tusk útok označil za první tak drastický teroristický čin v Polsku."
+     "title": "V Abú Dhabí začaly třístranné rozhovory o Ukrajině",
+     "text": "USA, Rusko a Ukrajina mají v Abú Dhabí jednat dva dny, tedy 10. a 11. listopadu. Hlavním tématem jsou bezpečnostní záruky pro Ukrajinu. Rusko dál požaduje celou Doněckou oblast, Ukrajina chce, aby hranici tvořila současná frontová linie. Moskva odmítá, aby se jednání účastnili Evropané. Američtí představitelé upozorňují, že rychlá dohoda nebude."
     },
     {
-     "title": "Íránská válka: v Hormuzském průlivu hořely tankery",
-     "text": "Íránské revoluční gardy tvrdí, že dva tankery u Hormuzského průlivu najely na miny a začaly hořet. Toto tvrzení zatím nikdo nezávisle neověřil. USA podle zpráv provedly omezené údery na ostrov Kešm. Zároveň pokračují diplomatické kontakty přes Katar, kam Írán podle Reuters poslal návrh týkající se jaderného programu."
+     "title": "Ministři G7 v Paříži tlačí na Rubia kvůli Íránu a Ukrajině",
+     "text": "Dvoudenní schůzka ministrů zahraničí G7 začala v pondělí. Evropané chtějí po USA spravedlivé urovnání války na Ukrajině a snahu zabránit další eskalaci s Íránem. Americký ministr zahraničí Marco Rubio řekl, že jednání s Íránem nepokročila a íránské požadavky jsou podle něj nerealistické."
     },
     {
-     "title": "Izrael: vládu se pokusí sestavit Eisenkot",
-     "text": "Bývalý náčelník generálního štábu Gadi Eisenkot získal doporučení 67 ze 120 poslanců, Netanjahu 46. Na sestavení vlády má nyní 28 dní a prezident může lhůtu prodloužit o další dva týdny."
+     "title": "Hormuzský průliv zůstává ohniskem napětí",
+     "text": "Írán i USA útočí na lodě, které podle nich v Hormuzském průlivu porušují jejich omezení plavby. Íránská státní média hlásí zničení navigačních zařízení v jižní části průlivu. Trump označil obnovení bojů za „vysoce nepravděpodobné“, Washington ale nové údery nevylučuje."
     },
     {
-     "title": "USA po volbách do Kongresu",
-     "text": "Republikáni ve volbách do Kongresu prohráli a demokraté získali kontrolu nad Senátem. Trump uvedl, že výsledky přijímá a chce s demokraty spolupracovat. Vinu přičetl republikánským kandidátům a vysokým cenám benzinu kvůli válce s Íránem. Podle ukrajinských představitelů výsledek zvýšil šance Kyjeva na další americkou vojenskou pomoc."
-    },
-    {
-     "title": "Ukrajina: příprava jednání v Abú Dhabí a další útoky",
-     "text": "Ukrajinskou delegaci na mírových rozhovorech v Abú Dhabí, které zprostředkovávají USA, povede Rustem Umerov. Podle francouzského ministra zahraničí se jednání zúčastní i Evropa. Ruský úder na nádraží v Dnipru si podle CNN vyžádal 15 mrtvých."
-    },
-    {
-     "title": "Egypt: srážka vlaků v Gíze",
-     "text": "Při srážce vlaků v egyptské Gíze zemřeli čtyři lidé a 88 dalších bylo zraněno."
+     "title": "Dohru amerických voleb do Kongresu ovládá válka s Íránem",
+     "text": "Republikáni v minulém týdnu ztratili kontrolu nad Kongresem. Republikánský kongresman podle zpráv z 9. listopadu navrhl odvolat ministra obrany Petea Hegsetha kvůli válce s Íránem. Pro Rubia je cesta do Paříže první zahraniční cestou od voleb."
     }
    ]
   },
@@ -60,28 +56,24 @@
    "title": "📈 Ekonomika a trhy",
    "items": [
     {
-     "title": "Wall Street: nejhorší týden od dubna 2025",
-     "text": "Burzy jsou o víkendu zavřené. Za týden do pátku 6. 11. klesl S&P 500 o 2,68 % na 7 376,86 bodu, Nasdaq o 3,37 % a Dow Jones o 0,94 % na 51 285,73 bodu. V pátek S&P 500 přidal 0,3 %, Nasdaq 1,1 % a Dow ztratil 0,5 %."
+     "title": "Dnešní uzávěrky Wall Street zatím nejsou k dispozici",
+     "text": "Poslední dohledaná uzávěrka je z pondělí 9. listopadu, kdy trhy po nejhorším týdnu od dubna 2025 silně odrazily. Dow Jones přidal 2,15 % na 52 389,75 bodu, S&P 500 2,35 % na 7 549,94 a Nasdaq 2,74 % na 25 253,14. Russell 2000 posílil o 3,15 % a index volatility VIX klesl na 20,02."
     },
     {
-     "title": "Čtvrteční výprodej technologií",
-     "text": "Ve čtvrtek se Nasdaq propadl zhruba o 5,5 % a hodnota firem v S&P 500 klesla asi o 3 biliony dolarů. Trh se obával, že demokraté po volebním vítězství zpřísní regulaci AI. Údaje se mezi zdroji mírně liší. V pátek se čipové akcie částečně odrazily."
+     "title": "Trhy čekají na americkou inflaci za říjen",
+     "text": "Úřad BLS měl index spotřebitelských cen zveřejnit dnes ve 14:30 SEČ. Ekonomové čekali meziměsíční růst o 0,3 % a u jádrové inflace o 0,2 % (v září to bylo 0,6 % a 0,3 %). Meziroční údaj BLS kvůli loňskému shutdownu nezveřejní. Jde o poslední inflační data před zasedáním Fedu 8.–9. prosince, kde analytici nevylučují zvýšení sazeb. Skutečné číslo se zatím nepodařilo ověřit."
     },
     {
-     "title": "Ropa zažila prudký týdenní pokles",
-     "text": "V pátek Brent uzavřel na 98,32 USD a WTI na 90,83 USD za barel. Za týden Brent ztratil přes 16 % a WTI téměř 13 %. Trhy doufaly, že výsledek amerických voleb povede k dohodě s Íránem a otevření Hormuzského průlivu. Nové útoky na lodě ale ceny mírně zvedly."
+     "title": "Nvidia oslabila kvůli vyšetřování šéfa",
+     "text": "Akcie Nvidie v pondělí klesly zhruba o 4,3 % na 178,67 USD, během dne ztrácely až 6 %. Firma zahájila interní vyšetřování vztahu CEO Jensena Huanga s manažerkou, která podle NYT a FT předávala informace Pekingu. Nvidia uvádí, že nemá důvod se domnívat, že by unikla firemní tajemství nebo byla ohrožena národní bezpečnost."
     },
     {
-     "title": "ČNB zvýšila sazby o čtvrt bodu",
-     "text": "Bankovní rada ČNB ve čtvrtek zvýšila základní úrokovou sazbu o 0,25 procentního bodu, předtím zvyšovala v červnu. Diskontní sazba je nově 3,00 % a lombardní 5,00 %, platí od 6. listopadu. Premiér Babiš před zvýšením varoval."
+     "title": "Ropa zlevňuje, zlato posiluje",
+     "text": "V pondělí Brent klesl o 5,5 % na 92,91 USD za barel a WTI o 4,1 % na 87,07 USD. Pomohlo zmírnění geopolitického rizika. Zlato podle CoinDesku přidalo 1,8 % na zhruba 4 150 USD za unci."
     },
     {
-     "title": "Bitcoin pod 76 tisíci dolarů",
-     "text": "Bitcoin se o víkendu obchoduje kolem 75 900 USD, za týden je zhruba o 2,7 % níž. Hlavní altcoiny ztrácely dvouciferně."
-    },
-    {
-     "title": "Zlato kolem 4 075 USD",
-     "text": "Zlato se ke konci týdne obchodovalo kolem 4 075 USD za unci. Na trhu dál panují obavy, že Fed bude sazby zvyšovat a výnosy zůstanou vysoké."
+     "title": "Evropské akcie v pondělí rostly, bitcoin oslabil",
+     "text": "STOXX 600 přidal 1,26 % na 656,52 bodu, DAX zhruba 1,7 % na 26 267 bodů a italský FTSE MIB 2,69 %. ASML posílila asi o 4,7 %. Bitcoin klesl o 1,4 % na zhruba 74 800 USD. Investoři se obávají přísnější regulace kryptoměn v Kongresu, který nově ovládají demokraté."
     }
    ]
   }
