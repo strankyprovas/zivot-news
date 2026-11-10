@@ -1,31 +1,31 @@
 {
  "date": "2026-11-10",
  "date_cz": "10.11.2026",
- "updated_at": "2026-11-10T01:33+01:00",
+ "updated_at": "2026-11-10T23:09+01:00",
  "sections": [
   {
    "key": "cr",
    "title": "🇨🇿 Česká republika",
    "items": [
     {
-     "title": "Česká a slovenská vláda dnes jednaly společně v Bratislavě",
-     "text": "Vlády Andreje Babiše a Roberta Fica se podle programu sešly ve Slovenské národní galerii a tiskovou konferenci premiérů ohlásily na 13:45. Hodnotily, jak se plní memorandum o užší spolupráci, a stanovovaly společné priority. Navazují tím na březnové zasedání v Nové Horce. Zprávy o výsledcích jednání se zatím nepodařilo dohledat."
+     "title": "Babiš a Fico chtějí, aby Evropa vyjednávala o míru na Ukrajině",
+     "text": "Po společném jednání české a slovenské vlády v Bratislavě premiéři Andrej Babiš (ANO) a Robert Fico (Smer) řekli, že by se Evropa měla aktivně zapojit do jednání o konci ruské války na Ukrajině. Vadí jim, že EU Ukrajinu podporuje finančně, ale o míru přímo nejedná. Oba zároveň odmítli výzvu německého kancléře Friedricha Merze k další pomoci Ukrajině."
     },
     {
-     "title": "ČSÚ dnes zveřejnil definitivní údaje o říjnové inflaci",
-     "text": "Podle předběžného odhadu ČSÚ ceny v říjnu meziročně stouply o 2,4 % a meziměsíčně o 0,4 %. V září byla inflace 2,5 %. ČNB v podzimní prognóze čekala za říjen 2,3 %. Konečné číslo ve výsledcích hledání zatím nebylo."
+     "title": "Studenti v několika městech protestovali na podporu ČT a ČRo",
+     "text": "Vysokoškoláci v Praze v symbolický čas 16:36 vyrazili průvodem na náměstí Republiky. Protestovali proti vládnímu návrhu, který má zrušit poplatky za Českou televizi a Český rozhlas a financovat je ze státního rozpočtu. Protesty proběhly i v Brně, Ostravě, Plzni, Olomouci, Pardubicích a ve Zlíně. Zaměstnanci ČT a ČRo kvůli návrhu stávkovali minulý týden."
     },
     {
-     "title": "Imunitní výbor Sněmovny projedná podnět proti Ševčíkovi",
-     "text": "Podle ČTK z dnešního dne se sněmovní imunitní výbor bude zabývat podnětem vůči poslanci Ševčíkovi."
+     "title": "Vláda schválila novelu energetického zákona",
+     "text": "Kabinet schválil návrh novely energetického zákona, kterou připravilo ministerstvo průmyslu a obchodu."
     },
     {
-     "title": "Vláda chce mít možnost zastropovat ceny energií",
-     "text": "Babišova vláda chce mít možnost zastropovat ceny elektřiny a plynu u výrobců. Energetický zákon chce protlačit Sněmovnou ve zrychleném čtení, k tomu ale potřebuje souhlas poslaneckých klubů. Svaz průmyslu žádá, aby vláda firmám s cenami energií pomohla víc."
+     "title": "STAN chce v Praze koalici bez Pirátů",
+     "text": "Pražský klub Starostů chce vládnout městu se SPOLU a Prahou sobě, Piráti by v koalici nebyli."
     },
     {
-     "title": "Vznikne vládní rada pro umělou inteligenci",
-     "text": "Ministři schválili zřízení Rady vlády pro AI, oznámil premiér Babiš 9. listopadu. Ve středu 11. listopadu přijme Babiš v Kramářově vile maďarského prezidenta Andráse Baku."
+     "title": "Ministerstvo zahraničí zjišťuje, zda byli při nehodě v Bulharsku Češi",
+     "text": "Černínský palác prověřuje, jestli jsou mezi oběťmi hromadné nehody na bulharské dálnici také čeští občané. Mezi tématy dne byly i dražší hypotéky, opatrné utrácení domácností a koaliční spory o podporu v nezaměstnanosti. ČHMÚ varoval před ledovkou na severozápadě Čech."
     }
    ]
   },
@@ -34,20 +34,24 @@
    "title": "🌍 Svět",
    "items": [
     {
-     "title": "V Abú Dhabí začaly třístranné rozhovory o Ukrajině",
-     "text": "USA, Rusko a Ukrajina mají v Abú Dhabí jednat dva dny, tedy 10. a 11. listopadu. Hlavním tématem jsou bezpečnostní záruky pro Ukrajinu. Rusko dál požaduje celou Doněckou oblast, Ukrajina chce, aby hranici tvořila současná frontová linie. Moskva odmítá, aby se jednání účastnili Evropané. Američtí představitelé upozorňují, že rychlá dohoda nebude."
+     "title": "V Abú Zabí začala jednání USA, Ruska a Ukrajiny",
+     "text": "Začala dvoudenní jednání o ukončení války, která zprostředkovaly USA. Ruští a ukrajinští představitelé se takto setkali poprvé od února 2026. Podle Euronews obě strany ukázaly určitou ochotu ke kompromisu v územních otázkách a k jednáním se připojila i EU."
     },
     {
-     "title": "Ministři G7 v Paříži tlačí na Rubia kvůli Íránu a Ukrajině",
-     "text": "Dvoudenní schůzka ministrů zahraničí G7 začala v pondělí. Evropané chtějí po USA spravedlivé urovnání války na Ukrajině a snahu zabránit další eskalaci s Íránem. Americký ministr zahraničí Marco Rubio řekl, že jednání s Íránem nepokročila a íránské požadavky jsou podle něj nerealistické."
+     "title": "Trump: válka s Íránem je „fakticky u konce“",
+     "text": "Americký prezident prohlásil, že válka s Íránem v podstatě skončila. Teherán ale popírá, že by se chystala nějaká jednání. Katarský premiér označil své rozhovory o Íránu s Trumpem a viceprezidentem Vancem za pozitivní. Kanada znovu zavedla sankce proti 11 íránským subjektům spojeným s jaderným a raketovým programem."
     },
     {
-     "title": "Hormuzský průliv zůstává ohniskem napětí",
-     "text": "Írán i USA útočí na lodě, které podle nich v Hormuzském průlivu porušují jejich omezení plavby. Íránská státní média hlásí zničení navigačních zařízení v jižní části průlivu. Trump označil obnovení bojů za „vysoce nepravděpodobné“, Washington ale nové údery nevylučuje."
+     "title": "Hromadné nehody v Bulharsku si vyžádaly nejméně 12 mrtvých",
+     "text": "Několik hromadných srážek desítek vozidel na dálnici u města Jambol na jihovýchodě Bulharska si v úterý ráno vyžádalo nejméně 12 mrtvých a 48 zraněných."
     },
     {
-     "title": "Dohru amerických voleb do Kongresu ovládá válka s Íránem",
-     "text": "Republikáni v minulém týdnu ztratili kontrolu nad Kongresem. Republikánský kongresman podle zpráv z 9. listopadu navrhl odvolat ministra obrany Petea Hegsetha kvůli válce s Íránem. Pro Rubia je cesta do Paříže první zahraniční cestou od voleb."
+     "title": "Rusko v noci zaútočilo na Ukrajinu raketou a 162 drony",
+     "text": "Rusko vypustilo balistickou raketu Iskander-M a 162 dronů. Ukrajinská protivzdušná obrana jich podle dostupných informací sestřelila nebo vyřadila 135."
+    },
+    {
+     "title": "Británie dá 90 milionů liber na obranu proti ruským hrozbám pod mořem",
+     "text": "Londýn vyčlení 90 milionů liber na drony a systémy umělé inteligence, které mají v severním Atlantiku čelit ruským hrozbám pro podmořskou infrastrukturu. Francie mezitím viní Írán z kybernetického útoku na chladicí zařízení v supermarketech."
     }
    ]
   },
@@ -56,24 +60,24 @@
    "title": "📈 Ekonomika a trhy",
    "items": [
     {
-     "title": "Dnešní uzávěrky Wall Street zatím nejsou k dispozici",
-     "text": "Poslední dohledaná uzávěrka je z pondělí 9. listopadu, kdy trhy po nejhorším týdnu od dubna 2025 silně odrazily. Dow Jones přidal 2,15 % na 52 389,75 bodu, S&P 500 2,35 % na 7 549,94 a Nasdaq 2,74 % na 25 253,14. Russell 2000 posílil o 3,15 % a index volatility VIX klesl na 20,02."
+     "title": "Wall Street po horkých datech o inflaci oslabila",
+     "text": "S&P 500 klesl o 0,38 % na 7 520,93 bodu a Nasdaq Composite o 0,74 % na 25 065,87 bodu. Dow Jones ztratil asi 0,3 % (−157,86 bodu) na 52 231,89 bodu. Výnos desetiletého amerického dluhopisu vzrostl zhruba na 4,98 %. Trhy tak navázaly na pondělní růst, kdy Dow přidal 2,15 %."
     },
     {
-     "title": "Trhy čekají na americkou inflaci za říjen",
-     "text": "Úřad BLS měl index spotřebitelských cen zveřejnit dnes ve 14:30 SEČ. Ekonomové čekali meziměsíční růst o 0,3 % a u jádrové inflace o 0,2 % (v září to bylo 0,6 % a 0,3 %). Meziroční údaj BLS kvůli loňskému shutdownu nezveřejní. Jde o poslední inflační data před zasedáním Fedu 8.–9. prosince, kde analytici nevylučují zvýšení sazeb. Skutečné číslo se zatím nepodařilo ověřit."
+     "title": "Americká inflace v říjnu překonala očekávání",
+     "text": "Spotřebitelské ceny v USA vzrostly meziměsíčně o 0,4 %, analytici čekali 0,3 %. Jádrová inflace stoupla o 0,3 % proti očekávaným 0,2 %, zdražily hlavně potraviny (+0,5 %) a nájmy. Data posilují spekulace, že Fed v prosinci zvýší sazby."
     },
     {
-     "title": "Nvidia oslabila kvůli vyšetřování šéfa",
-     "text": "Akcie Nvidie v pondělí klesly zhruba o 4,3 % na 178,67 USD, během dne ztrácely až 6 %. Firma zahájila interní vyšetřování vztahu CEO Jensena Huanga s manažerkou, která podle NYT a FT předávala informace Pekingu. Nvidia uvádí, že nemá důvod se domnívat, že by unikla firemní tajemství nebo byla ohrožena národní bezpečnost."
+     "title": "Akcie Nvidie klesly druhý den po sobě",
+     "text": "Akcie zavřely na 168,91 USD, asi o 5,4 % níž. Představenstvo najalo externí právníky (Wachtell, Lipton, Rosen & Katz) k nezávislému vyšetřování šéfa firmy Jensena Huanga. Má zjistit, zda nebyla ohrožena firemní tajemství nebo národní bezpečnost poté, co Huang přiznal poměr se ženou napojenou na čínskou rozvědku. Akcionáři podali hromadnou žalobu, výsledky za 3. čtvrtletí firma zveřejní 17. listopadu."
     },
     {
-     "title": "Ropa zlevňuje, zlato posiluje",
-     "text": "V pondělí Brent klesl o 5,5 % na 92,91 USD za barel a WTI o 4,1 % na 87,07 USD. Pomohlo zmírnění geopolitického rizika. Zlato podle CoinDesku přidalo 1,8 % na zhruba 4 150 USD za unci."
+     "title": "Evropské akcie se drží blízko rekordu, ropa Brent pod 90 USD",
+     "text": "Index Stoxx 600 přidal asi 0,3 % na 658,32 bodu, jen dva body pod rekordním uzavřením ze srpna. Německý DAX stoupl o 0,31 % na 26 347,45 bodu, britský FTSE 100 ztratil 0,29 %. Náladu zlepšila levnější ropa: Brent poprvé od srpna klesl pod 90 USD za barel, protože ustupují obavy z eskalace mezi USA a Íránem. Euro oslabilo vůči dolaru o 0,6 % na 1,115."
     },
     {
-     "title": "Evropské akcie v pondělí rostly, bitcoin oslabil",
-     "text": "STOXX 600 přidal 1,26 % na 656,52 bodu, DAX zhruba 1,7 % na 26 267 bodů a italský FTSE MIB 2,69 %. ASML posílila asi o 4,7 %. Bitcoin klesl o 1,4 % na zhruba 74 800 USD. Investoři se obávají přísnější regulace kryptoměn v Kongresu, který nově ovládají demokraté."
+     "title": "Česká inflace: předběžný odhad za říjen je 2,4 %",
+     "text": "Podle předběžného odhadu ČSÚ ze 4. listopadu dosáhla meziroční inflace v říjnu 2,4 %, meziměsíčně 0,4 %. Definitivní čísla měl ČSÚ zveřejnit dnes, ve vyhledávání ale zatím nebyla. Pražská burza v pondělí posílila o 1 %, táhly ji akcie Erste a Komerční banky."
     }
    ]
   }
