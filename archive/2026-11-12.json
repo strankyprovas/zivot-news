@@ -1,0 +1,89 @@
+{
+ "date": "2026-11-12",
+ "date_cz": "12.11.2026",
+ "updated_at": "2026-11-12T00:20+01:00",
+ "sections": [
+  {
+   "key": "cr",
+   "title": "🇨🇿 Česká republika",
+   "items": [
+    {
+     "title": "Vláda poslala do Sněmovny zákon o celostátním referendu",
+     "text": "Kabinet schválil ústavní zákon o celostátním referendu a poslal ho poslancům. Pro schválení je potřeba 120 hlasů, které koalice nemá. Piráti návrh nepodpoří, vadí jim riziko dezinformací."
+    },
+    {
+     "title": "Babiš vynechá oslavy 17. listopadu kvůli cestě do Izraele",
+     "text": "Premiér Andrej Babiš (ANO) navštíví od 16. do 18. listopadu Izrael na pozvání Benjamina Netanjahua. Tradičních oslav 17. listopadu se proto nezúčastní. S ním poletí i část vlády, mimo jiné ministr obrany Jaromír Zůna (za SPD)."
+    },
+    {
+     "title": "Poslanci se přeli o zmrazení platů politiků",
+     "text": "Sněmovní právní výbor ve středu projednával návrh na zmrazení platů politiků. Předložili ho Babiš, Okamura a Macinka. Při debatě zaznělo, že předseda Ústavního soudu bere víc než prezident."
+    },
+    {
+     "title": "Česko by mohlo dodat Ukrajině 16 letounů Skyfox",
+     "text": "Ministr průmyslu Karel Havlíček uvedl, že Česko by mohlo Ukrajině dodat 16 letounů Skyfox."
+    },
+    {
+     "title": "ČEZ představí výsledky za tři čtvrtletí",
+     "text": "Největší česká energetická firma, z asi 70 % vlastněná státem, zveřejní hospodaření za letošní tři čtvrtletí. Analytici čekají růst čistého zisku."
+    },
+    {
+     "title": "Nezaměstnanost se drží kolem 5 %",
+     "text": "Nezaměstnanost se pomalu zvyšuje a je zhruba na 5 %. Bez práce je přes 370 tisíc lidí."
+    }
+   ]
+  },
+  {
+   "key": "svet",
+   "title": "🌍 Svět",
+   "items": [
+    {
+     "title": "Jednání v Abú Zabí skončila dohodou o výměně zajatců",
+     "text": "Rusko a Ukrajina se při jednáních zprostředkovaných USA v zásadě dohodly na velké výměně válečných zajatců. Zelenskyj dříve mluvil o 1 000 až 1 500 lidech, konečný počet se má určit ve čtvrtek. K příměří ani k územním otázkám žádný průlom nebyl. Kushner a Witkoff mají dál jednat s Putinem v Moskvě a pak se Zelenským v Dublinu."
+    },
+    {
+     "title": "Hormuzský průliv zůstává zavřený",
+     "text": "Írán popírá, že by s USA jednal, a tvrdí, že průliv otevře až po splnění svých sedmi podmínek, mezi nimi zrušení sankcí a americké námořní blokády. Trump zatím nové údery odložil, blokádu ale drží. Podle Revolučních gard tři tankery najely na miny a začaly hořet. Írán také tvrdí, že zaútočil na ománský ostrov Didamar."
+    },
+    {
+     "title": "Drony nad Pobaltím, NATO vyslalo stíhačky",
+     "text": "Při ukrajinských útocích na Rusko zalétly nejméně čtyři drony do vzdušného prostoru Litvy, Lotyšska a Estonska. Obyvatelé dostali krátká varování, aby se ukryli. Při ukrajinském útoku drony hořel ruský přístav Usť-Luga a leningradský gubernátor hlásil sestřelení 146 dronů."
+    },
+    {
+     "title": "Írán označil argentinské letectvo a námořnictvo za teroristy",
+     "text": "Teherán tím odpověděl na dubnové rozhodnutí Argentiny, která za teroristickou organizaci označila íránské Revoluční gardy. Íránský bezpečnostní šéf zároveň prohlásil, že z Íránu neodejde ani částice obohaceného jaderného materiálu."
+    },
+    {
+     "title": "Keňa propustila posledního pacienta s ebolou",
+     "text": "Keňa propustila posledního pacienta s ebolou. Začalo 42denní odpočítávání, po kterém může zemi prohlásit za prostou nákazy."
+    }
+   ]
+  },
+  {
+   "key": "ekonomika",
+   "title": "📈 Ekonomika a trhy",
+   "items": [
+    {
+     "title": "Wall Street posílila díky návratu sázek na AI",
+     "text": "S&P 500 ve středu stoupl o 1,31 % na 7 619,38 bodu a Nasdaq Composite o 1,6 % na 25 466,19 bodu. Dow Jones přidal 0,49 % na 52 486,49 bodu. Den předtím indexy kvůli vyšší inflaci klesly, S&P 500 o 0,38 % a Nasdaq o 0,74 %."
+    },
+    {
+     "title": "Evropské akcie uzavřely na rekordu",
+     "text": "STOXX 600 stoupl o 0,72 % na rekordních 663,05 bodu. DAX přidal zhruba 1,1–1,2 % (asi 26 650 bodů), Euro Stoxx 50 1,04 %, CAC 40 0,66 % a FTSE 100 0,78 %. Siemens Energy vyskočil o 10,8 % po zvýšení výhledu marží."
+    },
+    {
+     "title": "CoreWeave vyskočil po výsledcích, Nvidia se odrazila",
+     "text": "CoreWeave měl ve 3. čtvrtletí tržby asi 3,66 mld. USD (+168 %), víc, než se čekalo, a zvýšil celoroční výhled. Akcie posílily o 24,7 %. Nvidia přidala 2,87 % na 173,73 USD, i tak je asi 27 % pod říjnovým rekordem. Na akcii dřív v týdnu tlačilo vyšetřování kolem šéfa firmy Jensena Huanga."
+    },
+    {
+     "title": "Vyšší inflace zvyšuje sázky na zvýšení sazeb Fedu",
+     "text": "Říjnová inflace v USA (CPI) vzrostla o 0,4 % meziměsíčně, trh čekal 0,3 %. Jádrová inflace přidala 0,3 %, také víc, než se čekalo. Trhy teď počítají zhruba s 91% pravděpodobností, že Fed v prosinci zvýší sazby o 0,25 bodu (v pondělí to bylo 84 %)."
+    },
+    {
+     "title": "Ropa, zlato a bitcoin",
+     "text": "Brent se kvůli uzavřenému Hormuzskému průlivu drží zhruba mezi 93 a 96 USD za barel, WTI kolem 87 USD. Zlato je asi na 4 050–4 080 USD za unci. Bitcoin se pohybuje kolem 74 000 USD, za 24 hodin ztratil asi 0,9 %."
+    }
+   ]
+  }
+ ]
+}

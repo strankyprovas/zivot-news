@@ -1,31 +1,35 @@
 {
- "date": "2026-11-10",
- "date_cz": "10.11.2026",
- "updated_at": "2026-11-10T23:09+01:00",
+ "date": "2026-11-12",
+ "date_cz": "12.11.2026",
+ "updated_at": "2026-11-12T00:20+01:00",
  "sections": [
   {
    "key": "cr",
    "title": "🇨🇿 Česká republika",
    "items": [
     {
-     "title": "Babiš a Fico chtějí, aby Evropa vyjednávala o míru na Ukrajině",
-     "text": "Po společném jednání české a slovenské vlády v Bratislavě premiéři Andrej Babiš (ANO) a Robert Fico (Smer) řekli, že by se Evropa měla aktivně zapojit do jednání o konci ruské války na Ukrajině. Vadí jim, že EU Ukrajinu podporuje finančně, ale o míru přímo nejedná. Oba zároveň odmítli výzvu německého kancléře Friedricha Merze k další pomoci Ukrajině."
+     "title": "Vláda poslala do Sněmovny zákon o celostátním referendu",
+     "text": "Kabinet schválil ústavní zákon o celostátním referendu a poslal ho poslancům. Pro schválení je potřeba 120 hlasů, které koalice nemá. Piráti návrh nepodpoří, vadí jim riziko dezinformací."
     },
     {
-     "title": "Studenti v několika městech protestovali na podporu ČT a ČRo",
-     "text": "Vysokoškoláci v Praze v symbolický čas 16:36 vyrazili průvodem na náměstí Republiky. Protestovali proti vládnímu návrhu, který má zrušit poplatky za Českou televizi a Český rozhlas a financovat je ze státního rozpočtu. Protesty proběhly i v Brně, Ostravě, Plzni, Olomouci, Pardubicích a ve Zlíně. Zaměstnanci ČT a ČRo kvůli návrhu stávkovali minulý týden."
+     "title": "Babiš vynechá oslavy 17. listopadu kvůli cestě do Izraele",
+     "text": "Premiér Andrej Babiš (ANO) navštíví od 16. do 18. listopadu Izrael na pozvání Benjamina Netanjahua. Tradičních oslav 17. listopadu se proto nezúčastní. S ním poletí i část vlády, mimo jiné ministr obrany Jaromír Zůna (za SPD)."
     },
     {
-     "title": "Vláda schválila novelu energetického zákona",
-     "text": "Kabinet schválil návrh novely energetického zákona, kterou připravilo ministerstvo průmyslu a obchodu."
+     "title": "Poslanci se přeli o zmrazení platů politiků",
+     "text": "Sněmovní právní výbor ve středu projednával návrh na zmrazení platů politiků. Předložili ho Babiš, Okamura a Macinka. Při debatě zaznělo, že předseda Ústavního soudu bere víc než prezident."
     },
     {
-     "title": "STAN chce v Praze koalici bez Pirátů",
-     "text": "Pražský klub Starostů chce vládnout městu se SPOLU a Prahou sobě, Piráti by v koalici nebyli."
+     "title": "Česko by mohlo dodat Ukrajině 16 letounů Skyfox",
+     "text": "Ministr průmyslu Karel Havlíček uvedl, že Česko by mohlo Ukrajině dodat 16 letounů Skyfox."
     },
     {
-     "title": "Ministerstvo zahraničí zjišťuje, zda byli při nehodě v Bulharsku Češi",
-     "text": "Černínský palác prověřuje, jestli jsou mezi oběťmi hromadné nehody na bulharské dálnici také čeští občané. Mezi tématy dne byly i dražší hypotéky, opatrné utrácení domácností a koaliční spory o podporu v nezaměstnanosti. ČHMÚ varoval před ledovkou na severozápadě Čech."
+     "title": "ČEZ představí výsledky za tři čtvrtletí",
+     "text": "Největší česká energetická firma, z asi 70 % vlastněná státem, zveřejní hospodaření za letošní tři čtvrtletí. Analytici čekají růst čistého zisku."
+    },
+    {
+     "title": "Nezaměstnanost se drží kolem 5 %",
+     "text": "Nezaměstnanost se pomalu zvyšuje a je zhruba na 5 %. Bez práce je přes 370 tisíc lidí."
     }
    ]
   },
@@ -34,24 +38,24 @@
    "title": "🌍 Svět",
    "items": [
     {
-     "title": "V Abú Zabí začala jednání USA, Ruska a Ukrajiny",
-     "text": "Začala dvoudenní jednání o ukončení války, která zprostředkovaly USA. Ruští a ukrajinští představitelé se takto setkali poprvé od února 2026. Podle Euronews obě strany ukázaly určitou ochotu ke kompromisu v územních otázkách a k jednáním se připojila i EU."
+     "title": "Jednání v Abú Zabí skončila dohodou o výměně zajatců",
+     "text": "Rusko a Ukrajina se při jednáních zprostředkovaných USA v zásadě dohodly na velké výměně válečných zajatců. Zelenskyj dříve mluvil o 1 000 až 1 500 lidech, konečný počet se má určit ve čtvrtek. K příměří ani k územním otázkám žádný průlom nebyl. Kushner a Witkoff mají dál jednat s Putinem v Moskvě a pak se Zelenským v Dublinu."
     },
     {
-     "title": "Trump: válka s Íránem je „fakticky u konce“",
-     "text": "Americký prezident prohlásil, že válka s Íránem v podstatě skončila. Teherán ale popírá, že by se chystala nějaká jednání. Katarský premiér označil své rozhovory o Íránu s Trumpem a viceprezidentem Vancem za pozitivní. Kanada znovu zavedla sankce proti 11 íránským subjektům spojeným s jaderným a raketovým programem."
+     "title": "Hormuzský průliv zůstává zavřený",
+     "text": "Írán popírá, že by s USA jednal, a tvrdí, že průliv otevře až po splnění svých sedmi podmínek, mezi nimi zrušení sankcí a americké námořní blokády. Trump zatím nové údery odložil, blokádu ale drží. Podle Revolučních gard tři tankery najely na miny a začaly hořet. Írán také tvrdí, že zaútočil na ománský ostrov Didamar."
     },
     {
-     "title": "Hromadné nehody v Bulharsku si vyžádaly nejméně 12 mrtvých",
-     "text": "Několik hromadných srážek desítek vozidel na dálnici u města Jambol na jihovýchodě Bulharska si v úterý ráno vyžádalo nejméně 12 mrtvých a 48 zraněných."
+     "title": "Drony nad Pobaltím, NATO vyslalo stíhačky",
+     "text": "Při ukrajinských útocích na Rusko zalétly nejméně čtyři drony do vzdušného prostoru Litvy, Lotyšska a Estonska. Obyvatelé dostali krátká varování, aby se ukryli. Při ukrajinském útoku drony hořel ruský přístav Usť-Luga a leningradský gubernátor hlásil sestřelení 146 dronů."
     },
     {
-     "title": "Rusko v noci zaútočilo na Ukrajinu raketou a 162 drony",
-     "text": "Rusko vypustilo balistickou raketu Iskander-M a 162 dronů. Ukrajinská protivzdušná obrana jich podle dostupných informací sestřelila nebo vyřadila 135."
+     "title": "Írán označil argentinské letectvo a námořnictvo za teroristy",
+     "text": "Teherán tím odpověděl na dubnové rozhodnutí Argentiny, která za teroristickou organizaci označila íránské Revoluční gardy. Íránský bezpečnostní šéf zároveň prohlásil, že z Íránu neodejde ani částice obohaceného jaderného materiálu."
     },
     {
-     "title": "Británie dá 90 milionů liber na obranu proti ruským hrozbám pod mořem",
-     "text": "Londýn vyčlení 90 milionů liber na drony a systémy umělé inteligence, které mají v severním Atlantiku čelit ruským hrozbám pro podmořskou infrastrukturu. Francie mezitím viní Írán z kybernetického útoku na chladicí zařízení v supermarketech."
+     "title": "Keňa propustila posledního pacienta s ebolou",
+     "text": "Keňa propustila posledního pacienta s ebolou. Začalo 42denní odpočítávání, po kterém může zemi prohlásit za prostou nákazy."
     }
    ]
   },
@@ -60,24 +64,24 @@
    "title": "📈 Ekonomika a trhy",
    "items": [
     {
-     "title": "Wall Street po horkých datech o inflaci oslabila",
-     "text": "S&P 500 klesl o 0,38 % na 7 520,93 bodu a Nasdaq Composite o 0,74 % na 25 065,87 bodu. Dow Jones ztratil asi 0,3 % (−157,86 bodu) na 52 231,89 bodu. Výnos desetiletého amerického dluhopisu vzrostl zhruba na 4,98 %. Trhy tak navázaly na pondělní růst, kdy Dow přidal 2,15 %."
+     "title": "Wall Street posílila díky návratu sázek na AI",
+     "text": "S&P 500 ve středu stoupl o 1,31 % na 7 619,38 bodu a Nasdaq Composite o 1,6 % na 25 466,19 bodu. Dow Jones přidal 0,49 % na 52 486,49 bodu. Den předtím indexy kvůli vyšší inflaci klesly, S&P 500 o 0,38 % a Nasdaq o 0,74 %."
     },
     {
-     "title": "Americká inflace v říjnu překonala očekávání",
-     "text": "Spotřebitelské ceny v USA vzrostly meziměsíčně o 0,4 %, analytici čekali 0,3 %. Jádrová inflace stoupla o 0,3 % proti očekávaným 0,2 %, zdražily hlavně potraviny (+0,5 %) a nájmy. Data posilují spekulace, že Fed v prosinci zvýší sazby."
+     "title": "Evropské akcie uzavřely na rekordu",
+     "text": "STOXX 600 stoupl o 0,72 % na rekordních 663,05 bodu. DAX přidal zhruba 1,1–1,2 % (asi 26 650 bodů), Euro Stoxx 50 1,04 %, CAC 40 0,66 % a FTSE 100 0,78 %. Siemens Energy vyskočil o 10,8 % po zvýšení výhledu marží."
     },
     {
-     "title": "Akcie Nvidie klesly druhý den po sobě",
-     "text": "Akcie zavřely na 168,91 USD, asi o 5,4 % níž. Představenstvo najalo externí právníky (Wachtell, Lipton, Rosen & Katz) k nezávislému vyšetřování šéfa firmy Jensena Huanga. Má zjistit, zda nebyla ohrožena firemní tajemství nebo národní bezpečnost poté, co Huang přiznal poměr se ženou napojenou na čínskou rozvědku. Akcionáři podali hromadnou žalobu, výsledky za 3. čtvrtletí firma zveřejní 17. listopadu."
+     "title": "CoreWeave vyskočil po výsledcích, Nvidia se odrazila",
+     "text": "CoreWeave měl ve 3. čtvrtletí tržby asi 3,66 mld. USD (+168 %), víc, než se čekalo, a zvýšil celoroční výhled. Akcie posílily o 24,7 %. Nvidia přidala 2,87 % na 173,73 USD, i tak je asi 27 % pod říjnovým rekordem. Na akcii dřív v týdnu tlačilo vyšetřování kolem šéfa firmy Jensena Huanga."
     },
     {
-     "title": "Evropské akcie se drží blízko rekordu, ropa Brent pod 90 USD",
-     "text": "Index Stoxx 600 přidal asi 0,3 % na 658,32 bodu, jen dva body pod rekordním uzavřením ze srpna. Německý DAX stoupl o 0,31 % na 26 347,45 bodu, britský FTSE 100 ztratil 0,29 %. Náladu zlepšila levnější ropa: Brent poprvé od srpna klesl pod 90 USD za barel, protože ustupují obavy z eskalace mezi USA a Íránem. Euro oslabilo vůči dolaru o 0,6 % na 1,115."
+     "title": "Vyšší inflace zvyšuje sázky na zvýšení sazeb Fedu",
+     "text": "Říjnová inflace v USA (CPI) vzrostla o 0,4 % meziměsíčně, trh čekal 0,3 %. Jádrová inflace přidala 0,3 %, také víc, než se čekalo. Trhy teď počítají zhruba s 91% pravděpodobností, že Fed v prosinci zvýší sazby o 0,25 bodu (v pondělí to bylo 84 %)."
     },
     {
-     "title": "Česká inflace: předběžný odhad za říjen je 2,4 %",
-     "text": "Podle předběžného odhadu ČSÚ ze 4. listopadu dosáhla meziroční inflace v říjnu 2,4 %, meziměsíčně 0,4 %. Definitivní čísla měl ČSÚ zveřejnit dnes, ve vyhledávání ale zatím nebyla. Pražská burza v pondělí posílila o 1 %, táhly ji akcie Erste a Komerční banky."
+     "title": "Ropa, zlato a bitcoin",
+     "text": "Brent se kvůli uzavřenému Hormuzskému průlivu drží zhruba mezi 93 a 96 USD za barel, WTI kolem 87 USD. Zlato je asi na 4 050–4 080 USD za unci. Bitcoin se pohybuje kolem 74 000 USD, za 24 hodin ztratil asi 0,9 %."
     }
    ]
   }
