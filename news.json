@@ -1,35 +1,35 @@
 {
  "date": "2026-11-12",
  "date_cz": "12.11.2026",
- "updated_at": "2026-11-12T00:20+01:00",
+ "updated_at": "2026-11-12T23:36+01:00",
  "sections": [
   {
    "key": "cr",
    "title": "🇨🇿 Česká republika",
    "items": [
     {
-     "title": "Vláda poslala do Sněmovny zákon o celostátním referendu",
-     "text": "Kabinet schválil ústavní zákon o celostátním referendu a poslal ho poslancům. Pro schválení je potřeba 120 hlasů, které koalice nemá. Piráti návrh nepodpoří, vadí jim riziko dezinformací."
+     "title": "Babiš na summitu EU v Dublinu se sešel se Zelenským",
+     "text": "Premiér Andrej Babiš se na okraj neformálního summitu lídrů EU v Dublinu (12.–13. 11.) sešel s ukrajinským prezidentem Zelenským. Summit má řešit další financování Ukrajiny a roli Evropy v mírových jednáních."
     },
     {
-     "title": "Babiš vynechá oslavy 17. listopadu kvůli cestě do Izraele",
-     "text": "Premiér Andrej Babiš (ANO) navštíví od 16. do 18. listopadu Izrael na pozvání Benjamina Netanjahua. Tradičních oslav 17. listopadu se proto nezúčastní. S ním poletí i část vlády, mimo jiné ministr obrany Jaromír Zůna (za SPD)."
+     "title": "Spor s Merzem o rozpočet EU",
+     "text": "Babiš a slovenský premiér Fico odmítají návrh německého kancléře Merze, který chce schválení rozpočtu EU na roky 2028–2034 podmínit vyšší podporou Ukrajiny. Podle Babiše by zablokování rozpočtu ohrozilo i peníze vyčleněné pro Ukrajinu. O rozpočtu se bude dál jednat 26.–27. listopadu."
     },
     {
-     "title": "Poslanci se přeli o zmrazení platů politiků",
-     "text": "Sněmovní právní výbor ve středu projednával návrh na zmrazení platů politiků. Předložili ho Babiš, Okamura a Macinka. Při debatě zaznělo, že předseda Ústavního soudu bere víc než prezident."
+     "title": "Pražští Piráti odcházejí do opozice",
+     "text": "Piráti po osmi letech končí ve vedení Prahy a přecházejí do opozice."
     },
     {
-     "title": "Česko by mohlo dodat Ukrajině 16 letounů Skyfox",
-     "text": "Ministr průmyslu Karel Havlíček uvedl, že Česko by mohlo Ukrajině dodat 16 letounů Skyfox."
+     "title": "Spor o povinné výživové normy ve školních obědech",
+     "text": "O povinných výživových normách pro školní obědy se rozhořel spor, ve kterém Šťastný ostře kritizoval šéfku Státního zdravotního ústavu. Premiér Babiš obavy z návratu smažených jídel odmítá."
     },
     {
-     "title": "ČEZ představí výsledky za tři čtvrtletí",
-     "text": "Největší česká energetická firma, z asi 70 % vlastněná státem, zveřejní hospodaření za letošní tři čtvrtletí. Analytici čekají růst čistého zisku."
+     "title": "Ústavní soud dal dětem naději na peníze od matky",
+     "text": "Ústavní soud otevřel třem dětem cestu k penězům, o které je připravila jejich matka. Dosud kvůli procesní slepé uličce nemohly svůj nárok uplatnit."
     },
     {
-     "title": "Nezaměstnanost se drží kolem 5 %",
-     "text": "Nezaměstnanost se pomalu zvyšuje a je zhruba na 5 %. Bez práce je přes 370 tisíc lidí."
+     "title": "Fotbalisté prohráli se Španělskem",
+     "text": "Česká reprezentace v Praze podlehla Španělsku a v Lize národů zatím nezískala ani bod."
     }
    ]
   },
@@ -38,24 +38,28 @@
    "title": "🌍 Svět",
    "items": [
     {
-     "title": "Jednání v Abú Zabí skončila dohodou o výměně zajatců",
-     "text": "Rusko a Ukrajina se při jednáních zprostředkovaných USA v zásadě dohodly na velké výměně válečných zajatců. Zelenskyj dříve mluvil o 1 000 až 1 500 lidech, konečný počet se má určit ve čtvrtek. K příměří ani k územním otázkám žádný průlom nebyl. Kushner a Witkoff mají dál jednat s Putinem v Moskvě a pak se Zelenským v Dublinu."
+     "title": "Ukrajina: američtí vyjednavači informovali Putina",
+     "text": "Po dvou dnech rozhovorů Ruska a Ukrajiny, které zprostředkovaly USA, informovali američtí vyslanci Putina v Moskvě. Kushner a Witkoff mají odletět do Irska za Zelenským. Obě strany se dohodly na výměně zajatců a Rusko mezitím útočilo na Kyjev a Cherson."
     },
     {
-     "title": "Hormuzský průliv zůstává zavřený",
-     "text": "Írán popírá, že by s USA jednal, a tvrdí, že průliv otevře až po splnění svých sedmi podmínek, mezi nimi zrušení sankcí a americké námořní blokády. Trump zatím nové údery odložil, blokádu ale drží. Podle Revolučních gard tři tankery najely na miny a začaly hořet. Írán také tvrdí, že zaútočil na ománský ostrov Didamar."
+     "title": "Izraelský úder na nemocnici v Gaze",
+     "text": "Při izraelském úderu na nemocnici Násir zahynulo podle zpráv nejméně šest lidí, mezi nimi chirurg. Izrael uvedl, že mířil na velitele Hamásu, ten ale mezi mrtvými nebyl."
     },
     {
-     "title": "Drony nad Pobaltím, NATO vyslalo stíhačky",
-     "text": "Při ukrajinských útocích na Rusko zalétly nejméně čtyři drony do vzdušného prostoru Litvy, Lotyšska a Estonska. Obyvatelé dostali krátká varování, aby se ukryli. Při ukrajinském útoku drony hořel ruský přístav Usť-Luga a leningradský gubernátor hlásil sestřelení 146 dronů."
+     "title": "Írán dál drží Hormuzský průliv zavřený",
+     "text": "Írán popírá, že by vyjednával, a Hormuzský průliv nechává uzavřený. Americký ministr financí Bessent se podle zpráv kvůli íránským výhrůžkám přestěhoval na vojenskou základnu."
     },
     {
-     "title": "Írán označil argentinské letectvo a námořnictvo za teroristy",
-     "text": "Teherán tím odpověděl na dubnové rozhodnutí Argentiny, která za teroristickou organizaci označila íránské Revoluční gardy. Íránský bezpečnostní šéf zároveň prohlásil, že z Íránu neodejde ani částice obohaceného jaderného materiálu."
+     "title": "G7 varuje před aktivitou Číny u Tchaj-wanu",
+     "text": "Země G7 vydaly varování kvůli čínské činnosti v okolí Tchaj-wanu."
     },
     {
-     "title": "Keňa propustila posledního pacienta s ebolou",
-     "text": "Keňa propustila posledního pacienta s ebolou. Začalo 42denní odpočítávání, po kterém může zemi prohlásit za prostou nákazy."
+     "title": "Španělsko schválilo bytová opatření",
+     "text": "Dolní komora španělského parlamentu, která v současnosti zasedá jako dočasná, schválila opatření proti vystěhovávání a spekulacím s nemovitostmi. Stalo se tak den po generální stávce a velkých protestech."
+    },
+    {
+     "title": "USA: střelba ve Washingtonu a zřícení domu v Brooklynu",
+     "text": "Při střelbě v posilovně ve washingtonské čtvrti Logan Circle zemřel jeden člověk a čtyři byli zraněni. Útočník je mrtvý. Po zřícení budovy v Brooklynu je nejméně osm mrtvých a desítky zraněných a záchranáři dál pátrají po přeživších."
     }
    ]
   },
@@ -64,24 +68,24 @@
    "title": "📈 Ekonomika a trhy",
    "items": [
     {
-     "title": "Wall Street posílila díky návratu sázek na AI",
-     "text": "S&P 500 ve středu stoupl o 1,31 % na 7 619,38 bodu a Nasdaq Composite o 1,6 % na 25 466,19 bodu. Dow Jones přidal 0,49 % na 52 486,49 bodu. Den předtím indexy kvůli vyšší inflaci klesly, S&P 500 o 0,38 % a Nasdaq o 0,74 %."
+     "title": "Wall Street zavřela v minusu",
+     "text": "S&P 500 klesl o 0,35 % na 7 592,40 bodu, Dow Jones o 0,36 % na 52 297,09 a Nasdaq Composite o 0,39 % na 25 366,09. Trhy táhla dolů Nvidia, na kterou připadá asi 6 % indexu S&P 500, a k poklesu přispěly i rostoucí výnosy dluhopisů. Den předtím indexy výrazně rostly (S&P 500 +1,31 %)."
     },
     {
-     "title": "Evropské akcie uzavřely na rekordu",
-     "text": "STOXX 600 stoupl o 0,72 % na rekordních 663,05 bodu. DAX přidal zhruba 1,1–1,2 % (asi 26 650 bodů), Euro Stoxx 50 1,04 %, CAC 40 0,66 % a FTSE 100 0,78 %. Siemens Energy vyskočil o 10,8 % po zvýšení výhledu marží."
+     "title": "Jensen Huang končí v čele Nvidie",
+     "text": "Huang okamžitě odstoupil z funkce CEO i z představenstva. Podle médií rezignoval po zprávách o mimomanželských aférách, z nichž jedna měla být se ženou, kterou americké tajné služby považují za čínskou špionku. Dočasnou šéfkou je finanční ředitelka Colette Kress. Akcie během dne padaly až o 14 %, nakonec ztratily 4,34 % na 166,19 USD. AMD naopak posílila o 7 % a Broadcom o 5,4 %."
     },
     {
-     "title": "CoreWeave vyskočil po výsledcích, Nvidia se odrazila",
-     "text": "CoreWeave měl ve 3. čtvrtletí tržby asi 3,66 mld. USD (+168 %), víc, než se čekalo, a zvýšil celoroční výhled. Akcie posílily o 24,7 %. Nvidia přidala 2,87 % na 173,73 USD, i tak je asi 27 % pod říjnovým rekordem. Na akcii dřív v týdnu tlačilo vyšetřování kolem šéfa firmy Jensena Huanga."
+     "title": "Pražská burza: PX −0,7 %, CSG na novém minimu",
+     "text": "Index PX klesl o 0,7 % na 2 627 bodů. Akcie zbrojovky CSG odepsaly přes 20 % na 265 Kč, protože firma ve výsledcích za tři čtvrtletí snížila výhled provozní marže. Ztrácely také banky a ČEZ. Koruna oslabila k dolaru a posílila vůči euru."
     },
     {
-     "title": "Vyšší inflace zvyšuje sázky na zvýšení sazeb Fedu",
-     "text": "Říjnová inflace v USA (CPI) vzrostla o 0,4 % meziměsíčně, trh čekal 0,3 %. Jádrová inflace přidala 0,3 %, také víc, než se čekalo. Trhy teď počítají zhruba s 91% pravděpodobností, že Fed v prosinci zvýší sazby o 0,25 bodu (v pondělí to bylo 84 %)."
+     "title": "Komodity a krypto",
+     "text": "Ropa Brent stála ráno amerického času kolem 94,6 USD za barel, asi o 1,1 USD méně než den předtím. Bitcoin se obchodoval kolem 73 000–73 500 USD, oslabený odlivem peněz z ETF. Zlato se odpoledne pohybovalo kolem 3 900 USD za unci, údaje o jeho ceně se ale mezi zdroji liší."
     },
     {
-     "title": "Ropa, zlato a bitcoin",
-     "text": "Brent se kvůli uzavřenému Hormuzskému průlivu drží zhruba mezi 93 a 96 USD za barel, WTI kolem 87 USD. Zlato je asi na 4 050–4 080 USD za unci. Bitcoin se pohybuje kolem 74 000 USD, za 24 hodin ztratil asi 0,9 %."
+     "title": "Největší české banky zvýšily zisk",
+     "text": "Šest největších bank v Česku zvýšilo čistý zisk na 74,4 mld. Kč."
     }
    ]
   }
