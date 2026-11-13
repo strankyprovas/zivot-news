@@ -1,35 +1,35 @@
 {
- "date": "2026-11-12",
- "date_cz": "12.11.2026",
- "updated_at": "2026-11-12T23:36+01:00",
+ "date": "2026-11-13",
+ "date_cz": "13.11.2026",
+ "updated_at": "2026-11-13T23:23+01:00",
  "sections": [
   {
    "key": "cr",
    "title": "🇨🇿 Česká republika",
    "items": [
     {
-     "title": "Babiš na summitu EU v Dublinu se sešel se Zelenským",
-     "text": "Premiér Andrej Babiš se na okraj neformálního summitu lídrů EU v Dublinu (12.–13. 11.) sešel s ukrajinským prezidentem Zelenským. Summit má řešit další financování Ukrajiny a roli Evropy v mírových jednáních."
+     "title": "Šebestyán odvolal celou radu Vinařského fondu",
+     "text": "Ministr zemědělství Martin Šebestyán (za SPD) odvolal všech 11 členů Rady Vinařského fondu. Podle Nejvyššího kontrolního úřadu fond opakovaně porušoval předpisy a pravidla pro poskytování podpor."
     },
     {
-     "title": "Spor s Merzem o rozpočet EU",
-     "text": "Babiš a slovenský premiér Fico odmítají návrh německého kancléře Merze, který chce schválení rozpočtu EU na roky 2028–2034 podmínit vyšší podporou Ukrajiny. Podle Babiše by zablokování rozpočtu ohrozilo i peníze vyčleněné pro Ukrajinu. O rozpočtu se bude dál jednat 26.–27. listopadu."
+     "title": "Babiš míří na jednání „koalice ochotných“ a chce půjčky SAFE",
+     "text": "Premiér Andrej Babiš se příští čtvrtek zúčastní v Berlíně jednání koalice ochotných. Řekl také, že Česko se chce zapojit do druhého kola obranných půjček EU v programu SAFE."
     },
     {
-     "title": "Pražští Piráti odcházejí do opozice",
-     "text": "Piráti po osmi letech končí ve vedení Prahy a přecházejí do opozice."
+     "title": "Mimořádná daň pro rafinerie se blíží konečné podobě",
+     "text": "Poslanci projednávají mimořádnou daň pro rafinerie. Podle Echo24 je návrh blízko finální fáze. Ministryně financí Schillerová uvedla, že vláda musí brzy rozhodnout, zda prodlouží opatření kvůli cenám pohonných hmot."
     },
     {
-     "title": "Spor o povinné výživové normy ve školních obědech",
-     "text": "O povinných výživových normách pro školní obědy se rozhořel spor, ve kterém Šťastný ostře kritizoval šéfku Státního zdravotního ústavu. Premiér Babiš obavy z návratu smažených jídel odmítá."
+     "title": "Maximální ceny pohonných hmot na 13. listopadu",
+     "text": "Ministerstvo financí stanovilo na pátek maximální cenu benzinu na 40,65 Kč za litr a nafty na 45,49 Kč za litr (obě ceny včetně DPH)."
     },
     {
-     "title": "Ústavní soud dal dětem naději na peníze od matky",
-     "text": "Ústavní soud otevřel třem dětem cestu k penězům, o které je připravila jejich matka. Dosud kvůli procesní slepé uličce nemohly svůj nárok uplatnit."
+     "title": "Praha zdraží roční kupon na MHD o 1 100 Kč",
+     "text": "Nastupující vedení Prahy oznámilo, že roční kupon na pražskou hromadnou dopravu podraží o 1 100 korun."
     },
     {
-     "title": "Fotbalisté prohráli se Španělskem",
-     "text": "Česká reprezentace v Praze podlehla Španělsku a v Lize národů zatím nezískala ani bod."
+     "title": "TOP 09 chce lustrační osvědčení pro ministry",
+     "text": "TOP 09 navrhuje, aby ministři a náměstci ministrů museli mít lustrační osvědčení. Moderátorka Jana Peroutková po 15 letech odchází z České televize."
     }
    ]
   },
@@ -38,28 +38,28 @@
    "title": "🌍 Svět",
    "items": [
     {
-     "title": "Ukrajina: američtí vyjednavači informovali Putina",
-     "text": "Po dvou dnech rozhovorů Ruska a Ukrajiny, které zprostředkovaly USA, informovali američtí vyslanci Putina v Moskvě. Kushner a Witkoff mají odletět do Irska za Zelenským. Obě strany se dohodly na výměně zajatců a Rusko mezitím útočilo na Kyjev a Cherson."
+     "title": "Napětí mezi USA a Íránem v Perském zálivu",
+     "text": "Íránské revoluční gardy tvrdí, že zničily americký radar včasného varování v Bahrajnu. Podle nich šlo o odvetu za americký úder v íránském přístavu Sirik. USA zásah radaru popírají. Trump po žádostech spojenců v Zálivu zatím odkládá další vojenskou akci, americká armáda ale v regionu dál posiluje."
     },
     {
-     "title": "Izraelský úder na nemocnici v Gaze",
-     "text": "Při izraelském úderu na nemocnici Násir zahynulo podle zpráv nejméně šest lidí, mezi nimi chirurg. Izrael uvedl, že mířil na velitele Hamásu, ten ale mezi mrtvými nebyl."
+     "title": "Výbuchy na tankerech v Hormuzském průlivu",
+     "text": "Podle revolučních gard zasáhly ve středu a ve čtvrtek výbuchy čtyři ropné tankery. Ty podle nich ignorovaly varování a vpluly do zakázaných oblastí průlivu. Saúdská protivzdušná obrana zároveň zachytila rakety a drony Húsíů mířící mimo jiné na Rijád a Mekku."
     },
     {
-     "title": "Írán dál drží Hormuzský průliv zavřený",
-     "text": "Írán popírá, že by vyjednával, a Hormuzský průliv nechává uzavřený. Americký ministr financí Bessent se podle zpráv kvůli íránským výhrůžkám přestěhoval na vojenskou základnu."
+     "title": "Šéf Nvidie Jensen Huang odstoupil",
+     "text": "Nvidia ve čtvrtek oznámila, že spoluzakladatel Jensen Huang končí ve funkci generálního ředitele. Předcházelo tomu interní vyšetřování jeho vztahu s údajnou čínskou špionkou. Kongres si ho podle CNN předvolal ke svědectví. Firmu dočasně vede finanční ředitelka Colette Kress."
     },
     {
-     "title": "G7 varuje před aktivitou Číny u Tchaj-wanu",
-     "text": "Země G7 vydaly varování kvůli čínské činnosti v okolí Tchaj-wanu."
+     "title": "Výbuch auta v Moskvě",
+     "text": "Podle ruských vyšetřovatelů bomba v autě v Moskvě zranila Sergeje Zavorotného, bývalého blízkého spolupracovníka proruského ukrajinského expremiéra Mykoly Azarova."
     },
     {
-     "title": "Španělsko schválilo bytová opatření",
-     "text": "Dolní komora španělského parlamentu, která v současnosti zasedá jako dočasná, schválila opatření proti vystěhovávání a spekulacím s nemovitostmi. Stalo se tak den po generální stávce a velkých protestech."
+     "title": "Pákistán hlásí 74 zabitých ozbrojenců",
+     "text": "Pákistánská armáda uvedla, že za posledních 10 dní zabila při razziích u hranic s Afghánistánem 74 ozbrojenců. V Guineji zemřelo 10 lidí při střetech demonstrantů s bezpečnostními složkami kvůli omezení těžby zlata."
     },
     {
-     "title": "USA: střelba ve Washingtonu a zřícení domu v Brooklynu",
-     "text": "Při střelbě v posilovně ve washingtonské čtvrti Logan Circle zemřel jeden člověk a čtyři byli zraněni. Útočník je mrtvý. Po zřícení budovy v Brooklynu je nejméně osm mrtvých a desítky zraněných a záchranáři dál pátrají po přeživších."
+     "title": "Americká politika: Hegseth ustál impeachment",
+     "text": "Pokus Sněmovny reprezentantů o impeachment ministra obrany Peta Hegsetha tento týden neuspěl. Senátor Chris Van Hollen chce vyzvat Chucka Schumera v boji o post lídra senátní většiny. Při zřícení budovy v New Yorku zemřelo osm lidí."
     }
    ]
   },
@@ -68,24 +68,24 @@
    "title": "📈 Ekonomika a trhy",
    "items": [
     {
-     "title": "Wall Street zavřela v minusu",
-     "text": "S&P 500 klesl o 0,35 % na 7 592,40 bodu, Dow Jones o 0,36 % na 52 297,09 a Nasdaq Composite o 0,39 % na 25 366,09. Trhy táhla dolů Nvidia, na kterou připadá asi 6 % indexu S&P 500, a k poklesu přispěly i rostoucí výnosy dluhopisů. Den předtím indexy výrazně rostly (S&P 500 +1,31 %)."
+     "title": "Wall Street: technologie dolů, Dow mírně v plusu",
+     "text": "Nasdaq v pátek klesl asi o 0,9 % (zhruba 25 136 bodů) a S&P 500 asi o 0,4 % (zhruba 7 562 bodů). Dow Jones přidal asi 0,1 % (zhruba 52 350 bodů). Za celý týden všechny indexy posílily, Dow asi o 2 %."
     },
     {
-     "title": "Jensen Huang končí v čele Nvidie",
-     "text": "Huang okamžitě odstoupil z funkce CEO i z představenstva. Podle médií rezignoval po zprávách o mimomanželských aférách, z nichž jedna měla být se ženou, kterou americké tajné služby považují za čínskou špionku. Dočasnou šéfkou je finanční ředitelka Colette Kress. Akcie během dne padaly až o 14 %, nakonec ztratily 4,34 % na 166,19 USD. AMD naopak posílila o 7 % a Broadcom o 5,4 %."
+     "title": "Akcie Nvidie dál pod tlakem",
+     "text": "Nvidia táhla technologický sektor dolů kvůli nejistotě po odchodu Jensena Huanga a výprodeji čipových firem. AMD naopak po Huangově odchodu posílila asi o 3 %. Nvidia zveřejní výsledky za 3. čtvrtletí v úterý 17. listopadu."
     },
     {
-     "title": "Pražská burza: PX −0,7 %, CSG na novém minimu",
-     "text": "Index PX klesl o 0,7 % na 2 627 bodů. Akcie zbrojovky CSG odepsaly přes 20 % na 265 Kč, protože firma ve výsledcích za tři čtvrtletí snížila výhled provozní marže. Ztrácely také banky a ČEZ. Koruna oslabila k dolaru a posílila vůči euru."
+     "title": "Evropa: PX roste, DAX těsně v minusu",
+     "text": "Pražský index PX posílil o 0,42 % (kolem 2 650 bodů), tlačily ho banky Moneta (+3,15 %) a Komerční banka (+1,52 %). Německý DAX uzavřel na 26 749,95 bodu (−0,08 %), STOXX Europe 600 skončil zhruba beze změny (+0,01 %). Akcie Infineonu klesly o 4,3 %."
     },
     {
-     "title": "Komodity a krypto",
-     "text": "Ropa Brent stála ráno amerického času kolem 94,6 USD za barel, asi o 1,1 USD méně než den předtím. Bitcoin se obchodoval kolem 73 000–73 500 USD, oslabený odlivem peněz z ETF. Zlato se odpoledne pohybovalo kolem 3 900 USD za unci, údaje o jeho ceně se ale mezi zdroji liší."
+     "title": "Bitcoin klesl k 69 000 dolarů",
+     "text": "Bitcoin se obchoduje kolem 68 800–68 900 USD, za 24 hodin ztratil asi 4,7 %. Tlačí na něj vyšší než očekávaná inflace v USA, kvůli které trh začal počítat s možným zvýšením sazeb."
     },
     {
-     "title": "Největší české banky zvýšily zisk",
-     "text": "Šest největších bank v Česku zvýšilo čistý zisk na 74,4 mld. Kč."
+     "title": "Ropa a zlato",
+     "text": "Ropa Brent stála ráno podle Yahoo Finance kolem 98 USD za barel. Zdražuje kvůli napětí v Hormuzském průlivu, americká ropa se obchoduje kolem 89 USD. Zlato se drží zhruba na 3 875–3 880 USD za unci."
     }
    ]
   }

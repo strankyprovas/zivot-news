@@ -1,0 +1,93 @@
+{
+ "date": "2026-11-13",
+ "date_cz": "13.11.2026",
+ "updated_at": "2026-11-13T23:23+01:00",
+ "sections": [
+  {
+   "key": "cr",
+   "title": "🇨🇿 Česká republika",
+   "items": [
+    {
+     "title": "Šebestyán odvolal celou radu Vinařského fondu",
+     "text": "Ministr zemědělství Martin Šebestyán (za SPD) odvolal všech 11 členů Rady Vinařského fondu. Podle Nejvyššího kontrolního úřadu fond opakovaně porušoval předpisy a pravidla pro poskytování podpor."
+    },
+    {
+     "title": "Babiš míří na jednání „koalice ochotných“ a chce půjčky SAFE",
+     "text": "Premiér Andrej Babiš se příští čtvrtek zúčastní v Berlíně jednání koalice ochotných. Řekl také, že Česko se chce zapojit do druhého kola obranných půjček EU v programu SAFE."
+    },
+    {
+     "title": "Mimořádná daň pro rafinerie se blíží konečné podobě",
+     "text": "Poslanci projednávají mimořádnou daň pro rafinerie. Podle Echo24 je návrh blízko finální fáze. Ministryně financí Schillerová uvedla, že vláda musí brzy rozhodnout, zda prodlouží opatření kvůli cenám pohonných hmot."
+    },
+    {
+     "title": "Maximální ceny pohonných hmot na 13. listopadu",
+     "text": "Ministerstvo financí stanovilo na pátek maximální cenu benzinu na 40,65 Kč za litr a nafty na 45,49 Kč za litr (obě ceny včetně DPH)."
+    },
+    {
+     "title": "Praha zdraží roční kupon na MHD o 1 100 Kč",
+     "text": "Nastupující vedení Prahy oznámilo, že roční kupon na pražskou hromadnou dopravu podraží o 1 100 korun."
+    },
+    {
+     "title": "TOP 09 chce lustrační osvědčení pro ministry",
+     "text": "TOP 09 navrhuje, aby ministři a náměstci ministrů museli mít lustrační osvědčení. Moderátorka Jana Peroutková po 15 letech odchází z České televize."
+    }
+   ]
+  },
+  {
+   "key": "svet",
+   "title": "🌍 Svět",
+   "items": [
+    {
+     "title": "Napětí mezi USA a Íránem v Perském zálivu",
+     "text": "Íránské revoluční gardy tvrdí, že zničily americký radar včasného varování v Bahrajnu. Podle nich šlo o odvetu za americký úder v íránském přístavu Sirik. USA zásah radaru popírají. Trump po žádostech spojenců v Zálivu zatím odkládá další vojenskou akci, americká armáda ale v regionu dál posiluje."
+    },
+    {
+     "title": "Výbuchy na tankerech v Hormuzském průlivu",
+     "text": "Podle revolučních gard zasáhly ve středu a ve čtvrtek výbuchy čtyři ropné tankery. Ty podle nich ignorovaly varování a vpluly do zakázaných oblastí průlivu. Saúdská protivzdušná obrana zároveň zachytila rakety a drony Húsíů mířící mimo jiné na Rijád a Mekku."
+    },
+    {
+     "title": "Šéf Nvidie Jensen Huang odstoupil",
+     "text": "Nvidia ve čtvrtek oznámila, že spoluzakladatel Jensen Huang končí ve funkci generálního ředitele. Předcházelo tomu interní vyšetřování jeho vztahu s údajnou čínskou špionkou. Kongres si ho podle CNN předvolal ke svědectví. Firmu dočasně vede finanční ředitelka Colette Kress."
+    },
+    {
+     "title": "Výbuch auta v Moskvě",
+     "text": "Podle ruských vyšetřovatelů bomba v autě v Moskvě zranila Sergeje Zavorotného, bývalého blízkého spolupracovníka proruského ukrajinského expremiéra Mykoly Azarova."
+    },
+    {
+     "title": "Pákistán hlásí 74 zabitých ozbrojenců",
+     "text": "Pákistánská armáda uvedla, že za posledních 10 dní zabila při razziích u hranic s Afghánistánem 74 ozbrojenců. V Guineji zemřelo 10 lidí při střetech demonstrantů s bezpečnostními složkami kvůli omezení těžby zlata."
+    },
+    {
+     "title": "Americká politika: Hegseth ustál impeachment",
+     "text": "Pokus Sněmovny reprezentantů o impeachment ministra obrany Peta Hegsetha tento týden neuspěl. Senátor Chris Van Hollen chce vyzvat Chucka Schumera v boji o post lídra senátní většiny. Při zřícení budovy v New Yorku zemřelo osm lidí."
+    }
+   ]
+  },
+  {
+   "key": "ekonomika",
+   "title": "📈 Ekonomika a trhy",
+   "items": [
+    {
+     "title": "Wall Street: technologie dolů, Dow mírně v plusu",
+     "text": "Nasdaq v pátek klesl asi o 0,9 % (zhruba 25 136 bodů) a S&P 500 asi o 0,4 % (zhruba 7 562 bodů). Dow Jones přidal asi 0,1 % (zhruba 52 350 bodů). Za celý týden všechny indexy posílily, Dow asi o 2 %."
+    },
+    {
+     "title": "Akcie Nvidie dál pod tlakem",
+     "text": "Nvidia táhla technologický sektor dolů kvůli nejistotě po odchodu Jensena Huanga a výprodeji čipových firem. AMD naopak po Huangově odchodu posílila asi o 3 %. Nvidia zveřejní výsledky za 3. čtvrtletí v úterý 17. listopadu."
+    },
+    {
+     "title": "Evropa: PX roste, DAX těsně v minusu",
+     "text": "Pražský index PX posílil o 0,42 % (kolem 2 650 bodů), tlačily ho banky Moneta (+3,15 %) a Komerční banka (+1,52 %). Německý DAX uzavřel na 26 749,95 bodu (−0,08 %), STOXX Europe 600 skončil zhruba beze změny (+0,01 %). Akcie Infineonu klesly o 4,3 %."
+    },
+    {
+     "title": "Bitcoin klesl k 69 000 dolarů",
+     "text": "Bitcoin se obchoduje kolem 68 800–68 900 USD, za 24 hodin ztratil asi 4,7 %. Tlačí na něj vyšší než očekávaná inflace v USA, kvůli které trh začal počítat s možným zvýšením sazeb."
+    },
+    {
+     "title": "Ropa a zlato",
+     "text": "Ropa Brent stála ráno podle Yahoo Finance kolem 98 USD za barel. Zdražuje kvůli napětí v Hormuzském průlivu, americká ropa se obchoduje kolem 89 USD. Zlato se drží zhruba na 3 875–3 880 USD za unci."
+    }
+   ]
+  }
+ ]
+}
