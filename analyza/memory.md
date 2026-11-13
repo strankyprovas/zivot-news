@@ -1,33 +1,31 @@
-- 2026-11-12: ODRAZ SLÁBNE — středa US risk-on (S&P +1.31 %, Nasdaq +1.60 %, QQQ +2.31 %), ale 1T S&P −0.90 % a přes noc VIX zpět na 18.21 (+4.12 %). Jednodenní bounce v korekci. (běží, klíčové)
-- 2026-11-12: QQQ ODMRZLO — teď $690.38 (+2.31 %, 1M −7.15 %), sedí k Nasdaqu. Příště důvěřovat, ale hlídat. (pozn.)
-- 2026-11-12: 10LETÝ 4.998 % drží na 5 % — dominantní makro kotva, dusí kovy/TLT/drahé techy. Nad 4.5 % = risk-on krátce. (běží, klíčové)
-- 2026-11-12: DOLAR USD/CZK 21.98 (+0.86 %) na dohled od 52t maxima 22.03, YTD +6.59 % — nadlehčuje US pozice v CZK, nové US nákupy drahé. Průraz 22.03 = hlídat. (běží, klíčové)
-- 2026-11-12: ZLATO $3 952 (−1.20 %, YTD −8.95 %) — ~2 % nad 52t minimem $3 879; sražené dolarem+výnosy, ne tezí. Levná pojistka do slabosti; riziko pod $3 879. (běží, klíčové)
-- 2026-11-12: FED 5 ŘEČNÍKŮ čt 12.11. (Hammack, Barr, Goolsbee, Daly, Williams) — tón k prosincovému hiku; jestřábí = tlak na risk. (sledovat, klíčové)
-- 2026-11-12: CISCO+AMAT po zavírce 12.11., reakce zítra — AI capex bellwether; opce cenily u CSCO ~8 % pohyb. (sledovat, klíčové)
+- 2026-11-13: ODRAZ VYPRŠEL — pá US celoplošně červené (S&P −0.35 %, Nasdaq −0.39 %, Dow −0.36 %), VIX zpět +6.92 % na 18.70. Odrazový týden (S&P 1T +3.25 %), ale 1M −1.64 %. Korekce běží dál. (běží, klíčové)
+- 2026-11-13: DESETILETÝ 5.103 % — zpět NAD 5 % (1D +2.10 %, 1T +5.50 %, YTD +22.58 %). Dominantní makro kotva, dusí kovy/TLT/tech/krypto. Nad 4.5 % risk-on jen krátce. (běží, klíčové)
+- 2026-11-13: DOLAR USD/CZK 22.05 (+0.48 %) prorazil 22.03, nové 52t-max teritorium (max 22.07), YTD +6.95 %. Nadlehčuje US pozice v CZK, nové US nákupy drahé. (běží, klíčové)
+- 2026-11-13: ZLATO $3 890 (−2.77 %, YTD −10.40 %) — ~0.3 % nad 52t minimem $3 879, prakticky dotek. Sražené dolarem+výnosy. Dlouhodobě pojistka po tranších; pod $3 879 kapitulace. (běží, klíčové)
+- 2026-11-13: QQQ ZAMRZLÉ ZNOVU — $690.38 i +2.31 % 1D shodné se včerejškem, nespolehlivé. Tech čti z Nasdaq Composite (−0.39 %). (pozor na data)
+- 2026-11-13: DIVERGENCE US vs EU zpět a výrazná — DAX +1.20 % (u 52t maxima 26 692), Euro Stoxx +1.04 %, zatímco US červené. DAX 1M +5.55 %. (běží, klíčové)
+- 2026-11-13: KRYPTO ROUT — BTC $70 892 (−4.15 %, YTD −18.99 %, hlídat $70k přes víkend), ETH $2 007 (−2.37 %, YTD −32.35 %, strukturálně nejslabší). Vyšší sazby berou rizikový ocásek nejvíc. (běží)
+- 2026-11-13: STŘÍBRO $49.97 (3M −23.10 %, YTD −28.74 %) u 52t min $48.13 — padající nůž, obrat až nad $62 s objemem. (běží)
+- 2026-11-13: JÁDRO VWCE €170.92 / MSCI World €130.96 (YTD +17.54 %/+17.16 %) u 52t maxim — evropský close nezachycuje pozdní US fade; DCA páteř. (běží, klíčové)
+- 2026-11-13: TLT $80.92 (1R −9.47 %) — bez katalyzátoru proti 5% desetiletému; vstup až 10letý trvale pod 4.5 %. (běží)
+- 2026-11-13: ENERGIE proti proudu — WTI $88.51 (+2.29 %, 1R +51.33 %), zemní plyn $3.351 (+4.23 %, 1T +13.71 %, 3M +22.61 %, ale 1R −26.08 %, sezónní?). (sledovat)
+- 2026-11-13: MĚĎ $6.2045 (1R +21.91 %, 1M −6.16 %) — struktura drží, přidávat po uklidnění. (běží)
+- 2026-11-13: PPI (říjen) pá 13.11. — reakce trhu (skok výnosu, rout kovů/krypta) sedí na horké PPI; přesný print nepotvrzen (backlog). Utužuje prosincový hike. (vyšlo pravděpodobně)
+- 2026-11-13: KOREKCE V ROSTOUCÍM ROCE — Nasdaq 1M −4.97 %, S&P YTD +10.91 %. Korekce, ne krach. (běží, klíčové)
 - 2026-11-12: CPI (říjen) horké 0.4/0.3 — prosincový hike (FedWatch ~88 %) skoro jistý. (vyšlo, klíčové)
-- 2026-11-12: KOREKCE V ROSTOUCÍM ROCE — Nasdaq 1M −6.39 %, ale S&P YTD +11.30 %. Korekce, ne krach. (běží, klíčové)
-- 2026-11-12: JÁDRO VWCE €170.48 / MSCI World €130.87 (YTD +17.23 %/+17.08 %) u maxim — evropská váha tlumí US rout; DCA páteř. (běží, klíčové)
-- 2026-11-12: ETH $2 019 (1R −40.84 %, YTD −31.94 %) — strukturálně nejslabší, bez obratu, zaostává za BTC. (běží)
-- 2026-11-12: BITCOIN $72 779 (1R −28.41 %, YTD −16.83 %) — spodní půlka rozpětí; dokup až trvale nad $80k s objemem. (běží)
-- 2026-11-12: STŘÍBRO $51.06 (YTD −27.20 %, 3M −21.43 %) — padající nůž; obrat až nad $62 s objemem. (běží)
-- 2026-11-12: TLT $80.92 (1R −10.21 %) — bez katalyzátoru, 10letý 5 % + hike; vstup až 10letý trvale pod 4.5 %. (běží)
-- 2026-11-12: VIX 18.21 (+4.12 %, 1T −35.38 % z vrcholu 28) — zpět nad 18, dno strachu nepotvrzeno. (běží)
-- 2026-11-12: MĚĎ $6.219 (1R +22.19 %, 1M −5.94 %) — struktura drží, přidávat po uklidnění. (běží)
-- 2026-11-12: ROPA WTI $85.85 (3M +4.19 %, 1T −5.16 %) — usazuje se kolem $85; čekat potvrzení směru. (běží)
-- 2026-11-12: NVIDIA governance skandál (Huang + čínská rozvědka) — idiosynkratické, expozice přes index. (běží, klíčové)
-- 2026-11-12: WALLER (Fed) nadhodil i 50 bps hike — jestřábí riziko žije po horkém CPI. (sledovat, klíčové)
+- 2026-11-12: WALLER (Fed) nadhodil i 50 bps hike — jestřábí riziko žije. (sledovat, klíčové)
+- 2026-11-12: NVIDIA governance skandál (Huang + čínská rozvědka) — idiosynkratické, expozice přes index. (běží)
+- 2026-11-12: CISCO+AMAT (po zavírce čt) — AI-capex bellwether; reakci z tabulky nejde izolovat (QQQ vadné), sledovat přes zprávy. (sledovat)
 - 2026-11-12: PRAVIDLO — trh trestá beat s horší matematikou, odměňuje beat kde čísla sedí (CoreWeave). (běží)
-- 2026-11-12: KALENDÁŘ — PPI (říjen) pá 13.11.; Fed 8.–9.12.; listopadové CPI až 10.12.; vládní data dohání backlog. (sledovat)
-- 2026-11-12: DIVERGENCE US vs EU — ve středu se obrátila (vedly US), event-driven, ne trend. (běží)
+- 2026-11-13: KALENDÁŘ — Fed 8.–9. 12.; listopadové CPI 10. 12.; do té doby dobíhá vládní backlog, žádný velký trigger. (sledovat)
 - 2026-11-09: EU inflace říjen 4,0 % (3letý vrchol) — tlak na ECB, pozadí pro EUR. (sledovat)
 
 ## Uzavřeno
-- 2026-11-12: „QQQ zamrzlé číslo" → VYŘEŠENO, odmrzlo na $690.38.
-- 2026-11-12: „Zlato test $3 879" → BĚŽÍ, blíž ($3 952), ještě nedotek.
-- 2026-11-11: „CPI binární spouštěč" → VYŠLO na horkou stranu (0.4/0.3).
+- 2026-11-13: „Odraz slábne" → VYŠLO, odraz vyprchal, US červené, VIX nahoru.
+- 2026-11-13: „Zlato test $3 879" → prakticky DOTEK ($3 890).
+- 2026-11-12: „Dolar průraz 22.03" → VYŠLO (22.05, nové maximum).
+- 2026-11-12: „Desetiletý na 5 %" → VYŠLO a utuženo (5.103 %).
+- 2026-11-12: „QQQ odmrzlo" → ZASE ZAMRZLO, nespolehlivé.
+- 2026-11-11: „CPI binární spouštěč" → VYŠLO horké (0.4/0.3).
 - 2026-11-11: „CoreWeave test matematiky" → VYŠLO: beat + backlog $133 mld.
-- 2026-11-11: „KLID AŽ POD 20" (VIX) → VYŠLO jen na den.
-- 2026-11-06: „VIX nad 20 = risk-off" → VYŠLO (vrchol 28,18), pak zchladlo.
-- 2026-11-06: „QCOM varování = čipové riziko" → VYŠLO, palivo routu.
 - 2026-10-30: „Intel slabý výhled" → VYŠLO: −30 %, spouštěč techkorekce.
