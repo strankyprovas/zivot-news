@@ -1,0 +1,97 @@
+{
+ "date": "2026-11-14",
+ "date_cz": "14.11.2026",
+ "updated_at": "2026-11-14T22:08+01:00",
+ "sections": [
+  {
+   "key": "cr",
+   "title": "🇨🇿 Česká republika",
+   "items": [
+    {
+     "title": "Kupka: ODS se musí změnit",
+     "text": "Předseda ODS Martin Kupka řekl, že strana musí projít změnami a dostanou v ní prostor nové tváře. Vedení chce z ODS udělat „moderní pravici“ a připravuje nový program."
+    },
+    {
+     "title": "Babiš: Díky Polsku bude u jednání o Ukrajině i V4",
+     "text": "Premiér Andrej Babiš ocenil, že se jednání o míru na Ukrajině za EU zúčastní i Polsko. Podle něj tak bude u stolu zastoupena také Visegrádská skupina."
+    },
+    {
+     "title": "Šmucler odstoupil z čela stomatologické komory",
+     "text": "Prezident České stomatologické komory Roman Šmucler v sobotu rezignoval na svou funkci."
+    },
+    {
+     "title": "Při honičce v Liberci se zranili čtyři policisté",
+     "text": "Čtyři policisté se v noci zranili, když v Liberci pronásledovali auto."
+    },
+    {
+     "title": "Protest proti konferenci o remigraci v Praze",
+     "text": "V pátek večer protestovaly v Praze 9 stovky lidí proti konferenci krajní pravice o takzvané remigraci."
+    },
+    {
+     "title": "Rekordní podzimní Sbírka potravin",
+     "text": "Podzimní Sbírka potravin se v sobotu koná ve více než 3 560 prodejnách. Je to nejvíc v historii podzimních sbírek."
+    }
+   ]
+  },
+  {
+   "key": "svet",
+   "title": "🌍 Svět",
+   "items": [
+    {
+     "title": "EU pošle k jednání o Ukrajině své zástupce",
+     "text": "Lídři EU se dohodli, že o míru na Ukrajině budou za Evropu jednat instituce EU a skupina E5 z takzvané koalice ochotných. Oznámil to předseda Evropské rady António Costa."
+    },
+    {
+     "title": "Zelenskyj: USA nabízely NATO výměnou za území",
+     "text": "Prezident Volodymyr Zelenskyj tvrdí, že USA zjišťovaly, zda by se Ukrajina vzdala Donbasu výměnou za členství v NATO."
+    },
+    {
+     "title": "Chystá se setkání Trumpa, Si Ťin-pchinga a Putina",
+     "text": "Podle Bílého domu se tři lídři poprvé sejdou ve trojici, údajně na okraj summitu APEC v Číně. Zprávy o termínu se liší."
+    },
+    {
+     "title": "Turecko a Katar uzavřely obrannou dohodu",
+     "text": "Obě země v Istanbulu podepsaly dohodu o vzájemné obraně. Šéfové zpravodajských služeb Egypta, Turecka a Kataru se zároveň dohodli na dalším postupu v první fázi příměří v Gaze."
+    },
+    {
+     "title": "Výpadek v USA zrušil tisíce letů",
+     "text": "Americký úřad pro letectví FAA zrušil celostátní zákaz vzletů, který způsobil výpadek telekomunikací. Následovaly tisíce zrušených letů."
+    },
+    {
+     "title": "USA přišly o status země bez spalniček",
+     "text": "Panamerická zdravotnická organizace odebrala USA status země, kde byly spalničky vymýceny. Letos tam onemocnělo přes 5 400 lidí."
+    }
+   ]
+  },
+  {
+   "key": "ekonomika",
+   "title": "📈 Ekonomika a trhy",
+   "items": [
+    {
+     "title": "Wall Street: pátek v minusu, týden v plusu",
+     "text": "V sobotu se neobchodovalo. V pátek zavřel S&P 500 na 7 561,67 bodu (−0,4 %), Nasdaq na 25 136,27 bodu (−0,9 %) a Dow Jones na 52 347,55 bodu (+0,1 %). Za celý týden si hlavní indexy výrazně polepšily."
+    },
+    {
+     "title": "Jensen Huang odstoupil z čela Nvidie",
+     "text": "Podle hlášení pro americkou komisi SEC (formulář 8-K) Huang rezignoval na post šéfa firmy. Dočasnou ředitelkou je finanční ředitelka Colette Kress. Výsledky za třetí čtvrtletí fiskálního roku 2027 zveřejní Nvidia v úterý 17. listopadu."
+    },
+    {
+     "title": "Bitcoin se propadl k 65 000 dolarů",
+     "text": "Bitcoin se v sobotu obchodoval zhruba za 65 000–67 000 dolarů a za týden ztratil 12–14 %. Pád souvisí se sázkami na zvýšení sazeb Fedem, odlivem peněz z ETF fondů a likvidací pákových pozic."
+    },
+    {
+     "title": "Trhy čekají, že Fed sazby zvýší",
+     "text": "Po vysoké inflaci a silném trhu práce (v říjnu přibylo 165 000 míst místo očekávaných 65 000) trhy počítají v prosinci se zvýšením sazeb o 25 bazických bodů. Výnos desetiletých dluhopisů USA vystoupal kolem 5–5,15 %, výnos dvouletých za týden stoupl o 35 bazických bodů na 4,87 %."
+    },
+    {
+     "title": "Zlato mělo nejhorší týden od června",
+     "text": "Zlato za týden zlevnilo asi o 4,5 % na zhruba 3 880 dolarů za unci. Ve čtvrtek kleslo na letošní minimum 3 852 dolarů."
+    },
+    {
+     "title": "Ropa zlevnila druhý týden po sobě",
+     "text": "Americká ropa WTI se v pátek prodávala kolem 88,2 dolaru za barel a Brent kolem 95,5 dolaru. Index dolaru se drží nad 103 body."
+    }
+   ]
+  }
+ ]
+}

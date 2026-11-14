@@ -1,35 +1,35 @@
 {
- "date": "2026-11-13",
- "date_cz": "13.11.2026",
- "updated_at": "2026-11-13T23:23+01:00",
+ "date": "2026-11-14",
+ "date_cz": "14.11.2026",
+ "updated_at": "2026-11-14T22:08+01:00",
  "sections": [
   {
    "key": "cr",
    "title": "🇨🇿 Česká republika",
    "items": [
     {
-     "title": "Šebestyán odvolal celou radu Vinařského fondu",
-     "text": "Ministr zemědělství Martin Šebestyán (za SPD) odvolal všech 11 členů Rady Vinařského fondu. Podle Nejvyššího kontrolního úřadu fond opakovaně porušoval předpisy a pravidla pro poskytování podpor."
+     "title": "Kupka: ODS se musí změnit",
+     "text": "Předseda ODS Martin Kupka řekl, že strana musí projít změnami a dostanou v ní prostor nové tváře. Vedení chce z ODS udělat „moderní pravici“ a připravuje nový program."
     },
     {
-     "title": "Babiš míří na jednání „koalice ochotných“ a chce půjčky SAFE",
-     "text": "Premiér Andrej Babiš se příští čtvrtek zúčastní v Berlíně jednání koalice ochotných. Řekl také, že Česko se chce zapojit do druhého kola obranných půjček EU v programu SAFE."
+     "title": "Babiš: Díky Polsku bude u jednání o Ukrajině i V4",
+     "text": "Premiér Andrej Babiš ocenil, že se jednání o míru na Ukrajině za EU zúčastní i Polsko. Podle něj tak bude u stolu zastoupena také Visegrádská skupina."
     },
     {
-     "title": "Mimořádná daň pro rafinerie se blíží konečné podobě",
-     "text": "Poslanci projednávají mimořádnou daň pro rafinerie. Podle Echo24 je návrh blízko finální fáze. Ministryně financí Schillerová uvedla, že vláda musí brzy rozhodnout, zda prodlouží opatření kvůli cenám pohonných hmot."
+     "title": "Šmucler odstoupil z čela stomatologické komory",
+     "text": "Prezident České stomatologické komory Roman Šmucler v sobotu rezignoval na svou funkci."
     },
     {
-     "title": "Maximální ceny pohonných hmot na 13. listopadu",
-     "text": "Ministerstvo financí stanovilo na pátek maximální cenu benzinu na 40,65 Kč za litr a nafty na 45,49 Kč za litr (obě ceny včetně DPH)."
+     "title": "Při honičce v Liberci se zranili čtyři policisté",
+     "text": "Čtyři policisté se v noci zranili, když v Liberci pronásledovali auto."
     },
     {
-     "title": "Praha zdraží roční kupon na MHD o 1 100 Kč",
-     "text": "Nastupující vedení Prahy oznámilo, že roční kupon na pražskou hromadnou dopravu podraží o 1 100 korun."
+     "title": "Protest proti konferenci o remigraci v Praze",
+     "text": "V pátek večer protestovaly v Praze 9 stovky lidí proti konferenci krajní pravice o takzvané remigraci."
     },
     {
-     "title": "TOP 09 chce lustrační osvědčení pro ministry",
-     "text": "TOP 09 navrhuje, aby ministři a náměstci ministrů museli mít lustrační osvědčení. Moderátorka Jana Peroutková po 15 letech odchází z České televize."
+     "title": "Rekordní podzimní Sbírka potravin",
+     "text": "Podzimní Sbírka potravin se v sobotu koná ve více než 3 560 prodejnách. Je to nejvíc v historii podzimních sbírek."
     }
    ]
   },
@@ -38,28 +38,28 @@
    "title": "🌍 Svět",
    "items": [
     {
-     "title": "Napětí mezi USA a Íránem v Perském zálivu",
-     "text": "Íránské revoluční gardy tvrdí, že zničily americký radar včasného varování v Bahrajnu. Podle nich šlo o odvetu za americký úder v íránském přístavu Sirik. USA zásah radaru popírají. Trump po žádostech spojenců v Zálivu zatím odkládá další vojenskou akci, americká armáda ale v regionu dál posiluje."
+     "title": "EU pošle k jednání o Ukrajině své zástupce",
+     "text": "Lídři EU se dohodli, že o míru na Ukrajině budou za Evropu jednat instituce EU a skupina E5 z takzvané koalice ochotných. Oznámil to předseda Evropské rady António Costa."
     },
     {
-     "title": "Výbuchy na tankerech v Hormuzském průlivu",
-     "text": "Podle revolučních gard zasáhly ve středu a ve čtvrtek výbuchy čtyři ropné tankery. Ty podle nich ignorovaly varování a vpluly do zakázaných oblastí průlivu. Saúdská protivzdušná obrana zároveň zachytila rakety a drony Húsíů mířící mimo jiné na Rijád a Mekku."
+     "title": "Zelenskyj: USA nabízely NATO výměnou za území",
+     "text": "Prezident Volodymyr Zelenskyj tvrdí, že USA zjišťovaly, zda by se Ukrajina vzdala Donbasu výměnou za členství v NATO."
     },
     {
-     "title": "Šéf Nvidie Jensen Huang odstoupil",
-     "text": "Nvidia ve čtvrtek oznámila, že spoluzakladatel Jensen Huang končí ve funkci generálního ředitele. Předcházelo tomu interní vyšetřování jeho vztahu s údajnou čínskou špionkou. Kongres si ho podle CNN předvolal ke svědectví. Firmu dočasně vede finanční ředitelka Colette Kress."
+     "title": "Chystá se setkání Trumpa, Si Ťin-pchinga a Putina",
+     "text": "Podle Bílého domu se tři lídři poprvé sejdou ve trojici, údajně na okraj summitu APEC v Číně. Zprávy o termínu se liší."
     },
     {
-     "title": "Výbuch auta v Moskvě",
-     "text": "Podle ruských vyšetřovatelů bomba v autě v Moskvě zranila Sergeje Zavorotného, bývalého blízkého spolupracovníka proruského ukrajinského expremiéra Mykoly Azarova."
+     "title": "Turecko a Katar uzavřely obrannou dohodu",
+     "text": "Obě země v Istanbulu podepsaly dohodu o vzájemné obraně. Šéfové zpravodajských služeb Egypta, Turecka a Kataru se zároveň dohodli na dalším postupu v první fázi příměří v Gaze."
     },
     {
-     "title": "Pákistán hlásí 74 zabitých ozbrojenců",
-     "text": "Pákistánská armáda uvedla, že za posledních 10 dní zabila při razziích u hranic s Afghánistánem 74 ozbrojenců. V Guineji zemřelo 10 lidí při střetech demonstrantů s bezpečnostními složkami kvůli omezení těžby zlata."
+     "title": "Výpadek v USA zrušil tisíce letů",
+     "text": "Americký úřad pro letectví FAA zrušil celostátní zákaz vzletů, který způsobil výpadek telekomunikací. Následovaly tisíce zrušených letů."
     },
     {
-     "title": "Americká politika: Hegseth ustál impeachment",
-     "text": "Pokus Sněmovny reprezentantů o impeachment ministra obrany Peta Hegsetha tento týden neuspěl. Senátor Chris Van Hollen chce vyzvat Chucka Schumera v boji o post lídra senátní většiny. Při zřícení budovy v New Yorku zemřelo osm lidí."
+     "title": "USA přišly o status země bez spalniček",
+     "text": "Panamerická zdravotnická organizace odebrala USA status země, kde byly spalničky vymýceny. Letos tam onemocnělo přes 5 400 lidí."
     }
    ]
   },
@@ -68,24 +68,28 @@
    "title": "📈 Ekonomika a trhy",
    "items": [
     {
-     "title": "Wall Street: technologie dolů, Dow mírně v plusu",
-     "text": "Nasdaq v pátek klesl asi o 0,9 % (zhruba 25 136 bodů) a S&P 500 asi o 0,4 % (zhruba 7 562 bodů). Dow Jones přidal asi 0,1 % (zhruba 52 350 bodů). Za celý týden všechny indexy posílily, Dow asi o 2 %."
+     "title": "Wall Street: pátek v minusu, týden v plusu",
+     "text": "V sobotu se neobchodovalo. V pátek zavřel S&P 500 na 7 561,67 bodu (−0,4 %), Nasdaq na 25 136,27 bodu (−0,9 %) a Dow Jones na 52 347,55 bodu (+0,1 %). Za celý týden si hlavní indexy výrazně polepšily."
     },
     {
-     "title": "Akcie Nvidie dál pod tlakem",
-     "text": "Nvidia táhla technologický sektor dolů kvůli nejistotě po odchodu Jensena Huanga a výprodeji čipových firem. AMD naopak po Huangově odchodu posílila asi o 3 %. Nvidia zveřejní výsledky za 3. čtvrtletí v úterý 17. listopadu."
+     "title": "Jensen Huang odstoupil z čela Nvidie",
+     "text": "Podle hlášení pro americkou komisi SEC (formulář 8-K) Huang rezignoval na post šéfa firmy. Dočasnou ředitelkou je finanční ředitelka Colette Kress. Výsledky za třetí čtvrtletí fiskálního roku 2027 zveřejní Nvidia v úterý 17. listopadu."
     },
     {
-     "title": "Evropa: PX roste, DAX těsně v minusu",
-     "text": "Pražský index PX posílil o 0,42 % (kolem 2 650 bodů), tlačily ho banky Moneta (+3,15 %) a Komerční banka (+1,52 %). Německý DAX uzavřel na 26 749,95 bodu (−0,08 %), STOXX Europe 600 skončil zhruba beze změny (+0,01 %). Akcie Infineonu klesly o 4,3 %."
+     "title": "Bitcoin se propadl k 65 000 dolarů",
+     "text": "Bitcoin se v sobotu obchodoval zhruba za 65 000–67 000 dolarů a za týden ztratil 12–14 %. Pád souvisí se sázkami na zvýšení sazeb Fedem, odlivem peněz z ETF fondů a likvidací pákových pozic."
     },
     {
-     "title": "Bitcoin klesl k 69 000 dolarů",
-     "text": "Bitcoin se obchoduje kolem 68 800–68 900 USD, za 24 hodin ztratil asi 4,7 %. Tlačí na něj vyšší než očekávaná inflace v USA, kvůli které trh začal počítat s možným zvýšením sazeb."
+     "title": "Trhy čekají, že Fed sazby zvýší",
+     "text": "Po vysoké inflaci a silném trhu práce (v říjnu přibylo 165 000 míst místo očekávaných 65 000) trhy počítají v prosinci se zvýšením sazeb o 25 bazických bodů. Výnos desetiletých dluhopisů USA vystoupal kolem 5–5,15 %, výnos dvouletých za týden stoupl o 35 bazických bodů na 4,87 %."
     },
     {
-     "title": "Ropa a zlato",
-     "text": "Ropa Brent stála ráno podle Yahoo Finance kolem 98 USD za barel. Zdražuje kvůli napětí v Hormuzském průlivu, americká ropa se obchoduje kolem 89 USD. Zlato se drží zhruba na 3 875–3 880 USD za unci."
+     "title": "Zlato mělo nejhorší týden od června",
+     "text": "Zlato za týden zlevnilo asi o 4,5 % na zhruba 3 880 dolarů za unci. Ve čtvrtek kleslo na letošní minimum 3 852 dolarů."
+    },
+    {
+     "title": "Ropa zlevnila druhý týden po sobě",
+     "text": "Americká ropa WTI se v pátek prodávala kolem 88,2 dolaru za barel a Brent kolem 95,5 dolaru. Index dolaru se drží nad 103 body."
     }
    ]
   }
