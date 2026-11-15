@@ -1,0 +1,89 @@
+{
+ "date": "2026-11-15",
+ "date_cz": "15.11.2026",
+ "updated_at": "2026-11-15T22:29+01:00",
+ "sections": [
+  {
+   "key": "cr",
+   "title": "🇨🇿 Česká republika",
+   "items": [
+    {
+     "title": "Demonstrace „Letná proti 4:36“",
+     "text": "Spolek Milion chvilek pro demokracii svolal na neděli protivládní demonstraci na Letnou. Akce míří hlavně proti plánu vlády převést financování České televize a Českého rozhlasu z poplatků pod státní rozpočet. Podle ČT24 lidé zaplnili Letenskou pláň. Oficiální počet účastníků zatím dohledaný není."
+    },
+    {
+     "title": "Na Letné vystoupili herci i zahraniční hosté",
+     "text": "Podle Deníku na demonstraci vystoupili herci a zahraniční hosté. Z pódia zazněly ostré vzkazy vládě premiéra Andreje Babiše. Pořadatelé před akcí uváděli, že může jít o rekordní shromáždění."
+    },
+    {
+     "title": "Posílené metro a tramvaje v Praze",
+     "text": "Dopravní podnik kvůli shromáždění posílil metro a tramvaje. Na lince A mezi Dejvickou a Želivského jezdily soupravy v intervalu 3,75 minuty."
+    },
+    {
+     "title": "Kurýři čekají rekordní předvánoční sezonu",
+     "text": "Přepravní firmy podle ČTK očekávají před Vánoci rekordní počet zásilek. Doručovat se bude v několika vlnách a GLS posílila kapacity. Výrazný nárůst objednávek se čeká po listopadových výplatách."
+    },
+    {
+     "title": "Na Strakonicku je nejvíc uchazečů na jedno místo",
+     "text": "Podle ČTK byl největší tlak na trhu práce na Strakonicku. Na jedno volné pracovní místo tam připadalo 4,7 uchazeče."
+    }
+   ]
+  },
+  {
+   "key": "svet",
+   "title": "🌍 Svět",
+   "items": [
+    {
+     "title": "Napětí v Hormuzském průlivu",
+     "text": "Íránské Revoluční gardy tvrdí, že nad ostrovem Kešm sestřelily americký dron MQ-1. Podle gard také dva ropné tankery jižně od průlivu najely na námořní miny a začaly hořet."
+    },
+    {
+     "title": "Kreml oznámil schůzku Putina, Si a Trumpa",
+     "text": "Podle Kremlu se Vladimir Putin, Si Ťin-pching a Donald Trump sejdou 19. listopadu v čínském Šen-čenu na trojstranném summitu."
+    },
+    {
+     "title": "Výpadek řízení letového provozu v USA",
+     "text": "Americké řízení letového provozu se po celostátním výpadku stabilizovalo. Aerolinky přesto počítaly se zrušením 4 000 až 5 000 z přibližně 41 000 plánovaných letů."
+    },
+    {
+     "title": "Prezidentské volby na Kapverdách",
+     "text": "Na Kapverdách se volil prezident a země může poprvé od nezávislosti na Portugalsku (1975) zvolit ženu. Pokud nikdo nezíská většinu, druhé kolo bude 29. listopadu."
+    },
+    {
+     "title": "Protesty ve Francii, nová vojenská spojenectví",
+     "text": "Francií v sobotu popáté za sebou prošly celostátní protesty. Katar a Turecko oznámily obranné spojenectví a Filipíny s Austrálií posílily svůj obranný pakt."
+    },
+    {
+     "title": "Blízký východ: Rafah a Damašek",
+     "text": "Hnutí Hamás potvrdilo, že izraelský úder zabil velitele jeho brigády v Rafáhu. Na předměstí Damašku zabila bomba dva lidi, mezi nimi dítě."
+    }
+   ]
+  },
+  {
+   "key": "ekonomika",
+   "title": "📈 Ekonomika a trhy",
+   "items": [
+    {
+     "title": "Burzy jsou o víkendu zavřené, Wall Street týden končila ve ztrátě",
+     "text": "Dnes je neděle a trhy se neobchodují. Podle dostupných zpráv v posledním obchodním dni týdne klesl Nasdaq o 0,91 % a S&P 500 o 0,41 % na 7 561,67 bodu. Dolů táhly hlavně technologické akcie včetně Marvellu. Údaj se nepodařilo potvrdit z druhého zdroje."
+    },
+    {
+     "title": "Bitcoin za týden ztratil 8,5 %",
+     "text": "Bitcoin uzavřel pátek na 68 226 USD, což je týdenní pokles o 8,5 %. Americké spotové bitcoinové ETF za pět obchodních dnů zaznamenaly čistý odliv kolem 1,07 mld. USD. Analytici sledují podporu kolem 64 200 USD a odpor na 70 000 USD."
+    },
+    {
+     "title": "Ropa klesla druhý týden po sobě",
+     "text": "Brent se 13. listopadu usadil na 95,84 USD za barel a WTI na 88,56 USD. Obě ropy za týden ztratily zhruba 2,5 % kvůli obavám z přebytku nabídky. Útoky na lodě u Hormuzu ale zvyšují geopolitické riziko."
+    },
+    {
+     "title": "Zlato je u ročního minima",
+     "text": "Zlato za týden odepsalo zhruba 4,6 % a drží se poblíž ročního minima kolem 3 884 USD za unci."
+    },
+    {
+     "title": "Výnosy rostou, trh čeká na inflaci v USA",
+     "text": "Výnos dvouletých amerických dluhopisů za týden vyskočil o 34 bazických bodů a dolar zažil nejlepší týden za dva měsíce. Trh plně počítá s prosincovým krokem Fedu. Klíčovou událostí příštího týdne jsou úterní data o americké inflaci (CPI). Údaje o desetiletém výnosu se mezi zdroji liší (4,87 % vs. 5,13 %)."
+    }
+   ]
+  }
+ ]
+}
