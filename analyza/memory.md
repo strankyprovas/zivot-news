@@ -1,30 +1,29 @@
-- 2026-11-15: KRYPTO ZMĚNA TRENDU, ne výkyv — BTC $64 109 (1D −6.07 %, 1T −14.77 %, 1M −20.65 %, YTD −26.74 %), propad pokračoval i přes víkend = nucené prodeje. −36 % od 52t max $99 804. ETF odliv ~1,07 mld, −14 mld stablecoin likvidity, likvidace. Nůž. (běží, klíčové)
-- 2026-11-15: ETH $1 771 (1D −8.15 %, YTD −40.33 %, 1R −42.96 %) — strukturálně nejslabší, padá rychleji než BTC, ETF odliv ~399 mil. Nechytat. (běží)
-- 2026-11-15: RISK-OFF BAROMETR — i živé kovy slábnou (stříbro −1.88 %, měď −1.67 %), jen zlato zelené. Víkendový krypto-výprodej = předvoj nálady do pondělí. (sledovat, klíčové)
-- 2026-11-14: NVIDIA REPORT ÚT 17.11. po zavírce — první bez Huanga (interim CEO Colette Kress), konsenzus ~$108.8 mld / EPS $2.47. Krypto padá už před ním = vyšší sázky. Binární. (běží, klíčové)
-- 2026-11-14: NVIDIA −31 % od vrcholu 6.10., −12,75 % za týden. Governance skandál → tvrdý earnings test. Expozice přes index. (běží, klíčové)
+- 2026-11-15: KRYPTO — po 6 ztrátových týdnech první zelený den: BTC $65 412 (1D +2.00 %, 1T −11.27 %, YTD −25.25 %), ETH $1 831 (1D +3.49 %, YTD −38.30 %). Víkendové dno ~$62k, Fear&Greed ~10. Odraz z přeprodanosti, NE obrat trendu. (běží, klíčové)
+- 2026-11-15: ETH strukturálně nejslabší — YTD −38.30 %, 1R −42.19 %, padá rychleji než BTC. I v odrazu nechytat první. (běží)
+- 2026-11-15: RISK-OFF BAROMETR SLÁBNE — kovy pořád v mínusu (stříbro −1.70 %, měď −1.49 %), ale krypto zelené = jednotná risk-off nálada se rozpadla. Sledovat futures v noli na neděli. (sledovat, klíčové)
+- 2026-11-15: ZLATO $3 886 (+0.03 %, YTD −10.48 %) — jediný kov zelené i v risk-off, ~0.8 % nad 52t min $3 856.70. Odolnost u dna = relativní síla. Pod $3 856 kapitulace. Pojistka po malých tranších. (běží, klíčové)
+- 2026-11-15: STŘÍBRO $49.12 (YTD −29.96 %) na 52t min $48.13 — padající nůž, obrat až nad ~$62 s objemem. (běží)
+- 2026-11-15: KRÁTKÉ US POUKÁZKY 3M nesou 4.12 % bez rizika — parkoviště hotovosti a suché palivo před Nvidií a Fedem. (sledovat)
+- 2026-11-14: NVIDIA REPORT ÚT 17.11. po zavírce — první bez Huanga, konsenzus ~$109 mld / EPS ~$2.49. Pozor na Singapur, hledání CEO, regulaci DC. Krypto padá před ním = vyšší sázky. Binární. (běží, klíčové)
+- 2026-11-14: NVIDIA −31 % od vrcholu 6.10., governance skandál → tvrdý earnings test. Expozice jen přes index. (běží, klíčové)
 - 2026-11-14: DESETILETÝ 5.154 % (1T +6.07 %, YTD +23.80 %) — dominantní makro kotva, dusí kovy/TLT/tech/krypto. Nad 5.25 % bolest zrychlí, pod 5 % uleví. (běží, klíčové)
-- 2026-11-14: PROSINCOVÝ HIKE ~100 % cenou (~89 % 25 bps, ~14 % 50 bps). Waller mluví o 50 bps — jestřábí riziko žije. (běží, klíčové)
-- 2026-11-14: DOLAR 22.04 (YTD +6.90 %), pod 52t max 22.13. Síla drží. Nadlehčuje hotové US pozice, nové US/zlato dražší. (běží, klíčové)
-- 2026-11-14: VIX 19.30 (+3.21 %) — zvednutý, ne panika; prostor nahoru. (sledovat)
-- 2026-11-15: ZLATO $3 886 (+0.03 %, YTD −10.48 %) — jediný kov zelené i v risk-off dni, drží ~0.8 % nad 52t min $3 856.70. Odolnost u dna = relativní síla, signál. Pod $3 856 kapitulace. Pojistka po malých tranších. (běží, klíčové)
-- 2026-11-15: STŘÍBRO $49.03 (3M −25.85 %, YTD −30.09 %) na 52t min $48.13 — padající nůž, obrat až nad ~$62 s objemem. (běží)
-- 2026-11-14: DIVERGENCE US vs EU — DAX 26 750 (1M +5.39 %, YTD +11.27 %) těsně pod 52t max 27 001, zatímco US tech/krypto padá. Přehřáté na vstup; divergence se rovná dolů. (běží, klíčové)
-- 2026-11-14: JÁDRO VWCE €169.86 / MSCI World €130.44 (YTD +16.81 %/+16.70 %) — sjeté z 52t maxim, mělké pročištění. DCA páteř, výprodej = pokračovat po částech. (běží, klíčové)
+- 2026-11-14: PROSINCOVÝ HIKE ~100 % cenou (~89 % 25 bps, ~14 % 50 bps). Waller mluví o 50 bps — jestřábí riziko žije. Fed 8.–9. 12., CPI 10. 12. (běží, klíčové)
+- 2026-11-14: DOLAR 22.04 (YTD +6.90 %), pod 52t max 22.13. Síla drží — nadlehčuje hotové US pozice, nové US/zlato dražší. (běží, klíčové)
+- 2026-11-15: VIX 19.30 — zvednutý, ne panika; prostor nahoru. (sledovat)
+- 2026-11-14: DIVERGENCE US vs EU — DAX 26 750 (1M +5.39 %, YTD +11.27 %) těsně pod 52t max 27 001, zatímco US tech/krypto padá. Přehřáté na vstup; divergence se rovná spíš dolů. (běží, klíčové)
+- 2026-11-14: JÁDRO VWCE €169.86 / MSCI World €130.44 (YTD +16.81 %/+16.70 %) — mělké pročištění z maxim. DCA páteř, výprodej = pokračovat po částech. (běží, klíčové)
 - 2026-11-14: TLT $79.38 (1R −10.68 %, YTD −8.93 %) — bez katalyzátoru proti 5.15% výnosu; vstup až 10letý trvale pod 4.5 %. (běží)
-- 2026-11-14: MĚĎ $6.0795 (1D −1.67 %, 1M −6.63 %, 1R +20.40 %) — struktura drží, krátkodobě slábne. Přidávat po uklidnění. (běží)
-- 2026-11-15: KRÁTKÉ US POUKÁZKY 3M nesou 4.12 % bez rizika — parkoviště hotovosti, trpělivost placená. Před Nvidií a Fedem. (sledovat)
-- 2026-11-14: ENERGIE — WTI $88.56 (1R +47.38 %), zemní plyn $3.23 (1T +7.74 %, 3M +20.07 %, sezónní). (sledovat)
-- 2026-11-14: KALENDÁŘ — příští týden retail (Walmart/HD/Target) + čínský tech (BABA/PDD). Velké triggery: Nvidia 17.11., Fed 8.–9. 12., CPI 10. 12. (sledovat)
-- 2026-11-12: PRAVIDLO — trh trestá beat s horší matematikou, odměňuje beat kde čísla sedí (CoreWeave). (běží)
+- 2026-11-14: MĚĎ $6.09 (1D −1.49 %, 1M −6.47 %, 1R +21.81 %) — struktura drží, krátkodobě slábne. Přidávat po uklidnění. (běží)
+- 2026-11-14: KALENDÁŘ TÝDNE — ÚT retail sales + Home Depot/Disney + Nvidia; ST TJX/Lowe's/Target + FOMC minutes; ČT Walmart. (sledovat)
+- 2026-11-14: ENERGIE — WTI $88.56 (1R +47.82 %), zemní plyn $3.23 (1T +7.74 %, 3M +20.07 %, sezónní). (sledovat)
+- 2026-11-12: PRAVIDLO — trh trestá beat s horší matematikou, odměňuje beat kde čísla sedí (CoreWeave). Klíč k úterní Nvidii. (běží)
 - 2026-11-09: EU inflace říjen 4,0 % (3letý vrchol) — tlak na ECB, pozadí pro EUR. (sledovat)
 
 ## Uzavřeno
-- 2026-11-15: „BTC pod $68k přes víkend, cíle $66k/$65k" → VYŠLO a překonáno ($64 109).
-- 2026-11-15: „VIX strach se vrací" → VYŠLO, krypto potvrdilo risk-off.
+- 2026-11-15: „BTC pod $68k přes víkend, cíle $66k/$65k" → VYŠLO a překonáno (dno ~$62k).
+- 2026-11-15: „VIX strach se vrací / krypto potvrdilo risk-off" → VYŠLO.
 - 2026-11-14: „Desetiletý útrh nad 5.10 %" → VYŠLO (5.154 %).
 - 2026-11-13: „BTC hlídat $70k přes víkend" → VYŠLO (prorazil dolů).
-- 2026-11-13: „Odraz slábne/vypršel" → VYŠLO, korekce běží dál.
 - 2026-11-12: „Dolar průraz 22.03" → VYŠLO, pak nové max 22.13.
 - 2026-11-11: „CPI binární spouštěč" → VYŠLO horké (0.4/0.3).
 - 2026-10-30: „Intel slabý výhled" → VYŠLO: −30 %, spouštěč techkorekce.
