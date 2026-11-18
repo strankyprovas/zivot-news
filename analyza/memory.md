@@ -1,26 +1,26 @@
-- 2026-11-18: NVIDIA BEAT → ODRAZ NEVYŠEL — čistý beat (tržby $115,8 mld +103 %, EPS $2,68, Q4 guide $127–132 mld nad odhady, $150 mld buyback, Huang se nevrací) a trh přesto 4. červený den. Lekce: když dobrá zpráva nezvedne trh, poptávka je slabá. (klíčové)
-- 2026-11-18: TECH KOREKCE SE PROHLUBUJE — Nasdaq 1M −7.95 %, QQQ 1D −2.67 % / 1M −6.77 %, S&P 1M −4.55 %. Pořád korekce ne medvěd (S&P YTD +7.23 %). (běží, klíčové)
-- 2026-11-18: VIX 25.46 (1D +11.13 %, 1T +30.83 %) — leze k hranici 28; nad 28 = eskalace, defenziva. (sledovat, klíčové)
-- 2026-11-18: ROTACE US → ZBYTEK SVĚTA — dnes Dow −1.64 % hůř než Nasdaq −0.74 %; přes týden Evropa v plusu (DAX +1.26 %, Stoxx +0.92 %) proti klesajícímu US. (běží)
-- 2026-11-18: JÁDRO VWCE €169.08 / MSCI World €129.98 — přes týden v PLUSU (+0.99 % / +1.19 %), YTD +16.3 %. DCA páteř tlumí US drama, pokračovat po částech. (běží, klíčové)
-- 2026-11-18: DESETILETÝ 5.103 % (1D −0.35 %) — makro kotva kolem 5 %. Nad 5.25 % bolest zrychlí, pod 5 % uleví. FOMC zápis dnes. (běží, klíčové)
-- 2026-11-18: PROSINCOVÝ KROK FEDU ~99 % v cenách. Fed 8.–9. 12., CPI 10. 12. (běží)
-- 2026-11-18: ZLATO $3 807 — PROLOMILO kapitulační linii $3 835, těsně nad 52t min 3 793, YTD −12.31 %. Momentum dolů, teď spíš nůž než pojistka. Obrat = nad ~$3 900. (běží, klíčové)
-- 2026-11-18: STŘÍBRO $46.24 na 52t min (46.04), YTD −34.08 % — padající nůž, obrat až nad ~$62 s objemem. (běží)
-- 2026-11-18: BTC $64 379 — pod $65k, 1T −9.76 %, 1M −20.33 %, YTD −26.43 %. Žádná kapitulace ani dno. Nůž bez obratu. (běží, klíčové)
-- 2026-11-18: ETH $1 803 — YTD −39.25 %, blízko 52t min 1 506. Strukturálně nejslabší. Nechytat; obrat nad ~$2 000 s objemem. (běží)
-- 2026-11-18: DOLAR 22.16 (1D −0.14 %) mírně z 52t max 22.23 — pořád silný, nové US/zlato v CZK dražší. EUR/USD 1.0997. (běží, klíčové)
-- 2026-11-18: KRÁTKÉ US POUKÁZKY 3M nesou 4.14 % bez rizika — parkoviště a suché palivo na vrchol VIXu. V CZK pozor na dolar. (sledovat)
-- 2026-11-18: MĚĎ $5.96 (1M −9.23 %, 1R +19.21 %) — struktura drží, krátkodobě slábne. Přidávat až po uklidnění, ne do padajícího trendu. (běží)
-- 2026-11-18: TLT $79.38 (1R −10.87 %, YTD −8.93 %) — bez katalyzátoru proti 5.10% výnosu; vstup až desetiletý trvale pod 4.5 %. (běží)
-- 2026-11-18: PRAVIDLO — i učebnicový beat může trh nechat chladným, když je převis (vedení/ocenění/sazby). Reakce asymetrická, laťka vysoko. (běží)
-- 2026-11-18: KALENDÁŘ — ČT Walmart (spotřebitel). Klíč zítřka: udrží trh zelenou po beatu, nebo 5. červený den? (sledovat)
-- 2026-11-18: ENERGIE — WTI $85.22 (1R +42.25 %, 1M −16.28 %), zemní plyn $3.18 (1R −27.17 %, 3M +16.21 % sezónní). (sledovat)
+- 2026-11-18: NVIDIA BEAT → ODRAZ NEVYŠEL — čistý beat (tržby $115,8 mld +103 %, EPS $2,68, Q4 guide nad odhady, $150 mld buyback) a trh pátý červený den. Lekce: dobrá zpráva, co nezvedne trh = slabá poptávka. (klíčové, uzavřeno)
+- 2026-11-18: TECH KOREKCE POKRAČUJE — Nasdaq 1M −7.95 %, QQQ 1M −8.55 %, S&P pětiměsíční min. 61 % Nasdaqu 100 v medvědím území. Pořád korekce ne medvěd (S&P YTD +7.23 %). (běží, klíčové)
+- 2026-11-18: VIX 24.54 (1D −3.61 %, 1T +40.31 %) — přes noc povolil, pod hranicí 28. Nad 28 = eskalace, defenziva. (sledovat, klíčové)
+- 2026-11-18: ROTACE US → ZBYTEK SVĚTA — jádro VWCE/MSCI 1D v plusu (+0.79 %/+0.72 %) proti klesajícímu US, ale je to evropský lag, ne obrat. (běží)
+- 2026-11-18: JÁDRO VWCE €166.58 / MSCI World €127.99 — YTD +14.55 %/+14.51 %, drží líp než US indexy. DCA páteř, pokračovat po částech. (běží, klíčové)
+- 2026-11-18: DESETILETÝ 5.103 % (1D −0.35 %) — makro kotva kolem 5 %. Nad 5.25 % bolest zrychlí, pod 5 % uleví. (běží, klíčové)
+- 2026-11-18: ZÁPIS FOMC dnes 20:00 SEČ — ze zasedání 27.–28. 10. (drženo 3.75–4.00 %, DVA disenty pro ZVÝŠENÍ). Jestřábí tón ohrozí prosinec. (sledovat, klíčové)
+- 2026-11-18: PROSINCOVÝ KROK FEDU ~99 % v cenách. Fed 8.–9. 12., CPI 10. 12. Riziko: zápis FOMC to může nahlodat. (běží)
+- 2026-11-18: ZLATO $3 754 — na 52t minimu (3752.80), YTD −13.52 %. V risk-off padá S trhem = likvidace do hotovosti, ne pojistka. Obrat = nad ~$3 900 s objemem. (běží, klíčové)
+- 2026-11-18: STŘÍBRO $45.31 na 52t minimu (45.22), YTD −35.39 % — padající nůž, obrat až nad ~$62 s objemem. (běží)
+- 2026-11-18: BTC $64 078 — pod $65k, 1M −21.15 %, YTD −26.78 %. Žádná kapitulace ani dno. Nůž bez obratu, zpět nad $68k = obrat. (běží, klíčové)
+- 2026-11-18: ETH $1 795 — YTD −39.49 %, blízko 52t min 1 506. Strukturálně nejslabší. Obrat nad ~$2 000 s objemem. (běží)
+- 2026-11-18: DOLAR 22.25 (1D +0.28 %) kousek od 52t maxima 22.27 — silný, US/komodity v CZK dražší. EUR/USD 1.0963. (běží, klíčové)
+- 2026-11-18: KRÁTKÉ US POUKÁZKY 3M nesou 4.138 % bez rizika — parkoviště a suché palivo. V CZK pozor na dolar. (sledovat)
+- 2026-11-18: MĚĎ $5.7605 (1D −3.61 %, 1T −8.19 %) — teze „struktura drží" se drolí, krátkodobě slábne. Přidávat až po uklidnění. (běží)
+- 2026-11-18: TLT $79.55 (1R −10.68 %, YTD −8.73 %) — bez katalyzátoru proti 5.10% výnosu; vstup až desetiletý trvale pod 4.5 %. (běží)
+- 2026-11-18: PRAVIDLO — i učebnicový beat nechá trh chladným, když je převis (vedení/ocenění/sazby). Reakce asymetrická, laťka vysoko. (běží)
+- 2026-11-18: KALENDÁŘ — ČT 19. 11. Walmart (spotřebitel). (sledovat)
+- 2026-11-18: ENERGIE — WTI $84.28 (1R +38.76 %, 1M −17.20 %), zemní plyn $3.251 (1R −25.62 %, 3M +18.95 % sezónní). (sledovat)
 - 2026-11-09: EU inflace říjen 4,0 % (3letý vrchol) — tlak na ECB, pozadí pro EUR. (sledovat)
 
 ## Uzavřeno
-- 2026-11-18: „Čistý beat Nvidie = prudký odraz techu" → NEVYŠLO (beat učebnicový, trh 4. den dolů; převis vedení + strach z ocenění přebil čísla).
-- 2026-11-17: „Krátké poukázky jako suché palivo" → běží dál.
+- 2026-11-18: „Čistý beat Nvidie = prudký odraz techu" → NEVYŠLO (beat učebnicový, trh dál dolů; převis vedení + strach z ocenění + sazby přebily čísla).
 - 2026-11-16: „Krypto odraz" → NEVYŠEL (BTC pod víkendové dno).
 - 2026-11-15: „BTC pod $68k, cíle $66k/$65k" → VYŠLO a překonáno (dno ~$62k).
 - 2026-11-14: „Desetiletý nad 5.10 %" → VYŠLO.
