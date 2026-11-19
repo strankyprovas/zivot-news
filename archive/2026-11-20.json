@@ -1,0 +1,93 @@
+{
+ "date": "2026-11-20",
+ "date_cz": "20.11.2026",
+ "updated_at": "2026-11-20T00:25+01:00",
+ "sections": [
+  {
+   "key": "cr",
+   "title": "🇨🇿 Česká republika",
+   "items": [
+    {
+     "title": "Vystrčil znovu předsedou Senátu",
+     "text": "Na první schůzi Senátu po volbách zvolili senátoři znovu předsedou Miloše Vystrčila (ODS). Neměl protikandidáta a dostal 69 ze 77 odevzdaných hlasů."
+    },
+    {
+     "title": "Nehoda autobusu s dětmi na Plzeňsku",
+     "text": "Při srážce osobního auta s autobusem, který vezl děti předškolního věku, zemřela řidička auta. Zraněno bylo deset dětí a čtyři dospělí, nikdo není v ohrožení života. Silnice první třídy byla ve čtvrtek v podvečer stále uzavřená."
+    },
+    {
+     "title": "Vláda schválila antibiotický program",
+     "text": "Vláda na čtvrteční schůzi schválila mimo jiné Strategii Národního antibiotického programu na roky 2026–2032. Schválila také systemizaci pracovních míst ve správních úřadech od 1. ledna 2027."
+    },
+    {
+     "title": "Česko zvažuje izraelskou protivzdušnou obranu",
+     "text": "Premiér Babiš byl 16.–18. listopadu v Izraeli a jednal tam o obraně a zdravotnictví. Kvůli cestě vynechal oslavy 17. listopadu v Praze. Podle médií se rýsuje nákup izraelských systémů protivzdušné obrany a zakázka by mohla být vypsána příští rok."
+    },
+    {
+     "title": "Spor v ODS kvůli radikálním návrhům",
+     "text": "Platforma uvnitř ODS navrhla mimo jiné zrušit důchody a poplatky za ČT. Předseda strany Martin Kupka reagoval, že autor návrhu „podlehl touze se zviditelnit“."
+    },
+    {
+     "title": "Nová pražská koalice chystá zdražení",
+     "text": "Nová koalice na pražském magistrátu plánuje zdražit Lítačku i parkování. Jednou z jejích priorit má být také rostoucí počet seniorů ve městě."
+    }
+   ]
+  },
+  {
+   "key": "svet",
+   "title": "🌍 Svět",
+   "items": [
+    {
+     "title": "Summit Trump–Si–Putin v Šen-čenu",
+     "text": "Lídři USA, Číny a Ruska se poprvé sešli všichni tři najednou, a to na okraj summitu APEC. Jejich společná „Mírová deklarace“ nezmiňuje válku na Ukrajině ani konflikt s Íránem. Země se v ní zavázaly k dialogu o snížení jaderných rizik a nešíření jaderných zbraní. Podle CBS summit přinesl jen málo konkrétních výsledků."
+    },
+    {
+     "title": "Putin vyloučil přímá jednání s Ukrajinou",
+     "text": "Putin po summitu odmítl přímá jednání s Kyjevem. Jako důvod uvedl ukrajinský útok na Kerčský most. Trump naopak tvrdí, že Putin je připraven na dohodu o Ukrajině. Senátor Chuck Schumer označil setkání za „historickou ostudu“."
+    },
+    {
+     "title": "Ukrajina opět zaútočila na Kerčský most, Rusko udeřilo na Oděsu",
+     "text": "Ukrajina provedla už třetí letecký útok za čtyři dny na Kerčský most, který spojuje Rusko s Krymem. Při ruském úderu na Oděsu podle prvních zpráv zemřeli nejméně čtyři lidé a 13 jich bylo zraněno."
+    },
+    {
+     "title": "Mezinárodní soudní dvůr: Myanmar zabíjel Rohingy",
+     "text": "Mezinárodní soudní dvůr v Haagu podle agentury Reuters shledal, že myanmarské síly zabily tisíce Rohingů."
+    },
+    {
+     "title": "Dánsko schválilo arktickou dohodu s USA a Grónskem",
+     "text": "Dánský parlament schválil dohodu s Grónskem a Spojenými státy o posílení bezpečnosti v Arktidě a severním Atlantiku."
+    },
+    {
+     "title": "Neštěstí migrantů u Senegalu",
+     "text": "U pobřeží Senegalu se převrhla loď s migranty. Podle nevládních organizací jsou desítky lidí nezvěstné."
+    }
+   ]
+  },
+  {
+   "key": "ekonomika",
+   "title": "📈 Ekonomika a trhy",
+   "items": [
+    {
+     "title": "Wall Street ve čtvrtek prudce klesla",
+     "text": "Ve čtvrtek 19. 11. index S&P 500 uzavřel na 7 175,83 bodu (−2,02 %), Dow Jones na 49 097,06 bodu (−2,19 %, asi −1 100 bodů) a Nasdaq na 23 879,20 bodu (−2,25 %). Trhy srazily obavy z inflace a ze zvýšení sazeb Fedu. Závěrečné hodnoty za pátek zatím nejsou k dispozici."
+    },
+    {
+     "title": "Anthropic vstoupil na burzu s rekordní IPO",
+     "text": "Akcie Anthropicu (ticker ANT na Nasdaqu) se upisovaly za 83 USD. Otevřely na 111,50 USD a obchodní den zakončily na 97,17 USD, tedy přes 17 % nad upisovací cenou. Údaje o tržní hodnotě se liší podle zdroje: od zhruba 1,27 bilionu USD až po 1,76 bilionu USD při plném zředění."
+    },
+    {
+     "title": "Trhy sázejí na zvýšení sazeb Fedu",
+     "text": "Trhy počítají s tím, že Fed v prosinci zvýší sazby zhruba o 27 bazických bodů. Výnos desetiletých amerických dluhopisů se pohybuje kolem 5,05 %, dvouletých kolem 4,81 %."
+    },
+    {
+     "title": "Bitcoin pod tlakem",
+     "text": "Bitcoin se ve čtvrtek pohyboval zhruba mezi 62 000 a 64 000 USD. Tlačí na něj odliv peněz z ETF (podle jednoho zdroje 2,9 mld. USD) a sázky na zvýšení sazeb Fedu."
+    },
+    {
+     "title": "Zlato oslabuje, ropa kolísá",
+     "text": "Spotové zlato kolem poledne newyorského času ztrácelo asi 1 % na přibližně 3 687 USD za unci. Některé zdroje uvádějí pokles až o 2,7 %. Ropa Brent se podle různých zpráv pohybovala zhruba mezi 90 a 92 USD za barel."
+    }
+   ]
+  }
+ ]
+}
