@@ -1,26 +1,27 @@
-- 2026-11-20: ODRAZ Z 19. 11. NEVYŠEL — zelené futures +2 % se do zavírky ztratily, den skončil −2 %. Spouštěč: AMD short report + slabý Philly Fed (6.3) s horkými cenami (58.2). Oversold-odraz bez katalyzátoru nevydrží. (vyšlo jako teze, běží)
-- 2026-11-20: ŠESTÝ ČERVENÝ DEN — S&P 7 176 (−2.02 %, 1T −5.49 %, 1M −7.49 %), Nasdaq 23 879 (1M −10.57 %), Dow 49 097 blízko −10 % korekce. Trend, ne výkyv. YTD ale pořád +4.83 %. (běží, klíčové)
-- 2026-11-20: VIX 28.44 (+15.80 %) POPRVÉ ZAVŘEL NAD 28 — risk-off přešel do nervozity. Pod 28 = stabilizace, nad = defenziva. (běží, klíčové)
-- 2026-11-20: JESTŘÁBÍ FED POTVRZEN DATY — Philly ceny-placené 58.2 (nejvýš od dubna) + zpomalení = nejhorší mix. Waller +0,50 v prosinci. Fed 9. 12., CPI 10. 12. (běží, klíčové)
-- 2026-11-20: JÁDRO VWCE €165.32 / MSCI World €127.11 — YTD +13.68 %/+13.72 %, 1M jen −2.96 %/−2.55 %, drží líp než US. DCA páteř, přikupovat slevu po částech. (běží, klíčové)
-- 2026-11-20: ZLATO $3 583 (−4.26 %) nové 52t min $3 573 — v risk-off padá s trhem, není pojistka (potřetí). Obrat nad ~$3 900 s objemem. (běží, klíčové)
-- 2026-11-20: STŘÍBRO $42.15 (−6.32 %) nové 52t min $41.91, 3M −39 % — padající nůž, obrat nad ~$62 s objemem. (běží)
+- 2026-11-20: ŠESTÝ ČERVENÝ DEN POTVRZEN — S&P 7 176 (−2.02 %, 1T −5.49 %, 1M −7.49 %), Nasdaq 23 879 (1M −10.57 %), Dow 49 097 blízko −10 % korekce. Trend, ne výkyv. YTD pořád +4.83 %. (běží, klíčové)
+- 2026-11-20: VIX 30.45 (+7.07 %) NAD 30 — strach se prohloubil (z 28.44). Pod 28 = stabilizace, nad 30 = defenziva/odvíjení pozic. (běží, klíčové)
+- 2026-11-20: JESTŘÁBÍ FED — Philly ceny-placené 58.2 + zpomalení = nejhorší mix. Waller +0,50 v prosinci. Fed 9. 12., CPI 10. 12. (běží, klíčové)
+- 2026-11-20: JÁDRO VWCE €160.94 / MSCI World €123.86 — YTD +10.67 %/+10.81 %, 1M jen −4.93 %/−4.68 %, drží líp než US. DCA páteř, přikupovat slevu po částech. (běží, klíčové)
+- 2026-11-20: ZLATO $3 575 (−3.01 %) nové 52t min, 1M −11.97 % — v risk-off padá s trhem, letos není pojistka (počtvrté). Obrat nad ~$3 900 s objemem. (běží, klíčové)
+- 2026-11-20: STŘÍBRO $42.15 (−4.88 %) nové 52t min, 3M −38.50 % — padající nůž, obrat nad ~$62 s objemem. (běží)
 - 2026-11-20: DESETILETÝ 5.052 % — kotva kolem 5 %, jestřábí Fed tlačí nahoru. Nad 5,25 % bolest zrychlí, pod 4,5 % by uvolnil TLT. (běží, klíčové)
-- 2026-11-20: DOLAR USD/CZK 22.27 NA 52t MAXIMU — silný dolar zdražuje US/komodity v CZK. Krátké poukázky ber jako dolarovou pozici. EUR/USD 1.0969. (běží, klíčové)
-- 2026-11-20: BTC $61 965 (−1.62 %) YTD −29 %, blízko 52t min $57 747 — bez katalyzátoru. Obrat až trvale nad $68k. (běží, klíčové)
-- 2026-11-20: ETH $1 753 (−1.21 %) YTD −41 %, 3M −28 % — strukturálně nejslabší. Obrat nad ~$2 000 s objemem. (běží)
+- 2026-11-20: DOLAR USD/CZK 22.27 NA 52t MAXIMU — zdražuje US/komodity v CZK. Krátké poukázky ber jako dolarovou pozici. EUR/USD 1.0983. (běží, klíčové)
+- 2026-11-20: BTC $61 553 (−0.56 %) YTD −29.66 %, nad 52t min $57 747 — pokles zpomalil, bez katalyzátoru. Obrat až trvale nad $68k. (běží, klíčové)
+- 2026-11-20: ETH $1 740 (−0.87 %) YTD −41.36 % — strukturálně nejslabší. Obrat nad ~$2 000 s objemem. (běží)
 - 2026-11-20: KRÁTKÉ US POUKÁZKY 3M 4.147 % bez rizika — parkoviště a suché palivo. V CZK pozor na dolar na 52t maximu. (sledovat)
-- 2026-11-20: MĚĎ $5.4995 (1T −11.05 %) ale 1R +9.81 % — krátkodobě slabá, dlouhodobě drží. Příležitost po uklidnění, ne nůž. (běží)
-- 2026-11-20: TLT $80.22 YTD −7.96 % — proti jestřábímu Fedu a 5% výnosu. Vstup až desetiletý trvale pod 4,5 %. (běží)
+- 2026-11-20: MĚĎ $5.533 (1T −8.99 %) ale 1R +11.56 % — krátkodobě slabá, dlouhodobě drží. Příležitost po uklidnění, ne nůž. (běží)
+- 2026-11-20: TLT $80.35 YTD −7.81 % — proti jestřábímu Fedu a 5% výnosu. Vstup až desetiletý trvale pod 4,5 %. (běží)
+- 2026-11-20: ZEMNÍ PLYN $3.584 (+9.67 % 1D, +28 % 1M) — sezónní tah, jediná zelená komodita. (sledovat)
 - 2026-11-20: PRAVIDLO — oversold-odraz ani učebnicový beat nevydrží při převisu vedení/ocenění/sazeb. Potvrzeno 18.–20. 11. Potvrzený obrat chtít vidět, ne hádat. (běží, klíčové)
 - 2026-11-20: AI/ČIPY KŘEHKÉ — AMD short report znovu srazil sektor. Jednotlivá jména nechytat, dokud VIX pod 28. Expozice přes jádro stačí. (sledovat)
-- 2026-11-20: KALENDÁŘ — Fed 9. 12., CPI 10. 12. Do té doby trh žije z makrodat a výroků Fedu. (sledovat)
+- 2026-11-20: KALENDÁŘ — dnes jen Michigan sentiment (fcst 51.0) + state jobs, nízká priorita. Hlavní: Fed 9. 12., CPI 10. 12. (sledovat)
+- 2026-11-20: PÁTEK — před víkendem při VIX nad 30 tendence zavírat riziko do zavírky. (sledovat)
 - 2026-11-20: ANTHROPIC (ANT) — debut ~$1,5 bil., na debutu nekupovat, počkat na čísla. (sledovat)
-- 2026-11-20: ENERGIE — WTI $82.88 (1R +39.43 %), zemní plyn $3.241 (1M +16.16 %, sezónní). (sledovat)
 - 2026-11-09: EU inflace říjen 4,0 % (3letý vrchol), ECB možný prosincový hike — pozadí pro EUR. (sledovat)
 
 ## Uzavřeno
-- 2026-11-19: „Pokus o odraz po 5 červených dnech" → NEVYŠEL (zelené futures se do zavírky ztratily, 6. červený den).
+- 2026-11-20: „Odraz z 19. 11." → NEVYŠEL (šestý červený den, zelené futures se do zavírky ztratily).
+- 2026-11-19: „Pokus o odraz po 5 červených dnech" → NEVYŠEL (6. červený den).
 - 2026-11-18: „Čistý beat Nvidie = odraz techu" → NEVYŠLO (převis vedení + ocenění + sazby).
 - 2026-11-18: „Odraz zlata/stříbra jako pojistka" → NEVYŠLO, kovy padají s trhem.
 - 2026-11-16: „Krypto odraz" → NEVYŠEL (BTC pod víkendové dno).
