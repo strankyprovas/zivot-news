@@ -1,31 +1,35 @@
 {
- "date": "2026-11-20",
- "date_cz": "20.11.2026",
- "updated_at": "2026-11-20T23:58+01:00",
+ "date": "2026-11-21",
+ "date_cz": "21.11.2026",
+ "updated_at": "2026-11-21T23:03+01:00",
  "sections": [
   {
    "key": "cr",
    "title": "🇨🇿 Česká republika",
    "items": [
     {
-     "title": "Babiš: Česko je připraveno pomoci Polsku",
-     "text": "Premiér Andrej Babiš (ANO) odsoudil narušení polského vzdušného prostoru ruskými střelami a dronem a označil ho za nepřijatelné. Řekl, že Česko je připraveno Polsku pomoci. Prezident Petr Pavel podle iROZHLASu uvedl, že podobný incident se dříve či později může stát i v Česku."
+     "title": "Vláda kvůli protestům od zrušení poplatků neustoupí",
+     "text": "Vláda chce i přes demonstraci Milionu chvilek zrušit koncesionářské poplatky pro ČT a ČRo. Premiér Babiš uvedl, že se tak stane nejpozději od července 2027."
     },
     {
-     "title": "Pavel: Vláda u rušení poplatků za ČT a ČRo podcenila komunikaci",
-     "text": "Prezident Pavel vytkl vládě, že při plánovaném zrušení poplatků za veřejnoprávní média špatně komunikovala. Podle něj se ze zrušení poplatků stalo zástupné téma."
+     "title": "Babiš jednal s ředitelem ČT Chudárkem",
+     "text": "Podle generálního ředitele ČT Hynka Chudárka premiér při jednání připustil, že by ČT a ČRo mohly být financovány mimo státní rozpočet. Babiš slibuje médiím veřejné služby stabilní a předvídatelné peníze. Koalice ale zatím konkrétní model neprojednala."
     },
     {
-     "title": "Chudárek znovu jedná s Babišem o penězích pro ČT",
-     "text": "Generální ředitel ČT Hynek Chudárek má znovu jednat s premiérem o financování televize. Předal také připomínky k zákonu o financování ČT a ČRo."
+     "title": "Pavel a Babiš k ruskému narušení polského vzdušného prostoru",
+     "text": "Prezident Pavel varoval, že podobný incident jako v Polsku se může stát i v Česku. Premiér Babiš označil narušení polského vzdušného prostoru za nepřijatelné a řekl, že Česko je připraveno Polsku pomoci."
     },
     {
-     "title": "Nafta zlevní pod 45 Kč za litr",
-     "text": "Maximální cena nafty po delší době klesne pod 45 Kč za litr a zlevní i benzin. Vláda podle premiéra zatím neprojednávala, zda regulaci cen pohonných hmot prodlouží po konci listopadu."
+     "title": "Nový primátor Hlaváček chce v Praze zrychlit projekty",
+     "text": "Nový pražský primátor Hlaváček, zvolený tento týden, chce urychlit přípravu projektů v dopravě a školství."
     },
     {
-     "title": "Meteorologové varují před náledím, v Želechovicích se bude znovu volit",
-     "text": "Na pátek hlásí meteorologové déšť, na horách sníh a místy náledí. V Želechovicích se někdo vloupal do volební místnosti, a hlasování se proto bude opakovat."
+     "title": "Zákon by mohl trestat agresivní jízdu a ujíždění policii",
+     "text": "Připravuje se úprava, podle které by se postihovala agresivní jízda a ujíždění policii, pokud ohrozí zdraví lidí."
+    },
+    {
+     "title": "Plán zrušit 10 % úřednických míst naráží na odpor",
+     "text": "Stát chce zrušit 10 % úřednických míst, plán ale naráží na odpor."
     }
    ]
   },
@@ -34,28 +38,28 @@
    "title": "🌍 Svět",
    "items": [
     {
-     "title": "Rusko v noci zasáhlo tři mosty v Kyjevě",
-     "text": "Při masivním útoku drony a balistickými raketami Rusko poškodilo tři mosty přes Dněpr, mimo jiné Darnyckyj a Podilskyj. Zdroje uvádějí 8 až 9 mrtvých a desítky zraněných. Putin předtím slíbil odvetu za ukrajinské útoky na Krymský most."
+     "title": "Ruské rakety a dron dopadly v Polsku",
+     "text": "Při ruském útoku na Ukrajinu vniklo do polského vzdušného prostoru podle zpráv nejspíš několik objektů: dvě střely (nejméně jedna typu Ch-101) a dron. Premiér Tusk to označil za úmyslnou provokaci. Šéf NATO Rutte incident nazval nebezpečným a v sobotu se ve Varšavě postavil za postoj aliance."
     },
     {
-     "title": "Ruské střely a dron narušily polský vzdušný prostor",
-     "text": "Podle Varšavy vnikly v noci do Polska tři objekty, údajně dvě rakety a dron. Premiér Tusk to označil za pravděpodobnou provokaci, NATO za porušení vzdušného prostoru. Tusk zároveň ujistil, že Polsku nyní žádné takové nebezpečí nehrozí."
+     "title": "Ruský útok na Kryvyj Rih",
+     "text": "Ruský vzdušný útok na ukrajinský Kryvyj Rih si vyžádal dva mrtvé a 58 zraněných."
     },
     {
-     "title": "Estonsko uzavře silniční hranici s Ruskem",
-     "text": "Tallinn schválil, že od 1. prosince uzavře všechny silniční přechody s Ruskem nejméně na šest měsíců. Důvodem je překažená sabotáž zbrojní firmy, kterou Estonsko přičítá ruské vojenské rozvědce GRU. Moskva mluví o nové „železné oponě“ a hrozí odvetou."
+     "title": "Trump hrozí Íránu vojenským zásahem",
+     "text": "Americký prezident Donald Trump pohrozil Íránu vojenskou akcí kvůli údajně chystanému útoku na Washington takzvanou špinavou bombou."
     },
     {
-     "title": "Mezinárodní soudní dvůr: Myanmar spáchal genocidu Rohingů",
-     "text": "Soud OSN ve čtvrtek poměrem hlasů 9:6 rozhodl, že Myanmar se v letech 2016–2017 dopustil genocidy na Rohinzích. Verdikt je konečný a soud nařídil odškodnění. Lidskoprávní organizace žádají sankce, vymahatelnost rozsudku je ale nejistá."
+     "title": "Dánsko vyhostilo ruského vojenského přidělence",
+     "text": "Dánsko vyhostilo ruského vojenského přidělence a zastavilo vydávání víz ruským občanům, pokud nejde o nezbytné cesty."
     },
     {
-     "title": "Klimatická konference COP31 v Turecku končí bez závazků",
-     "text": "Jednání OSN o klimatu podle kritiků končí bez konkrétní dohody o omezení fosilních paliv."
+     "title": "Húsíové postupují na Aden",
+     "text": "Jemenští húsíové postupují na Aden a město je pod raketovými a dronovými útoky."
     },
     {
-     "title": "Itálii ochromila celostátní stávka",
-     "text": "V Itálii proběhla celostátní stávka kvůli mzdám a veřejným výdajům."
+     "title": "Napětí na hranici Etiopie a Eritreje, Kanada prodloužila celní dohodu s Čínou",
+     "text": "Na etiopsko-eritrejské hranici se shromažďují vojska a roste obava z eskalace. Kanada se s Čínou dohodla na prodloužení celní dohody do roku 2028."
     }
    ]
   },
@@ -64,28 +68,28 @@
    "title": "📈 Ekonomika a trhy",
    "items": [
     {
-     "title": "Wall Street v korekci, Nasdaq smazal letošní zisky",
-     "text": "Nasdaq Composite dnes spadl asi o 5,3 % na 22 617,73 bodu a je za rok 2026 v minusu. Měl nejhorší týden od dubna 2025. S&P 500 ztratil asi 3,7 % na 6 910,39 bodu, klesá sedmý den v řadě a je více než 10 % pod říjnovým rekordem. Dow Jones odepsal asi 1,9 % (−949,73 bodu) na 48 147,33 bodu."
+     "title": "Wall Street v pátek prudce padala, S&P 500 a Dow v korekci",
+     "text": "Dnes je sobota a burzy jsou zavřené, čísla jsou z pátku 20. 11. S&P 500 klesl asi o 3,7 % na zhruba 6 910 bodů, což je sedmá ztrátová seance za sebou. Dow Jones ztratil asi 1,9 % (zhruba 48 150 bodů). Oba indexy jsou více než 10 % pod rekordem, tedy v korekci."
     },
     {
-     "title": "Akcie Anthropicu po IPO oslabily, výprodej AI pokračuje",
-     "text": "Akcie Anthropicu ve čtvrtek při rekordním vstupu na burzu posílily asi o 17 %, dnes ale ztratily asi 8,5 % a během dne se přiblížily emisní ceně 83 USD. Pokračuje výprodej AI a čipových titulů, Nvidia ve čtvrtek podle zpráv klesla až o 14 %. Akcie SoftBanku dnes spadly o 16 %."
+     "title": "Nasdaq smazal letošní zisky",
+     "text": "Nasdaq Composite spadl v pátek přibližně o 5,1–5,3 % na zhruba 22 620–22 650 bodů a je pod úrovní ze začátku roku 2026. Nasdaq-100 ztratil 5,61 % na 25 028,98 bodu a od medvědího trhu ho dělí jen asi 49 bodů. Pro trhy je to nejhorší týden od roku 2020."
     },
     {
-     "title": "Pražská burza: PX ztratil 2,56 %",
-     "text": "Index PX klesl o 2,56 % na zhruba 2 568 bodů a za celý týden je ve ztrátě. Všechny hlavní tituly skončily v červených číslech, nejvíc ztratila zbrojovka CSG."
+     "title": "Výprodej táhnou obavy o AI investice",
+     "text": "Analytici dávají výprodej do souvislosti s rostoucími pochybnostmi, zda se investiční vlna do umělé inteligence vyplatí. Padaly technologické akcie včetně Anthropicu, jehož akcie podle dostupných údajů v pátek zavřely na 88,91 USD."
     },
     {
-     "title": "Bitcoin pod 60 tisíci dolarů, zlato míří k nejhoršímu týdnu od března",
-     "text": "Bitcoin během dne klesl zhruba k 58 000 USD. Spotové zlato se obchodovalo kolem 3 550 USD za unci a míří k nejhoršímu týdnu za asi osm měsíců. Tlačí na něj sázky na zvýšení sazeb Fedu a nucené prodeje."
+     "title": "Bitcoin na dvouletém minimu",
+     "text": "Bitcoin spadl pod 60 000 USD poprvé od července. Podle Reuters v pátek večer klesl asi o 5 % na zhruba 55 800 USD, nejníž za dva roky."
     },
     {
-     "title": "Ropa Brent kolem 93 dolarů",
-     "text": "Brent se ráno obchodoval kolem 92,8 USD za barel, WTI kolem 81,6 USD. Cenu podporují obavy o dodávky přes Hormuzský průliv."
+     "title": "Zlato na 14měsíčním minimu, ropa drží",
+     "text": "Spotové zlato kleslo k 3 580 USD za unci, nejníž za 14 měsíců. Prosincové futures ztratily asi 4,6 %. Pokles se vysvětluje jestřábími signály Fedu a silným dolarem. Ropa je stabilnější: WTI kolem 82–83 USD, Brent kolem 92,5 USD za barel."
     },
     {
-     "title": "Trh čeká, že Fed v prosinci zvýší sazby",
-     "text": "Podle CME FedWatch je pravděpodobnost zvýšení sazeb Fedu o 0,25 bodu na zasedání 9. prosince zhruba 92–94 %. Sázky na zvýšení o půl bodu ale ochably. Výnos desetiletého amerického dluhopisu kvůli útěku z akcií klesl pod 5 %, podle jednoho zdroje až na 4,92 %."
+     "title": "Lufthansa zruší 1 000 pracovních míst",
+     "text": "Lufthansa Airlines plánuje zrušit 1 000 plných úvazků na letištích ve Frankfurtu a Mnichově."
     }
    ]
   }

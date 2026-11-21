@@ -1,0 +1,97 @@
+{
+ "date": "2026-11-21",
+ "date_cz": "21.11.2026",
+ "updated_at": "2026-11-21T23:03+01:00",
+ "sections": [
+  {
+   "key": "cr",
+   "title": "🇨🇿 Česká republika",
+   "items": [
+    {
+     "title": "Vláda kvůli protestům od zrušení poplatků neustoupí",
+     "text": "Vláda chce i přes demonstraci Milionu chvilek zrušit koncesionářské poplatky pro ČT a ČRo. Premiér Babiš uvedl, že se tak stane nejpozději od července 2027."
+    },
+    {
+     "title": "Babiš jednal s ředitelem ČT Chudárkem",
+     "text": "Podle generálního ředitele ČT Hynka Chudárka premiér při jednání připustil, že by ČT a ČRo mohly být financovány mimo státní rozpočet. Babiš slibuje médiím veřejné služby stabilní a předvídatelné peníze. Koalice ale zatím konkrétní model neprojednala."
+    },
+    {
+     "title": "Pavel a Babiš k ruskému narušení polského vzdušného prostoru",
+     "text": "Prezident Pavel varoval, že podobný incident jako v Polsku se může stát i v Česku. Premiér Babiš označil narušení polského vzdušného prostoru za nepřijatelné a řekl, že Česko je připraveno Polsku pomoci."
+    },
+    {
+     "title": "Nový primátor Hlaváček chce v Praze zrychlit projekty",
+     "text": "Nový pražský primátor Hlaváček, zvolený tento týden, chce urychlit přípravu projektů v dopravě a školství."
+    },
+    {
+     "title": "Zákon by mohl trestat agresivní jízdu a ujíždění policii",
+     "text": "Připravuje se úprava, podle které by se postihovala agresivní jízda a ujíždění policii, pokud ohrozí zdraví lidí."
+    },
+    {
+     "title": "Plán zrušit 10 % úřednických míst naráží na odpor",
+     "text": "Stát chce zrušit 10 % úřednických míst, plán ale naráží na odpor."
+    }
+   ]
+  },
+  {
+   "key": "svet",
+   "title": "🌍 Svět",
+   "items": [
+    {
+     "title": "Ruské rakety a dron dopadly v Polsku",
+     "text": "Při ruském útoku na Ukrajinu vniklo do polského vzdušného prostoru podle zpráv nejspíš několik objektů: dvě střely (nejméně jedna typu Ch-101) a dron. Premiér Tusk to označil za úmyslnou provokaci. Šéf NATO Rutte incident nazval nebezpečným a v sobotu se ve Varšavě postavil za postoj aliance."
+    },
+    {
+     "title": "Ruský útok na Kryvyj Rih",
+     "text": "Ruský vzdušný útok na ukrajinský Kryvyj Rih si vyžádal dva mrtvé a 58 zraněných."
+    },
+    {
+     "title": "Trump hrozí Íránu vojenským zásahem",
+     "text": "Americký prezident Donald Trump pohrozil Íránu vojenskou akcí kvůli údajně chystanému útoku na Washington takzvanou špinavou bombou."
+    },
+    {
+     "title": "Dánsko vyhostilo ruského vojenského přidělence",
+     "text": "Dánsko vyhostilo ruského vojenského přidělence a zastavilo vydávání víz ruským občanům, pokud nejde o nezbytné cesty."
+    },
+    {
+     "title": "Húsíové postupují na Aden",
+     "text": "Jemenští húsíové postupují na Aden a město je pod raketovými a dronovými útoky."
+    },
+    {
+     "title": "Napětí na hranici Etiopie a Eritreje, Kanada prodloužila celní dohodu s Čínou",
+     "text": "Na etiopsko-eritrejské hranici se shromažďují vojska a roste obava z eskalace. Kanada se s Čínou dohodla na prodloužení celní dohody do roku 2028."
+    }
+   ]
+  },
+  {
+   "key": "ekonomika",
+   "title": "📈 Ekonomika a trhy",
+   "items": [
+    {
+     "title": "Wall Street v pátek prudce padala, S&P 500 a Dow v korekci",
+     "text": "Dnes je sobota a burzy jsou zavřené, čísla jsou z pátku 20. 11. S&P 500 klesl asi o 3,7 % na zhruba 6 910 bodů, což je sedmá ztrátová seance za sebou. Dow Jones ztratil asi 1,9 % (zhruba 48 150 bodů). Oba indexy jsou více než 10 % pod rekordem, tedy v korekci."
+    },
+    {
+     "title": "Nasdaq smazal letošní zisky",
+     "text": "Nasdaq Composite spadl v pátek přibližně o 5,1–5,3 % na zhruba 22 620–22 650 bodů a je pod úrovní ze začátku roku 2026. Nasdaq-100 ztratil 5,61 % na 25 028,98 bodu a od medvědího trhu ho dělí jen asi 49 bodů. Pro trhy je to nejhorší týden od roku 2020."
+    },
+    {
+     "title": "Výprodej táhnou obavy o AI investice",
+     "text": "Analytici dávají výprodej do souvislosti s rostoucími pochybnostmi, zda se investiční vlna do umělé inteligence vyplatí. Padaly technologické akcie včetně Anthropicu, jehož akcie podle dostupných údajů v pátek zavřely na 88,91 USD."
+    },
+    {
+     "title": "Bitcoin na dvouletém minimu",
+     "text": "Bitcoin spadl pod 60 000 USD poprvé od července. Podle Reuters v pátek večer klesl asi o 5 % na zhruba 55 800 USD, nejníž za dva roky."
+    },
+    {
+     "title": "Zlato na 14měsíčním minimu, ropa drží",
+     "text": "Spotové zlato kleslo k 3 580 USD za unci, nejníž za 14 měsíců. Prosincové futures ztratily asi 4,6 %. Pokles se vysvětluje jestřábími signály Fedu a silným dolarem. Ropa je stabilnější: WTI kolem 82–83 USD, Brent kolem 92,5 USD za barel."
+    },
+    {
+     "title": "Lufthansa zruší 1 000 pracovních míst",
+     "text": "Lufthansa Airlines plánuje zrušit 1 000 plných úvazků na letištích ve Frankfurtu a Mnichově."
+    }
+   ]
+  }
+ ]
+}
