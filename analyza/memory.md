@@ -1,21 +1,21 @@
-- 2026-11-22: VÍKEND, AKCIE ZAVŘENÉ — indexy stojí na páteční zavírce: S&P 6 910 (korekce −10 % od 6.10.), Nasdaq 22 618 (YTD −2.69 %), Dow 48 147. S&P YTD jen +0.95 %, 1R +4.66 %. (běží, klíčové)
-- 2026-11-22: BTC ODRAZ $60 189 (+2.36 % za 24h) — v sobotu dno ~$55 130 (min od 9/2024), pak +9 %. Ale short covering + likvidace páky ($1,8 mld), ne poptávka. Obrat chtít nad $68k s objemem. (běží, klíčové)
-- 2026-11-22: PONDĚLNÍ ZVONEC = test — půjdou US akcie za krypto odrazem, nebo odskok splaskne? BTC teď první čtení nálady. VIX 35.89 = klid to není. (běží, klíčové)
-- 2026-11-21: NVIDIA −14 %, nejhorší týden od 2008 (~−46 % od vrcholu) — SEC vyšetřování účetnictví (Reuters) + odchod Jensena Huanga. SEC ≠ důkaz viny. Spouštěč paniky. (běží, klíčové)
-- 2026-11-21: VIX 35.89 (+26.20 %), intradenně ~40 — nejvýš od jara 2025. Pod 28 = úleva, nad 35 = tvrdá defenziva. (běží, klíčové)
+- 2026-11-22: NEDĚLE, AKCIE ZAVŘENÉ — indexy stojí na páteční zavírce: S&P 6 910 (korekce −10 % od 6.10.), Nasdaq 22 618 (YTD −2.69 %), Dow 48 147. S&P YTD +0.95 %. (běží, klíčové)
+- 2026-11-22: BTC $60 579 (+0.81 %/den) — víkendový odraz z ~$55k dna drží, ale momentum vlažné, pořád spíš short covering než poptávka. Obrat nad $68k s objemem. (běží, klíčové)
+- 2026-11-22: PONDĚLNÍ ZVONEC = první živé čtení — půjdou US akcie za krypto odrazem, nebo odskok při otevření splaskne? VIX 35.89 = klid to není. (běží, klíčové)
+- 2026-11-21: NVIDIA ~−46 % od vrcholu, nejhorší týden od 2008, ztráta ~$2,7 bil. — SEC vyšetřuje účetnictví (Reuters). SEC ≠ důkaz viny, ale spouštěč paniky. Nerozřešeno. (běží, klíčové)
+- 2026-11-21: VIX 35.89 (+26 %), intradenně ~40 — nejvýš od jara 2025. Pod 28 = úleva, nad 35 = tvrdá defenziva. (běží, klíčové)
 - 2026-11-21: JÁDRO DRŽÍ — VWCE €159.34 (YTD +9.57 %), MSCI World €122.71 (YTD +9.79 %) vs. Nasdaq pod nulou. DCA páteř, přikupovat slevu po částech. (běží, klíčové)
 - 2026-11-21: EVROPA ODOLNĚJŠÍ — DAX 24 803 (YTD +6.55 %), Euro Stoxx 5 942 (YTD +6.68 %). Problém koncentrovaný v US megacapech. (běží)
 - 2026-11-21: DESETILETÝ 4.912 % (1T −4.70 %) — útěk do bezpečí. Nad 4,9 % kotva drží, pod 4,5 % by uvolnil TLT. (běží, klíčové)
-- 2026-11-21: ZLATO $3 515 (−4.62 %) nové 52t min ($3 502.90), YTD −19 % — popáté selhalo jako pojistka, padá s trhem. Padající nůž, obrat nad ~$3 900 s objemem. (běží, klíčové)
-- 2026-11-21: STŘÍBRO $41.03 na 52t min, YTD −41 %, 3M −40 % — padající nůž, obrat nad ~$55 s objemem. (běží)
-- 2026-11-22: ETH $1 682 (+3.83 %) YTD −43 % — strukturálně nejslabší, svezlo se s BTC. Obrat nad ~$2 000 s objemem. (běží)
+- 2026-11-21: ZLATO $3 515 (−4.62 %) nové 52t min, YTD −19 % — popáté selhalo jako pojistka, padá s trhem. Padající nůž, obrat nad ~$3 900 s objemem. (běží, klíčové)
+- 2026-11-22: STŘÍBRO $41.07 nové 52t min, YTD −41 % — padající nůž, obrat nad ~$55 s objemem. (běží)
+- 2026-11-22: ETH $1 700 (+1.07 %) YTD −43 % — strukturálně nejslabší, veze se za BTC. Obrat nad ~$2 000 s objemem. (běží)
 - 2026-11-21: DOLAR USD/CZK 22.26 u 52t maxima (22.31) — zdražuje US/komodity v CZK. Krátké poukázky ber jako dolarovou pozici. EUR/USD 1.0970. (běží, klíčové)
 - 2026-11-21: KRÁTKÉ US POUKÁZKY 3M 4.122 % bez rizika — parkoviště a suché palivo pro potvrzený obrat. V CZK pozor na dolar. (sledovat)
-- 2026-11-21: MĚĎ $5.477 (3M −17 %, 1T −9.91 %) ale 1R +9.35 % — krátkodobě slabá, dlouhodobě drží. Příležitost po uklidnění (VIX pod 28), ne nůž. (běží)
+- 2026-11-21: MĚĎ $5.485 (3M −17 %, 1T −9.78 %) ale 1R +10.54 % — krátkodobě slabá, dlouhodobě drží. Příležitost po uklidnění (VIX pod 28), ne nůž. (běží)
 - 2026-11-21: TLT $81.45 YTD −6.55 % — proti jestřábímu Fedu. Vstup až desetiletý trvale pod 4,5 %. (běží)
-- 2026-11-21: ZEMNÍ PLYN $3.411 (+22.00 % 1M) — sezónní tah, jediná silná komodita. (sledovat)
-- 2026-11-21: JESTŘÁBÍ FED — trh sází na prosincový hike. Fed 8.–9. 12. Do té doby trh žije náladou a AI zprávami. (běží, klíčové)
-- 2026-11-22: KALENDÁŘ — krátký týden díkůvzdání: úterý 24. 11. Dell/HP/Workday; středa 25. 11. PCE + 2. odhad HDP; čtvrtek 26. zavřeno, pátek poloviční. (sledovat)
+- 2026-11-22: ZEMNÍ PLYN $3.748 (+14.69 %/den, +34 %/měsíc) — sezónní tah, jediná silná komodita, ale rozjetý vlak. (sledovat)
+- 2026-11-22: JESTŘÁBÍ FED — trh sází na prosincový hike ~90 %, ve hře i 50 bps. Fed 8.–9. 12. PCE ve středu 25. 11. je spouštěč. (běží, klíčové)
+- 2026-11-22: KALENDÁŘ — krátký týden díkůvzdání: út 24. Dell/HPE/Workday; st 25. PCE + 2. odhad HDP; čt 26. zavřeno, pá 28. poloviční (Black Friday spotřeba). (sledovat)
 - 2026-11-21: PRAVIDLO — oversold-odraz ani beat nevydrží při převisu AI vedení/ocenění/sazeb. Potvrzený obrat chtít vidět, ne hádat. (běží, klíčové)
 - 2026-11-21: AI/ČIPY KŘEHKÉ — jednotlivá jména nechytat, dokud VIX pod 28 a nejasno kolem SEC. Jádro stačí. (sledovat, klíčové)
 
@@ -25,5 +25,4 @@
 - 2026-11-20: „Odraz z 19. 11." → NEVYŠEL (sedmý červený den).
 - 2026-11-18: „Čistý beat Nvidie = odraz techu" → NEVYŠLO (převis vedení + ocenění + sazby).
 - 2026-11-18: „Odraz zlata/stříbra jako pojistka" → NEVYŠLO, kovy padají s trhem.
-- 2026-11-15: „BTC pod $68k, cíle $66k/$65k" → VYŠLO a překonáno.
 - 2026-10-30: „Intel slabý výhled" → VYŠLO: −30 %, spouštěč tech korekce.
