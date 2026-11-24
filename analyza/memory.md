@@ -1,27 +1,30 @@
-- 2026-11-24: HISTORICKÝ ODRAZ — S&P 7237 (+4.73 %, nejlepší den od dubna 2025), Nasdaq 24090 (+6.51 %), Dow +3.01 %. Objem konečně dorazil (čipy +14 %). (běží, klíčové)
-- 2026-11-24: NVIDIA +31.5 % na návratu Huanga, přidala ~$1 bilion — motor celé rally. SEC vyšetřování účetnictví pořád nevyřešeno. (běží, klíčové)
-- 2026-11-24: „Odskok ≠ obrat, chtít objem" → ČÁSTEČNĚ VYŠLO — objem dnes dorazil, ale pořád jeden titulek; chci udržitelnost přes PCE. (běží, klíčové)
-- 2026-11-24: VIX 26.62 (−25.83 %), drží druhý den pod 28. Ale 1M +36.86 % — strach zklidněn, nevyprchal. (běží, klíčové)
-- 2026-11-24: KONTEXT — S&P 1M −5.07 %, 3M −5.73 %; Nasdaq 1M −7.19 %. Jeden den smazal část díry, ne celou. Riziko druhé nohy. (běží, klíčové)
-- 2026-11-24: ROTACE Z DEFENZIVY — zlato −0.74 %, stříbro −1.84 %, měď −2.26 % dnes dolů, risk-on je prodával. (běží)
-- 2026-11-24: KRYPTO NEPŘISKOČILO k risk-on — BTC $60459 (−1.15 %), ETH $1702 (−1.13 %). Slabost roste, ne klesá. (běží, klíčové)
-- 2026-11-24: JÁDRO DRŽÍ — VWCE YTD +9.57 %, MSCI World +9.79 %, 1M ~−6 % = sleva. DCA páteř po částech. Pozor: EUR NAV fondů má v tabulce lag za US rally (−3.3 % nesedí). (běží, klíčové)
-- 2026-11-24: ZLATO $3625, pokračuje dolů (3M −22.11 %, YTD −16.51 %). Moje teze „obrat až nad $3900" drží — nic jsem nechytal. (běží, klíčové)
-- 2026-11-24: STŘÍBRO $42.35 u 52t min ($40.93), 3M −37.70 %, YTD −39.61 %. Padající nůž. Obrat až nad ~$50 s objemem. (běží)
-- 2026-11-24: MĚĎ $5.50 — 3M −16.60 % slabá, 1R +10.84 % drží. Watchlist, ne nůž; vstup po uklidnění (VIX pod 28 pár dní). (běží)
-- 2026-11-24: DOLAR USD/CZK 22.38 u 52t maxima (22.43) — US a komodity v CZK dál zdražené. EUR/USD 1.0912. (běží, klíčové)
-- 2026-11-24: DESETILETÝ 4.918 % — nad 4,9 % kotva drží, pod 4,5 % by uvolnil TLT. 3M poukázky 4.147 % = parkoviště, v CZK pozor na dolar. (běží)
-- 2026-11-24: TLT $81.69 (YTD −6.28 %) — proti jestřábímu Fedu. Vstup až desetiletý trvale pod 4,5 %. (běží)
-- 2026-11-24: JESTŘÁBÍ FED — prosincový hike 25 bps na ~100 % (pásmo 4,00–4,25 %), rozhodnutí 9. 12. PCE st 25. 11. (jádro čeká ~3.2 % r/r) je spouštěč. (běží, klíčové)
-- 2026-11-24: KALENDÁŘ — dnes po zvonci Dell/Workday/Autodesk/HP; st 25. PCE + 2. odhad HDP; čt 26. zavřeno; pá 27. poloviční (tenký objem). (sledovat)
-- 2026-11-24: PRAVIDLO — headline-rally nevydrží sama o sobě při převisu AI vedení/ocenění/sazeb. Obrat potvrdit přežitím přes makro (PCE), ne jen objemem jednoho dne. (běží, klíčové)
-- 2026-11-24: ZEMNÍ PLYN $3.54 (+11.18 % den, +36 %/měsíc) — sezónní tah, jediná silná komodita, rozjetý vlak. (sledovat)
-- 2026-11-24: AI/ČIPY — jednotlivá jména nechytat na euforii (+31 % za den), dokud VIX nedrží pod 28 pár dní a nejasno kolem SEC. Jádro stačí. (sledovat, klíčové)
+- 2026-11-24: ODRAZ SE DROLÍ — pondělní +4.73 % (S&P) se dnes vrací zpět, S&P 7185 (−0.73 %), Nasdaq 23762 (−1.36 %), čipy tumble. Druhá noha, jak jsem čekal. (běží, klíčové)
+- 2026-11-24: „Odskok ≠ obrat, chtít udržitelnost" → VYCHÁZÍ — jednodenní objem obrat neudělal, PCE je skutečný test. (běží, klíčové)
+- 2026-11-24: VIX ZPĚT NAD 28 — 29.34 (+10.22 %), 1M +59.54 %, 3M +102 %. Úleva vydržela 2 dny. Risk-off obezřetnost platí. (běží, klíčové)
+- 2026-11-24: NVIDIA +30 % v pondělí byl short-covering na návratu Huanga (Trump zprostředkoval). SEC vyšetřování účetnictví visí. Nechytat. (běží, klíčové)
+- 2026-11-24: KONTEXT — Nasdaq 1M −9.20 %, QQQ 1M −10.22 %, S&P 1M −6.41 %. Díra se nezacelila, riziko dalšího propadu. (běží, klíčové)
+- 2026-11-24: PCE st 25. 11. 8:30 ET, jádro čeká 3.2 % r/r (z 3.1 %) — poslední čistá inflace před Fedem 9. 12. Binární spouštěč. (běží, klíčové)
+- 2026-11-24: JESTŘÁBÍ FED — prosincový hike 25 bps ~100 % (pásmo 4,00–4,25 %), Williams jestřáb. Rozhodnutí 9. 12. (běží, klíčové)
+- 2026-11-24: KALENDÁŘ — dnes po zvonci Dell/Workday/Autodesk/HP; st PCE + 2. HDP; čt 26. zavřeno; pá 27. poloviční (tenký objem). (sledovat)
+- 2026-11-24: GEOPOLITIKA — Bessent nové sankce na Írán + Hormuz. Žene energie, může přenést nervozitu do akcií. (sledovat)
+- 2026-11-24: ZEMNÍ PLYN $3.65 (+14.64 % den, 1M +40 %) — geopolitika + sezóna, jediná silná komodita. Rozjetý vlak. (sledovat)
+- 2026-11-24: ROPA WTI $81.23 (+1.32 %, 1R +38 %) — tah z Hormuzu. Sledovat, ne vstup. (sledovat)
+- 2026-11-24: JÁDRO DRŽÍ — VWCE YTD +11.65 %, MSCI World +11.55 %, 1M ~−4.5 % = sleva. DCA páteř po částech. (běží, klíčové)
+- 2026-11-24: POČKAT PŘED PCE — s VIX nad 28 a binárním makro zítra je „počkat" s jednorázem poctivější než tip. (běží)
+- 2026-11-24: ZLATO $3618, dál dolů (3M −22.25 %, YTD −16.65 %). Obrat až nad ~$3900. Nic nechytat. (běží, klíčové)
+- 2026-11-24: STŘÍBRO $42.08 u 52t min ($40.93), YTD −40 %. Padající nůž, obrat až nad ~$50 s objemem. (běží)
+- 2026-11-24: MĚĎ $5.53 — 3M −16.11 % slabá, 1R +11.49 % drží. Watchlist, vstup po uklidnění (VIX pod 28 pár dní). (běží)
+- 2026-11-24: KRYPTO SLABÉ — BTC $60291 (−1.50 %) k 52t min $55k, ETH $1692 YTD −43 %. Nepřiskočilo k risk-onu. (běží, klíčové)
+- 2026-11-24: DOLAR USD/CZK 22.22 (−0.30 %) kousek od 52t maxima 22.43. US aktiva v CZK drahá. EUR/USD 1.0982. (běží, klíčové)
+- 2026-11-24: DESETILETÝ 4.908 % — nad 4,9 % kotva drží, pod 4,5 % by uvolnil TLT. 3M poukázka 4.173 % = parkoviště. (běží)
+- 2026-11-24: TLT $81.73 (YTD −6.23 %) — proti jestřábímu Fedu. Vstup až 10Y trvale pod 4,5 %. (běží)
+- 2026-11-24: AI/ČIPY nechytat na euforii dokud VIX nedrží pod 28 pár dní + jasno kolem SEC Nvidie. Dell dnes večer test. (sledovat, klíčové)
+- 2026-11-24: PRAVIDLO — headline-rally sama nevydrží při převisu AI vedení/ocenění/sazeb. Obrat potvrdit přežitím přes makro (PCE). (běží, klíčové)
 
 ## Uzavřeno
-- 2026-11-24: „VIX poprvé pod 28, chci vidět, že vydrží" → ZATÍM VYCHÁZÍ: druhý den pod 28 (27.44 → 26.62).
+- 2026-11-24: „VIX poprvé pod 28, chci vidět že vydrží" → NEVYŠLO: po 2 dnech zpět na 29.34. Úleva vyprchala.
 - 2026-11-23: „Data stale, ověřit živá čísla" → VYŠLO: živý feed dorazil.
-- 2026-11-22: „BTC pod 52t min = slabost do pondělí" → ČÁSTEČNĚ NEVYŠLO: odrazil se nad $60k dřív (short covering).
-- 2026-11-21: „VIX nad 30 = defenziva" → VYŠLO (VIX ~40 intradenně); teď zpět pod 28.
+- 2026-11-22: „BTC pod 52t min = slabost do pondělí" → ČÁSTEČNĚ NEVYŠLO: odrazil nad $60k dřív (short covering).
+- 2026-11-21: „VIX nad 30 = defenziva" → VYŠLO (VIX ~40 intradenně).
 - 2026-11-18: „Čistý beat Nvidie = odraz techu" → NEVYŠLO (převis vedení + ocenění + sazeb).
 - 2026-10-30: „Intel slabý výhled" → VYŠLO: −30 %, spouštěč tech korekce.
