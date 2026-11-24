@@ -1,35 +1,35 @@
 {
- "date": "2026-11-22",
- "date_cz": "22.11.2026",
- "updated_at": "2026-11-22T23:18+01:00",
+ "date": "2026-11-24",
+ "date_cz": "24.11.2026",
+ "updated_at": "2026-11-24T04:09+01:00",
  "sections": [
   {
    "key": "cr",
    "title": "🇨🇿 Česká republika",
    "items": [
     {
-     "title": "Babiš: návrh rozpočtu EU je pro Česko „absolutně nepřijatelný“",
-     "text": "Premiér Andrej Babiš (ANO) v nedělním videu na Facebooku odmítl aktuální návrh unijního rozpočtu. Kritizoval škrty peněz pro Česko (podle jeho slov o 7,5 miliardy korun) a také výdaje na Evropský parlament, další unijní instituce a na Ukrajinu. Návrh má podle médií oproti původnímu plánu Komise ubrat celkem 204 miliard eur."
+     "title": "Babiš měl zahájit konferenci o propojení zdravotní a sociální péče",
+     "text": "Podle programu vlády měl premiér Andrej Babiš dnes v 10:00 zahájit na Úřadu vlády konferenci „Od léčby k aktivnímu životu“. Ve 12:00 byla na programu tisková konference. Ministerstva zdravotnictví a práce a sociálních věcí na ní mají spustit pilotní projekt, který zapojí sociální práci do ambulantní péče. Zprávu o samotném průběhu konference se dohledat nepodařilo."
     },
     {
-     "title": "Macinka: rozpočet EU a pomoc Ukrajině se nemají podmiňovat",
-     "text": "Ministr zahraničí Petr Macinka (Motoristé) řekl, že unijní rozpočet a pomoc Ukrajině by se neměly spojovat ani vzájemně podmiňovat."
+     "title": "Rozpočet na rok 2027 se schodkem 386 miliard jde do druhého čtení",
+     "text": "Sněmovna má ve druhém čtení pokračovat v projednávání rozpočtu ve středu 25. listopadu. Příjmy jsou plánované na 2 198,65 miliardy korun, výdaje na 2 584,65 miliardy a schodek na 386 miliard. Celková čísla už poslanci měnit nemohou, mohou jen přesouvat peníze mezi kapitolami."
     },
     {
-     "title": "Spor o protivzdušnou obranu Arrow",
-     "text": "Podle Echo24 považuje Macinka izraelský systém Arrow pro Česko za nevhodný, zatímco premiér Babiš ho chválí. Macinka zároveň uvedl, že delegace v Izraeli dostala nabídky, se kterými by armáda mohla protivzdušnou a protibalistickou ochranu získat rychleji, než se čekalo. Nabídky se teď budou posuzovat."
+     "title": "Mimořádná daň pro rafinerie čeká na další projednání",
+     "text": "Vládní návrh mimořádné daně pro rafinerie prošel prvním čtením a rozpočtový výbor ho podpořil bez úprav. Daň se má vybírat za letošní a příští rok. Opozice ji kritizuje jako „lex Unipetrol“: TOP 09 chce snížit sazbu z 50 na 39,5 %, Piráti na 25 %."
     },
     {
-     "title": "Babiš: poplatky za ČT a ČRo skončí nejpozději v červenci 2027",
-     "text": "Premiér prohlásil, že koncesionářské poplatky zrušíme nejpozději od července 2027. Generální ředitel ČT Chudárek s ním má znovu jednat o financování veřejnoprávní televize."
+     "title": "Výsledky pondělní schůze vlády",
+     "text": "Vláda na schůzi 23. listopadu schválila mimo jiné návrh zákona o námořní plavbě a jmenování profesorů. Dříve navrhla přísnější tresty pro agresivní řidiče a prodloužila regulaci cen pohonných hmot."
     },
     {
-     "title": "Babiš v pondělí jede na summit V4 a Rakouska",
-     "text": "Premiér se v pondělí 23. listopadu v Bratislavě zúčastní setkání předsedů vlád zemí Visegrádské skupiny a rakouského spolkového kancléře."
+     "title": "Státní zástupci nesouhlasí s plánem ministra Tejce",
+     "text": "Unie státních zástupců nesouhlasí se záměrem ministra spravedlnosti Tejce, jak od žalobců a soudců vymáhat náhradu škody."
     },
     {
-     "title": "Sparta prohrála s Libercem 1:3",
-     "text": "Fotbalisté Sparty doma podlehli Liberci 1:3 a trenér Brian Priske je podle médií v ohrožení."
+     "title": "Mrazy a sníh, na Staroměstském náměstí stojí vánoční strom",
+     "text": "Meteorologové hlásí, že celý týden může v Česku mrznout i přes den a sněžit až do nížin. V Praze v noci na úterý postavili na Staroměstském náměstí 23metrový vánoční strom. Dnes ho začali zdobit, rozsvítit ho mají v sobotu."
     }
    ]
   },
@@ -38,28 +38,24 @@
    "title": "🌍 Svět",
    "items": [
     {
-     "title": "Klimatická konference COP31 skončila bez dohody",
-     "text": "Jednání COP31 v turecké Antalyi skončilo bez dohody o fosilních palivech a podle ČT24 i bez společné deklarace."
+     "title": "Rozsáhlý ruský útok na Ukrajinu",
+     "text": "Rusko podle Al-Džazíry v noci vyslalo na Ukrajinu přes 400 dronů a 110 raket. V Kyjevě zahynulo nejméně sedm lidí, podle jiných zpráv je v Kyjevské oblasti 14 až 15 mrtvých. Ukrajina žádá USA, aby jí uvolnily rakety Patriot."
     },
     {
-     "title": "Ruské útoky na Ukrajinu: pohřešovaní u Kyjeva, oběti v Kryvém Rihu",
-     "text": "Podle agentury Reuters je po zásahu obytného domu ruským dronem v Kyjevské oblasti nejméně 14 lidí pohřešováno. Při ruském úderu na Kryvyj Rih, rodné město prezidenta Zelenského, podle Morning Star zahynuli dva lidé a 60 jich bylo zraněno."
+     "title": "Válka na moři: Ukrajina útočí na ruské lodě",
+     "text": "Prezident Zelenskyj potvrdil, že za útoky drony na ruské lodě u Libye stojí Ukrajina. Moskva reaguje ostře a varuje před „nebezpečným trendem“ po útocích u Libye a v Baltu. Konflikt v Černém moři zkouší, kde leží hranice pro NATO."
     },
     {
-     "title": "V libyjském přístavu Benghází explodovala ruská válečná loď",
-     "text": "Dva vojenští činitelé řekli agentuře AP, že loď nejspíš zasáhly ukrajinské námořní drony vypuštěné ze západní Libye. Německo mezitím podle iROZHLASu dodá Ukrajině střely Patriot a drony."
+     "title": "Hormuzský průliv: lodě najely na miny, Írán hlásí sestřelený americký dron",
+     "text": "Íránské Revoluční gardy tvrdí, že tři tankery v Hormuzském průlivu začaly hořet poté, co najely na námořní miny. Teherán také hlásí, že u Hormuzu sestřelil americký dron. Írán zároveň znovu zaútočil na Bahrajn."
     },
     {
-     "title": "Trump chce trvalou jadernou dohodu s Íránem",
-     "text": "Americký prezident podle agentury Anadolu uvedl, že chce s Teheránem uzavřít trvalou jadernou dohodu, která by zavazovala i příští administrativy. Bahrajn po íránských útocích obnovil výstrahu před hrozbou. Podle FT zároveň Washington tlačí na Kyjev, aby se s Ruskem dohodl do začátku ledna."
+     "title": "IEA: válka s Íránem způsobila největší narušení obchodu s ropou a plynem v historii",
+     "text": "Podle Mezinárodní agentury pro energii klesl v listopadu export ropy přes Hormuzský průliv zhruba na 8,5 milionu barelů denně. To je polovina úrovně před válkou."
     },
     {
-     "title": "UNIFIL předává pozice v jižním Libanonu armádě",
-     "text": "Mírová mise OSN začala předávat své pozice v jižním Libanonu libanonské armádě, protože se blíží konec jejího mandátu. Obyvatelé se vracejí do těžce poškozených vesnic."
-    },
-    {
-     "title": "V Mexiku dopadli bosse z FBI seznamu nejhledanějších",
-     "text": "Drogového bosse přezdívaného „El Chapo Isidro“ zadrželi po přestřelce, která si podle Morning Star vyžádala nejméně 11 mrtvých."
+     "title": "Klimatický summit COP31 v Turecku bez USA",
+     "text": "Světoví lídři zahájili v Antalyi jednání na klimatické konferenci OSN. Spojené státy na ní oficiálně chybí. Konferenci provázejí obavy, že současná opatření jsou nedostatečná a pomalá."
     }
    ]
   },
@@ -68,24 +64,28 @@
    "title": "📈 Ekonomika a trhy",
    "items": [
     {
-     "title": "Wall Street v korekci po nejhorším týdnu od roku 2020",
-     "text": "V pátek S&P 500 ztratil 3,7 % na 6 910,39 bodu (sedmý pokles v řadě, víc než 10 % pod rekordem ze 6. října). Nasdaq Composite spadl o 5,28 % na 22 617,73 a Dow Jones o 1,93 % na 48 147,33. Za týden ztratil S&P 500 8,6 % a Nasdaq zhruba 10 %. Index volatility VIX vystoupal na 35,89, nejvýš od dubna 2025."
+     "title": "Wall Street: nejlepší den od dubna 2025 po návratu Jensena Huanga",
+     "text": "Úterní závěrečná čísla z amerických burz zatím nejsou k dispozici, údaje jsou z pondělní seance. Index S&P 500 v pondělí posílil zhruba o 4,7 % a Nasdaq o 6,51 % na 24 089,56 bodu. Dow Jones vzrostl přibližně o 3 % na zhruba 49 600 bodů, přesná čísla se mezi zdroji liší. Trhy tak smazaly asi polovinu propadu z minulého týdne, kdy se indexy dostaly do korekce."
     },
     {
-     "title": "Nvidia propadla o 14 % kvůli zprávě o vyšetřování SEC",
-     "text": "Akcie Nvidie v pátek klesly o 14,01 % na 125,53 USD poté, co Reuters napsal, že SEC prověřuje účetnictví firmy, mimo jiné vykazování tržeb podle regionů. Pro Nvidii je to sedmý týdenní pokles za sebou, nejdelší série od roku 2008. Akcie Anthropicu ztratily 8,5 % v prvním celém dni obchodování po IPO."
+     "title": "Nvidia vyskočila o více než 31 %",
+     "text": "Představenstvo Nvidie jednomyslně vrátilo Jensena Huanga do funkce CEO, 12 dní poté, co přijalo jeho rezignaci. Akcie posílily o 31,5–32 % na zhruba 166 USD, což je jejich největší denní růst od roku 2003. Polovodičový index SOX stoupl o 14 %. Firma ale dál vyšetřuje, zda se na Huanga nezaměřila cizí rozvědka, a akcie jsou stále asi 30 % pod říjnovým maximem."
     },
     {
-     "title": "Bitcoin pod 60 000 dolarů",
-     "text": "Bitcoin se v neděli drží kolem 58 900 USD. Během týdne klesl až k zhruba 55 150 USD, nejníž od září 2024, a od rekordu z října 2025 (přes 126 000 USD) je zhruba o polovinu níž. Firma Strategy podle MSCI vypadne z jeho globálních indexů po závěru obchodování 30. listopadu."
+     "title": "Evropské akcie se odrazily ode dna",
+     "text": "Podle pondělních údajů posílil STOXX 600 o 1,87 % na 637,32 bodu a ukončil tak pět poklesů v řadě. Německý DAX přidal 2,26 %. Volatilita ale zůstává vysoko: index volatility DAXu je na šestiměsíčním maximu."
     },
     {
-     "title": "Zlato za týden ztratilo téměř 9 %",
-     "text": "Spotové zlato je kolem 3 540 USD za unci a za týden kleslo o 8,9 %. V pátek krátce sáhlo na 3 502,93 USD, nejníž od září 2025. Tlačí na něj silnější dolar a obavy ze zpřísnění politiky Fedu."
+     "title": "Zlato posiluje, bitcoin zůstává pod tlakem",
+     "text": "Futures na zlato na COMEXu stouply o 3,9 % na 3 649,20 USD za unci. Bitcoin se drží kolem 60–61 tisíc USD, hluboko pod maximy z přelomu října a listopadu. Z bitcoinových ETF odteklo minulý týden zhruba 1,79 mld. USD, už čtvrtý týden v řadě."
     },
     {
-     "title": "Trhy čekají, že Fed v prosinci sazby zvýší",
-     "text": "Trhy dál počítají s tím, že Fed na zasedání 8.–9. prosince sazby (nyní 3,75–4 %) spíše zvýší. Guvernér Waller připustil i zvýšení o 0,5 bodu, ministr financí Bessent před příliš velkým zvýšením varoval. Výnos desetiletého amerického dluhopisu v pátek podle CNBC klesl zhruba na 4,97 %, protože investoři utíkali do bezpečných aktiv."
+     "title": "Ropa: údaje o cenách se rozcházejí",
+     "text": "Zdroje uvádějí rozdílné údaje o cenách ropy, od zhruba 80 USD za barel WTI a 89 USD za Brent až po asi 95 USD. Trh dál ovlivňuje omezený provoz v Hormuzském průlivu."
+    },
+    {
+     "title": "Zkrácený obchodní týden",
+     "text": "Indické burzy NSE a BSE jsou dnes zavřené kvůli svátku Guru Nának Džajantí. Americké trhy budou zavřené ve čtvrtek 26. listopadu kvůli Díkůvzdání."
     }
    ]
   }
