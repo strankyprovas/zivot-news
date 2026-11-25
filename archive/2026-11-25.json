@@ -1,0 +1,85 @@
+{
+ "date": "2026-11-25",
+ "date_cz": "25.11.2026",
+ "updated_at": "2026-11-25T02:15+01:00",
+ "sections": [
+  {
+   "key": "cr",
+   "title": "🇨🇿 Česká republika",
+   "items": [
+    {
+     "title": "Europarlament hlasuje o rezoluci k financování ČT a ČRo",
+     "text": "Evropský parlament má dnes hlasovat o nezávazné rezoluci o svobodě médií a právním státu v ČR. Text vyzývá vládu, aby zákon o zrušení koncesionářských poplatků a o financování ze státního rozpočtu uvedla do souladu s Evropským aktem o svobodě médií. Komisi žádá, aby změny prověřila. Výsledek hlasování nebyl v době uzávěrky k dispozici."
+    },
+    {
+     "title": "Rozpočet 2027: víc peněz na zemědělství, méně pro MŽP",
+     "text": "Vláda chce navýšit výdaje na zemědělství na úkor ministerstva životního prostředí. Víc peněz má jít také na sport a kulturu. Opozice kritizuje výši deficitu."
+    },
+    {
+     "title": "Novela energetického zákona prošla prvním čtením",
+     "text": "Vláda by podle novely mohla při dalším prudkém zdražování elektřiny regulovat její ceny pro odběratele. Mohla by také stanovit strop příjmů výrobců."
+    },
+    {
+     "title": "Slevy na jízdném pro studenty a seniory se mají zvýšit",
+     "text": "Premiér Babiš oznámil, že vláda chce zvýšit slevy na jízdném pro studenty a seniory. Termín zatím nemá."
+    },
+    {
+     "title": "Sněmovnu čekají tři týdny jednání před Vánoci",
+     "text": "Na programu jsou mimo jiné kratom, alimenty, střet zájmů a zákon o platformové práci. Kritici se obávají, že by tento zákon legalizoval švarcsystém. Ústavně-právní výbor doporučil schválit novelu, která trestá podávání návykových látek jiným lidem bez jejich vědomí."
+    }
+   ]
+  },
+  {
+   "key": "svet",
+   "title": "🌍 Svět",
+   "items": [
+    {
+     "title": "Ukrajina potopila ruskou korvetu Merkury v Libyi",
+     "text": "Zelenskyj potvrdil, že sedm ukrajinských námořních dronů potopilo v přístavu Benghází ruskou korvetu Merkury. Zasaženo bylo i sankcionované nákladní plavidlo Angara. Kreml reagoval zdrženlivě a mise OSN v Libyi vyzvala k nezávislému vyšetřování."
+    },
+    {
+     "title": "Republikáni se kvůli Nvidii postavili proti Trumpovi",
+     "text": "Trump uvedl, že přesvědčil vedení Nvidie, aby do funkce CEO vrátilo Jensena Huanga. Případ se týká podezření na vazbu na čínské zpravodajské služby. Šéfové bezpečnostních výborů Sněmovny reprezentantů a další republikánští zákonodárci krok kritizují. Huang má příští měsíc vypovídat v Kongresu."
+    },
+    {
+     "title": "Ruská letadla u jihokorejské zóny protivzdušné obrany",
+     "text": "Ruské vojenské letouny letěly poblíž jihokorejské identifikační zóny protivzdušné obrany (KADIZ) a před vstupem do ní se otočily. Moskva hovoří o plánovaném letu. V Soulu se dnes ráno podařilo odvrátit stávku metra díky dohodě o mzdách."
+    },
+    {
+     "title": "Zpráva: londýnská policie je stále institucionálně rasistická",
+     "text": "Podle nové zprávy zůstává londýnská Metropolitní policie i tři roky po předchozím hodnocení institucionálně rasistická."
+    }
+   ]
+  },
+  {
+   "key": "ekonomika",
+   "title": "📈 Ekonomika a trhy",
+   "items": [
+    {
+     "title": "Den dat: inflace PCE a HDP USA",
+     "text": "Dnes vyšla říjnová inflace PCE a druhý odhad HDP za 3. čtvrtletí. Skutečná čísla ani reakce trhů nebyly v době uzávěrky k dispozici. Trh čekal meziroční celkovou PCE 3,8 % (předtím 3,6 %), jádrovou 3,2 % (předtím 3,1 %) a růst HDP 3,5 %. Jde o poslední velká inflační data před zasedáním Fedu 9. prosince."
+    },
+    {
+     "title": "Fed: trh počítá se zvýšením sazeb",
+     "text": "Sazby Fedu jsou nyní v pásmu 3,75–4,00 %. Podle CME FedWatch k 13. 11. trh dával asi 90% šanci na prosincové zvýšení o 0,25 bodu. Dvouletý dluhopis USA vynášel v pondělí kolem 4,68 % a třicetiletý kolem 5,30 %. Dolarový index se drží poblíž 20měsíčního maxima (asi 104,4)."
+    },
+    {
+     "title": "Wall Street v úterý: Dow nad 50 000, čipy dolů",
+     "text": "Dow Jones přidal 0,85 % na 50 018,70 bodu, Nasdaq ztratil 1,48 % na 23 733,54 a S&P 500 asi 0,5 %. Index polovodičů spadl o 7,9 %. Akcie Nvidie odepsaly 5,9 % poté, co v pondělí po návratu Huanga vyskočily o 31,5 %. Dnes ráno podle zpráv akcie i bitcoin před daty dál oslabovaly a index sentimentu ukazoval „extrémní strach“."
+    },
+    {
+     "title": "Evropa: mírný pokles, Sanofi kupuje Insmed",
+     "text": "V úterý evropské akcie po pondělním růstu oslabily. STOXX 600 zavřel na zhruba 632,7 bodu a DAX na 25 005,51. Akcie Sanofi posílily asi o 5,6 % po dohodě o převzetí firmy Insmed za 41 mld. USD."
+    },
+    {
+     "title": "Bitcoin pod 60 000 USD, zlato oslabuje",
+     "text": "Bitcoin klesl pod hranici 60 000 USD (asi 59 845 USD, −2,2 %). Zlato se obchodovalo kolem 3 550–3 558 USD za unci, zhruba o 2 % níž. Údaje o ropě se mezi zdroji rozcházejí."
+    },
+    {
+     "title": "Americké trhy zavřené na Den díkůvzdání",
+     "text": "Burzy v USA budou ve čtvrtek kvůli Dni díkůvzdání zavřené a v pátek skončí předčasně ve 13:00 newyorského času."
+    }
+   ]
+  }
+ ]
+}
