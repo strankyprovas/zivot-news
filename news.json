@@ -1,31 +1,35 @@
 {
- "date": "2026-11-25",
- "date_cz": "25.11.2026",
- "updated_at": "2026-11-25T02:15+01:00",
+ "date": "2026-11-26",
+ "date_cz": "26.11.2026",
+ "updated_at": "2026-11-26T01:50+01:00",
  "sections": [
   {
    "key": "cr",
    "title": "🇨🇿 Česká republika",
    "items": [
     {
-     "title": "Europarlament hlasuje o rezoluci k financování ČT a ČRo",
-     "text": "Evropský parlament má dnes hlasovat o nezávazné rezoluci o svobodě médií a právním státu v ČR. Text vyzývá vládu, aby zákon o zrušení koncesionářských poplatků a o financování ze státního rozpočtu uvedla do souladu s Evropským aktem o svobodě médií. Komisi žádá, aby změny prověřila. Výsledek hlasování nebyl v době uzávěrky k dispozici."
+     "title": "Regulace cen paliv potrvá do konce roku",
+     "text": "Vláda prodloužila do konce roku denní cenové stropy na benzin a naftu. Dál platí i snížená spotřební daň na naftu a strop na marže obchodníků. Na 26. listopadu stanovilo ministerstvo financí maximální cenu benzinu 95 na 38,80 Kč a nafty na 43,07 Kč za litr s DPH."
     },
     {
-     "title": "Rozpočet 2027: víc peněz na zemědělství, méně pro MŽP",
-     "text": "Vláda chce navýšit výdaje na zemědělství na úkor ministerstva životního prostředí. Víc peněz má jít také na sport a kulturu. Opozice kritizuje výši deficitu."
+     "title": "Babiš jede na mimořádný summit EU o rozpočtu",
+     "text": "Vláda schválila mandát pro mimořádnou Evropskou radu, která se koná 26. a 27. listopadu v Bruselu. Hlavním tématem je víceletý rozpočet EU. Hnutí ANO podle Echo24 vadí nátlak německého kancléře."
     },
     {
-     "title": "Novela energetického zákona prošla prvním čtením",
-     "text": "Vláda by podle novely mohla při dalším prudkém zdražování elektřiny regulovat její ceny pro odběratele. Mohla by také stanovit strop příjmů výrobců."
+     "title": "Poslanci chtějí v rozpočtu přesunout přes 380 miliard",
+     "text": "Ke státnímu rozpočtu poslanci podali téměř 150 pozměňovacích návrhů, které by přesunuly přes 380 miliard korun. Navržený schodek je 386 miliard Kč, o 76 miliard víc než letos."
     },
     {
-     "title": "Slevy na jízdném pro studenty a seniory se mají zvýšit",
-     "text": "Premiér Babiš oznámil, že vláda chce zvýšit slevy na jízdném pro studenty a seniory. Termín zatím nemá."
+     "title": "Senát řešil připravenost Česka na obranu",
+     "text": "Senát uspořádal veřejné slyšení o tom, jak je Česko připravené bránit stát a podporovat spojenecká vojska na svém území. Poslanci mají zároveň projednat vládní návrh zákona o platformové práci, který přebírá směrnici EU o minimálních pracovních podmínkách."
     },
     {
-     "title": "Sněmovnu čekají tři týdny jednání před Vánoci",
-     "text": "Na programu jsou mimo jiné kratom, alimenty, střet zájmů a zákon o platformové práci. Kritici se obávají, že by tento zákon legalizoval švarcsystém. Ústavně-právní výbor doporučil schválit novelu, která trestá podávání návykových látek jiným lidem bez jejich vědomí."
+     "title": "Za týden končí šéf ÚOHS, o místo se hlásí 16 lidí",
+     "text": "Předsedovi antimonopolního úřadu Petru Mlsnovi zbývá týden mandátu a o jeho místo se uchází 16 kandidátů. Premiér Babiš chce na nástupci najít shodu s prezidentem Pavlem, o uchazečích ale zatím spolu nejednali."
+    },
+    {
+     "title": "Tejc neuspěl s kárnou žalobou na soudkyni",
+     "text": "Kárný senát zamítl žalobu ministra spravedlnosti Jeronýma Tejce (ANO) na benešovskou soudkyni Sandru Kimmelovou. Ta svěřila tříleté dítě rodičům a dítě bylo později usmrceno. Ministr jí vytýkal, že některé důkazy přehlédla a jiné neopatřila."
     }
    ]
   },
@@ -34,20 +38,28 @@
    "title": "🌍 Svět",
    "items": [
     {
-     "title": "Ukrajina potopila ruskou korvetu Merkury v Libyi",
-     "text": "Zelenskyj potvrdil, že sedm ukrajinských námořních dronů potopilo v přístavu Benghází ruskou korvetu Merkury. Zasaženo bylo i sankcionované nákladní plavidlo Angara. Kreml reagoval zdrženlivě a mise OSN v Libyi vyzvala k nezávislému vyšetřování."
+     "title": "Válka s Íránem: další tankery najely na miny v Hormuzu",
+     "text": "Írán ve čtvrtek uvedl, že v Hormuzském průlivu najely na námořní miny další dva ropné tankery a na palubách vypukly požáry. USA předtím zaútočily na íránský ostrov Kešm poté, co Írán vypálil na americký letoun. Jednání o průlivu jsou na mrtvém bodě a Trump tvrdí, že s dohodou nespěchá."
     },
     {
-     "title": "Republikáni se kvůli Nvidii postavili proti Trumpovi",
-     "text": "Trump uvedl, že přesvědčil vedení Nvidie, aby do funkce CEO vrátilo Jensena Huanga. Případ se týká podezření na vazbu na čínské zpravodajské služby. Šéfové bezpečnostních výborů Sněmovny reprezentantů a další republikánští zákonodárci krok kritizují. Huang má příští měsíc vypovídat v Kongresu."
+     "title": "Ukrajina: zásah ruského letiště, Putin odmítá dílčí příměří",
+     "text": "Podle ukrajinského generálního štábu bylo na letišti v Nižněnovgorodské oblasti zasaženo pět ruských letadel. Putin podle CBS odmítl jednat o omezeném příměří. USA pomohly zprostředkovat novou výměnu zajatců, průlom v mírových jednáních ale není vidět."
     },
     {
-     "title": "Ruská letadla u jihokorejské zóny protivzdušné obrany",
-     "text": "Ruské vojenské letouny letěly poblíž jihokorejské identifikační zóny protivzdušné obrany (KADIZ) a před vstupem do ní se otočily. Moskva hovoří o plánovaném letu. V Soulu se dnes ráno podařilo odvrátit stávku metra díky dohodě o mzdách."
+     "title": "Lídři EU jednají v Bruselu o rozpočtu na roky 2028–2034",
+     "text": "V Bruselu začal dvoudenní mimořádný summit o příštím víceletém finančním rámci EU. Europoslanci varují, že bez většího rozpočtu jej neschválí. Návrh předsedy Evropské rady Costy přitom podle zpráv počítá se škrtem asi o 10 %."
     },
     {
-     "title": "Zpráva: londýnská policie je stále institucionálně rasistická",
-     "text": "Podle nové zprávy zůstává londýnská Metropolitní policie i tři roky po předchozím hodnocení institucionálně rasistická."
+     "title": "USA zavádějí cla za nadprodukci, týkají se i Jižní Koreje",
+     "text": "Spojené státy oznámily cla za nadprodukci vůči 14 ekonomikám včetně Jižní Koreje. Patnáctiprocentní strop z loňské obchodní dohody s Koreou zůstává, Washington si ale nechal prostor zvýšit cla později až na 25 %."
+    },
+    {
+     "title": "Požár v Káhiře si vyžádal 31 mrtvých",
+     "text": "V egyptské metropoli se převrátila cisterna s palivem a následný požár zabil 31 lidí."
+    },
+    {
+     "title": "Kim Čong-un chce širší nasazení taktických jaderných zbraní",
+     "text": "Severokorejský vůdce vyzval k širšímu využití taktických jaderných zbraní. Ruské ministerstvo obrany mezitím zveřejnilo záběry z výcviku bombardérů Tu-160 nad Japonským mořem."
     }
    ]
   },
@@ -56,28 +68,28 @@
    "title": "📈 Ekonomika a trhy",
    "items": [
     {
-     "title": "Den dat: inflace PCE a HDP USA",
-     "text": "Dnes vyšla říjnová inflace PCE a druhý odhad HDP za 3. čtvrtletí. Skutečná čísla ani reakce trhů nebyly v době uzávěrky k dispozici. Trh čekal meziroční celkovou PCE 3,8 % (předtím 3,6 %), jádrovou 3,2 % (předtím 3,1 %) a růst HDP 3,5 %. Jde o poslední velká inflační data před zasedáním Fedu 9. prosince."
+     "title": "Wall Street je kvůli Díkůvzdání zavřená",
+     "text": "Americké burzy jsou ve čtvrtek zavřené. Ve středu Dow Jones přidal 0,33 % na 50 182,95 bodu. S&P 500 ztratil 0,25 % na 7 182,78 a Nasdaq 0,62 % na 23 585,80 bodu, oba trhy přitom během dne smazaly velkou část ztrát."
     },
     {
-     "title": "Fed: trh počítá se zvýšením sazeb",
-     "text": "Sazby Fedu jsou nyní v pásmu 3,75–4,00 %. Podle CME FedWatch k 13. 11. trh dával asi 90% šanci na prosincové zvýšení o 0,25 bodu. Dvouletý dluhopis USA vynášel v pondělí kolem 4,68 % a třicetiletý kolem 5,30 %. Dolarový index se drží poblíž 20měsíčního maxima (asi 104,4)."
+     "title": "Inflace PCE překvapila, trh čeká zvýšení sazeb Fedu",
+     "text": "Index PCE stoupl v říjnu meziročně na 3,8 %, jádrová inflace na 3,3 % (odhad byl 3,2 %). Podle nástroje CME FedWatch trh přisuzuje zhruba 97% pravděpodobnost, že Fed na zasedání 8.–9. prosince zvýší sazby. Na leden je to přibližně 63 %."
     },
     {
-     "title": "Wall Street v úterý: Dow nad 50 000, čipy dolů",
-     "text": "Dow Jones přidal 0,85 % na 50 018,70 bodu, Nasdaq ztratil 1,48 % na 23 733,54 a S&P 500 asi 0,5 %. Index polovodičů spadl o 7,9 %. Akcie Nvidie odepsaly 5,9 % poté, co v pondělí po návratu Huanga vyskočily o 31,5 %. Dnes ráno podle zpráv akcie i bitcoin před daty dál oslabovaly a index sentimentu ukazoval „extrémní strach“."
+     "title": "Výprodej čipových akcií, Nvidia dál padá",
+     "text": "Nvidia ve středu podle zpráv ztratila kolem 8,6 % po úterním poklesu o 5,9 %. Polovodičový index SOX klesl o 5,8 %, AMD o 6,5 % a Micron o 6 %. Trhy znervózňují pochybnosti, zda se obří investice do AI, často financované dluhem, vyplatí."
     },
     {
-     "title": "Evropa: mírný pokles, Sanofi kupuje Insmed",
-     "text": "V úterý evropské akcie po pondělním růstu oslabily. STOXX 600 zavřel na zhruba 632,7 bodu a DAX na 25 005,51. Akcie Sanofi posílily asi o 5,6 % po dohodě o převzetí firmy Insmed za 41 mld. USD."
+     "title": "Evropa ve středu oslabila, Asie se ve čtvrtek odrazila",
+     "text": "Ve středu klesl STOXX 600 o 1,06 % na 626,03 bodu, DAX o 1,26 % na 24 702 a CAC 40 o 0,75 %. Na čtvrteční uzavření evropských burz jsem údaje nenašel. Japonský Nikkei ve čtvrtek ráno přidával asi 1,3 % na zhruba 57 700 bodů po středečním propadu téměř o 3 % a korejský Kospi rostl asi o 1,2 %."
     },
     {
-     "title": "Bitcoin pod 60 000 USD, zlato oslabuje",
-     "text": "Bitcoin klesl pod hranici 60 000 USD (asi 59 845 USD, −2,2 %). Zlato se obchodovalo kolem 3 550–3 558 USD za unci, zhruba o 2 % níž. Údaje o ropě se mezi zdroji rozcházejí."
+     "title": "Zlato na nejnižší úrovni od září 2025, Brent kolem 91 dolarů",
+     "text": "Zlato kvůli očekávanému zvýšení sazeb Fedu kleslo zhruba k 3 500 USD za unci, na nejnižší úroveň od září 2025. Ropa Brent se ve středu obchodovala kolem 91 USD za barel, tlačí na ni očekávaný přebytek nabídky v roce 2027. Bitcoin se drží kolem 59–60 tisíc USD."
     },
     {
-     "title": "Americké trhy zavřené na Den díkůvzdání",
-     "text": "Burzy v USA budou ve čtvrtek kvůli Dni díkůvzdání zavřené a v pátek skončí předčasně ve 13:00 newyorského času."
+     "title": "Pražská burza mírně v plusu",
+     "text": "Index PX podle poslední zprávy ČTK přidal 0,12 % na 2 597,40 bodu a dařilo se bankám (Komerční banka, Moneta). Datum této zprávy se ale nepodařilo spolehlivě ověřit, takže nemusí jít o dnešní obchodování."
     }
    ]
   }
