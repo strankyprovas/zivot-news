@@ -1,35 +1,31 @@
 {
- "date": "2026-11-26",
- "date_cz": "26.11.2026",
- "updated_at": "2026-11-26T01:50+01:00",
+ "date": "2026-11-27",
+ "date_cz": "27.11.2026",
+ "updated_at": "2026-11-27T01:57+01:00",
  "sections": [
   {
    "key": "cr",
    "title": "🇨🇿 Česká republika",
    "items": [
     {
-     "title": "Regulace cen paliv potrvá do konce roku",
-     "text": "Vláda prodloužila do konce roku denní cenové stropy na benzin a naftu. Dál platí i snížená spotřební daň na naftu a strop na marže obchodníků. Na 26. listopadu stanovilo ministerstvo financí maximální cenu benzinu 95 na 38,80 Kč a nafty na 43,07 Kč za litr s DPH."
+     "title": "Senát jednal o obraně státu, vystoupil prezident Pavel",
+     "text": "Na veřejném slyšení v Senátu o připravenosti Česka na obranu prezident Petr Pavel řekl, že systému chybí pružnost. On i náčelník generálního štábu varovali před Ruskem. Ministr obrany Jaromír Zůna (SPD) uvedl, že resort připravil projekty financované z EU za 148 miliard Kč."
     },
     {
-     "title": "Babiš jede na mimořádný summit EU o rozpočtu",
-     "text": "Vláda schválila mandát pro mimořádnou Evropskou radu, která se koná 26. a 27. listopadu v Bruselu. Hlavním tématem je víceletý rozpočet EU. Hnutí ANO podle Echo24 vadí nátlak německého kancléře."
+     "title": "Spor o financování ČT a ČRo pokračuje",
+     "text": "Senát vyzval vládu, aby zastavila projednávání návrhu, podle kterého by ČT a ČRo dostávaly peníze ze státního rozpočtu místo poplatků. ČT by měla dostat 5,7 mld. Kč, tedy asi o miliardu méně, než letos vybere na poplatcích. Šéf ČRo René Zavoral žádá stažení návrhu a ministr kultury Oto Klempíř odmítá debatu o ústavních pojistkách nezávislosti."
     },
     {
-     "title": "Poslanci chtějí v rozpočtu přesunout přes 380 miliard",
-     "text": "Ke státnímu rozpočtu poslanci podali téměř 150 pozměňovacích návrhů, které by přesunuly přes 380 miliard korun. Navržený schodek je 386 miliard Kč, o 76 miliard víc než letos."
+     "title": "Rozpočet 2027: poslanci podali téměř 150 pozměňovacích návrhů",
+     "text": "Návrhy ke státnímu rozpočtu na rok 2027 počítají s přesuny přes 380 mld. Kč. Ministr Zůna označil rozpočet obrany ve výši 191 mld. Kč za nejvyšší v historii země."
     },
     {
-     "title": "Senát řešil připravenost Česka na obranu",
-     "text": "Senát uspořádal veřejné slyšení o tom, jak je Česko připravené bránit stát a podporovat spojenecká vojska na svém území. Poslanci mají zároveň projednat vládní návrh zákona o platformové práci, který přebírá směrnici EU o minimálních pracovních podmínkách."
+     "title": "Regulace cen paliv platí až do konce roku",
+     "text": "Vláda znovu prodloužila regulaci marží u pohonných hmot a sníženou spotřební daň z nafty, a to minimálně do konce roku 2026. Státní rozpočet to podle ministryně financí stojí asi 1,1 mld. Kč měsíčně. Opatření vláda zavedla kvůli zdražování paliv po eskalaci na Blízkém východě."
     },
     {
-     "title": "Za týden končí šéf ÚOHS, o místo se hlásí 16 lidí",
-     "text": "Předsedovi antimonopolního úřadu Petru Mlsnovi zbývá týden mandátu a o jeho místo se uchází 16 kandidátů. Premiér Babiš chce na nástupci najít shodu s prezidentem Pavlem, o uchazečích ale zatím spolu nejednali."
-    },
-    {
-     "title": "Tejc neuspěl s kárnou žalobou na soudkyni",
-     "text": "Kárný senát zamítl žalobu ministra spravedlnosti Jeronýma Tejce (ANO) na benešovskou soudkyni Sandru Kimmelovou. Ta svěřila tříleté dítě rodičům a dítě bylo později usmrceno. Ministr jí vytýkal, že některé důkazy přehlédla a jiné neopatřila."
+     "title": "Sníh komplikuje dopravu na jihu Čech a Moravy",
+     "text": "Sněžení způsobilo desítky nehod na jihu Čech a na jihu Moravy uvízly první kamiony. ČHMÚ vydal výstrahu."
     }
    ]
   },
@@ -38,28 +34,24 @@
    "title": "🌍 Svět",
    "items": [
     {
-     "title": "Válka s Íránem: další tankery najely na miny v Hormuzu",
-     "text": "Írán ve čtvrtek uvedl, že v Hormuzském průlivu najely na námořní miny další dva ropné tankery a na palubách vypukly požáry. USA předtím zaútočily na íránský ostrov Kešm poté, co Írán vypálil na americký letoun. Jednání o průlivu jsou na mrtvém bodě a Trump tvrdí, že s dohodou nespěchá."
+     "title": "Summit EU o rozpočtu skončil bez dohody",
+     "text": "Lídři EU se v Bruselu nedohodli na rozpočtu na roky 2028–2034 a páteční část summitu se nekonala. Spor je o celkovou výši, rabaty a financování Ukrajiny, přičemž Česko, Maďarsko, Slovensko a Bulharsko se brání účasti na dodatečné pomoci Kyjevu. Další jednání je naplánováno na 17.–18. prosince."
     },
     {
-     "title": "Ukrajina: zásah ruského letiště, Putin odmítá dílčí příměří",
-     "text": "Podle ukrajinského generálního štábu bylo na letišti v Nižněnovgorodské oblasti zasaženo pět ruských letadel. Putin podle CBS odmítl jednat o omezeném příměří. USA pomohly zprostředkovat novou výměnu zajatců, průlom v mírových jednáních ale není vidět."
+     "title": "Mírová jednání o Ukrajině uvázla na území",
+     "text": "Americký vyjednavač Jared Kushner řekl, že rozhovory jsou kvůli územním otázkám v patové situaci. Zelenskyj žádá čtyřstranná jednání Ukrajiny, Ruska, USA a Evropy ještě před Vánoci, Kreml termín dalšího kola v Abú Dhabí zatím neurčil. Podle FT chce Trumpova administrativa dohodu do začátku ledna."
     },
     {
-     "title": "Lídři EU jednají v Bruselu o rozpočtu na roky 2028–2034",
-     "text": "V Bruselu začal dvoudenní mimořádný summit o příštím víceletém finančním rámci EU. Europoslanci varují, že bez většího rozpočtu jej neschválí. Návrh předsedy Evropské rady Costy přitom podle zpráv počítá se škrtem asi o 10 %."
+     "title": "KLDR podle Kyjeva přerušila vojenskou pomoc Rusku",
+     "text": "Ukrajinská vojenská rozvědka tvrdí, že Severní Korea dočasně zastavila dodávky raket KN-23 a dělostřelecké munice a odmítla rozšířit svou vojenskou přítomnost v Rusku. Moskva ani Pchjongjang to nepotvrdily."
     },
     {
-     "title": "USA zavádějí cla za nadprodukci, týkají se i Jižní Koreje",
-     "text": "Spojené státy oznámily cla za nadprodukci vůči 14 ekonomikám včetně Jižní Koreje. Patnáctiprocentní strop z loňské obchodní dohody s Koreou zůstává, Washington si ale nechal prostor zvýšit cla později až na 25 %."
+     "title": "Bouře v USA narušila cestování o Díkůvzdání",
+     "text": "Silná bouře s deštěm a větrem zasáhla Spojené státy od západu po východ během největšího svátku roku a zkomplikovala cestování. Podle jedné zprávy musel New York odložit tradiční průvod."
     },
     {
-     "title": "Požár v Káhiře si vyžádal 31 mrtvých",
-     "text": "V egyptské metropoli se převrátila cisterna s palivem a následný požár zabil 31 lidí."
-    },
-    {
-     "title": "Kim Čong-un chce širší nasazení taktických jaderných zbraní",
-     "text": "Severokorejský vůdce vyzval k širšímu využití taktických jaderných zbraní. Ruské ministerstvo obrany mezitím zveřejnilo záběry z výcviku bombardérů Tu-160 nad Japonským mořem."
+     "title": "Neštěstí v Indonésii a SAE, stávka v Bangladéši",
+     "text": "Zatopení dolu v Indonésii zabilo 13 lidí a další desítka se pohřešuje. Při srážce autobusu s nákladním autem v emirátu Rás al-Chajma zemřelo 13 lidí. V Bangladéši vyhlásila Awami League na 27.–28. listopadu stávku, která zvyšuje politické napětí."
     }
    ]
   },
@@ -68,28 +60,28 @@
    "title": "📈 Ekonomika a trhy",
    "items": [
     {
-     "title": "Wall Street je kvůli Díkůvzdání zavřená",
-     "text": "Americké burzy jsou ve čtvrtek zavřené. Ve středu Dow Jones přidal 0,33 % na 50 182,95 bodu. S&P 500 ztratil 0,25 % na 7 182,78 a Nasdaq 0,62 % na 23 585,80 bodu, oba trhy přitom během dne smazaly velkou část ztrát."
+     "title": "Wall Street: zkrácená seance po Díkůvzdání",
+     "text": "Americké burzy byly ve čtvrtek zavřené a v pátek obchodovaly jen do 13:00 newyorského času. Výsledky páteční seance zatím nejsou k dispozici. Ve středu Dow Jones vzrostl o 0,33 % na 50 182,95 bodu, zatímco S&P 500 ztratil 0,25 % na 7 182,78 a Nasdaq 0,62 % na 23 585,80, když indexy během dne mazaly velké ztráty z výprodeje AI akcií."
     },
     {
-     "title": "Inflace PCE překvapila, trh čeká zvýšení sazeb Fedu",
-     "text": "Index PCE stoupl v říjnu meziročně na 3,8 %, jádrová inflace na 3,3 % (odhad byl 3,2 %). Podle nástroje CME FedWatch trh přisuzuje zhruba 97% pravděpodobnost, že Fed na zasedání 8.–9. prosince zvýší sazby. Na leden je to přibližně 63 %."
+     "title": "Evropské akcie výrazně posílily",
+     "text": "Ve čtvrtek, kdy byla Wall Street zavřená, stoupl panevropský STOXX 600 o 1,83 % na 637,50 bodu a německý DAX o 2,14 % na 25 231,42 bodu. Konečné páteční závěry se nepodařilo ověřit."
     },
     {
-     "title": "Výprodej čipových akcií, Nvidia dál padá",
-     "text": "Nvidia ve středu podle zpráv ztratila kolem 8,6 % po úterním poklesu o 5,9 %. Polovodičový index SOX klesl o 5,8 %, AMD o 6,5 % a Micron o 6 %. Trhy znervózňují pochybnosti, zda se obří investice do AI, často financované dluhem, vyplatí."
+     "title": "Trh skoro jistě čeká prosincové zvýšení sazeb Fedu",
+     "text": "Po vysokém jádrovém PCE ukazuje CME FedWatch zhruba 98% pravděpodobnost, že Fed na zasedání 9. prosince sazby zvýší. Analytici varují, že nová cla mohou Fed tlačit k ještě jestřábímu postupu."
     },
     {
-     "title": "Evropa ve středu oslabila, Asie se ve čtvrtek odrazila",
-     "text": "Ve středu klesl STOXX 600 o 1,06 % na 626,03 bodu, DAX o 1,26 % na 24 702 a CAC 40 o 0,75 %. Na čtvrteční uzavření evropských burz jsem údaje nenašel. Japonský Nikkei ve čtvrtek ráno přidával asi 1,3 % na zhruba 57 700 bodů po středečním propadu téměř o 3 % a korejský Kospi rostl asi o 1,2 %."
+     "title": "Trump navrhl nová cla na 14 obchodních partnerů",
+     "text": "Nová cla podle oddílu 301 by se týkala mimo jiné Číny a EU a přičetla by se ke stávajícím sazbám. Platit by mohla nejdříve v lednu po veřejném připomínkování. Nvidia a Apple mají být z navržených cel na elektroniku vyjmuty."
     },
     {
-     "title": "Zlato na nejnižší úrovni od září 2025, Brent kolem 91 dolarů",
-     "text": "Zlato kvůli očekávanému zvýšení sazeb Fedu kleslo zhruba k 3 500 USD za unci, na nejnižší úroveň od září 2025. Ropa Brent se ve středu obchodovala kolem 91 USD za barel, tlačí na ni očekávaný přebytek nabídky v roce 2027. Bitcoin se drží kolem 59–60 tisíc USD."
+     "title": "Nvidia pod tlakem, S&P zvažuje snížení ratingu",
+     "text": "Agentura S&P zařadila Nvidii na sledovací seznam CreditWatch kvůli turbulencím ve vedení firmy. Akcie jsou velmi rozkolísané: v pondělí vyskočily o 31 %, v úterý klesly o více než 7 % a ve středu zhruba o 4 %."
     },
     {
-     "title": "Pražská burza mírně v plusu",
-     "text": "Index PX podle poslední zprávy ČTK přidal 0,12 % na 2 597,40 bodu a dařilo se bankám (Komerční banka, Moneta). Datum této zprávy se ale nepodařilo spolehlivě ověřit, takže nemusí jít o dnešní obchodování."
+     "title": "Komodity, krypto a energie pro domácnosti",
+     "text": "Podle průběžných dat se Brent dostal na zhruba 96,5 USD za barel (+1,9 %) a bitcoin na asi 60 700 USD (+0,95 %). Zlato se drží kolem 3 566 USD za unci, zdroje se ale neshodují ve směru pohybu. Innogy od ledna 2027 zdraží zákazníkům bez fixace elektřinu o 150 Kč/MWh bez DPH a plyn o 334 Kč/MWh s DPH."
     }
    ]
   }

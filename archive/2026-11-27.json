@@ -1,0 +1,89 @@
+{
+ "date": "2026-11-27",
+ "date_cz": "27.11.2026",
+ "updated_at": "2026-11-27T01:57+01:00",
+ "sections": [
+  {
+   "key": "cr",
+   "title": "🇨🇿 Česká republika",
+   "items": [
+    {
+     "title": "Senát jednal o obraně státu, vystoupil prezident Pavel",
+     "text": "Na veřejném slyšení v Senátu o připravenosti Česka na obranu prezident Petr Pavel řekl, že systému chybí pružnost. On i náčelník generálního štábu varovali před Ruskem. Ministr obrany Jaromír Zůna (SPD) uvedl, že resort připravil projekty financované z EU za 148 miliard Kč."
+    },
+    {
+     "title": "Spor o financování ČT a ČRo pokračuje",
+     "text": "Senát vyzval vládu, aby zastavila projednávání návrhu, podle kterého by ČT a ČRo dostávaly peníze ze státního rozpočtu místo poplatků. ČT by měla dostat 5,7 mld. Kč, tedy asi o miliardu méně, než letos vybere na poplatcích. Šéf ČRo René Zavoral žádá stažení návrhu a ministr kultury Oto Klempíř odmítá debatu o ústavních pojistkách nezávislosti."
+    },
+    {
+     "title": "Rozpočet 2027: poslanci podali téměř 150 pozměňovacích návrhů",
+     "text": "Návrhy ke státnímu rozpočtu na rok 2027 počítají s přesuny přes 380 mld. Kč. Ministr Zůna označil rozpočet obrany ve výši 191 mld. Kč za nejvyšší v historii země."
+    },
+    {
+     "title": "Regulace cen paliv platí až do konce roku",
+     "text": "Vláda znovu prodloužila regulaci marží u pohonných hmot a sníženou spotřební daň z nafty, a to minimálně do konce roku 2026. Státní rozpočet to podle ministryně financí stojí asi 1,1 mld. Kč měsíčně. Opatření vláda zavedla kvůli zdražování paliv po eskalaci na Blízkém východě."
+    },
+    {
+     "title": "Sníh komplikuje dopravu na jihu Čech a Moravy",
+     "text": "Sněžení způsobilo desítky nehod na jihu Čech a na jihu Moravy uvízly první kamiony. ČHMÚ vydal výstrahu."
+    }
+   ]
+  },
+  {
+   "key": "svet",
+   "title": "🌍 Svět",
+   "items": [
+    {
+     "title": "Summit EU o rozpočtu skončil bez dohody",
+     "text": "Lídři EU se v Bruselu nedohodli na rozpočtu na roky 2028–2034 a páteční část summitu se nekonala. Spor je o celkovou výši, rabaty a financování Ukrajiny, přičemž Česko, Maďarsko, Slovensko a Bulharsko se brání účasti na dodatečné pomoci Kyjevu. Další jednání je naplánováno na 17.–18. prosince."
+    },
+    {
+     "title": "Mírová jednání o Ukrajině uvázla na území",
+     "text": "Americký vyjednavač Jared Kushner řekl, že rozhovory jsou kvůli územním otázkám v patové situaci. Zelenskyj žádá čtyřstranná jednání Ukrajiny, Ruska, USA a Evropy ještě před Vánoci, Kreml termín dalšího kola v Abú Dhabí zatím neurčil. Podle FT chce Trumpova administrativa dohodu do začátku ledna."
+    },
+    {
+     "title": "KLDR podle Kyjeva přerušila vojenskou pomoc Rusku",
+     "text": "Ukrajinská vojenská rozvědka tvrdí, že Severní Korea dočasně zastavila dodávky raket KN-23 a dělostřelecké munice a odmítla rozšířit svou vojenskou přítomnost v Rusku. Moskva ani Pchjongjang to nepotvrdily."
+    },
+    {
+     "title": "Bouře v USA narušila cestování o Díkůvzdání",
+     "text": "Silná bouře s deštěm a větrem zasáhla Spojené státy od západu po východ během největšího svátku roku a zkomplikovala cestování. Podle jedné zprávy musel New York odložit tradiční průvod."
+    },
+    {
+     "title": "Neštěstí v Indonésii a SAE, stávka v Bangladéši",
+     "text": "Zatopení dolu v Indonésii zabilo 13 lidí a další desítka se pohřešuje. Při srážce autobusu s nákladním autem v emirátu Rás al-Chajma zemřelo 13 lidí. V Bangladéši vyhlásila Awami League na 27.–28. listopadu stávku, která zvyšuje politické napětí."
+    }
+   ]
+  },
+  {
+   "key": "ekonomika",
+   "title": "📈 Ekonomika a trhy",
+   "items": [
+    {
+     "title": "Wall Street: zkrácená seance po Díkůvzdání",
+     "text": "Americké burzy byly ve čtvrtek zavřené a v pátek obchodovaly jen do 13:00 newyorského času. Výsledky páteční seance zatím nejsou k dispozici. Ve středu Dow Jones vzrostl o 0,33 % na 50 182,95 bodu, zatímco S&P 500 ztratil 0,25 % na 7 182,78 a Nasdaq 0,62 % na 23 585,80, když indexy během dne mazaly velké ztráty z výprodeje AI akcií."
+    },
+    {
+     "title": "Evropské akcie výrazně posílily",
+     "text": "Ve čtvrtek, kdy byla Wall Street zavřená, stoupl panevropský STOXX 600 o 1,83 % na 637,50 bodu a německý DAX o 2,14 % na 25 231,42 bodu. Konečné páteční závěry se nepodařilo ověřit."
+    },
+    {
+     "title": "Trh skoro jistě čeká prosincové zvýšení sazeb Fedu",
+     "text": "Po vysokém jádrovém PCE ukazuje CME FedWatch zhruba 98% pravděpodobnost, že Fed na zasedání 9. prosince sazby zvýší. Analytici varují, že nová cla mohou Fed tlačit k ještě jestřábímu postupu."
+    },
+    {
+     "title": "Trump navrhl nová cla na 14 obchodních partnerů",
+     "text": "Nová cla podle oddílu 301 by se týkala mimo jiné Číny a EU a přičetla by se ke stávajícím sazbám. Platit by mohla nejdříve v lednu po veřejném připomínkování. Nvidia a Apple mají být z navržených cel na elektroniku vyjmuty."
+    },
+    {
+     "title": "Nvidia pod tlakem, S&P zvažuje snížení ratingu",
+     "text": "Agentura S&P zařadila Nvidii na sledovací seznam CreditWatch kvůli turbulencím ve vedení firmy. Akcie jsou velmi rozkolísané: v pondělí vyskočily o 31 %, v úterý klesly o více než 7 % a ve středu zhruba o 4 %."
+    },
+    {
+     "title": "Komodity, krypto a energie pro domácnosti",
+     "text": "Podle průběžných dat se Brent dostal na zhruba 96,5 USD za barel (+1,9 %) a bitcoin na asi 60 700 USD (+0,95 %). Zlato se drží kolem 3 566 USD za unci, zdroje se ale neshodují ve směru pohybu. Innogy od ledna 2027 zdraží zákazníkům bez fixace elektřinu o 150 Kč/MWh bez DPH a plyn o 334 Kč/MWh s DPH."
+    }
+   ]
+  }
+ ]
+}
