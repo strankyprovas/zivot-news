@@ -1,0 +1,101 @@
+{
+ "date": "2026-11-28",
+ "date_cz": "28.11.2026",
+ "updated_at": "2026-11-28T01:22+01:00",
+ "sections": [
+  {
+   "key": "cr",
+   "title": "🇨🇿 Česká republika",
+   "items": [
+    {
+     "title": "Sníh a ledovka komplikují dopravu",
+     "text": "Sněžení a náledí zhoršily dopravu po celém Česku a silnice jsou sjízdné jen s opatrností. Pražské letiště počítá se zpožděním letů."
+    },
+    {
+     "title": "Babiš: menší peníze z rozpočtu EU jsou nepřijatelné",
+     "text": "Podle Echo24 by Česko mělo z příštího rozpočtu EU dostat o 3,2 miliardy eur méně než nyní. Premiér Andrej Babiš to označil za nepřijatelné."
+    },
+    {
+     "title": "MPO přestalo vymáhat dotaci od pekárny Agrofertu",
+     "text": "Ministerstvo průmyslu a obchodu zastavilo vymáhání dotace od pekárny ze skupiny Penam, která patří do holdingu Agrofert. Piráti se kvůli tomu podle zpráv chtějí obrátit na evropského žalobce."
+    },
+    {
+     "title": "Jourová: rezoluce europarlamentu naznačuje „orbánizaci“ Česka",
+     "text": "Evropský parlament v rezoluci odsoudil, jak koaliční poslanci v prvním čtení schválili zákon o financování veřejnoprávních médií. Bývalá eurokomisařka Věra Jourová řekla, že text připomíná rezoluce proti Maďarsku."
+    },
+    {
+     "title": "Superdávku pobírá už 300 tisíc domácností",
+     "text": "Podle Echo24 pobírá superdávku už zhruba 300 tisíc domácností a měsíční náklady na ni jdou do miliard korun."
+    },
+    {
+     "title": "Ve středních Čechách je v havarijním stavu 20 mostů",
+     "text": "Dvacet mostů na krajských silnicích je v havarijním stavu a bez alespoň provizorní opravy hrozí jejich uzavření. Krajská správa silnic odhaduje náklady na opravy na 440 milionů korun."
+    }
+   ]
+  },
+  {
+   "key": "svet",
+   "title": "🌍 Svět",
+   "items": [
+    {
+     "title": "USA vyřadily loď, která se snažila prorazit blokádu Íránu",
+     "text": "Americká armáda v Ománském zálivu vyřadila pohon lodi Pacific Archer pod vlajkou Palau, která se podle ní pokusila obejít námořní blokádu Íránu. Posádka zůstala nezraněná. Blokáda íránských přístavů platí od poloviny července."
+    },
+    {
+     "title": "Trump zvažuje další údery na Írán, rozhodnutí možná až v novém roce",
+     "text": "Trump uvedl, že by mohl obnovit údery na íránská podzemní jaderná zařízení, podle CBS je ale označil za „docela nepravděpodobné“ a rozhodnutí chce nechat na nový rok. Írán slibuje, že blokádu prolomí, a jednání stojí."
+    },
+    {
+     "title": "Rusko zaútočilo u Oděsy na lodě s obilím",
+     "text": "Podle ukrajinského premiéra Rusko v noci zasáhlo u Oděsy dvě zahraniční nákladní lodě, které vezly přes 100 tisíc tun obilí. Podle monitoru ACLED útoků na lodě v Černém a Středozemním moři od července prudce přibylo."
+    },
+    {
+     "title": "Výměna zajatců, ale mír v nedohlednu",
+     "text": "USA pomohly zprostředkovat další výměnu zajatců mezi Ukrajinou a Ruskem. Na širší mírovou dohodu se podle CBS zatím neblýská a Putin odmítl i omezené příměří."
+    },
+    {
+     "title": "Itálie: dron, který zabíjel v Kuvajtu, byl íránský",
+     "text": "Italský ministr zahraničí uvedl, že dron, při jehož útoku v Kuvajtu zahynuli dva Italové, byl vyroben v Íránu."
+    },
+    {
+     "title": "Kanadský nejvyšší soud v zásadě potvrdil quebecký zákaz náboženských symbolů",
+     "text": "Nejvyšší soud Kanady z velké části potvrdil quebecký zákon, který zakazuje některým státním zaměstnancům nosit náboženské symboly."
+    }
+   ]
+  },
+  {
+   "key": "ekonomika",
+   "title": "📈 Ekonomika a trhy",
+   "items": [
+    {
+     "title": "Wall Street po Black Friday výrazně nahoru",
+     "text": "Ve zkráceném pátečním obchodování posílil S&P 500 o 1,60 % na 7 297,49 bodu, Dow Jones o 1,18 % na 50 774,94 a Nasdaq Composite o 2,31 % na 24 129,50. Za týden přidal S&P 500 asi 5,6 %, nejvíc od dubna 2025. O víkendu se neobchoduje."
+    },
+    {
+     "title": "Odraz táhly AI a čipy, SanDisk +16 %",
+     "text": "Růst vedly předtím propadlé akcie z oblasti umělé inteligence a polovodičů a rostlo všech 11 sektorů indexu S&P 500. Akcie SanDisku podle Swingfolia vyskočily o 15,96 %."
+    },
+    {
+     "title": "Zlato a stříbro se odrazily ode dna",
+     "text": "Zlato se vrátilo nad 3 650 USD za unci, futures podle jednoho zdroje přidaly 3,75 % na 3 668,50 USD. Ve středu přitom kleslo na 3 426 USD, nejníž od srpna 2025. Míří k prvnímu týdennímu zisku po třech týdnech a výrazně posílilo i stříbro."
+    },
+    {
+     "title": "Ropa po třech týdnech poklesu roste",
+     "text": "Brent uzavřel na 95,44 USD a americká WTI na 83,08 USD za barel. Ropa tak míří k přerušení třítýdenní série poklesů."
+    },
+    {
+     "title": "Výnosy dluhopisů rostou, trh čeká zvýšení sazeb Fedu",
+     "text": "Výnos desetiletého amerického dluhopisu stoupl na zhruba 4,89–4,94 % (zdroje se liší). Trhy s vysokou pravděpodobností počítají s tím, že Fed na zasedání 8.–9. prosince zvýší sazby o 0,25 procentního bodu."
+    },
+    {
+     "title": "Bitcoin kolem 61–62 tisíc dolarů",
+     "text": "Bitcoin dnes posílil asi o 1,8 % na zhruba 61 600 USD a mohl by přerušit sedmitýdenní sérii poklesů. V polovině listopadu se přitom obchodoval kolem 65–68 tisíc USD a nálada na trhu zůstává ve stavu „extrémního strachu“."
+    },
+    {
+     "title": "Stropy cen pohonných hmot na víkend",
+     "text": "Ministerstvo financí vyhlásilo maximální ceny pohonných hmot na 28.–30. listopadu, benzin smí stát nejvýš 42,73 Kč za litr s DPH."
+    }
+   ]
+  }
+ ]
+}

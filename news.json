@@ -1,31 +1,35 @@
 {
- "date": "2026-11-27",
- "date_cz": "27.11.2026",
- "updated_at": "2026-11-27T01:57+01:00",
+ "date": "2026-11-28",
+ "date_cz": "28.11.2026",
+ "updated_at": "2026-11-28T01:22+01:00",
  "sections": [
   {
    "key": "cr",
    "title": "🇨🇿 Česká republika",
    "items": [
     {
-     "title": "Senát jednal o obraně státu, vystoupil prezident Pavel",
-     "text": "Na veřejném slyšení v Senátu o připravenosti Česka na obranu prezident Petr Pavel řekl, že systému chybí pružnost. On i náčelník generálního štábu varovali před Ruskem. Ministr obrany Jaromír Zůna (SPD) uvedl, že resort připravil projekty financované z EU za 148 miliard Kč."
+     "title": "Sníh a ledovka komplikují dopravu",
+     "text": "Sněžení a náledí zhoršily dopravu po celém Česku a silnice jsou sjízdné jen s opatrností. Pražské letiště počítá se zpožděním letů."
     },
     {
-     "title": "Spor o financování ČT a ČRo pokračuje",
-     "text": "Senát vyzval vládu, aby zastavila projednávání návrhu, podle kterého by ČT a ČRo dostávaly peníze ze státního rozpočtu místo poplatků. ČT by měla dostat 5,7 mld. Kč, tedy asi o miliardu méně, než letos vybere na poplatcích. Šéf ČRo René Zavoral žádá stažení návrhu a ministr kultury Oto Klempíř odmítá debatu o ústavních pojistkách nezávislosti."
+     "title": "Babiš: menší peníze z rozpočtu EU jsou nepřijatelné",
+     "text": "Podle Echo24 by Česko mělo z příštího rozpočtu EU dostat o 3,2 miliardy eur méně než nyní. Premiér Andrej Babiš to označil za nepřijatelné."
     },
     {
-     "title": "Rozpočet 2027: poslanci podali téměř 150 pozměňovacích návrhů",
-     "text": "Návrhy ke státnímu rozpočtu na rok 2027 počítají s přesuny přes 380 mld. Kč. Ministr Zůna označil rozpočet obrany ve výši 191 mld. Kč za nejvyšší v historii země."
+     "title": "MPO přestalo vymáhat dotaci od pekárny Agrofertu",
+     "text": "Ministerstvo průmyslu a obchodu zastavilo vymáhání dotace od pekárny ze skupiny Penam, která patří do holdingu Agrofert. Piráti se kvůli tomu podle zpráv chtějí obrátit na evropského žalobce."
     },
     {
-     "title": "Regulace cen paliv platí až do konce roku",
-     "text": "Vláda znovu prodloužila regulaci marží u pohonných hmot a sníženou spotřební daň z nafty, a to minimálně do konce roku 2026. Státní rozpočet to podle ministryně financí stojí asi 1,1 mld. Kč měsíčně. Opatření vláda zavedla kvůli zdražování paliv po eskalaci na Blízkém východě."
+     "title": "Jourová: rezoluce europarlamentu naznačuje „orbánizaci“ Česka",
+     "text": "Evropský parlament v rezoluci odsoudil, jak koaliční poslanci v prvním čtení schválili zákon o financování veřejnoprávních médií. Bývalá eurokomisařka Věra Jourová řekla, že text připomíná rezoluce proti Maďarsku."
     },
     {
-     "title": "Sníh komplikuje dopravu na jihu Čech a Moravy",
-     "text": "Sněžení způsobilo desítky nehod na jihu Čech a na jihu Moravy uvízly první kamiony. ČHMÚ vydal výstrahu."
+     "title": "Superdávku pobírá už 300 tisíc domácností",
+     "text": "Podle Echo24 pobírá superdávku už zhruba 300 tisíc domácností a měsíční náklady na ni jdou do miliard korun."
+    },
+    {
+     "title": "Ve středních Čechách je v havarijním stavu 20 mostů",
+     "text": "Dvacet mostů na krajských silnicích je v havarijním stavu a bez alespoň provizorní opravy hrozí jejich uzavření. Krajská správa silnic odhaduje náklady na opravy na 440 milionů korun."
     }
    ]
   },
@@ -34,24 +38,28 @@
    "title": "🌍 Svět",
    "items": [
     {
-     "title": "Summit EU o rozpočtu skončil bez dohody",
-     "text": "Lídři EU se v Bruselu nedohodli na rozpočtu na roky 2028–2034 a páteční část summitu se nekonala. Spor je o celkovou výši, rabaty a financování Ukrajiny, přičemž Česko, Maďarsko, Slovensko a Bulharsko se brání účasti na dodatečné pomoci Kyjevu. Další jednání je naplánováno na 17.–18. prosince."
+     "title": "USA vyřadily loď, která se snažila prorazit blokádu Íránu",
+     "text": "Americká armáda v Ománském zálivu vyřadila pohon lodi Pacific Archer pod vlajkou Palau, která se podle ní pokusila obejít námořní blokádu Íránu. Posádka zůstala nezraněná. Blokáda íránských přístavů platí od poloviny července."
     },
     {
-     "title": "Mírová jednání o Ukrajině uvázla na území",
-     "text": "Americký vyjednavač Jared Kushner řekl, že rozhovory jsou kvůli územním otázkám v patové situaci. Zelenskyj žádá čtyřstranná jednání Ukrajiny, Ruska, USA a Evropy ještě před Vánoci, Kreml termín dalšího kola v Abú Dhabí zatím neurčil. Podle FT chce Trumpova administrativa dohodu do začátku ledna."
+     "title": "Trump zvažuje další údery na Írán, rozhodnutí možná až v novém roce",
+     "text": "Trump uvedl, že by mohl obnovit údery na íránská podzemní jaderná zařízení, podle CBS je ale označil za „docela nepravděpodobné“ a rozhodnutí chce nechat na nový rok. Írán slibuje, že blokádu prolomí, a jednání stojí."
     },
     {
-     "title": "KLDR podle Kyjeva přerušila vojenskou pomoc Rusku",
-     "text": "Ukrajinská vojenská rozvědka tvrdí, že Severní Korea dočasně zastavila dodávky raket KN-23 a dělostřelecké munice a odmítla rozšířit svou vojenskou přítomnost v Rusku. Moskva ani Pchjongjang to nepotvrdily."
+     "title": "Rusko zaútočilo u Oděsy na lodě s obilím",
+     "text": "Podle ukrajinského premiéra Rusko v noci zasáhlo u Oděsy dvě zahraniční nákladní lodě, které vezly přes 100 tisíc tun obilí. Podle monitoru ACLED útoků na lodě v Černém a Středozemním moři od července prudce přibylo."
     },
     {
-     "title": "Bouře v USA narušila cestování o Díkůvzdání",
-     "text": "Silná bouře s deštěm a větrem zasáhla Spojené státy od západu po východ během největšího svátku roku a zkomplikovala cestování. Podle jedné zprávy musel New York odložit tradiční průvod."
+     "title": "Výměna zajatců, ale mír v nedohlednu",
+     "text": "USA pomohly zprostředkovat další výměnu zajatců mezi Ukrajinou a Ruskem. Na širší mírovou dohodu se podle CBS zatím neblýská a Putin odmítl i omezené příměří."
     },
     {
-     "title": "Neštěstí v Indonésii a SAE, stávka v Bangladéši",
-     "text": "Zatopení dolu v Indonésii zabilo 13 lidí a další desítka se pohřešuje. Při srážce autobusu s nákladním autem v emirátu Rás al-Chajma zemřelo 13 lidí. V Bangladéši vyhlásila Awami League na 27.–28. listopadu stávku, která zvyšuje politické napětí."
+     "title": "Itálie: dron, který zabíjel v Kuvajtu, byl íránský",
+     "text": "Italský ministr zahraničí uvedl, že dron, při jehož útoku v Kuvajtu zahynuli dva Italové, byl vyroben v Íránu."
+    },
+    {
+     "title": "Kanadský nejvyšší soud v zásadě potvrdil quebecký zákaz náboženských symbolů",
+     "text": "Nejvyšší soud Kanady z velké části potvrdil quebecký zákon, který zakazuje některým státním zaměstnancům nosit náboženské symboly."
     }
    ]
   },
@@ -60,28 +68,32 @@
    "title": "📈 Ekonomika a trhy",
    "items": [
     {
-     "title": "Wall Street: zkrácená seance po Díkůvzdání",
-     "text": "Americké burzy byly ve čtvrtek zavřené a v pátek obchodovaly jen do 13:00 newyorského času. Výsledky páteční seance zatím nejsou k dispozici. Ve středu Dow Jones vzrostl o 0,33 % na 50 182,95 bodu, zatímco S&P 500 ztratil 0,25 % na 7 182,78 a Nasdaq 0,62 % na 23 585,80, když indexy během dne mazaly velké ztráty z výprodeje AI akcií."
+     "title": "Wall Street po Black Friday výrazně nahoru",
+     "text": "Ve zkráceném pátečním obchodování posílil S&P 500 o 1,60 % na 7 297,49 bodu, Dow Jones o 1,18 % na 50 774,94 a Nasdaq Composite o 2,31 % na 24 129,50. Za týden přidal S&P 500 asi 5,6 %, nejvíc od dubna 2025. O víkendu se neobchoduje."
     },
     {
-     "title": "Evropské akcie výrazně posílily",
-     "text": "Ve čtvrtek, kdy byla Wall Street zavřená, stoupl panevropský STOXX 600 o 1,83 % na 637,50 bodu a německý DAX o 2,14 % na 25 231,42 bodu. Konečné páteční závěry se nepodařilo ověřit."
+     "title": "Odraz táhly AI a čipy, SanDisk +16 %",
+     "text": "Růst vedly předtím propadlé akcie z oblasti umělé inteligence a polovodičů a rostlo všech 11 sektorů indexu S&P 500. Akcie SanDisku podle Swingfolia vyskočily o 15,96 %."
     },
     {
-     "title": "Trh skoro jistě čeká prosincové zvýšení sazeb Fedu",
-     "text": "Po vysokém jádrovém PCE ukazuje CME FedWatch zhruba 98% pravděpodobnost, že Fed na zasedání 9. prosince sazby zvýší. Analytici varují, že nová cla mohou Fed tlačit k ještě jestřábímu postupu."
+     "title": "Zlato a stříbro se odrazily ode dna",
+     "text": "Zlato se vrátilo nad 3 650 USD za unci, futures podle jednoho zdroje přidaly 3,75 % na 3 668,50 USD. Ve středu přitom kleslo na 3 426 USD, nejníž od srpna 2025. Míří k prvnímu týdennímu zisku po třech týdnech a výrazně posílilo i stříbro."
     },
     {
-     "title": "Trump navrhl nová cla na 14 obchodních partnerů",
-     "text": "Nová cla podle oddílu 301 by se týkala mimo jiné Číny a EU a přičetla by se ke stávajícím sazbám. Platit by mohla nejdříve v lednu po veřejném připomínkování. Nvidia a Apple mají být z navržených cel na elektroniku vyjmuty."
+     "title": "Ropa po třech týdnech poklesu roste",
+     "text": "Brent uzavřel na 95,44 USD a americká WTI na 83,08 USD za barel. Ropa tak míří k přerušení třítýdenní série poklesů."
     },
     {
-     "title": "Nvidia pod tlakem, S&P zvažuje snížení ratingu",
-     "text": "Agentura S&P zařadila Nvidii na sledovací seznam CreditWatch kvůli turbulencím ve vedení firmy. Akcie jsou velmi rozkolísané: v pondělí vyskočily o 31 %, v úterý klesly o více než 7 % a ve středu zhruba o 4 %."
+     "title": "Výnosy dluhopisů rostou, trh čeká zvýšení sazeb Fedu",
+     "text": "Výnos desetiletého amerického dluhopisu stoupl na zhruba 4,89–4,94 % (zdroje se liší). Trhy s vysokou pravděpodobností počítají s tím, že Fed na zasedání 8.–9. prosince zvýší sazby o 0,25 procentního bodu."
     },
     {
-     "title": "Komodity, krypto a energie pro domácnosti",
-     "text": "Podle průběžných dat se Brent dostal na zhruba 96,5 USD za barel (+1,9 %) a bitcoin na asi 60 700 USD (+0,95 %). Zlato se drží kolem 3 566 USD za unci, zdroje se ale neshodují ve směru pohybu. Innogy od ledna 2027 zdraží zákazníkům bez fixace elektřinu o 150 Kč/MWh bez DPH a plyn o 334 Kč/MWh s DPH."
+     "title": "Bitcoin kolem 61–62 tisíc dolarů",
+     "text": "Bitcoin dnes posílil asi o 1,8 % na zhruba 61 600 USD a mohl by přerušit sedmitýdenní sérii poklesů. V polovině listopadu se přitom obchodoval kolem 65–68 tisíc USD a nálada na trhu zůstává ve stavu „extrémního strachu“."
+    },
+    {
+     "title": "Stropy cen pohonných hmot na víkend",
+     "text": "Ministerstvo financí vyhlásilo maximální ceny pohonných hmot na 28.–30. listopadu, benzin smí stát nejvýš 42,73 Kč za litr s DPH."
     }
    ]
   }
